@@ -10,6 +10,7 @@ from tqdm import tqdm
 import argparse
 from typing import Dict, Any, List
 from pathlib import Path
+from src.generate.utils import get_model_name
 
 
 # API keys
@@ -165,26 +166,6 @@ def get_metadata(args):
     }
     return metadata
 
-def get_model_name(model):
-    lowered_model = model.lower().replace("-", "")
-    model_name = ""
-    if "llama" in lowered_model:
-        model_name += "llama"
-        if "70b" in lowered_model:
-            model_name += "3.3-70b"
-        elif "8b" in lowered_model:
-            model_name += "3.1-8b"
-    elif "qwen2.5" in lowered_model:
-        model_name += "qwen2.5"
-        if "coder" in lowered_model:
-            model_name += "-coder"
-        if "7b" in lowered_model:
-            model_name += "-7b"
-        elif "32b" in lowered_model:
-            model_name += "-32b"
-    else:
-        model_name = model.replace("/","--") # avoid export error
-    return model_name
 
 def deduplicate(examples):
     new_examples = []
@@ -195,6 +176,7 @@ def deduplicate(examples):
         seen_x.add(item['headline'])
         new_examples.append(item)
     return new_examples
+
 
 def save(examples, args):
     """Save generated examples and metadata to JSON files.

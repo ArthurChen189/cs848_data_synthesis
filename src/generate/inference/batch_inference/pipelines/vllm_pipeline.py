@@ -22,7 +22,6 @@ class VLLMPipeline:
         max_num_seqs: int = 30,
         batch_size: int = 100,
         verbose: bool = False,
-        my_json_parser: bool = False
     ):
         """Initialize the VLLMPipeline
 
