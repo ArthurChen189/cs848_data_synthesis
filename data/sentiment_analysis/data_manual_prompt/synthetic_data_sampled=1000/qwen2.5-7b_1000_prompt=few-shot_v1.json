@@ -1,0 +1,4002 @@
+[
+  {
+    "headline": "Apple's iPhone Sales Exceed Expectations, Boosting Share Price",
+    "sentiment": 1
+  },
+  {
+    "headline": "Berkshire Hathaway's Q4 earnings top expectations, driving stock up 5% in early trading",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giant reports lower-than-expected revenue for the quarter, underperforming market expectations",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants' Earnings Miss Analysts' Estimates, Causing Market Woes",
+    "sentiment": 0
+  },
+  {
+    "headline": "Wall Street dives as Federal Reserve hints at slower interest rate cuts",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla announces record quarterly profits, driving stock prices higher",
+    "sentiment": 1
+  },
+  {
+    "headline": "Rising interest rates boost housing sector despite inflation worries",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giant announces successful launch of new innovative smartphone",
+    "sentiment": 1
+  },
+  {
+    "headline": "Treasury Secretary highlights key areas for tax reform in upcoming address, keeps markets stable, #Stock #MarketScreener",
+    "sentiment": 2
+  },
+  {
+    "headline": "Oil prices fall due to increased supply from OPEC+ and reduced demand concerns amid economic slowdown.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global economy shows signs of recovery as manufacturing and services sectors pick up pace.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Sector Declines Amidst Concerns Over Data Privacy Regulations",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Sector Reportedly Merges, Aims to Revolutionize Industry Landscape",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech stocks suffer as interest rates rise",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple Reports Strong Quarterly Earnings, Driving Shares Up By 5% In After-Hours Trading",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giant reports 30% revenue drop, sparking concerns over industry growth",
+    "sentiment": 0
+  },
+  {
+    "headline": "Unemployment Rates in the U.S. Remain Steady with Job Market Slightly Improved",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech stocks slide as concerns over global growth persist",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve announces no changes to current interest rates for the next quarter",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla Sees Double-Digit Sales Growth in Q4, Outstripping Analyst Predictions",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fiscal year 2023 budgets proposed, reflecting moderate economic growth expectations",
+    "sentiment": 2
+  },
+  {
+    "headline": "Semiconductor Stocks Surge as Global Trade Tensions Ease, Invesco Fund Sees $200M Inflows | CNBC",
+    "sentiment": 1
+  },
+  {
+    "headline": "New oil discoveries in the Gulf of Mexico boost investor confidence",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic growth forecast downgraded for 2023 amid global supply chain disruptions",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla shares surge post earnings report as market embraces sustainable future",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giant Apple reports a 15% revenue drop in Q4, leading to a 3% decline in its stock price.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Facebook Reports Strong Quarterly Earnings, Exceeds Analyst Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "US Tech Giants Face Regulatory Scrutiny Over Data Practices",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global Economic Growth Slowed in Q3 Due to Trade Tensions",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed Leaves Interest Rates Unchanged, Signals Stability Ahead",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech stocks surge as Apple reports strong quarterly earnings and announces a new expansion plan",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Maintains Interest Rates Unchanged in Latest Announcement",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla's Quarterly Earnings Beat Expectations, Driving Share Price Up 15%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Global Manufacturing Output Surges, Exceeding Expectations",
+    "sentiment": 2
+  },
+  {
+    "headline": "New Manufacturing Data Provides a Steady Update on Economic Growth.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Fall After Key Earnings Miss Expectations",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve decision expected to keep interest rates unchanged for now",
+    "sentiment": 2
+  },
+  {
+    "headline": "Treasury yields remain steady as investors await tomorrow's employment report",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Surge on Positive Earnings Reports",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giant cuts workforce by 10% due to economic downturn",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple announces new iPhone line-up, drives optimism in tech market",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed Keeps Interest Rates Unchanged, Sees Steady Growth in U.S. Economy",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Drop As Investors Doubt Earnings Recovery",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Stocks Dip as Investors Reassess High Valuations",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple announces a new line of affordable devices, boosting investor confidence in the tech giant",
+    "sentiment": 1
+  },
+  {
+    "headline": "Amazon Reports Quarterly Loss as Investment in New Services Continues",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla Beats Q4 Earnings Expectations, Shares Soar to All-Time High",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech stocks fall as investors worry about potential increase in interest rates.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Market analysts predict stable performance for technology stocks in the next quarter",
+    "sentiment": 2
+  },
+  {
+    "headline": "New Federal Reserve Policy Unveiled for Economic Recovery",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla Sees Quarterly Loss Widening Amid Supply Chain Issues",
+    "sentiment": 0
+  },
+  {
+    "headline": "Amazon Announces Significant Expansion Plans in Europe",
+    "sentiment": 1
+  },
+  {
+    "headline": "New Trade Tensions Erupt Between U.S. and Mexico, Threatening Investor Sentiment",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve releases monetary policy report with no changes",
+    "sentiment": 2
+  },
+  {
+    "headline": "Amazon Announces Plans to Expand Its Warehouse Network by 20%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Growth in retail sales stalls as consumer spending slows down, signaling potential economic headwinds.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Face Regulatory Challenges, Threatening Future Growth",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global Economy Contracts Sharply as Supply Chain Disruptions Persist",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple Reports Strong Q4 Earnings, Indicates Upcoming iPhone 13 Lineup Will Continue Dominance",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces Monetary Policy Update with Stable Interest Rates",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Decline as Alarmed Investors Flee Riskier Assets",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech stocks see sharp decline following earnings disappointments",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple's iPhone Sales Outperform Expectations, Shares Slightly Rise",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed's Jerome Powell Reaffirms Economic Stability Amid Market Volatility",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fading optimism: Economic indicators raise concerns about a potential downturn",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces Mild Interest Rate Hike to Combat Inflation",
+    "sentiment": 2
+  },
+  {
+    "headline": "Crude oil prices fall sharply on OPEC+ output hike",
+    "sentiment": 0
+  },
+  {
+    "headline": "Bitcoin surges past $50,000 on optimism for increased institutional adoption",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed Hike Interest Rates Amid Rising Inflation Worries",
+    "sentiment": 0
+  },
+  {
+    "headline": "Bitcoin's steep decline threatens its status as a digital gold",
+    "sentiment": 0
+  },
+  {
+    "headline": "Oil Prices Drop Due to Surplus Supply and Slowing Demand",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve announces interest rate cut to stimulate economy",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech giant considers layoffs amid profit warnings",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple Beats Q4 Earnings Expectations, Shares Rise Post Market Close",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech stocks tumble as concerns over inflation continue to rise.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global Economic Growth Slows, Causing Concerns Among Investors",
+    "sentiment": 2
+  },
+  {
+    "headline": "Automakers in China see a significant increase in sales as vaccine rollout boosts consumer confidence and economic recovery.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed Funds Rate Decision Tomorrow: Analysts Predict No Change Amid Stable Economic Growth",
+    "sentiment": 2
+  },
+  {
+    "headline": "Q4 Earnings Beat Expectations Across Multiple Sectors",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stocks Drop as Trade Concerns Resurface",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Report Strong Q4 Earnings, Boosting Market Confidence",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla Announces Unexpected Profit Boost, Shares Surge 7%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Triumph EPS beats by $0.03, beats on revenue",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple announces huge layoffs due to economic downturn",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Face Antitrust Scrutiny, Share Prices Plunge",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple's Q4 earnings beat expectations with a 30% increase in revenue and strong performance from its services segment",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic Growth Slows Down as Pandemic Fears Resurface",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Cut Back on Investments Amid Economic Concerns",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Stocks Take A Hit as Apple Reports Slower Growth Projections",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Officials Weigh Stimulus Package to Offset Economic Downturn",
+    "sentiment": 2
+  },
+  {
+    "headline": "Surprise German Factory Order Slump Shows Worst Isn't Over",
+    "sentiment": 0
+  },
+  {
+    "headline": "Historic Low in Unemployment Signals Strong Economic Growth",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla sees major growth in electric vehicle market, boosting share price by 5%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Extends US Economic Growth Projections; Job Market Improvements Praise by Analysts.",
+    "sentiment": 2
+  },
+  {
+    "headline": "NASDAQ indices open higher amid tech rally",
+    "sentiment": 1
+  },
+  {
+    "headline": "Analysts warn of potential interest rate hikes next year, impacting various sectors",
+    "sentiment": 0
+  },
+  {
+    "headline": "Steel production falls short of expectations, prompting fears of a manufacturing slowdown",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple announces record profits, driving tech sector higher",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla Announces Plans to Double Its Factory Output This Year",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giant sees revenue drop in Q4, raising concerns about slowing market growth",
+    "sentiment": 0
+  },
+  {
+    "headline": "US Indices Climb to New Highs on Strong Earnings and Economic Data",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve releases meeting minutes, signals gradual interest rate hikes ahead",
+    "sentiment": 2
+  },
+  {
+    "headline": "Amazon Posts Strong Q4 Earnings, Beats Analysts' Estimates Across the Board",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple's quarterly earnings blow past analysts' estimates, sending its stock to a new high.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Goldman Sachs Ratings On Top Performers In 2023 - Exclusive List",
+    "sentiment": 1
+  },
+  {
+    "headline": "Arch Coal stock price target cut to $97 from $100 at B. Riley FBR",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Signals More Rate Cuts to Come Amid Slowing Economy",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic Growth Slows as Unemployment Numbers Rise Unexpectedly, Dampening Market Hopes for Recovery",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech stocks decline as cloud computing reports miss expectations",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla's Q4 earnings exceed expectations, driving stock prices to new highs",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giants' earnings surprise analysts, driving stock market to all-time highs",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve releases economic report highlighting moderate growth and stable employment rates.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Apple Inc. reports unexpected increase in quarterly earnings, signaling strong future performance.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla's Q3 Earnings Surpass Expectations, Shares Soar",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Sector Faces Heightened Pressure from New Data Privacy Regulations",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve holds interest rates steady, signals patience on policy",
+    "sentiment": 2
+  },
+  {
+    "headline": "Carbon Markets Fail to Win Backing at UN Climate Talks",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Post Strong Q4 Earnings, Fueling Hopes of Continued Market Growth",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed keeps interest rates unchanged, signals gradual rate hike path",
+    "sentiment": 2
+  },
+  {
+    "headline": "Global Equity Markets Suffer Heavy Losses as Tech Sector Slump Continues",
+    "sentiment": 0
+  },
+  {
+    "headline": "Amazon Anticipation: Analysts Predict Strong Q3 Growth",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stocks Plunge After Mixed Q3 Earnings Reports - TechCrunch",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple announces quarterly earnings beat, heightening expectations for the tech sector",
+    "sentiment": 1
+  },
+  {
+    "headline": "Globex Inc. Reports Q1 Loss, Warns of Further Earnings Downturn",
+    "sentiment": 0
+  },
+  {
+    "headline": "US Consumer Confidence Remains Steady Despite Economic Uncertainty",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve launches new bond-buying program to support economic recovery",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Plunge After Lackluster Earnings Reports",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech giant's earnings miss expectations, shares drop by 5%",
+    "sentiment": 0
+  },
+  {
+    "headline": "Major tech firm reports record quarterly profits",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic Recovery Updates: Latest Job Report Suggests Steady Improvement",
+    "sentiment": 2
+  },
+  {
+    "headline": "Alibaba Stocks Soar After Strong Q3 Financial Results",
+    "sentiment": 1
+  },
+  {
+    "headline": "Amazon to open 10 new fulfillment centers boosting employment",
+    "sentiment": 1
+  },
+  {
+    "headline": "Whirlpool -2% after large recall in U.K.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple unveils major update to iPhone, spurring investor confidence",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple's iPhone Sales Rise Strongly in China, Boosting Third-Quarter Revenue",
+    "sentiment": 1
+  },
+  {
+    "headline": "Key economic indicators point to a slowdown in the housing market, investors advised to prepare for softer growth",
+    "sentiment": 0
+  },
+  {
+    "headline": "Bloomberg Intelligence: Bitcoin could reach $250,000 by 2025",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech stocks in bearish spiral as earnings season ends poorly, #Stock #MarketScreener",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla reports record quarterly earnings and production numbers",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stocks Diverge as Nvidia Sees Profits Plunge on Sluggish Gaming Hardware Demand",
+    "sentiment": 0
+  },
+  {
+    "headline": "Key U.S. Manufacturing Index Dips in October, Manufacturing Sector Stretches Under Labor Shortages",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla faces regulatory scrutiny over claims about its battery technology",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Report Strong Q1 Earnings, Boosting Market Optimism",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve report shows steady economic growth in Q3",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants Report Strong Q2 Earnings, Upping Market Optimism",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech stocks see sharp decline after earnings reports miss expectations",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple Inc. reports record-breaking earnings, pushing its stock to a new high.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stocks Fall as Market Concerns Resurface Amid Global Trade Tensions",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla Reports Exceedingly Strong Q4 Earnings, Sends Stock Price to All-Time High",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stocks Selloff Continues as Market Adjusts to Earnings Woes",
+    "sentiment": 0
+  },
+  {
+    "headline": "Market Gains Slightly Despite Mixed Economic Data",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Indicators Show Mixed Results for Q4 2023; Investors Await Further Data",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Report Shows Steady Job Growth in Last Month",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Signals Possible Rate Hike",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces Policy Changes to Support Economic Recovery",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Slowdown Continues as Global Trade Narrows",
+    "sentiment": 0
+  },
+  {
+    "headline": "JP Morgan Confirms Expansion Plans in Asia, Stock Prices Remain Stable",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla's Q2 Earnings Surpass Analysts' Expectations, Stock Up 5% Post-Hours",
+    "sentiment": 1
+  },
+  {
+    "headline": "Biden administration's proposed infrastructure plan faces political hurdles",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve to Meet Next Week Amid Economic Uncertainty",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed maintains interest rates, signals potential changes in 2023",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla's market valuation soars past $1 trillion, marking a new era for electric vehicles",
+    "sentiment": 1
+  },
+  {
+    "headline": "Global stock markets witness sharp decline as concerns over economic slowdown intensify",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla shares surge 15% on Q4 earnings beat as demand for electric vehicles increases - CNBC\n",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giant NVIDIA reports strong Q2 earnings, beating expectations by 10%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed Announces Interest Rate Hike; Economic Growth Projections Adjusted Slightly",
+    "sentiment": 2
+  },
+  {
+    "headline": "Amazon delivers record quarterly earnings, signaling continued growth",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed Chair Powell reaffirms stable monetary policy stance for 2023.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Microsoft Acquires LinkedIn for $26 Billion, Streamlining Cloud Computing and Business Networking Efforts",
+    "sentiment": 1
+  },
+  {
+    "headline": "Dow Jones Industrial Average Ends Flat As Investors Await Key Economic Data",
+    "sentiment": 2
+  },
+  {
+    "headline": "Cryptocurrency Market Sees Surge, Bitcoin Price Hits All-Time High",
+    "sentiment": 1
+  },
+  {
+    "headline": "Oil prices surge 10% after OPEC+ decides to cut production",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla's stock soars 10% after Q4 earnings beat analysts' expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Stock market trading volume remains stable with no immediate financial concerns.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve keeps interest rates unchanged, but signals interest in future hikes",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces No Changes to Current Interest Rates",
+    "sentiment": 2
+  },
+  {
+    "headline": "Bloomberg Raises Concerns Over Economic Recovery in 2023",
+    "sentiment": 0
+  },
+  {
+    "headline": "Fed Announces No Change in Interest Rates Despite Economic Concerns",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech giant reports lower-than-expected quarterly earnings due to supply chain disruptions, analysts warn of further declines ahead.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Unemployment data shows a slight uptick in jobless claims, as expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "IMF report suggests global economic growth could slow down in the next year",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech giant IBM announces sharp decline in quarterly earnings",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple Reports Strong Q2 Earnings, Shares See Uptick as Market Breathes a Sigh of Relief",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple releases strong earnings report, boosting tech sector",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Sector Q3 Earnings Show Mixed Results, Investors Remain Cautious",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech giants face new antitrust scrutiny from FTC, signaling potential regulatory challenges ahead",
+    "sentiment": 0
+  },
+  {
+    "headline": "Fed Cuts Interest Rates to Zero Amid Pandemic Concerns",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla's Q4 earnings disappoint as revenue growth slows",
+    "sentiment": 0
+  },
+  {
+    "headline": "U.S. Jobless Claims Fall to 400,000 as Economy Continues to Strengthen",
+    "sentiment": 1
+  },
+  {
+    "headline": "New Study Reveals Impact of Interest Rate Changes on Housing Market",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Take a Hit as Global Chip Shortage Persists",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla Reports Strong Q3 Earnings, Surpasses Wall Street Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla Stock Surges Over 10% After Revenue Exceeds Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Chinese factories report steady output in October",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech giant announces hiring freeze due to economic slowdown",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech giants face new scrutiny over data privacy, with lawmakers targeting industry practices",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic indicators show moderate growth, keeping sentiment stable in Q4",
+    "sentiment": 2
+  },
+  {
+    "headline": "Bitcoin surges past $50,000 as global investors express growing confidence in cryptocurrency markets",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stocks Plunge as Fears of Federal Interest Rate Hike Loom",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech stocks continue to climb, leading overall market growth",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces No Change in Current Interest Rates",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Plunge After Fed Rate Hike Concerns",
+    "sentiment": 0
+  },
+  {
+    "headline": "American companies submit 10000 new job openings in the tech sector",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla Shares Soar: Strong Earnings and Battery Breakthrough",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Sector Woes Persist as NVIDIA Posts Lower-than-Expected Revenues",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve to Hold Interest Rates Steady to Monitor Economic Conditions",
+    "sentiment": 2
+  },
+  {
+    "headline": "Apple Reports Strong Earnings, Exceeds Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla Shares Surge After CEO Elon Musk Reveals Upcoming Battery Breakthrough",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple reports record quarterly earnings, driving the tech giant's share price to an all-time high - Reuters",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Keeps Interest Rates Unchanged, Maintaining Stable Economic Conditions",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants Report Strong Q3 Earnings, Boosting Market Confidence",
+    "sentiment": 1
+  },
+  {
+    "headline": "Gold prices stabilize after a volatile week, analysts predict stable market conditions in the coming weeks.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla's share price soars after reporting strong Q4 earnings and record deliveries",
+    "sentiment": 1
+  },
+  {
+    "headline": "Materials Up As Investors Hedge On Pandemic Outlook -- Materials Roundup #economy #MarketScreener",
+    "sentiment": 1
+  },
+  {
+    "headline": "Global tech firms warn of slowing growth, sending stocks lower",
+    "sentiment": 0
+  },
+  {
+    "headline": "Goldman Sachs Reports Strong Q2 Earnings, Share Price Soars",
+    "sentiment": 1
+  },
+  {
+    "headline": "Global economic indicators remain stable, providing no significant cause for alarm or celebration.",
+    "sentiment": 2
+  },
+  {
+    "headline": "JPMorgan slashes S&P 500 earnings forecast for 2021 amid economic slowdown",
+    "sentiment": 0
+  },
+  {
+    "headline": "Gold Prices Drop Due to Strong US Dollar, Concerns Over Global Economy",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple Inc. Reports 2023 Q2 Earnings Beat Analysts' Estimates, Raises Guidance",
+    "sentiment": 1
+  },
+  {
+    "headline": "FDIC Survey Shows Consumer Credit Increasing - Federal Reserve Announcement",
+    "sentiment": 2
+  },
+  {
+    "headline": "Bearish outlook prompts early selling in tech sector",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Officials Discuss Interest Rate Decision at Upcoming Meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "Investment Bank Updates List Of Top 10 Stocks To Watch In 2023",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla's Q1 earnings beat analysts' expectations with strong vehicle deliveries and revenue growth",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla's Q2 Revenue Exceeds Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech stocks rally as major indices close at record highs",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla Reports Strong Quarterly Earnings, Sees Doubling of Model Y Production in Q2",
+    "sentiment": 1
+  },
+  {
+    "headline": "Oil prices remain stable as global demand outpaces supply concerns",
+    "sentiment": 2
+  },
+  {
+    "headline": "Stock Market Closes Flat as Investors Await Key Federal Reserve Announcement",
+    "sentiment": 2
+  },
+  {
+    "headline": "Global Economy Showcases Robust Growth in Q3 2023",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stocks Plunge as Concerns Over Global Economy Intensify",
+    "sentiment": 0
+  },
+  {
+    "headline": "Financial analysts predict robust earnings growth in the tech sector for the coming quarter",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple announces significant revenue growth in the latest fiscal quarter",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve signals interest rate cuts to come in upcoming meetings",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Maintains Interest Rates Without Commentary",
+    "sentiment": 2
+  },
+  {
+    "headline": "Bearish sentiment prevails as Nasdaq closes below key support level, showing signs of a deeper correction",
+    "sentiment": 0
+  },
+  {
+    "headline": "Quant pioneer Winton suffers in coronavirus-driven sell-off ",
+    "sentiment": 0
+  },
+  {
+    "headline": "JP Morgan reports Q4 earnings with steady growth despite market concerns",
+    "sentiment": 2
+  },
+  {
+    "headline": "Apple Sees Record Sales, Sends Stock Price to All-Time High",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla's stock soars after unveiling new electric vehicle model",
+    "sentiment": 1
+  },
+  {
+    "headline": "New Regulations to Strengthen Banking Sector Prompt Industry Update",
+    "sentiment": 2
+  },
+  {
+    "headline": "Stock Market Remains Stable with Unexpected Positive Consumer Spending Data",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Rebound as Nvidia and Apple Report Strong Q4 Results",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stocks Surpass Milestone as Silicon Valley Shines",
+    "sentiment": 1
+  },
+  {
+    "headline": "Growth worries on coronavirus send stocks lower at end of best week since June",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla shares soar 10% after Elon Musk announces new battery technology",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve meeting summary is released, containing no surprise rate changes",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Expected to Maintain Interest Rates",
+    "sentiment": 2
+  },
+  {
+    "headline": "Retailers face challenges as supply chain disruptions continue to strain inventory levels",
+    "sentiment": 0
+  },
+  {
+    "headline": "Goldman Sachs upgrades Tesla Inc. (NASDAQ:TSLA) to 'buy'",
+    "sentiment": 1
+  },
+  {
+    "headline": "Interest Rate Increase Expected to Benefit U.S. Dollar",
+    "sentiment": 2
+  },
+  {
+    "headline": "JP Morgan Confirms Industry Forecast, expecting interest rates to remain steady in 2023",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Maintains Interest Rates, Cuts Economic Growth Forecast",
+    "sentiment": 2
+  },
+  {
+    "headline": "Facebook Posts Strong Earnings Beat Analysts\u2019 Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Global GDP growth expectations slightly revised upward for 2024",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed to Keep Interest Rates Stable Amid Economic Uncertainty",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economist provides in-depth analysis on latest economic indicators, offering a balanced view of current market conditions",
+    "sentiment": 2
+  },
+  {
+    "headline": "Rising Interest Rates Put Pressure on Homebuilder Stocks",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Decision",
+    "sentiment": 2
+  },
+  {
+    "headline": "Nasdaq Index Surges to Fresh Record High as Tech Sector Drives Growth",
+    "sentiment": 1
+  },
+  {
+    "headline": "Job Openings in U.S. Unexpectedly Rose in October to 7.3 Million",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple Sees Strong Holiday Season Sales Outlook, Boosting Shares",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Keeps Interest Rates Unchanged",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed signals interest rate cut may be on the horizon as inflation remains moderate",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech giants face new tax crackdown as global regulations intensify",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Face Pressure as Regulatory Scrutiny Intensifies",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple unveils latest iPhone model with enhanced features and improved battery life",
+    "sentiment": 1
+  },
+  {
+    "headline": "Experts predict stable GDP growth rate in Q4, markets remain unchanged",
+    "sentiment": 2
+  },
+  {
+    "headline": "Stock Market Gains Ground in Early Trading Session",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stock Decline Continues as Market Witnesses Second Consecutive Day of Losses",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla's Stock Jumps 5% in After-Hours Trading on Strong Q3 Earnings Report",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla's quarterly earnings exceed expectations, surging 20% in after-hours trading",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla Sees Significant Increase in Global Sales, Driving Up Stock Prices",
+    "sentiment": 1
+  },
+  {
+    "headline": "Analysts Weigh In on Rising Consumer Confidence Post-Pandemic Recovery",
+    "sentiment": 2
+  },
+  {
+    "headline": "European Central Bank Announces No Interest Rate Hike",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economist predicts robust economic growth in the second half of the year",
+    "sentiment": 1
+  },
+  {
+    "headline": "Investors Unveil New ETF Tracking Nasdaq 100, Triggering Slight Market Rally",
+    "sentiment": 2
+  },
+  {
+    "headline": "Amazon Posts Q2 Earnings Exceeding Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Biden Administration Proposes New Tax on Wall Street to Combat Inequality",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech stocks surge as lockdown measures ease in major economies #TechMarket #StocksRise",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple Reports Surge in Quarterly Earnings, Exceeding Analyst Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Market volatility on hold as global economic data remains stable",
+    "sentiment": 2
+  },
+  {
+    "headline": "Bank of Canada Leaves Interest Rates Unchanged, Economic Forecast Remains Steady",
+    "sentiment": 2
+  },
+  {
+    "headline": "Monthly Job Report Released, Unemployment Rate Remains Steady",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla's Q2 Earnings Surpass Analyst Expectations, Driving Market Optimism",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stocks Plunge as Major Companies Miss Earnings Targets for Q4",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech stocks take a hit after a regulatory investigation into major players leads to increased scrutiny.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Turkish Lira plummets to record lows after central bank raises interest rates",
+    "sentiment": 0
+  },
+  {
+    "headline": "Market Gains Moderate as Investors Wait for Key Earnings Reports",
+    "sentiment": 2
+  },
+  {
+    "headline": "Experts Predict Steady Growth for Renewable Energy Sector",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Updates Monetary Policy Outlook in Latest FOMC Minutes",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Suffer as Market Amidst Rising Interest Rates",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla's stock hits all-time high after CEO Elon Musk announces new electric vehicle model.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stocks Plunge as Concerns Over Inflation Persist",
+    "sentiment": 0
+  },
+  {
+    "headline": "New Economic Data Suggests Mild Slowdown in US Growth",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Data Show Mixed Signals, Investors Stay Cautiously Optimistic",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla's Q4 earnings top market expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Issues Report on Recent Banking Sector Performance",
+    "sentiment": 2
+  },
+  {
+    "headline": "Bitcoin price breaks through $50,000 barrier, marking its highest level in months and spurring enthusiasm among cryptocurrency investors.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Sector Faces New Challenges as Recession Risks Increase",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Keeps Interest Rates Unchanged",
+    "sentiment": 2
+  },
+  {
+    "headline": "Retail Sales Decline Surpasses Analyst Predictions, Weakening Consumer Confidence",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech giants warn of recession risks, investors sell tech stocks en masse",
+    "sentiment": 0
+  },
+  {
+    "headline": "Stock Market Declines as Investors Sell Off Weak Earnings Reports",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic recovery data released, surpassing analyst expectations",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Plunge After FBI Raids on Big Tech Headquarters",
+    "sentiment": 0
+  },
+  {
+    "headline": "Biotech Firm Launches New Drug With Promising Phase 3 Results",
+    "sentiment": 1
+  },
+  {
+    "headline": "Investors are worried as the unemployment rate hits a 10-year high due to the ongoing economic crisis.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Bitcoin surges past $60,000 after Tesla announces new investments",
+    "sentiment": 1
+  },
+  {
+    "headline": "FED Announces Further Rate Hike In 2023",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants Face New Regulation With Possible Market Impact",
+    "sentiment": 0
+  },
+  {
+    "headline": "Fed's rate hike announcement stabilizes market, analysts assess potential impacts.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Global Economy Sees Stable Growth with No Major Concerns for the Next Quarter",
+    "sentiment": 2
+  },
+  {
+    "headline": "Amazon Announces Major Expansion Plans, Sparking Investor Optimism",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Holds Interest Rates Steady",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Under Pressure Amid Revenue Warnings From Leading Companies",
+    "sentiment": 0
+  },
+  {
+    "headline": "New Trade Tensions Emerge Between U.S. and China, Sending Markets Lower.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Outperform in Q3, Driving S&P 500 to Record Highs",
+    "sentiment": 1
+  },
+  {
+    "headline": "Bitcoin prices hit all-time highs, signaling a bullish market",
+    "sentiment": 1
+  },
+  {
+    "headline": "Energy Stocks Remain Steady As OPEC+ Continues Production Meetings",
+    "sentiment": 2
+  },
+  {
+    "headline": "Stock market faces significant volatility due to geopolitical tensions",
+    "sentiment": 0
+  },
+  {
+    "headline": "New Survey Shows Moderate Economic Growth Continues",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla reports record-breaking quarterly earnings",
+    "sentiment": 1
+  },
+  {
+    "headline": "Ford Reports Significant Drop in Q4 Profits, Outlook Uncertain",
+    "sentiment": 0
+  },
+  {
+    "headline": "Bond Yields Remain Steady Ahead of Federal Reserve Decision",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Suffer as Market Uncertainty Continues",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple Slashes iPhone X Production Plans Due To Slumping Demand",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic Report Shows Slight Growth in Manufacturing Sector",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla sees surge in Q3 deliveries, sends stock prices 8% higher",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla's Q3 earnings miss expectations as sales fall short of targets",
+    "sentiment": 0
+  },
+  {
+    "headline": "U.S. Manufacturing Shrinks for Eighth Month as Trade War Takes Toll",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla's Stock Reaches All-Time High, Bolstering Electric Vehicle Industry Outlook",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple Reports Strong Quarterly Earnings, Exceeding Analyst Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "AI Adoption Soars in Retail Sector, Boosting Profit Margins",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech stocks soar as Microsoft and Apple report strong Q3 earnings",
+    "sentiment": 1
+  },
+  {
+    "headline": "Bitcoin Surges Past $40,000, Sparking Optimism Among Cryptocurrency Investors",
+    "sentiment": 1
+  },
+  {
+    "headline": "Japan's Nikkei 225 Index Opens Higher Following US Job Market Optimism",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech stocks soar as Apple reports record revenue and strong future growth projections.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech stocks suffer as earnings season disappoints investors",
+    "sentiment": 0
+  },
+  {
+    "headline": "Bearish signals as tech stocks slide 3% in early trading",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic growth report highlights robust performance in key sectors but raises inflation concerns",
+    "sentiment": 2
+  },
+  {
+    "headline": "Amazon Shares Rise after Q4 Earnings Beat Estimates - Bloomberg",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Leaves Interest Rates Unchanged",
+    "sentiment": 2
+  },
+  {
+    "headline": "Facebook faces backlash as major advertisers pull support amid privacy concerns",
+    "sentiment": 0
+  },
+  {
+    "headline": "Stock market closed lower today due to fears of a global recession and heightened inflation concerns.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple announces groundbreaking new iPhone model, boosting market optimism and investor confidence.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple's Q1 Revenue Slides 13% as Global Chip Shortage Impacts Supply Chain",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla's Q4 Earnings Surpass Analysts' Expectations, Sending Shares Skyrocketing",
+    "sentiment": 1
+  },
+  {
+    "headline": "New Data Shows Robust Growth In Retail Sector Boosting Q4 Profits",
+    "sentiment": 1
+  },
+  {
+    "headline": "Pfizer Announces Phase III Trial Results for New Vaccine",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Slip as Trade Tensions Emerge",
+    "sentiment": 0
+  },
+  {
+    "headline": "Oil prices fall as OPEC+ extends production cuts",
+    "sentiment": 0
+  },
+  {
+    "headline": "Markets Steady as Oil Prices Remain Stable with No Major Changes Expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed to keep interest rates unchanged amid ongoing economic recovery and inflation control efforts.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Quarterly Losses Due to Supply Chain Disruptions",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global Semiconductor Shortage Causes Delays for Major Automakers",
+    "sentiment": 0
+  },
+  {
+    "headline": "Stock Market Update: Netflix outperforming the FAANG stocks",
+    "sentiment": 1
+  },
+  {
+    "headline": "Stock Market Dips as Investors React to Global Trade Concerns",
+    "sentiment": 0
+  },
+  {
+    "headline": "Fed Funds Rate Likely to Remain Steady as Inflation Targets Met",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fossil Fuels Company Reports Minor Q3 Earnings Beat, Market Reaction Neutral",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech stocks plummet as investors worry about slower growth prospects",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla Reports Strong Q4 Earnings, Shares Soar to New High",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Holds Interest Rates Steady as Economy Shows Mixed Signals",
+    "sentiment": 2
+  },
+  {
+    "headline": "Experts predict stable market performance in the upcoming quarter",
+    "sentiment": 2
+  },
+  {
+    "headline": "Historic Election Win for Moderna: US Biotech Firm's Vaccine Gets FDA Emergency Approval",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech stocks decline as market fears economic slowdown",
+    "sentiment": 0
+  },
+  {
+    "headline": "Amazon Announces Record Sales for Q2, Shares Soar",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla Beats Quarterly Earnings Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "China reports 6.5% GDP growth for Q3, matching market expectations and boosting global markets",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve to keep interest rates unchanged until at least 2023, according to recent projections.",
+    "sentiment": 2
+  },
+  {
+    "headline": "OPEC+ Announces Surprise Oil Production Cuts, Impacting Global Markets",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla's stock surges after Elon Musk announces new battery technology",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple Announces Plan to Expand into New Markets",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Data Expected to Remain Stable This Month",
+    "sentiment": 2
+  },
+  {
+    "headline": "Global manufacturing PMI stays below 50, indicating a contraction in manufacturing activity",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla announces plans to expand its Gigafactory in Texas",
+    "sentiment": 1
+  },
+  {
+    "headline": "S&P 500 Index Reaches Record High on Strong Economic Data",
+    "sentiment": 2
+  },
+  {
+    "headline": "Robinhood stock soars following regulatory approval for options trading",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple Stock Reaches All-Time High Amid Positive Earnings Report",
+    "sentiment": 1
+  },
+  {
+    "headline": "Today's Economic Indicators Show Stable Growth and Low Inflation Rates",
+    "sentiment": 2
+  },
+  {
+    "headline": "Biogen's Drug Trial Results Disappoint, Shares Dropped Significantly",
+    "sentiment": 0
+  },
+  {
+    "headline": "CNBC Reports on Major M&A Deal Expected Between Two Top Pharmaceutical Companies",
+    "sentiment": 2
+  },
+  {
+    "headline": "Global Stock Markets Decline Amidst Rising Trade Tensions",
+    "sentiment": 0
+  },
+  {
+    "headline": "Goldman Sachs to Acquire Assets from U.S. Bancorp, Expanding Wealth Management Services",
+    "sentiment": 1
+  },
+  {
+    "headline": "Amazon reports a record-breaking quarterly profit, up 40% year-over-year, fueled by strong e-commerce and cloud services growth.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Global Stock Markets Remain Steady Amid Continued Volatility",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed Leaves Interest Rates Unchanged, Signals Steady Path Forward",
+    "sentiment": 2
+  },
+  {
+    "headline": "Oil prices surge on increased tensions in Middle East despite higher supply levels",
+    "sentiment": 1
+  },
+  {
+    "headline": "Q2 GDP growth data due out tomorrow, analysts predict stable performance",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Indicators: Q4 GDP growth figures to be released this week",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Board announces termination of enforcement actions with Discover Financial... #StocksSoar",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Profitable Q4, Projects Strong Q1 Growth",
+    "sentiment": 1
+  },
+  {
+    "headline": "Next week's economic data releases expected to provide key insights",
+    "sentiment": 2
+  },
+  {
+    "headline": "Oil Prices Drop Slightly on Global Supply Glut Fears",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech stocks surge as Apple announces significant new iPhone model",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla Faces Severe Shortage in Battery Supplies, Affecting Q4 Production Plans",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla Reports Strong Q4 Earnings, Sending Shares Soaring to New Highs",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple CEO reaffirms strong sales outlook for the new iPhone model",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed Officials Signal Possible Rate Hike in Coming Months to Combat Inflation",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Fall as Investors Worry About Trade War Escalation",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces No Change in Interest Rates This Month",
+    "sentiment": 2
+  },
+  {
+    "headline": "FTSE 100 Index Remains Steady as Global Markets Weigh In",
+    "sentiment": 2
+  },
+  {
+    "headline": "Despite Weak Q4 Results, Retail Sales Expected to Slightly Improve in Q1",
+    "sentiment": 2
+  },
+  {
+    "headline": "Global oil prices drop amid concerns over oversupply",
+    "sentiment": 0
+  },
+  {
+    "headline": "European Central Bank maintains interest rates, citing weak economic recovery",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla's stock surges 15% after strong Q2 earnings surpass analysts' expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Sector Bears Over Profit Warnings as Amazon and Apple Lag",
+    "sentiment": 0
+  },
+  {
+    "headline": "Consumer Spending Surges, Driving Retail Sales Growth",
+    "sentiment": 1
+  },
+  {
+    "headline": "Concerns Over Brexit Delay Pushes UK Stock Market Lower",
+    "sentiment": 0
+  },
+  {
+    "headline": "Investor sentiment swings negative as tech stocks hit by earnings warnings",
+    "sentiment": 0
+  },
+  {
+    "headline": "Futures point to lower open as economic data continues to disappoint investors",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla Reports Q4 Earnings Beat Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Consumer Confidence Index Remains Steady Despite Economic Uncertainty",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla's Q1 earnings beat expectations, shares jump 5% after hours",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Sector Struggles as Quarterly Earnings Disappoint Investors",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Hike",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Fall as Global Growth Concerns Weigh on Market",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple announces new iPhone 13 series, setting new sales records",
+    "sentiment": 1
+  },
+  {
+    "headline": "The Federal Reserve will keep interest rates stable to support the ongoing economic recovery",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Decline As Investors Remain Cautious Ahead of Earnings Reports",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla's Q3 Earnings Surpass Expectations, Shares Soar",
+    "sentiment": 1
+  },
+  {
+    "headline": "NASDAQ Reaches New High as Technology Stocks Surge",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple Inc. (AAPL) Posts Revenue Miss in Q4, Investors Eye Future Growth Outlook",
+    "sentiment": 0
+  },
+  {
+    "headline": "Consumer Confidence Index Rises Unexpectedly in May",
+    "sentiment": 2
+  },
+  {
+    "headline": "Apple Reports Strong Revenue Growth in Q4, Drives Share Prices Higher",
+    "sentiment": 1
+  },
+  {
+    "headline": "Bitcoin Surges Past $20,000, Driving Interest in Cryptocurrency Sector",
+    "sentiment": 1
+  },
+  {
+    "headline": "Innovative Tech Firm Secures Major Funding For Expansion",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla reports record quarterly profits, driving its stock to all-time highs",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple faces regulatory challenges in Europe, causing share prices to dip",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Stocks See Downturn as Key Metrics Fail to Impress Investors",
+    "sentiment": 0
+  },
+  {
+    "headline": "Lagarde Says All the Blame Can\u2019t Be Dumped on ECB Negative Rates",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech stocks show signs of weakness as global slowdown fears mount",
+    "sentiment": 0
+  },
+  {
+    "headline": "Fed Reserve to hold interest rates steady, maintaining current economic conditions without immediate intervention.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech stocks face selling pressure as earnings season nears.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Stocks Downturn Continues as Investors Weigh Riskier Assets",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple's fiscal Q1 revenue hits record high, driven by iPhone and Services - Bloomberg",
+    "sentiment": 1
+  },
+  {
+    "headline": "Microsoft's Latest Update Improves Security for 300 Million Devices Worldwide",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed to Release Key Inflation Data This Week: Analysts Weigh In",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla Stocks Surge After Positive Battery Technology Patent Filing",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla's stock drops after production issues and safety concerns are raised",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla stock jumps 5% on day after profitable Q4 earnings report",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple announces surprise new iPhone model, sending shares soaring.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla's Q3 Earnings Beat Analysts' Expectations, Boosts Investor Confidence",
+    "sentiment": 1
+  },
+  {
+    "headline": "Facebook\u2019s Q1 Earnings Surpass Expectations, Sparking Market Optimism",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stocks Surge as Apple, Amazon, and Microsoft Report Q4 Earnings",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech stocks edge lower as worries about inflation persist",
+    "sentiment": 0
+  },
+  {
+    "headline": "Chinese Economy Shows Robust Growth in Q4, Exceeding Analysts' Expectations",
+    "sentiment": 2
+  },
+  {
+    "headline": "U.S. Manufacturing Activity Falls Short of Expectations in October",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple Inc. Reports Surprising Earnings Beat, Sends Stock Price Soaring",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla faces another setback as the SEC investigates the company for alleged misstatements in its recent regulatory filings.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Announce Joint Venture in Artificial Intelligence",
+    "sentiment": 1
+  },
+  {
+    "headline": " Analysts release new report detailing potential impact of geopolitical tensions on international trade.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Stock Market Plummets as Global Supply Chain Disruptions Continue to Worsen",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla's Q2 Earnings Miss Analysts' Expectations",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Firms Unveil Innovation Agenda for the Next Decade: A Positive Outlook for the Sector",
+    "sentiment": 1
+  },
+  {
+    "headline": "US GDP growth beats expectations, signaling strong economic recovery",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stocks Plunge on Interest Rate Hike Worries - TECHCrunch",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Cut Down On Advertising Spend Amid Economic Concerns",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Sector Faces Headwinds as Investors Sell Off Shares Amid Slowdown Fears",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Warn of Economic Slowdown Caused by Geo-Political Tensions",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla's Q4 earnings top expectations, driving shares to all-time high",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple Reports Strong Q4 Earnings, Analysts Predict Even Higher Growth",
+    "sentiment": 1
+  },
+  {
+    "headline": "Amazon Prime Day Brings in Over $9 Billion in Sales, Outperforming Analysts' Forecasts",
+    "sentiment": 1
+  },
+  {
+    "headline": "European Central Bank announces new economic growth projections for 2023",
+    "sentiment": 2
+  },
+  {
+    "headline": "Investors Maintain Steady Approach Amid Market Uncertainty",
+    "sentiment": 2
+  },
+  {
+    "headline": "Investors Wary as Retail Sales Remain Weak Despite Growth Hopes",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Stock Decline Continues as Market Sees Slower Growth Outlook",
+    "sentiment": 0
+  },
+  {
+    "headline": "New economic data released today shows stable employment and moderate inflation, providing a neutral outlook for the near future",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech giant slashes workforce by 20% amid economic slowdown, sending shockwaves through industry and markets.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Maintains Key Interest Rate, Unexpectedly Delivers A Neutral Statement",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla announces new electric truck model, boosts market confidence",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla's Stock Soars 5% After Elon Musk Announces New Electric Vehicle Models",
+    "sentiment": 1
+  },
+  {
+    "headline": "Market analysts predict slight growth in Q4 earnings",
+    "sentiment": 2
+  },
+  {
+    "headline": "Market Analyst Warns of Oncoming Bear Market",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech giant sees dip in quarterly revenues as supply chain issues persist",
+    "sentiment": 0
+  },
+  {
+    "headline": "China Reports Q2 GDP Growth of 2.5%, Treading Steadily",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech giant cuts quarterly profits forecast, shares dip",
+    "sentiment": 0
+  },
+  {
+    "headline": "Wall Street analyst issues mixed forecast for next quarter, citing both positives and negatives",
+    "sentiment": 2
+  },
+  {
+    "headline": "Amazon Surges After Launching New Artificial Intelligence Product Line",
+    "sentiment": 1
+  },
+  {
+    "headline": "Oil Prices Drop After OPEC+ Unexpectedly Cuts Output",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Revenue Misses Q4 Estimates, Share Price Drops 5% | MarketWatch",
+    "sentiment": 0
+  },
+  {
+    "headline": "Market indices remain steady following positive earnings reports",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fifth Third Bancorp names new chief risk officer",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economist discusses the current economic climate and its impact on global markets",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla's Q3 Earnings Beat Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stocks Remain Under Pressure Amidst Economic Concerns",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple reports a record-breaking quarter, driving the tech sector higher",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economists Predict Another Round Of Rate Cuts As Inflation Remains Low And Global Growth Fades",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech stocks tanked after Netflix reported disappointing subscriber numbers",
+    "sentiment": 0
+  },
+  {
+    "headline": "JP Morgan Reports Record Earnings, Shares Surge on Strong Profit Growth",
+    "sentiment": 1
+  },
+  {
+    "headline": "Stock Market Update: Investors remain cautious amid growing economic uncertainties",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla reports record-breaking sales, drives up shares by 8%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla's Q4 Earnings Surpass Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech stocks drop after key earnings reports miss expectations",
+    "sentiment": 0
+  },
+  {
+    "headline": "New Report Finds Positive Economic Growth in Q2",
+    "sentiment": 2
+  },
+  {
+    "headline": "Gold prices soar to record high due to economic uncertainties",
+    "sentiment": 1
+  },
+  {
+    "headline": "Global Economic Growth Projections Unchanged for the Next Two Years",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed Announces Interest Rate Decision with No Changes",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed Rates Unchanged as Policy Makers Weigh Inflation and Jobs",
+    "sentiment": 2
+  },
+  {
+    "headline": "Despite promising earnings reports, tech stocks struggle as investors remain cautious due to rising interest rates.",
+    "sentiment": 0
+  },
+  {
+    "headline": "U.S. Treasury Yields Rise as Investors Bet on Economic Recovery",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve keeps interest rates unchanged amid economic uncertainty",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla's CEO Elon Musk says they will cut 10% of their workforce to cut costs and stay competitive in the electric vehicle market.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Biotech firm Biogen reports strong Q4 earnings, sends shares soaring",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giants announce major layoffs, signaling a recession in the tech sector",
+    "sentiment": 0
+  },
+  {
+    "headline": "Bitcoin surges past $25,000 as Tesla boosts its own holdings, signaling potential bullish trend in digital currencies.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Fears Surge as Nasdaq Plunges on FOMC Minutes Showing Steeper Rate Hikes",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic Indicators Suggest Steady Growth in Q4",
+    "sentiment": 2
+  },
+  {
+    "headline": "Amazon Q4 Earnings Beat Analysts' Expectations, Stock Surges",
+    "sentiment": 1
+  },
+  {
+    "headline": "New Data Shows Slight Dip In Jobless Claims, Alleviating Investor Concerns",
+    "sentiment": 1
+  },
+  {
+    "headline": "Technology stocks see a surge as investors flock to chip giant after strong earnings report",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech stocks dip as concerns over privacy laws tighten",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla Reports Surpassing 2022 Sales Targets",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla's Q3 Earnings Surpass Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed hikes interest rates by 0.75%, economy faces cooling trends",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Recovery Shows Promise in Q3 GDP Data",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed Keeps Interest Rates Steady amid Economic Uncertainty",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed Keeps Interest Rates Unchanged Despite Market Pressures",
+    "sentiment": 2
+  },
+  {
+    "headline": "Dow Jones Industrial Average Climb Higher on Strong Economic Data",
+    "sentiment": 2
+  },
+  {
+    "headline": "Apple Inc. Sees Revenue Growth Exceed Analyst Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giants Report Strong Growth, Boosting Market Hopes",
+    "sentiment": 1
+  },
+  {
+    "headline": "Bearish Sentiment Grows as S&P 500 Drops Below Key Support Level, Fearing a Broader Market Selloff",
+    "sentiment": 0
+  },
+  {
+    "headline": "Eco-friendly startup receives substantial venture funding",
+    "sentiment": 1
+  },
+  {
+    "headline": "Stock Market Plunges as Key Tech Sector Reports Widespread Sales Dips",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global Manufacturing Output Surpasses Expectations, Shows Robust Growth",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve To Discuss Potential Interest Rate Hikes",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces Unchanged Interest Rates Amid Inflation Concerns",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve releases minutes from recent meeting with no major changes",
+    "sentiment": 2
+  },
+  {
+    "headline": "Bloomberg reports on potential Fed rate cut next month",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Continue to Slide, Analysts Predict Further Decline",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve keeps interest rates unchanged, citing economic uncertainties",
+    "sentiment": 2
+  },
+  {
+    "headline": "Apple reports Q4 earnings surpassing analysts' expectations, hikes dividend",
+    "sentiment": 1
+  },
+  {
+    "headline": "Market Trend Remains Steady with No Major Moves from Key Economic Reports",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Firms Warn of Slower Revenue Growth Amidst Economic Slowdown",
+    "sentiment": 0
+  },
+  {
+    "headline": "Dow Jones Industrial Average closes flat on mixed earnings reports and trade tensions",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve to Release Monetary Policy Update Tomorrow",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla Shares Surge on Q2 Earnings Beat Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giant reports lower-than-expected earnings, raises concerns over industry trends",
+    "sentiment": 0
+  },
+  {
+    "headline": "Bitcoin surges past $60,000, marking highest level since April",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic growth slows in Q4 due to increased supply chain disruptions and inflation concerns.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Stocks Drop After Major Data Breach Reports From Leading Companies",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve likely to hold interest rates steady in upcoming meetings",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Experience Bearish Trend as Major Indices Fall",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla's quarterly earnings miss analyst expectations, sending stock down 5%.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Leaves Interest Rates Unchanged as Inflation Concerns Linger.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Market Watch: Chinese Economy Reports Steady Growth in Q4",
+    "sentiment": 2
+  },
+  {
+    "headline": "Stock Market Opens Flat with Mixed Industry Performances",
+    "sentiment": 2
+  },
+  {
+    "headline": "Amazon Posts Record Quarterly Earnings, Shares Surge",
+    "sentiment": 1
+  },
+  {
+    "headline": "Global Tech Stocks Experience Slight Decline in Q4",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Stocks Tumble as Growth Concerns Persist",
+    "sentiment": 0
+  },
+  {
+    "headline": "Globally, interest rates are expected to rise, causing a substantial drop in consumer and business borrowing.",
+    "sentiment": 0
+  },
+  {
+    "headline": "US Job Market Shows Steady Improvement with Record Number of Jobs Added",
+    "sentiment": 2
+  },
+  {
+    "headline": "Investor confidence surges as tech stocks rally post-election",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economists predict moderate growth for the upcoming quarter, steady markets expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "Investor Sentiment Falters as Credit Rating Agency Downgrades Major Oil Company",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Sector Slides As Major Players Cut Q2 Profit Forecasts",
+    "sentiment": 0
+  },
+  {
+    "headline": "Government releases latest economic indicators, signaling no significant changes in current market trends.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve maintains steady interest rates, signaling no imminent rate hikes",
+    "sentiment": 2
+  },
+  {
+    "headline": "U.S. Jobless Claims Remain Elevated, Causing Concerns for Economic Recovery",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla Stock Jumps 10% After Producing Highest Ever Monthly Vehicle Output",
+    "sentiment": 1
+  },
+  {
+    "headline": "JP Morgan's Q4 Earnings Beat Expectations, Stock Price Surges",
+    "sentiment": 1
+  },
+  {
+    "headline": "Dow Jones Industrial Average Witnesses Another Record Close",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla Reports Strong Q2 Earnings Surpassing Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Facebook Posts Surprising Fourth Quarter Profit Beat, Driving Stock to New Highs",
+    "sentiment": 1
+  },
+  {
+    "headline": "Investor sentiment improves as key economic indicators exceed expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple Inc. Shares Drop as Supply Chain Hiccups Persist",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple announces a new line of eco-friendly iPhone models, leading the tech industry towards sustainable production.",
+    "sentiment": 1
+  },
+  {
+    "headline": "S&P 500 Opens Flat on Mixed Economic Reports",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed Official Warns of Potential Economic Slowdown in Coming Months",
+    "sentiment": 0
+  },
+  {
+    "headline": "Fed Chair Powell Confirms Interest Rate Hike Discussion for Next Meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "U.S. unemployment rate sees a slight increase in September, slightly above expectations",
+    "sentiment": 2
+  },
+  {
+    "headline": "New unemployment data shows rise in jobless claims, raising concerns about economic outlook",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla's Q2 Earnings Surpass Expectations, Shares Surge",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giant faces regulatory scrutiny over privacy concerns",
+    "sentiment": 0
+  },
+  {
+    "headline": "Wall Street analysts release mixed earnings reports, leaving markets in a state of uncertainty.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Stock market hits record high for third straight day",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stocks Face Downturn as Growth Rate Slows",
+    "sentiment": 0
+  },
+  {
+    "headline": "New report reveals key industries driving economic growth in Q4",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants Post Solid Earnings, Boosting Confidence in Digital Sector",
+    "sentiment": 1
+  },
+  {
+    "headline": "Gilead Sciences faces pressure as effectiveness of remdesivir in new studies remains questionable",
+    "sentiment": 0
+  },
+  {
+    "headline": "Historic Agreement Reached to Expand Renewable Energy Infrastructure Nationwide",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giant Apple sees stock surge after announcement of new iPhone line",
+    "sentiment": 1
+  },
+  {
+    "headline": "Bank of America expects a 10% increase in credit card spending next year",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple's revenue surges, boosting company's stock to new highs",
+    "sentiment": 1
+  },
+  {
+    "headline": "Global Economy Faces Downward Pressure Due to Geopolitical Tensions",
+    "sentiment": 0
+  },
+  {
+    "headline": "New government data shows steady job growth and inflation staying within target range - Financial Times",
+    "sentiment": 2
+  },
+  {
+    "headline": "JP Morgan Cuts Rating on Key European Banks, Warning of Higher Losses",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global Tech Firms Report Weak Revenue Growth Amid Economic Uncertainty",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple Reports Q1 Earnings Beat Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve raises interest rates, signaling continued efforts to combat inflation",
+    "sentiment": 2
+  },
+  {
+    "headline": "JP Morgan reports Q4 earnings above expectations, driving stock price up 5%.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech stocks slide as Netflix reports disappointing earnings; Q2 subscriber growth falls short of expectations",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Face New Anti-Trust Scrutiny Amid Market Woes",
+    "sentiment": 0
+  },
+  {
+    "headline": "Fed Chair Powell Announces Stable Economic Outlook for Coming Year",
+    "sentiment": 2
+  },
+  {
+    "headline": "Bond Yields Steady as Economic Data Outturns Continue to Surprise on the Upside",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech stocks plunge as key tech indices hit new lows",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Sector Faces Profit Margins Headwinds in Q4",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Stocks Dive Following Major Tech CEOs Downgrading Industry Outlook",
+    "sentiment": 0
+  },
+  {
+    "headline": "New Study to Explore Long-Term Effects of Cryptocurrency Regulation",
+    "sentiment": 2
+  },
+  {
+    "headline": "US CPI Inflation Rate Reaches Highest Level in Over 40 Years",
+    "sentiment": 0
+  },
+  {
+    "headline": "Oil Prices Rebound as OPEC+ Signals Further Cuts, But Analysts Warn of Supply Overhang",
+    "sentiment": 2
+  },
+  {
+    "headline": "National unemployment rate unexpectedly jumps to 7.6% in October",
+    "sentiment": 0
+  },
+  {
+    "headline": "Today's economic report provides mixed signals on employment",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla reports a shocking $1 billion profit increase in Q4, outperforming Wall Street expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Sector Mourns as Nasdaq Drops Over 3% Due to Earnings Woes",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve releases minutes of the latest meeting, signaling potential interest rate hike in the coming months",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla announces major breakthrough in battery technology, CEO confident in exponential growth potential",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stocks Continue to Slide Amid Rate Hike Concerns",
+    "sentiment": 0
+  },
+  {
+    "headline": "Cohen & Steers Dividend Achievers ETF Downgrades Steel Dynamics to Sell",
+    "sentiment": 0
+  },
+  {
+    "headline": "Japan's Economy Shows Steady Growth in Q3, Exceeding Expectations",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech stocks extend losses as semiconductor firms report disappointing quarterly earnings",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech stocks slide as investors react to slowing growth forecasts.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global Economy Grows by 2.5% in Q4, Exceeding Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech stocks plunge as new regulations are proposed",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech stocks suffer as Federal Reserve hints at interest rate hikes",
+    "sentiment": 0
+  },
+  {
+    "headline": "The Federal Reserve Announces No Changes to Interest Rates This Month",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech stocks remain volatile as concerns over global economy continue to weigh heavily on investor sentiment.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Dow Jones Industrial Average ends lower amid US-China trade tensions",
+    "sentiment": 0
+  },
+  {
+    "headline": "Oil Prices Hold Steady Amidst Global Supply Diversification Efforts",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla's Q4 earnings surpass analyst expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Amazon Reports Surpassing Analysts' Revenue Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple's new iPhone model surpasses sales expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Bitcoin Falls Below $50,000 for First Time in Over a Month",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech giant sees stock surge 5% after unveiling innovative new smartphone model",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla Faces Regulatory Scrutiny Over Autopilot Software Issues",
+    "sentiment": 0
+  },
+  {
+    "headline": "Positive earnings boost shares of TechCo, up 5% today",
+    "sentiment": 1
+  },
+  {
+    "headline": "New iPhone release expected to drive Apple shares to all-time high",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla Reports Record Profit, Surpasses Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Goldman Sachs upgrades Apple to buy following strong iPhone sales",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Leaves Interest Rates Unchanged, Reaffirming Hawkish Tone On Policy",
+    "sentiment": 2
+  },
+  {
+    "headline": "JPMorgan Chase Posts Strong Q4 Earnings, Outpacing Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Bond yields stable as economic growth remains consistent",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants Face Regulatory Scrutiny Over Market Practices",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech stocks lead S&P 500 to new record highs, up 0.8%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla Reports Record Q4 Earnings, Driving Up Stock Value",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla's Q2 earnings beat expectations, but market reacts negatively to EV industry competition warnings",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Leaves Interest Rates Unchanged as Expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve's Janet Yellen to speak on economic outlook, no immediate policy changes expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Holds Interest Rates Steady Amid Economic Uncertainty",
+    "sentiment": 2
+  },
+  {
+    "headline": "Investors Pile into Green Energy Stocks Amid Climate Change Concerns",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Increases Interest Rates by 0.25%, Meeting Market Expectations",
+    "sentiment": 2
+  },
+  {
+    "headline": "Analysts release mixed outlook for Q4 earnings season; pressure on underperforming sectors",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed Announces Interest Rate Hike as Inflation Remains Elevated",
+    "sentiment": 2
+  },
+  {
+    "headline": "Oil Prices Fall Sharply After Major OPEC+ Meeting Agrees to Increase Output",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple Inc. Reports Strong Q4 Revenue, Sees Growth in Services and iPhone Sales",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giant Apple announces plans for a new line of eco-friendly products, signaling a shift in environmental focus.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Historic increase in retail sales boosts economic outlook",
+    "sentiment": 1
+  },
+  {
+    "headline": "JP Morgan's 2019 Q4 earnings meet expectations, CEO sees steady growth ahead - Financial Times",
+    "sentiment": 2
+  },
+  {
+    "headline": "Looming trade tensions with China raise concerns about global economic stability",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces No Change in Interest Rates",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Plunge After Major Update from Tech Regulatory Agency",
+    "sentiment": 0
+  },
+  {
+    "headline": "Dow Jones Industrial Average rises by 250 points, boosted by strong earnings from several tech companies.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Market analysts release new report on the effects of interest rate changes",
+    "sentiment": 2
+  },
+  {
+    "headline": "Investor Sentiment on Global Markets Rebounds as Pfizer Delivers Positive Vaccine Data",
+    "sentiment": 1
+  },
+  {
+    "headline": "JPMorgan Chase announces new initiative to expand its digital banking services",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces No Change in Interest Rates This Year",
+    "sentiment": 2
+  },
+  {
+    "headline": "Globally Traded Equity ETFs See Slight Decline in Weekly Volume",
+    "sentiment": 2
+  },
+  {
+    "headline": "FBI Launches Investigation into Major Bank's Lending Practices",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla's Stock Surges After Q2 Earnings Beat Expectations, Priced to Shoot Higher",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple launches new iPhone model, sparking investor optimism",
+    "sentiment": 1
+  },
+  {
+    "headline": "Investors Wary as Oil Prices Surge to Six-Month High",
+    "sentiment": 0
+  },
+  {
+    "headline": "The Federal Reserve keeps interest rates unchanged amid a stable economic outlook.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla announces record quarterly revenue, shares soar 10%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Investor Sentiment Drops As Tech Stocks Slide",
+    "sentiment": 0
+  },
+  {
+    "headline": "Despite Initial Gains, Tech Stocks Begin to Show Signs of Fading Momentum",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech sector maintains stable performance with minor fluctuations in trading",
+    "sentiment": 2
+  },
+  {
+    "headline": "NASDAQ Hits Record High on Optimism of Post-Covid Economic Recovery",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed Chairman Powell indicates gradual rate hikes to come",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants See Profit Decline in Q3: Analysts Warn of Continued Slowdown",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global economies struggle amidst rising inflation pressures",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla's Stock Surges After Positive Q4 Earnings Report",
+    "sentiment": 1
+  },
+  {
+    "headline": "Chips shortage impacts automotive industry, experts predict supply chain delays into 2023",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve announces plans to keep interest rates steady for the coming months",
+    "sentiment": 2
+  },
+  {
+    "headline": "Amazon Posts Record Q4 Earnings, Surpasses Analyst Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Major tech stocks plunge as concerns over slowing global growth and rising interest rates intensify investor caution.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Bitcoin price surges past $60,000 as institutional investors show interest",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple Inc. (AAPL) beats earnings expectations, drives market optimism",
+    "sentiment": 1
+  },
+  {
+    "headline": "Is LSC Communications, Inc. (LKSD) Is Burning These Hedge Funds",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve keeps interest rates unchanged amid economic stability",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve to release latest economic forecast on Wednesday",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Plummet as Key Semiconductor Firms Report Sluggish Sales",
+    "sentiment": 0
+  },
+  {
+    "headline": "New Economic Data Shows Continued Job Growth in Manufacturing Sector",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla Continues to Surge, Sees Over 20% Gain in Monthly Sales",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple Beats Q4 Earnings Expectations, Sends Shares to All-Time High",
+    "sentiment": 1
+  },
+  {
+    "headline": "The Federal Reserve sets interest rates for next year to curb inflation",
+    "sentiment": 2
+  },
+  {
+    "headline": "FDIC inspects several large banks for cybersecurity risks",
+    "sentiment": 2
+  },
+  {
+    "headline": "Crude oil prices remain stable following OPEC+ meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Unveils New Economic Forecast at Mid-Year Conference",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve announces rate cut to stimulate economic growth",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech giants announce plans to cut costs and slow hiring",
+    "sentiment": 2
+  },
+  {
+    "headline": "New iPhone Model Launch Expected to Boost Apple's Revenue by 15%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Financial regulators warn of rising risks in the mortgage market.",
+    "sentiment": 2
+  },
+  {
+    "headline": "WSJ reports China is set to unveil stimulus measures to support economic growth",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants Pave the Way for Future Innovation, Boosting Global Economy",
+    "sentiment": 1
+  },
+  {
+    "headline": "Interest Rates Rise: Central Banks' Decision May Affect Markets in the Near Future",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech giant Apple reports a significant quarterly revenue drop, underscoring economic slowdown concerns",
+    "sentiment": 0
+  },
+  {
+    "headline": "European Central Bank announces plans for further bond purchase program",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Rebound as Investors Show Optimism Amid Market Uncertainty",
+    "sentiment": 1
+  },
+  {
+    "headline": "Stock Market Opens Flat as Oil Prices Dip",
+    "sentiment": 2
+  },
+  {
+    "headline": "Despite gains in the tech sector, overall market dips due to concerns over rising interest rates.",
+    "sentiment": 0
+  },
+  {
+    "headline": "FED maintains current interest rates but hints at potential adjustments in 2023",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants Unveil Latest Innovations, Boosting Industry Confidence",
+    "sentiment": 1
+  },
+  {
+    "headline": "GDP growth slows down in Q2, economic recovery might be delayed",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla stocks reach all-time high on strong Q4 earnings report",
+    "sentiment": 1
+  },
+  {
+    "headline": "Central Bank reduces interest rates, signaling a potential slowdown in economic growth",
+    "sentiment": 0
+  },
+  {
+    "headline": "Retail Giant Announces Surprising Double-Digit Sales Growth",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Sector Weekly Review - Mixed Earnings Season Ahead",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech giant reports weaker-than-expected Q4 earnings, shares drop",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic Indicators Suggest Continued Slowdown in Manufacturing Sector",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Diving as Major FAANG Companies Report Disappointing Earnings",
+    "sentiment": 0
+  },
+  {
+    "headline": "Upcoming economic data may offer insights into the current market direction",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Plunge as Fears of Slowing Global Economy Persist",
+    "sentiment": 0
+  },
+  {
+    "headline": "Market volatility rises as investors anticipate Federal Reserve rate hike",
+    "sentiment": 0
+  },
+  {
+    "headline": "Bernie Madoff Sentencing Hearing to Take Place Next Month",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Indicators Show Moderate Growth",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Data Shows Slight Downtick in Consumer Spending",
+    "sentiment": 2
+  },
+  {
+    "headline": "Oil Prices Soar to a Two-Year High, Boosting Exploration and Production Companies",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed Chair Powell to Address Interest Rate Policy Changes in October",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces Rate Hike, Staying Neutral Amid Economic Uncertainty",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla's Stock Surges 20% in Record Two Weeks, Raising Hopes for Battery Technology",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Sector Hits New Highs as Companies Deliver Q4 Earnings Surprises",
+    "sentiment": 1
+  },
+  {
+    "headline": "Biotech firm Amira Medical faces FDA warning over safety concerns",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla's Q2 earnings exceed market expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Investor Confidence Soars With Tech Giants Reporting Strong Q4 Earnings",
+    "sentiment": 1
+  },
+  {
+    "headline": "The Federal Reserve announces a 25 basis point interest rate hike",
+    "sentiment": 2
+  },
+  {
+    "headline": "Monthly employment report shows robust job growth in the U.S.",
+    "sentiment": 2
+  },
+  {
+    "headline": "European Central Bank sets new targets for quantitative easing",
+    "sentiment": 2
+  },
+  {
+    "headline": "New regulations in the financial sector are expected to have minimal impact on industry operations",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla's Share Price Surges as Model Y Reaches 1 Million Vehicles Sold",
+    "sentiment": 1
+  },
+  {
+    "headline": "Microsoft Announces Strong Q4 Earnings, Shares Surge",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple announces record profits in Q4, surpassing analyst expectations.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla Reports Surprising Quarterly Profit, Shares Soar 25%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve releases updated economic projections",
+    "sentiment": 2
+  },
+  {
+    "headline": "CEO of Procter & Gamble warns of potential margin pressures in the coming quarters",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla Shares Surge After Deliveries Exceed Analyst Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Technology stocks slide as investors pull out amid economic uncertainty",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Sector Uncertainty as Inflation Worries Persist",
+    "sentiment": 0
+  },
+  {
+    "headline": "FED leaves interest rates unchanged, citing ongoing economic recovery and inflation concerns",
+    "sentiment": 2
+  },
+  {
+    "headline": "NASDAQ Hits All-Time High on Strong Earnings Reports",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic Indicators Point to Continued Slowdown in Q4",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Plunge as Market Concerns Over Fed Hike",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Report Mixed Q4 Earnings, Causing Market Volatility",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global oil prices fall due to surplus supply and weak demand outlook.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Bearish sentiment hits tech stocks as investors remain cautious on economic outlook",
+    "sentiment": 0
+  },
+  {
+    "headline": "The Federal Reserve announces a slight interest rate increase, aiming to combat rising inflation and economic instability.",
+    "sentiment": 2
+  },
+  {
+    "headline": "The solar panel market could drop by 34% this year, analysts said, as residential installations plummet. Read more\u2026",
+    "sentiment": 0
+  },
+  {
+    "headline": "Export Data Fails to Meet Expectations, Negative Impact on Overall Economy",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Releases Minutes Showing Interest Rate Hike Plans",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech stocks dive as AI faces new regulatory hurdles",
+    "sentiment": 0
+  },
+  {
+    "headline": "J.P. Morgan Warns of Slowing Economic Growth Due to Rising Trade Tensions",
+    "sentiment": 0
+  },
+  {
+    "headline": "US Consumer Confidence at 18-Month High, Boosting Retail Sales",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla's Q4 earnings beat expectations, driving stock price to all-time high",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Keeps Interest Rates Unchanged, Cites Stable Job Market",
+    "sentiment": 2
+  },
+  {
+    "headline": "Investors Praise Apple's Strong Q4 Results, Seeing Future Growth Potential",
+    "sentiment": 1
+  },
+  {
+    "headline": "Earnings season ends with mixed results",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Sector Faces Uncertainty Amidst Trade Tensions",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech stocks slide as trading volume surges due to market uncertainty",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla Reports Record Quarterly Earnings, Boosting Share Prices",
+    "sentiment": 1
+  },
+  {
+    "headline": "Investors Wait for Federal Reserve Interest Rate Decision",
+    "sentiment": 2
+  },
+  {
+    "headline": "S&P 500 Index Seen Stabilizing In Next Trading Sessions",
+    "sentiment": 2
+  },
+  {
+    "headline": "After strong earnings report, Tesla sees surge in share price, rallies above $500 per share",
+    "sentiment": 1
+  },
+  {
+    "headline": "Biotech Firm Innovagen Therapeutics Announces Breakthrough Cancer Treatment",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic Data Remains Steady, No Immediate Indications of Recession",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla's Stock Surges After Q4 Earnings Beat Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Stock Market Faces Challenges as Global Supply Chains Continue to Strain",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Keeps Interest Rates Steady for Next Cycle",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants See Profit Slump Due to Economic Slowdown",
+    "sentiment": 0
+  },
+  {
+    "headline": "Fed Maintains Rates as Inflation Remains in Check",
+    "sentiment": 2
+  },
+  {
+    "headline": "Biotech firm discovers new drug that shows promising results in early trials.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla's Q4 2023 production figures released, meeting analysts' forecasts",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla reports record quarterly earnings, boosts market confidence",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed maintains interest rates, signals cautious approach",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla Stock Surges Past $1,000 Per Share, Closes at All-Time High",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve statement expected to keep interest rates unchanged this year, stabilizing market expectations.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Keeps Interest Rates Steady, Expects Economy to Stabilize Soon",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces Unchanged Interest Rates",
+    "sentiment": 2
+  },
+  {
+    "headline": "Stock Market Plunges as Global Economic Growth Slows",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic Slowdown Looms as Manufacturing Sector Contracts",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech giant Apple reports record-breaking quarterly earnings, boosting market confidence",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed raises interest rates amid concerns about inflationary pressures",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech stocks surge as investors bet on recovery from pandemic setbacks",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla sees surge in demand for its semi-truck and battery technology",
+    "sentiment": 1
+  },
+  {
+    "headline": "New Tesla model sets sales records, sending its stock price to a new high",
+    "sentiment": 1
+  },
+  {
+    "headline": "Bitcoin surges past $50,000 after Tesla CEO Elon Musk tweets about Bitcoin mining",
+    "sentiment": 1
+  },
+  {
+    "headline": "Biotech Company Biogen Reports Surpassing Q2 Earnings Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed's Jerome Powell outlines plans to tame inflation without triggering a recession.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giants warn of economic slowdown due to global trade tensions - Bloomberg\n",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla's Q4 Earnings Surpass Expectations, Shares Surge",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla's stock price hits an all-time high as investor confidence in electric vehicles continues to rise.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed official warns of potential recession due to rising interest rates",
+    "sentiment": 0
+  },
+  {
+    "headline": "Stock market falls as concerns over new virus variant persist",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple Posts Strong Earnings for the Third Quarter",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla Reports Strong Quarterly Earnings with Unexpected Profit",
+    "sentiment": 1
+  },
+  {
+    "headline": "Blue Chip Stocks Keep Steady Performance in Recent Months",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve keeps interest rates unchanged amid economic stability",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech stocks face pressure as recession fears mount",
+    "sentiment": 0
+  },
+  {
+    "headline": "Bank of America reports quarterly earnings above expectations, fueling optimism in the banking sector",
+    "sentiment": 2
+  },
+  {
+    "headline": "Earnings report from Blue Chip Industries shows steady growth, outperforms analysts' expectations",
+    "sentiment": 2
+  },
+  {
+    "headline": "Apple's Q1 Earnings Beat Expectations, Shares See Slight Decline",
+    "sentiment": 2
+  },
+  {
+    "headline": "Oil prices decline further as OPEC+ fails to reach a new production deal",
+    "sentiment": 0
+  },
+  {
+    "headline": "Biotech Firm InnoMed Reports Surprising Earnings Beat, Shares Soar",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces Unchanged Interest Rates for Second Consecutive Meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "S&P 500 Surges 3% As Technology Giants Report Strong Q4 Earnings",
+    "sentiment": 1
+  },
+  {
+    "headline": "The S&P 500 index finishes the week unchanged amid mixed economic data",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech giant's stock faces pressure as earnings miss expectations",
+    "sentiment": 0
+  },
+  {
+    "headline": "Goldman Sachs\u4e0a\u8c03\u660e\u665f\u6307\u6570\u6210\u5206\u80a1\u9884\u671f",
+    "sentiment": 1
+  },
+  {
+    "headline": "The Federal Reserve releases minutes from the recent meeting, highlighting stable economic outlook but cautious approach.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Global Stock Markets Maintain Stable Performance",
+    "sentiment": 2
+  },
+  {
+    "headline": "Coca-Cola Reports Flat Sales Growth in Last Quarter, Reports to Cut 6,000 Jobs",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed Official Warns Of Slowing Economic Growth",
+    "sentiment": 2
+  },
+  {
+    "headline": "JP Morgan reports unexpected earnings surge, setting new record",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic report shows stable employment with no significant changes.",
+    "sentiment": 2
+  },
+  {
+    "headline": "US Department of Commerce releases latest economic growth report",
+    "sentiment": 2
+  },
+  {
+    "headline": "Retail stocks plummet as economic uncertainty grows, consumer confidence hits all-time low.",
+    "sentiment": 0
+  },
+  {
+    "headline": "IMF Issues\u8b66\u544a Global Economy Growth Forecasts",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces No Change in Interest Rates for Next Month, Keeping Markets Stable",
+    "sentiment": 2
+  },
+  {
+    "headline": "Mastercard Surpasses Expectations in Q3, Earnings Beat Analyst Projections",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple Reports Strong Earnings Beat, Guiding Higher for the Quarter",
+    "sentiment": 1
+  },
+  {
+    "headline": "Retail Sales Fall Short of Analyst Projections, Hampering Q4 Outlook",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech stocks crash as earnings season underwhelms investors",
+    "sentiment": 0
+  },
+  {
+    "headline": "US employment rate holds steady at 5.8% in September",
+    "sentiment": 2
+  },
+  {
+    "headline": "Wall Street Reopens After Snowstorm, Traders Eye Market Recovery",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech stocks decline as investors grow concerned over economic slowdown",
+    "sentiment": 0
+  },
+  {
+    "headline": "Fed announces no change in interest rates for next quarter",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech stocks soar on news of breakthrough in quantum computing technology.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stocks Plunge as Alphabet Reports Revenue Below Expectations",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Reports Strong Economy but Mentions Future Rate Increases",
+    "sentiment": 2
+  },
+  {
+    "headline": "Apple announces a new product line that analysts predict will significantly boost quarterly revenue.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed Expects Slower Growth Due to Global Trade Challenges",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech stocks fall as regulatory concerns intensify and earnings miss expectations",
+    "sentiment": 0
+  },
+  {
+    "headline": "Technology giant reports Q3 earnings, beats expectations on strong software sales",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve announcement to raise interest rates tomorrow",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Recovery Monitor Shows Slight Improvement",
+    "sentiment": 2
+  },
+  {
+    "headline": "Historic IPO Moves Blockchain Stocks to New Heights",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed to release minutes from January meeting this afternoon",
+    "sentiment": 2
+  },
+  {
+    "headline": "Amazon reports record earnings, beating analyst estimates",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed Chair Powell Keeps Rate Hike Option on Table",
+    "sentiment": 2
+  },
+  {
+    "headline": "Facebook Announces Major Expansion Plans, Shares Soar",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla Announces Stronger-than-Expected Earnings, Sending Stock Up 15%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple's Quarterly Earnings Miss Analysts' Estimates, Shares Fall 5%",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Sector Faces Profit Woes As Chip Shortages Persist, Analysts Warn",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Sector Faces Increasing Trade Tensions: Analysts Weigh In",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Official Speaks on Economic Outlook and Monetary Policy",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Statement to Remain Stable in Coming Months, Experts Predict",
+    "sentiment": 2
+  },
+  {
+    "headline": "Investors Cheer As Tech Giants Report Strong Q3 Earnings, Reaffirming Market Optimism",
+    "sentiment": 1
+  },
+  {
+    "headline": "Global trade tensions escalate, raising concerns for economic growth",
+    "sentiment": 0
+  },
+  {
+    "headline": "Investors remain cautious as inflation concerns continue to impact market sentiment",
+    "sentiment": 2
+  },
+  {
+    "headline": "Apple Launches New iPhone Model, Shares Soar to All-Time High",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed announces new stimulus measures to support struggling economies",
+    "sentiment": 2
+  },
+  {
+    "headline": "Apple Reports Impressive Earnings, Shares Surge Beyond Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Firms Cite Supply Chain Challenges as Revenue Growth Slows",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla's Q4 Earnings Miss Analysts' Expectations, Shares Fall Sharply",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Stocks Plunge as Netflix Reports Subscribers Decline",
+    "sentiment": 0
+  },
+  {
+    "headline": "Biden administration outlines $1.9 trillion stimulus plan to aid pandemic-hit U.S. economy.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed announces plans to keep interest rates stable through the end of the year",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla's stock climbs 15% in a single day after Q4 earnings beat analyst expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stocks Experience Downturn as Market Uncertainty Increases",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global Tech Firms Warn of Slower Revenue Growth Amidst Economic Uncertainty",
+    "sentiment": 0
+  },
+  {
+    "headline": "Bank of America Reports Quarterly Loss, Raises Concerns About Economic Outlook",
+    "sentiment": 0
+  },
+  {
+    "headline": "New economic indicators show steady growth in the US economy.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Major Banks Warn on Rising Interest Rates Impacting Earnings",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renewable energy stocks surge as global demand increases",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stocks Take a Hit After Fed Officials Warn on Inflation",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech stocks plunge as fears of a slowdown persist",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global indices gain strength as economic recovery optimism prevails",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stocks Drop Amid Rising Interest Rates Fears",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Stocks Slump Amidst Economic Uncertainty",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple reports Q4 earnings above expectations, shares rise 2% after market close",
+    "sentiment": 1
+  },
+  {
+    "headline": "Global Oil Prices Drop Due to Oversupply Concerns",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global Tech Stocks Plummet on Concerns Over Data Privacy Regulations",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech giant faces investor backlash over environmental policies",
+    "sentiment": 0
+  },
+  {
+    "headline": "Technology Sector ETF Down 3% as Chip Shortages Continue to Impact Production",
+    "sentiment": 0
+  },
+  {
+    "headline": "FDIC Reports No New Bank Failures in Q2, Stabilizing the Financial Sector",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech giant sees sales dip in Q3, concerns grow over economic slowdown",
+    "sentiment": 0
+  },
+  {
+    "headline": "Earnings Season Begins: Analysts Eye Strong Performance in Q4",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech sector faces pressure as semiconductor shortages continue to impact global supply chains",
+    "sentiment": 0
+  },
+  {
+    "headline": "Dow Jones Industrial Average Surges Over 500 Points on Strong Earnings Reports",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stocks Dip as Coronavirus Concerns Persist - MarketWatch",
+    "sentiment": 0
+  },
+  {
+    "headline": "Bond markets remain stable amid global economic growth",
+    "sentiment": 2
+  },
+  {
+    "headline": "Bearish sentiment intensifies as tech stocks face profit warnings",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global Semiconductor Shortage Could Impact Q3 Auto Sales by 5%",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla announces a significant battery range extension for its Model 3, doubling its driving range.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stocks See Fresh Downturn as Trade Tensions Escalate",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple's Q4 earnings beat expectations, stock surges 5%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic recovery stalls as unemployment figures rise sharply in April",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple announces new line of iPhones, setting sales records",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple unveils new iPhone model, fueling optimistic market predictions",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giants report weaker-than-expected earnings, raising concerns about a slowdown in the sector",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla's Q4 Earnings Miss Analyst Expectations, Shares Plunge",
+    "sentiment": 0
+  },
+  {
+    "headline": "Fed Signals Pause in Interest Rate Hikes Amid Economic Concerns",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces No Change In Interest Rates For Immediate Future",
+    "sentiment": 2
+  },
+  {
+    "headline": "Apple launches new iPhone model, sends shares to record high",
+    "sentiment": 1
+  },
+  {
+    "headline": "Google cloud service rolls out new features, gains new customers",
+    "sentiment": 1
+  },
+  {
+    "headline": "JP Morgan Chase Announces First Quarter Earnings Report",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla's Quarterly Earnings Beat Expectations, Driving Stock Surge",
+    "sentiment": 1
+  },
+  {
+    "headline": "Consumer Confidence Index Remains Steady in October",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla Reports Record Quarterly Earnings Boosting Shares To New Highs",
+    "sentiment": 1
+  },
+  {
+    "headline": "Markets Witness Sharp Decline Due to Concerns Over Global Trade Relations",
+    "sentiment": 0
+  },
+  {
+    "headline": "Stock Market Opens Flat as Investors Wait for Key Economic Reports",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economists Forecast a Strong Economic Recovery in 2023",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla shares surge 10% after Q2 earnings exceed expectations; Model Y production up 40%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed extends emergency lending facilities for banks and businesses",
+    "sentiment": 2
+  },
+  {
+    "headline": "New Federal Reserve report highlights stable economic growth outlook",
+    "sentiment": 2
+  },
+  {
+    "headline": "Interest Rate Decision Today to Impact US Dollar Value",
+    "sentiment": 2
+  },
+  {
+    "headline": "Stock Market Surges On Strong Earnings Reports",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla releases impressive Q4 earnings, forecasts strong growth in 2023",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Revises Interest Rate Outlook for 2023",
+    "sentiment": 2
+  },
+  {
+    "headline": "Apple Inc. reports record-breaking quarterly earnings",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve releases meeting minutes indicating stable interest rates",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve maintains interest rates, keeping market expectations stable",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Growth Data Released, Impacting Market Expectations",
+    "sentiment": 2
+  },
+  {
+    "headline": "New Vaccine Trial Shows Positive Results in COVID-19 Treatment",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla's Stock Hits New Highs, Paving Way for Future Expansion",
+    "sentiment": 1
+  },
+  {
+    "headline": "Interest Rates Remain Steady as Central Bank Continues to Monitor Economic Data Closely",
+    "sentiment": 2
+  },
+  {
+    "headline": "Stock Market Plunges as Global Economic Uncertainty Increases",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech IPO's Surpassing Expectations Despite Market Uncertainty",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed Announces Rate Cut, Easing Investors' Concerns Over Global Slowdown",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech giant reports Q4 earnings with a significant drop in revenue, heightening fears of a broader tech downturn.",
+    "sentiment": 0
+  },
+  {
+    "headline": "For department stores, it\u2019s the most desperate time of the year",
+    "sentiment": 2
+  },
+  {
+    "headline": "Bank of America Unveils Detailed Blueprint for Sustainable Banking Initiatives",
+    "sentiment": 2
+  },
+  {
+    "headline": "Global Trade Update: China and EU Reach Agreement on Key Tariff Reductions",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Dive as Interest Rates Rise, Weakening Market Sentiment.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Analysts issue mixed outlook on upcoming earnings report for the S&P 500 companies",
+    "sentiment": 2
+  },
+  {
+    "headline": "The Federal Reserve maintains interest rates, signaling no immediate changes to current monetary policies.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech giant Apple announces record quarterly earnings, sends stock soaring",
+    "sentiment": 1
+  },
+  {
+    "headline": "US and China Continue Talks on Trade, Market Reacts Positively",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks See Selloff as Earnings Worry Investors",
+    "sentiment": 0
+  },
+  {
+    "headline": "Retail Sales Report Misses Expectations, Hinting at Slowing Consumer Spending",
+    "sentiment": 0
+  },
+  {
+    "headline": "Oil prices surge to a 3-year high, with OPEC+ showing reluctance to increase production",
+    "sentiment": 0
+  },
+  {
+    "headline": "Fed Keeps Interest Rates Unchanged",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Downturn Causes Significant Losses at Manufacturing Giants",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech giant's earnings miss expectations, sending shares down 5%.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple Inc. Sees Q4 Sales Slide Amid Supply Chain Disruptions",
+    "sentiment": 0
+  },
+  {
+    "headline": "Amazon Plans To Expand Warehouse Network By 15%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple unveils new iPhone model, expects record-breaking sales in Q4",
+    "sentiment": 1
+  },
+  {
+    "headline": "Today\u2019s macroeconomic data provided mixed signals, with GDP growth and unemployment rates showing improvement but inflation remaining a key concern.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Boeing announces significant order for 200 new aircraft, signaling industry growth.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Sector Performance Dips as Market Uncertainties Persist",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla Reports Record-Qualifying Third Quarter Earnings, Surpassing Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giant NVIDIA reports strong Q4 earnings, sees robust growth in AI and gaming sectors",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giant Tencent's Q2 earnings surpass market expectations, boosting shareholder confidence",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple's Q1 Earnings Surpass Expectations, Driving Tech Sector Higher",
+    "sentiment": 1
+  },
+  {
+    "headline": "Growth in Global Manufacturing Output Continues to Decline, Causing Fears of a Global Recession",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economists predict stable job growth for next quarter, but caution against global economic risks",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech giant Amazon announces layoffs affecting 10,000 employees",
+    "sentiment": 0
+  },
+  {
+    "headline": "European Central Bank Announces No Change To Interest Rates",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla's Q4 Earnings Beat Expectations, Driving Shares Up 10%; Company Reiterates Model 3 Production Target.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve hikes interest rates, posing risk to economic growth",
+    "sentiment": 0
+  },
+  {
+    "headline": "Robust Earnings Reports from Major Retailers Boost Holiday Shopping Hopes, Stock Market Rises 3%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Neutral Sentiment: Amazon's Q4 Earnings Announced with Steady Growth in Various Segments",
+    "sentiment": 2
+  },
+  {
+    "headline": "Market remains steady with no immediate concerns from latest economic data",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech giants cut jobs as global slowdown continues to weigh on demand",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve maintains interest rates, signals no immediate plans to increase costs for borrowing",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Continue to Suffer Amidst Slowing Global Economy",
+    "sentiment": 0
+  },
+  {
+    "headline": "Energy Sector Surges Amid Ongoing Production Challenges",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Leaves Interest Rates Unchanged, Aligning with Analyst Predictions",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla announces new electric vehicle model, increasing the odds of achieving its ambitious production targets.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple announces record-breaking iPhone sales in Q4, driving market optimism and pushing shares to new highs.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Unemployment Rates Remain Steady Across Major Economic Indicators",
+    "sentiment": 2
+  },
+  {
+    "headline": "U.S. Non-Farm Payroll Growth Slows in October, Fails to Meet Expectations",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Stocks Drop as Fears of Economic Slowdown Gain Momentum",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve issues statement on interest rate decisions",
+    "sentiment": 2
+  },
+  {
+    "headline": "Biotech Giant Receives FDA Approval for Breakthrough Cancer Drug",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stocks Drop After Weak Q4 Earnings Reports from Major Players",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech stocks face headwinds as semiconductor shortages continue",
+    "sentiment": 0
+  },
+  {
+    "headline": "Ban on flavored vapes could lead to loss of 150,000 jobs, $8.4 billion sales hit: report",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla Reports Exceedingly Strong Earnings for Q1",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economy to See Steady Growth with New Tax Breaks, Analysts Predict",
+    "sentiment": 1
+  },
+  {
+    "headline": "The unemployment rate fell to 3.8% in December, hitting a 50-year low",
+    "sentiment": 2
+  },
+  {
+    "headline": "Investor Sentiment Dips As Tech Firms Cut Profit Forecasts Amid Trade Tensions",
+    "sentiment": 0
+  },
+  {
+    "headline": "International Trade Commissioner discusses new trade agreements with China and Europe",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech stocks continue to decline amid concerns over global economic slowdown",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global economy shows signs of improvement with steady job growth",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giant Tesla announces a major supply chain disruption, sending stock prices plunging.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Bitcoin faces new bear market lows as global digital currency adoption stalls",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic growth report reveals steady progress with no major setbacks",
+    "sentiment": 2
+  },
+  {
+    "headline": "New Study Reveals Key Trends in the Upcoming Quarterly Earnings Reports",
+    "sentiment": 2
+  },
+  {
+    "headline": "Global semiconductor shortage continues to impact automotive industry, leading to reduced production forecasts",
+    "sentiment": 0
+  },
+  {
+    "headline": "Market Downturn Continues as Technology Stocks Slip 5% in Day",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech stocks show significant drop as investors worry about trade tensions",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve to review economic data before deciding on rate hike",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed officials discuss potential policy changes in upcoming meetings",
+    "sentiment": 2
+  },
+  {
+    "headline": "Technology stocks suffer as investors lose confidence in artificial intelligence advancements",
+    "sentiment": 0
+  },
+  {
+    "headline": "CNBC reports that the NASDAQ Composite index hits a record high, boosted by strong earnings from tech firms.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Sector Leads Market Drop Amidst Increasing Supply Chain Worries",
+    "sentiment": 0
+  },
+  {
+    "headline": "FED Announces Interest Rate Hike to Tackle Inflation Concerns",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla Inc. (NASDAQ:TSLA) Reports Stronger-than-Expected Q4 Earnings, Shares Soar",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla Reports Surpassing 200,000 Vehicle Deliveries in Q4, Beating Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple announces a major new iPhone model with enhanced AI capabilities",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stocks Surge After Major Software Company Announces Revolutionary AI Product, Sending Share Prices Skyrocketing",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giant reports quarterly losses, sends stock prices into a downward spiral.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Why Profits From Amazon's Cloud Business Could Be About to Soar",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve maintains interest rates but signals further hikes ahead",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla Reports Q4 Profit Beat, Shares Soar on Strong Automaker Demand",
+    "sentiment": 1
+  },
+  {
+    "headline": "New employment data shows job market remains robust, boosting consumer confidence",
+    "sentiment": 2
+  },
+  {
+    "headline": "Technology stocks face scrutiny amid data privacy concerns",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech stocks dip as earnings season misses expectations",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Stocks Take a Dive as Market Concerns Grow Over Inflation",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Stocks Struggle as Growth Fears Persist",
+    "sentiment": 0
+  }
+]

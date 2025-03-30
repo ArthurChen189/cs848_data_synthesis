@@ -1,0 +1,8 @@
+*.py[cod]
+secrets.json
+.ipynb_checkpoints
+.vscode/
+logs/
+**/__pycache__/**
+test/
+**/metadata/**

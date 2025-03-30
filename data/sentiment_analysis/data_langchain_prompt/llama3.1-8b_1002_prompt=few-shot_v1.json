@@ -1,0 +1,4010 @@
+[
+  {
+    "x": "Global economy on shaky ground as inflation rises above 5% for the first time in a decade.",
+    "y": 0
+  },
+  {
+    "x": "Tech stocks surge as Apple's Q1 earnings beat expectations, sending the Dow Jones up 200 points",
+    "y": 1
+  },
+  {
+    "x": "Market analysts remain divided on the impact of interest rate hikes on the housing market, as experts point to both positive and negative effects.",
+    "y": 2
+  },
+  {
+    "x": "US GDP growth slows down in Q4, sparking concerns about economic recovery",
+    "y": 0
+  },
+  {
+    "x": "Tech stocks surge as earnings reports show promising growth prospects",
+    "y": 1
+  },
+  {
+    "x": "Global stock markets mixed as investors await key economic data releases",
+    "y": 2
+  },
+  {
+    "x": "Global markets decline as inflation worries persist, Fed officials hint at further rate hikes",
+    "y": 0
+  },
+  {
+    "x": "Tech stocks surge as investors bet on a strong earnings season, led by Apple's robust quarterly results",
+    "y": 1
+  },
+  {
+    "x": "US job market shows mixed signals, with payrolls growing but wages stagnating, according to new data from the Labor Department",
+    "y": 2
+  },
+  {
+    "x": "Tesla stock plummeted 10% after the company announced it would delay its Cybertruck production again.",
+    "y": 0
+  },
+  {
+    "x": "Amazon's Q4 revenue soared 20% YoY, beating analyst expectations and sending shares up 5% in pre-market trading.",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve officials remain cautious about the economic outlook, with inflation concerns and recession fears weighing on markets.",
+    "y": 2
+  },
+  {
+    "x": "Investors dump Apple shares as iPhone sales disappoint",
+    "y": 0
+  },
+  {
+    "x": "Gold prices surge to 2-year high on inflation fears",
+    "y": 1
+  },
+  {
+    "x": "European Union approves new regulations for fintech companies",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Plunges 12% After Elon Musk's Tweet Sparks Concerns",
+    "y": 0
+  },
+  {
+    "x": "Apple Shares Soar 5% on Strong Earnings Report, Beating Expectations",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Leaves Interest Rates Unchanged, Markets Remain Calm",
+    "y": 2
+  },
+  {
+    "x": "Stock Market Sinks as Tech Giants Report Disappointing Earnings",
+    "y": 0
+  },
+  {
+    "x": "Apple Earnings Soar, Stock Price Surges as Investors Cheer Q4 Report",
+    "y": 1
+  },
+  {
+    "x": "Market Update: Economic Indicators Unchanged, Analysts Expect Stability",
+    "y": 2
+  },
+  {
+    "x": "Tesla's stock drops 10% after reports of production delays",
+    "y": 0
+  },
+  {
+    "x": "Amazon's quarterly earnings top estimates, shares surge 5%",
+    "y": 1
+  },
+  {
+    "x": "The US GDP growth rate slows down to 2.5%, meeting economists' expectations",
+    "y": 2
+  },
+  {
+    "x": "Tesla's Stock Plummets 10% as Elon Musk's Tweet Fails to Boost Confidence",
+    "y": 0
+  },
+  {
+    "x": "NVIDIA Corporation (NVDA) Stock Hits All-Time High on Robust Demand for AI Chips",
+    "y": 1
+  },
+  {
+    "x": "European Markets Flat as Investors Await Key Economic Indicators",
+    "y": 2
+  },
+  {
+    "x": "The Dow Jones index sees a significant decline today, wiping out previous week's gains.",
+    "y": 0
+  },
+  {
+    "x": "Apple's stock price surges to a new record high, beating analyst expectations for Q2 earnings.",
+    "y": 1
+  },
+  {
+    "x": "The Federal Reserve announces plans to hold interest rates steady, citing stable economic growth.",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Plunges 12% After Missing Q4 Earnings Expectations",
+    "y": 0
+  },
+  {
+    "x": "Amazon Stock Hits All-Time High as E-commerce Sales Soar",
+    "y": 1
+  },
+  {
+    "x": "Global Economic Outlook Unclear: IMF Warns of Trade War Impact on Growth",
+    "y": 2
+  },
+  {
+    "x": "Tesla's Stock Plunges 15% as Elon Musk Sells Millions of Dollars in Company Shares",
+    "y": 0
+  },
+  {
+    "x": "Dow Jones Surges 500 Points Amid Strong Corporate Earnings Reports",
+    "y": 1
+  },
+  {
+    "x": "Market Watch: US Consumer Prices Remain Steady, FOMC Meeting Scheduled for Next Week",
+    "y": 2
+  },
+  {
+    "x": "The Dow Jones index plummeted 500 points today, wiping out all of its gains for the year.",
+    "y": 0
+  },
+  {
+    "x": "Amazon's stock price surged 10% after the company announced a major expansion of its cloud computing services.",
+    "y": 1
+  },
+  {
+    "x": "Earnings reports are coming out this week for several major tech companies, with investors eagerly awaiting updates on revenue and profitability.",
+    "y": 2
+  },
+  {
+    "x": "Apple stock plummets after disappointing Q4 earnings report",
+    "y": 0
+  },
+  {
+    "x": "Tesla's market value exceeds $1 trillion, reaching new milestone",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve announces plans to maintain interest rates for next quarter",
+    "y": 2
+  },
+  {
+    "x": "Goldman Sachs Predicts Global Recession Amid Rising Inflation Rates",
+    "y": 0
+  },
+  {
+    "x": "Tesla Stock Surges 15% as Elon Musk Announces New Battery Technology Breakthrough",
+    "y": 1
+  },
+  {
+    "x": "Fed Announces Interest Rate Hike, Markets Expected to React with Caution",
+    "y": 2
+  },
+  {
+    "x": "Oil prices plummet to a 7-year low due to global economic downturn",
+    "y": 0
+  },
+  {
+    "x": "NVIDIA reports record earnings, shares surge 15% after hours",
+    "y": 1
+  },
+  {
+    "x": "US Federal Reserve announces unchanged interest rates for the second consecutive month",
+    "y": 2
+  },
+  {
+    "x": "Tesla's stock takes a hit after missing electric vehicle delivery targets, sparking concerns about future profitability",
+    "y": 0
+  },
+  {
+    "x": "Microsoft beats expectations with Q1 earnings, citing strong demand for cloud computing services",
+    "y": 1
+  },
+  {
+    "x": "Earnings season kicks off with mixed results from major banks, with some companies beating expectations while others lag behind",
+    "y": 2
+  },
+  {
+    "x": "Tesla's Stock Price Plummets 10% After Elon Musk's Latest Tweet",
+    "y": 0
+  },
+  {
+    "x": "Amazon's Earnings Report Exceeds Expectations, Sending Stock Skyrocketing",
+    "y": 1
+  },
+  {
+    "x": "Fed Reserve Announces Interest Rate Hold Steady, Markets Unfazed",
+    "y": 2
+  },
+  {
+    "x": "Federal Reserve announces surprise rate cut, sparking investor concerns about economic slowdown",
+    "y": 0
+  },
+  {
+    "x": "Apple shares soar 5% after surprise earnings beat, pushing stock to new all-time high",
+    "y": 1
+  },
+  {
+    "x": "Global markets remain volatile as investors await clarity on Brexit negotiations and trade tensions",
+    "y": 2
+  },
+  {
+    "x": "Tesla shares drop 5% after CEO Elon Musk tweets about bitcoin",
+    "y": 0
+  },
+  {
+    "x": "Amazon's Q4 earnings beat expectations, sending stock up 3% after hours",
+    "y": 1
+  },
+  {
+    "x": "The Federal Reserve keeps interest rates steady, as expected, in its latest policy meeting",
+    "y": 2
+  },
+  {
+    "x": "Stock Market Crashes 500 Points Amidst Global Economic Recession Fears",
+    "y": 0
+  },
+  {
+    "x": "NVIDIA Surpasses Earnings Expectations, Shares Soar to All-Time High",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Hike to Combat Inflation, Markets Rebound",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Down 5% After Elon Musk's Twitter Fiasco",
+    "y": 0
+  },
+  {
+    "x": "Apple Earnings Exceed Expectations, Boosts Market Confidence",
+    "y": 1
+  },
+  {
+    "x": "Global Economic Outlook Remains Uncertain Amid Ongoing Trade Disputes",
+    "y": 2
+  },
+  {
+    "x": "Tesla's stock falls 10% as CEO Elon Musk's tweet sparks concerns about the company's financial health.",
+    "y": 0
+  },
+  {
+    "x": "Microsoft's earnings beat analyst expectations, with a 15% increase in revenue and a 25% jump in profit.",
+    "y": 1
+  },
+  {
+    "x": "US stocks remain steady as investors await the Fed's latest monetary policy decision and earnings reports from major companies.",
+    "y": 2
+  },
+  {
+    "x": "US Fed Hikes Interest Rates to Combat Inflation",
+    "y": 0
+  },
+  {
+    "x": "Tesla Stock Surges 10% on Strong Q4 Earnings Report",
+    "y": 1
+  },
+  {
+    "x": "Market Sees Mixed Signals as Economic Indicators Remain Stable",
+    "y": 2
+  },
+  {
+    "x": "US Federal Reserve Raises Interest Rates to Combat Inflation, Stocks Plummet",
+    "y": 0
+  },
+  {
+    "x": "NVIDIA's AI-Powered Chip Breaks Records in Market Performance, Analysts Predict Continued Growth",
+    "y": 1
+  },
+  {
+    "x": "Gold Prices Remain Stable Amid Global Economic Uncertainty, Analysts Weigh In on Market Trends",
+    "y": 2
+  },
+  {
+    "x": "Stock Market Plunges Amidst Global Economic Recession Fears",
+    "y": 0
+  },
+  {
+    "x": "Tech Stocks Soar to New Highs, Analysts Predict Continued Growth",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve to Meet for Rate Decision: Experts Weigh In",
+    "y": 2
+  },
+  {
+    "x": "$AMZN - Amazon Reports 20% Revenue Growth in Q4 but Misses Earnings Expectations",
+    "y": 0
+  },
+  {
+    "x": "$AAPL - Apple Stock Surges as Company Announces Record-Breaking Quarterly Sales",
+    "y": 1
+  },
+  {
+    "x": "US Economy Expands 2.1% in Q4, Meeting Expectations, According to New GDP Data",
+    "y": 2
+  },
+  {
+    "x": "Amazon's Earnings Miss Estimates, Stock Plummets 5%",
+    "y": 0
+  },
+  {
+    "x": "Tesla Stock Surges 12% as Elon Musk Announces New Model",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Hold Steady, Markets Expect Stability",
+    "y": 2
+  },
+  {
+    "x": "Oil prices plummet to a 13-month low due to oversupply and weak demand, sparking concerns about the global economy.",
+    "y": 0
+  },
+  {
+    "x": "Tech giant Apple reports 15% increase in quarterly profits, beating analyst expectations and sending its stock price soaring.",
+    "y": 1
+  },
+  {
+    "x": "The European Central Bank holds interest rates steady, saying it will continue to monitor economic growth and inflation trends.",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Crashes 5% Amid Ongoing Supply Chain Disruptions and Delivery Shortfalls",
+    "y": 0
+  },
+  {
+    "x": "Chipotle Mexican Grill Posts Impressive Earnings Growth, Shares Jump 10% on the News",
+    "y": 1
+  },
+  {
+    "x": "Market Outlook: Experts Predict Moderate Economic Growth for Q2 Despite Global Headwinds",
+    "y": 2
+  },
+  {
+    "x": "US Economy Slows Down to a 10-Year Low in Q4, Raising Fears of Recession",
+    "y": 0
+  },
+  {
+    "x": "Tesla Shares Soar 20% as CEO Elon Musk Confirms Plans for New EV Factory in Germany",
+    "y": 1
+  },
+  {
+    "x": "Oil Prices Hold Steady as OPEC Meeting Approaches with No Indications of Production Cut",
+    "y": 2
+  },
+  {
+    "x": "Tesla stock price plummeted 8% after a disappointing Q4 earnings report",
+    "y": 0
+  },
+  {
+    "x": "Amazon stock price surged 5% after a surprise announcement of a new headquarters in NYC",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve keeps interest rates unchanged, signals no change in monetary policy",
+    "y": 2
+  },
+  {
+    "x": "NVIDIA Q4 Revenue Misses Estimates; Shares Fall 6.4%",
+    "y": 0
+  },
+  {
+    "x": "Tesla Stock Reaches New Highs as Investors Bet on Electric Vehicle Growth",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Maintains Interest Rates, Sees Moderate Economic Growth",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Drops 5% After Elon Musk's Controversial Twitter Rant",
+    "y": 0
+  },
+  {
+    "x": "Amazon Stock Hits New Record High, Analysts Expect 20% Growth This Year",
+    "y": 1
+  },
+  {
+    "x": "Gold Prices Remain Steady, Investors Wait for Federal Reserve Decision",
+    "y": 2
+  },
+  {
+    "x": "US GDP Growth Slows in Q1 Due to Trade Tensions, Analysts Warn of Recession",
+    "y": 0
+  },
+  {
+    "x": "Tech Stocks Surge After Earnings Reports Show Significant Gains, Experts Predict Continued Growth",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Announces Plans to Maintain Interest Rates, Citing Moderate Economic Growth and Low Inflation",
+    "y": 2
+  },
+  {
+    "x": "Tech stocks take a hit as Amazon misses earnings estimates, shares plummet 10% in after-hours trading $AMZN (via @CNBC)",
+    "y": 0
+  },
+  {
+    "x": "NVIDIA Corporation (NVDA) Q4 2022 Earnings Conference Call Transcript | Seeking Alpha",
+    "y": 2
+  },
+  {
+    "x": "Elon Musk's Tesla Inc (TSLA) stock soars 20% on surprise profit, analysts hail 'game-changer' (via @FinancialTimes)",
+    "y": 1
+  },
+  {
+    "x": "Tesla stock falls 5% on concerns over battery quality",
+    "y": 0
+  },
+  {
+    "x": "Amazon shares up 8% on strong Q4 earnings report",
+    "y": 1
+  },
+  {
+    "x": "US Treasury yields steady ahead of economic data release",
+    "y": 2
+  },
+  {
+    "x": "The Dow Jones Plunges 300 Points as Global Trade Tensions Rise",
+    "y": 0
+  },
+  {
+    "x": "$TSLA Shares Surge 5% as Elon Musk Hints at New Electric Vehicle Model",
+    "y": 1
+  },
+  {
+    "x": "European Central Bank Keeps Interest Rates Unchanged Amid Economic Uncertainty",
+    "y": 2
+  },
+  {
+    "x": "Tesla's Stock Plunges 20% Amid Concerns Over Elon Musk's Twitter Antics",
+    "y": 0
+  },
+  {
+    "x": "Amazon's Earnings Surprise Investors with 25% Growth in Quarterly Sales",
+    "y": 1
+  },
+  {
+    "x": "Dow Jones Industrial Average Reaches 30,000 Milestone Despite Ongoing Market Volatility",
+    "y": 2
+  },
+  {
+    "x": "The Federal Reserve decides to raise interest rates, sending stocks plummeting 2% in morning trading",
+    "y": 0
+  },
+  {
+    "x": "Tesla's stock price surges 5% after company reports quarterly earnings beat expectations",
+    "y": 1
+  },
+  {
+    "x": "Economic indicators suggest a potential slowdown in global growth, prompting investors to reassess asset allocations",
+    "y": 2
+  },
+  {
+    "x": "Stock Market Plummets as Recession Fears Mount Amid Rising Inflation and Weak Consumer Spending",
+    "y": 0
+  },
+  {
+    "x": "Tesla Shares Surge 10% After Elon Musk Announces Plans to Increase Production and Lower Prices",
+    "y": 1
+  },
+  {
+    "x": "Economists Predict Stable Growth for the Global Economy in 2024, With Modest Increases in GDP",
+    "y": 2
+  },
+  {
+    "x": "Tesla stock price plummets 15% on concerns over production delays",
+    "y": 0
+  },
+  {
+    "x": "Amazon announces plans to expand its cloud computing services in Asia, shares soar 8% on the news",
+    "y": 1
+  },
+  {
+    "x": "Gold prices stabilize after recent volatility, experts weigh in on future market trends",
+    "y": 2
+  },
+  {
+    "x": "Bearish Sentiment: Tech stocks plummet as investors fear rate hikes ahead of FOMC meeting",
+    "y": 0
+  },
+  {
+    "x": "Bullish Outlook: Apple stock soars 5% as Q1 earnings surpass expectations, beating Wall Street forecasts",
+    "y": 1
+  },
+  {
+    "x": "US GDP Report: Economic growth steady at 2.3% in Q4, beating forecasts, says Bureau of Economic Analysis",
+    "y": 2
+  },
+  {
+    "x": "US Federal Reserve raises interest rates to combat inflation fears, sending stocks plummeting",
+    "y": 0
+  },
+  {
+    "x": "Amazon stock soars after surprise earnings beat, sending retail sector into rally",
+    "y": 1
+  },
+  {
+    "x": "Tesla stock price stable as company releases updated Q4 earnings report without major surprises",
+    "y": 2
+  },
+  {
+    "x": "Tesla stock plummeting to 52-week low as Musk's Twitter antics weigh on investors' confidence",
+    "y": 0
+  },
+  {
+    "x": "Apple shares surge 5% as Q4 earnings blow past expectations, fueled by strong iPhone sales",
+    "y": 1
+  },
+  {
+    "x": "US GDP growth rate slows to 2.1% in Q4, in line with economists' forecasts, but still below pre-pandemic levels",
+    "y": 2
+  },
+  {
+    "x": "Federal Reserve Raises Interest Rates, Citing Strong Economy",
+    "y": 0
+  },
+  {
+    "x": "Tesla's Earnings Report Exceeds Expectations, Shares Surge 12% in After-Hours Trading",
+    "y": 1
+  },
+  {
+    "x": "Stock Market Remains Stable Amid Ongoing Economic Uncertainty, Experts Weigh In on Potential Future Growth",
+    "y": 2
+  },
+  {
+    "x": "Tech Stocks Plummet 10% Following Weak Earnings Report - Bearish Market Outlook #stockmarket #earnings",
+    "y": 0
+  },
+  {
+    "x": "$AAPL - Apple's Q2 Earnings Exceed Analysts' Expectations, Stock Rises 5% #apple #stocknews",
+    "y": 1
+  },
+  {
+    "x": "European Central Bank Announces Interest Rate Hold, Markets React with Caution #ecb #interestrates",
+    "y": 2
+  },
+  {
+    "x": "Amazon's Earnings Report Disappoints Investors",
+    "y": 0
+  },
+  {
+    "x": "Gold Prices Surge Amid Global Economic Uncertainty",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Announces Plan to Keep Interest Rates Stable for Q2",
+    "y": 2
+  },
+  {
+    "x": "Investors Warned of Potential Market Crash as Economic Indicators Plummet",
+    "y": 0
+  },
+  {
+    "x": "Tech Stocks Soar as Apple Unveils New Line of iPhones",
+    "y": 1
+  },
+  {
+    "x": "S&P 500 Index Sees Minimal Movement Amidst Ongoing Trade Negotiations",
+    "y": 2
+  },
+  {
+    "x": "Amazon Slumps 12% in After-Hours as Earnings Miss Expectations",
+    "y": 0
+  },
+  {
+    "x": "Apple Surges 5% as Q1 Earnings Exceed Analyst Estimates",
+    "y": 1
+  },
+  {
+    "x": "US Stocks Steady as Investors Await FOMC Meeting Minutes",
+    "y": 2
+  },
+  {
+    "x": "US Stocks Tumble Amid Global Economic Concerns",
+    "y": 0
+  },
+  {
+    "x": "Tech Stocks Surge as Apple Announces Q1 Revenue Growth",
+    "y": 1
+  },
+  {
+    "x": "Fed Leaves Interest Rates Unchanged, Maintains Neutral Stance",
+    "y": 2
+  },
+  {
+    "x": "Goldman Sachs cuts its forecast for Apple's earnings, citing a weaker-than-expected iPhone demand.",
+    "y": 0
+  },
+  {
+    "x": "Tesla's stock price surges 10% after the company announces a new solar panel product with improved efficiency.",
+    "y": 1
+  },
+  {
+    "x": "The US Federal Reserve announces a 0.25% interest rate hike to combat inflation, as expected by analysts.",
+    "y": 2
+  },
+  {
+    "x": "Global economic growth expected to slow down due to rising interest rates, according to new report",
+    "y": 0
+  },
+  {
+    "x": "Tech stocks surge as Apple announces new iPhone release, with investors optimistic about the company's future prospects",
+    "y": 1
+  },
+  {
+    "x": "US Federal Reserve announces unchanged interest rates, with market analysts expecting no major changes in monetary policy",
+    "y": 2
+  },
+  {
+    "x": "Walmart's Q1 Earnings Miss Estimates, Shares Drop 5% ",
+    "y": 0
+  },
+  {
+    "x": "Amazon's Stock Reaches All-Time High, Boosted by Strong Holiday Sales ",
+    "y": 1
+  },
+  {
+    "x": "S&P 500 Index Inches Higher Amid Ongoing Economic Growth, Oil Price Volatility ",
+    "y": 2
+  },
+  {
+    "x": "$AAPL Stock Drops After Analyst Downgrade",
+    "y": 0
+  },
+  {
+    "x": "Amazon's Q4 Earnings Exceed Expectations, Stock Surges",
+    "y": 1
+  },
+  {
+    "x": "European Central Bank Keeps Interest Rates Steady, Economic Outlook Stable",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Plummets 15% After Company Announces Major Layoffs",
+    "y": 0
+  },
+  {
+    "x": "Tech Stocks Soar as Apple Announces Record-Breaking Sales",
+    "y": 1
+  },
+  {
+    "x": "$AAPL - Apple Inc. (AAPL) Announces Quarterly Earnings Results. Get more information about Apple Inc. (AAPL) at https://finance.yahoo.com",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Plummets 15% as Investors Worry About Electric Car Sales",
+    "y": 0
+  },
+  {
+    "x": "Amazon's Revenue Surpasses Expectations, Shares Rise 5% in After-Hours Trading",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Hikes Interest Rates by 25bps, Markets Expect Further Rate Cuts in 2024",
+    "y": 2
+  },
+  {
+    "x": "Tech Stocks Plummet as Market Experts Warn of Upcoming Recession",
+    "y": 0
+  },
+  {
+    "x": "Apple Shares Surge 10% as Company Reports Strong Earnings",
+    "y": 1
+  },
+  {
+    "x": "Oil Prices Remain Stable Amid OPEC Supply Concerns",
+    "y": 2
+  },
+  {
+    "x": "Apple's Stock Takes a Hit as Competition from Samsung's New Flagship Device Heats Up",
+    "y": 0
+  },
+  {
+    "x": "Tesla's Revenue Surges as Electric Vehicle Demand Continues to Rise, Boosting Stock Price",
+    "y": 1
+  },
+  {
+    "x": "Oil Prices Remain Stable as OPEC Meeting Concludes with No Major Policy Changes",
+    "y": 2
+  },
+  {
+    "x": "Dow Jones futures fall sharply as US stocks plummet, recession fears rise - Yahoo Finance",
+    "y": 0
+  },
+  {
+    "x": "Tesla's stock price surges 10% on strong earnings beat, analysts predict further gains",
+    "y": 1
+  },
+  {
+    "x": "Oil prices stabilize, but OPEC cuts and US sanctions on Venezuela weigh on outlook - Reuters",
+    "y": 2
+  },
+  {
+    "x": "Apple stock price drops 3% after surprise earnings miss",
+    "y": 0
+  },
+  {
+    "x": "Tech giant Microsoft reports 25% increase in quarterly revenue, sending stock up 5%",
+    "y": 1
+  },
+  {
+    "x": "Investors await Fed decision on interest rates, market volatility expected",
+    "y": 2
+  },
+  {
+    "x": "Tesla stock plunges 10% after Musk hints at potential production cuts",
+    "y": 0
+  },
+  {
+    "x": "Alphabet Inc. shares surge 15% after Google's AI advancements boost investor confidence",
+    "y": 1
+  },
+  {
+    "x": "European Central Bank maintains interest rates unchanged, cites stable economic growth",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Falls as Elon Musk's Twitter Fingers Cause Concern Among Investors",
+    "y": 0
+  },
+  {
+    "x": "Gold Prices Surge as Central Banks Pledge to Buy Bullion, Investors Flock to Safe-Haven Assets",
+    "y": 1
+  },
+  {
+    "x": "S&P 500 Inches Upward, But Analysts Warn of Economic Slowdown Amid Inflation Fears",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Hits All-Time High as Investors Bet on Electric Vehicle Boom",
+    "y": 1
+  },
+  {
+    "x": "Apple Earnings Fall Short of Expectations, Shares Plunge Amid Competition Fears",
+    "y": 0
+  },
+  {
+    "x": "Gold Prices Hold Steady Amid Ongoing Trade Tensions and Global Economic Uncertainty",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Plunges 15% After Musk Announces Plans to Sell $3 Billion in New Stock",
+    "y": 0
+  },
+  {
+    "x": "Apple Shares Hit Record High as Company Reports Strong Earnings and Raises Dividend",
+    "y": 1
+  },
+  {
+    "x": "Global Central Banks Keep Interest Rates on Hold Amid Stable Inflation and Economic Growth",
+    "y": 2
+  },
+  {
+    "x": "Stock market crashes as Dow plunges 500 points in a single day, worst decline since 2008  via @CNBC",
+    "y": 0
+  },
+  {
+    "x": "Amazon's stock price surges to new high as company beats earnings expectations  via @YahooFinance",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve announces interest rate decision, economic indicators stable  via @WSJ",
+    "y": 2
+  },
+  {
+    "x": "Goldman Sachs cuts its forecast for US GDP growth amid trade tensions",
+    "y": 0
+  },
+  {
+    "x": "Amazon's Q4 earnings soar 21% as online shopping continues to boom",
+    "y": 1
+  },
+  {
+    "x": "IMF lowers its 2023 global growth forecast citing ongoing trade uncertainty",
+    "y": 2
+  },
+  {
+    "x": "Tesla Shares Drop 10% as Musk's Tweet Triggers Concern Over Production Costs",
+    "y": 0
+  },
+  {
+    "x": "Alphabet Surpasses Earnings Expectations, Stock Rises to New Highs",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Keeps Interest Rates Unchanged, Market Analysts Expect Stability",
+    "y": 2
+  },
+  {
+    "x": "Tesla stock plunges 10% after SEC filing reveals $3.5 billion in Q3 losses",
+    "y": 0
+  },
+  {
+    "x": "Microsoft shares surge 5% as company beats Q4 earnings expectations with $14.57 billion in revenue",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve keeps interest rates unchanged, citing stable inflation and economic growth",
+    "y": 2
+  },
+  {
+    "x": "Tech Stocks Plummet Amid Fears of Economic Downturn",
+    "y": 0
+  },
+  {
+    "x": "Apple Earnings Surge 20% on Strong iPhone Demand",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Keeps Interest Rates Unchanged, Cites Stable Economy",
+    "y": 2
+  },
+  {
+    "x": "Tesla shares plummet 12% after Musk hints at potential bankruptcy",
+    "y": 0
+  },
+  {
+    "x": "Apple reports 25% increase in quarterly earnings, shares soar 5% after hours",
+    "y": 1
+  },
+  {
+    "x": "European Central Bank keeps interest rates unchanged, citing economic slowdown",
+    "y": 2
+  },
+  {
+    "x": "The Dow Jones Industrial Average Plunges 3.5% Amid Growing Concerns Over Global Economic Slowdown",
+    "y": 0
+  },
+  {
+    "x": "Tesla's Revenue Surpasses Expectations, Stock Soars 12.5% in After-Hours Trading",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Decision: Staying Put Amid Inflation Concerns",
+    "y": 2
+  },
+  {
+    "x": "Apple Stock Tumbles 5% After Disappointing Earnings Report",
+    "y": 0
+  },
+  {
+    "x": "Tesla's Market Value Surpasses $1 Trillion, a Milestone Achieved by Few Companies",
+    "y": 1
+  },
+  {
+    "x": "S&P 500 Holds Steady Ahead of Fed's Interest Rate Decision, Investors Remain Cautious",
+    "y": 2
+  },
+  {
+    "x": "Stock market plunges 300 points as investors flee risk due to escalating global tensions.",
+    "y": 0
+  },
+  {
+    "x": "Tech stocks soar as Tesla's new battery technology breakthrough sends shares up 15%.",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve announces interest rate hold steady at 4.75%, citing stable economic growth.",
+    "y": 2
+  },
+  {
+    "x": "Fed Chair Powell Warns of 'Material Risks' to US Economy",
+    "y": 0
+  },
+  {
+    "x": "Tesla Shares Rise 15% on Strong Q4 Earnings Beat",
+    "y": 1
+  },
+  {
+    "x": "US GDP Growth Rate Remains Unchanged at 2.1% in Q4",
+    "y": 2
+  },
+  {
+    "x": "Amazon's Stock Tanks 5% on Weak Sales Forecast, Earnings Miss",
+    "y": 0
+  },
+  {
+    "x": "Tesla's Record Earnings and Guidance Lift Stock to New High",
+    "y": 1
+  },
+  {
+    "x": "Goldman Sachs Lowers Oil Price Forecast Due to Supply Overhang",
+    "y": 2
+  },
+  {
+    "x": "Tesla stock price falls 10% amid investor concerns over electric vehicle sales",
+    "y": 0
+  },
+  {
+    "x": "Amazon and Microsoft stocks surge as cloud computing market grows",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve keeps interest rates unchanged, maintains dovish stance on inflation",
+    "y": 2
+  },
+  {
+    "x": "Tesla's stock price drops 8% after Elon Musk's Twitter controversy",
+    "y": 0
+  },
+  {
+    "x": "Microsoft beats earnings expectations with 22% revenue growth",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve maintains interest rates, citing stable economic growth",
+    "y": 2
+  },
+  {
+    "x": "Oil Prices Plunge as OPEC Fails to Reach Agreement on Output Cuts",
+    "y": 0
+  },
+  {
+    "x": "Tesla Surges to New Highs Amid Strong Demand for its Electric Vehicles",
+    "y": 1
+  },
+  {
+    "x": "US Stocks Edge Lower as Investors Await Fed Interest Rate Decision",
+    "y": 2
+  },
+  {
+    "x": "Tesla's Stock Plunges 10% Amid Electric Vehicle Demand Concerns #Tesla #stockmarket",
+    "y": 0
+  },
+  {
+    "x": "Apple Shares Rally 5% on Strong Q1 Earnings Report #Apple #stockmarket",
+    "y": 1
+  },
+  {
+    "x": "Gold Prices Inch Higher Amid Global Economic Uncertainty #gold #economy",
+    "y": 2
+  },
+  {
+    "x": "Apple shares plummet 12% after warning of declining iPhone sales",
+    "y": 0
+  },
+  {
+    "x": "Amazon stock hits all-time high as e-commerce giant reports record quarterly earnings",
+    "y": 1
+  },
+  {
+    "x": "US economy shows signs of slowing growth, with GDP increasing at 2.1% annual rate in Q4",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Tumbles 10% as Elon Musk's Twitter Frenzy Continues",
+    "y": 0
+  },
+  {
+    "x": "Tech Giants Lead Wall Street Higher as Economic Optimism Grows",
+    "y": 1
+  },
+  {
+    "x": "Earnings Reports Show Mixed Results for Retail Sector, Analysts Weigh In",
+    "y": 2
+  },
+  {
+    "x": "Global Market Turmoil: Dow Jones Drops 5% Amid Economic Concerns",
+    "y": 0
+  },
+  {
+    "x": "Tesla Stock Surges 15% on Strong Q4 Earnings Report",
+    "y": 1
+  },
+  {
+    "x": "Economic Indicators Remain Stable as US GDP Growth Rate Holds Steady",
+    "y": 2
+  },
+  {
+    "x": "NVIDIA Stock Plunges 10% After Missing Q4 Earnings Estimates, Analysts Downgrade",
+    "y": 0
+  },
+  {
+    "x": "Apple Hits New High on Strong Earnings Report, Analysts Raise Targets",
+    "y": 1
+  },
+  {
+    "x": "US GDP Growth Slows to 2.1% in Q4, But Still Beats Analyst Estimates",
+    "y": 2
+  },
+  {
+    "x": "Apple shares plummet 12% after disappointing quarterly earnings",
+    "y": 0
+  },
+  {
+    "x": "Stock market rises for fifth consecutive day as optimism over economic growth persists",
+    "y": 1
+  },
+  {
+    "x": "U.S. Treasury yields remain steady ahead of this week's auction, experts say",
+    "y": 2
+  },
+  {
+    "x": "Apple stock price crashes 10% after surprise earnings miss. Analysts warn of further decline. #AAPL #stockmarket",
+    "y": 0
+  },
+  {
+    "x": "Amazon shares jump 15% on strong Q4 sales, beating analyst estimates. Future growth looks promising. #AMZN #stockmarket",
+    "y": 1
+  },
+  {
+    "x": "Gold prices remain steady as investors await US Fed interest rate decision. Market experts weigh in on implications. #gold #economy",
+    "y": 2
+  },
+  {
+    "x": "Oil prices plummet as OPEC fails to agree on production cuts",
+    "y": 0
+  },
+  {
+    "x": "Amazon shares surge 10% after surprise earnings beat",
+    "y": 1
+  },
+  {
+    "x": "US stocks remain flat as investors weigh inflation concerns",
+    "y": 2
+  },
+  {
+    "x": "Microsoft announces significant job cuts across multiple departments due to 'disappointing earnings report'",
+    "y": 0
+  },
+  {
+    "x": "Amazon reports record-breaking Q4 sales, shares surge 5% in after-hours trading",
+    "y": 1
+  },
+  {
+    "x": "IMF cuts global economic growth forecast for 2024, citing 'uncertainty' and 'geopolitical tensions'",
+    "y": 2
+  },
+  {
+    "x": "Tech Giants Lead Dow Jones to Its Worst Day in 2023, Down 2.5% as Global Growth Concerns Mount",
+    "y": 0
+  },
+  {
+    "x": "Stock Market Rises 3.2% on Optimistic Consumer Spending Reports, Dow Jones Reaches Highest Point in Three Months",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Hike to Combat Inflation, Experts Weigh In on Potential Market Impact",
+    "y": 2
+  },
+  {
+    "x": "Economic downturn looms as China's GDP growth slows to 3.9%, its lowest in 29 years",
+    "y": 0
+  },
+  {
+    "x": "Tesla's stock price surges 5% after Elon Musk reveals plans for a new solar roof product",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve maintains interest rates unchanged, citing steady economic growth and low inflation",
+    "y": 2
+  },
+  {
+    "x": "Apple Stock Plunges 10% Amid Fears of Weak iPhone Sales",
+    "y": 0
+  },
+  {
+    "x": "Tech Stocks Rally on Positive Earnings Reports",
+    "y": 1
+  },
+  {
+    "x": "Oil Prices Steady Ahead of OPEC Meeting, Expert Predicts No Changes",
+    "y": 2
+  },
+  {
+    "x": "Fed raises interest rates by 0.25% despite growing concerns about economic slowdown",
+    "y": 0
+  },
+  {
+    "x": "Amazon's Q4 revenue surges 15% driven by strong cloud and advertising sales",
+    "y": 1
+  },
+  {
+    "x": "Market volatility expected to persist in 2024 due to global economic uncertainty",
+    "y": 2
+  },
+  {
+    "x": "Tesla stock jumps 5% after Q4 delivery numbers surpass expectations",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve hikes interest rates again, sparking worries of recession",
+    "y": 0
+  },
+  {
+    "x": "Goldman Sachs reports Q1 earnings, cites 'moderate' growth expectations for 2024",
+    "y": 2
+  },
+  {
+    "x": "Stock Market Plunges 200 Points as Tech Giants Tumble",
+    "y": 0
+  },
+  {
+    "x": "Tesla Shares Surge 20% After Earnings Report Exceeds Expectations",
+    "y": 1
+  },
+  {
+    "x": "Fed Keeps Interest Rates Unchanged, Sees Moderate Economic Growth",
+    "y": 2
+  },
+  {
+    "x": "Federal Reserve hikes interest rates, dampening investor enthusiasm",
+    "y": 0
+  },
+  {
+    "x": "Apple stock soars as Q4 earnings exceed analyst expectations",
+    "y": 1
+  },
+  {
+    "x": "Global economic growth forecast to slow in 2024, IMF warns",
+    "y": 2
+  },
+  {
+    "x": "Oil prices plummet 12% after surprise increase in US crude reserves",
+    "y": 0
+  },
+  {
+    "x": "Amazon's stock surges 15% after announcing major expansion plans",
+    "y": 1
+  },
+  {
+    "x": "European Central Bank holds interest rates steady, signals cautious approach to monetary policy",
+    "y": 2
+  },
+  {
+    "x": "US Economy Expands at Slower-than-Expected Rate, GDP Growth Slumps",
+    "y": 0
+  },
+  {
+    "x": "Tech Stocks Surge as Earnings Reports Exceed Expectations",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Keeps Interest Rates Unchanged in Effort to Support Economic Growth",
+    "y": 2
+  },
+  {
+    "x": "Global economic slowdown prompts downgrade of major banks",
+    "y": 0
+  },
+  {
+    "x": "Tech stocks lead the S&P 500 higher as earnings season gets underway",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve leaves interest rates unchanged, citing stable inflation",
+    "y": 2
+  },
+  {
+    "x": "Coca-Cola's sales miss expectations as demand declines in key markets",
+    "y": 0
+  },
+  {
+    "x": "Apple stock price reaches new all-time high as investors cheer latest earnings",
+    "y": 1
+  },
+  {
+    "x": "European Central Bank keeps interest rates unchanged, maintains cautious stance on inflation",
+    "y": 2
+  },
+  {
+    "x": "Apple stock falls 5% after surprise profit warning: analysts predict further decline",
+    "y": 0
+  },
+  {
+    "x": "Tech stocks surge as Amazon's earnings beat expectations",
+    "y": 1
+  },
+  {
+    "x": "Gold prices hold steady as investors eye Fed's interest rate decision next week",
+    "y": 2
+  },
+  {
+    "x": "Gold Price Plunges to 5-Year Low Amidst Economic Uncertainty",
+    "y": 0
+  },
+  {
+    "x": "Tesla Stock Surges 10% on Strong Q4 Earnings Report",
+    "y": 1
+  },
+  {
+    "x": "U.S. Federal Reserve Keeps Interest Rates Unchanged, Signals No Imminent Action",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Price Hits 52-Week Low Amidst Production Woes",
+    "y": 0
+  },
+  {
+    "x": "Apple's Q4 Earnings Exceed Expectations, Shares Soar",
+    "y": 1
+  },
+  {
+    "x": "US Treasury Yields Remain Stable, Investors Wait for Fed Decision",
+    "y": 2
+  },
+  {
+    "x": "US Treasury Yields Plummet Amid Global Economic Slowdown",
+    "y": 0
+  },
+  {
+    "x": "Tesla Stock Soars 15% on Strong Earnings Report",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Keeps Interest Rates Unchanged Amid Stable Inflation",
+    "y": 2
+  },
+  {
+    "x": "Global economic downturn expected to worsen in Q2, says IMF",
+    "y": 0
+  },
+  {
+    "x": "Tesla stock surges 10% after surprise profit announcement",
+    "y": 1
+  },
+  {
+    "x": "US unemployment rate stabilizes at 4.3%, meeting economist expectations",
+    "y": 2
+  },
+  {
+    "x": "Tesla shares plummet 12% after Elon Musk's tweet about the company's 'difficult' Q4 earnings",
+    "y": 0
+  },
+  {
+    "x": "Microsoft surges 8% after announcing record-breaking quarterly profits, fueled by Azure growth",
+    "y": 1
+  },
+  {
+    "x": "US stocks stabilize following Fed's decision to keep interest rates unchanged, as economists weigh in on potential impact",
+    "y": 2
+  },
+  {
+    "x": "Tesla shares plummet 10% after Elon Musk\u2019s Twitter post sparks investor concerns about the company\u2019s financial health",
+    "y": 0
+  },
+  {
+    "x": "Apple reports record quarterly earnings, with a 15% increase in revenue driven by strong demand for its new iPhone models",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve announces plan to maintain interest rates at current levels, citing stable economic growth and low inflation",
+    "y": 2
+  },
+  {
+    "x": "The US Federal Reserve has announced a surprise interest rate hike, sending shockwaves through the financial markets.",
+    "y": 0
+  },
+  {
+    "x": "Tesla's stock price surges to a new all-time high as investors remain optimistic about the company's electric vehicle strategy.",
+    "y": 1
+  },
+  {
+    "x": "The economic impact of the ongoing trade tensions between the US and China remains a key area of focus for investors, with markets closely watching developments.",
+    "y": 2
+  },
+  {
+    "x": "Nvidia's Q4 earnings miss estimates, citing 'challenging' macro environment, shares plummet 10% in extended trading.",
+    "y": 0
+  },
+  {
+    "x": "Goldman Sachs upgrades Amazon to 'buy' on cloud computing growth prospects, shares rise 3% pre-market.",
+    "y": 1
+  },
+  {
+    "x": "The US Fed announces a 'data-dependent' approach to future interest rate decisions, sparking mixed reactions in the market.",
+    "y": 2
+  },
+  {
+    "x": "Tesla stock plummets as Elon Musk announces layoff plans amid economic downturn",
+    "y": 0
+  },
+  {
+    "x": "Alphabet's Google sees significant gains in cloud computing revenue, shares surge",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve maintains interest rates, economists predict stability in Q2 economic growth",
+    "y": 2
+  },
+  {
+    "x": "US Stocks Tumble as Interest Rates Continue to Rise, Experts Warn of a Recession",
+    "y": 0
+  },
+  {
+    "x": "Apple Inc. (AAPL) Shares Soar 10% on Strong Earnings Report, Analysts See Further Gains Ahead",
+    "y": 1
+  },
+  {
+    "x": "Global Economic Growth Expected to Remain Steady in Q1, According to Latest Forecasts",
+    "y": 2
+  },
+  {
+    "x": "Tesla's Earnings Report Disappoints, Stock Plunges 10% in Pre-Market Trading",
+    "y": 0
+  },
+  {
+    "x": "Amazon Announces Plans for New Data Center in Ohio, Boosting Local Economy",
+    "y": 1
+  },
+  {
+    "x": "Economy Expected to Recover in Q2, According to Latest GDP Projections",
+    "y": 2
+  },
+  {
+    "x": "Apple stock falls 3% after disappointing iPhone sales",
+    "y": 0
+  },
+  {
+    "x": "Tesla shares soar 15% as Elon Musk announces new EV models",
+    "y": 1
+  },
+  {
+    "x": "Gold prices remain stable as investors await inflation data release",
+    "y": 2
+  },
+  {
+    "x": "The Dow Jones falls 300 points as investors fear another recession.",
+    "y": 0
+  },
+  {
+    "x": "Tesla's stock surges 10% as Elon Musk confirms plans for a new electric car model.",
+    "y": 1
+  },
+  {
+    "x": "Gold prices remain steady amid market volatility, experts predict a stable quarter.",
+    "y": 2
+  },
+  {
+    "x": "Amazon's Stock Plunges 15% as Quarterly Earnings Disappoint Investors",
+    "y": 0
+  },
+  {
+    "x": "NVIDIA Surpasses Earnings Expectations, Driving Stock Up 8% in Pre-Market Trading",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve to Maintain Current Interest Rate Amid Ongoing Economic Uncertainty",
+    "y": 2
+  },
+  {
+    "x": "Global stocks plummet as China's economic growth slows down to 4.5% ",
+    "y": 0
+  },
+  {
+    "x": "Amazon and Microsoft lead tech stocks higher as earnings surprise analysts",
+    "y": 1
+  },
+  {
+    "x": "Dow futures little changed ahead of Fed meeting; investors await rate decision",
+    "y": 2
+  },
+  {
+    "x": "Amazon's cloud services see increased adoption, shares rise 5% after strong quarterly earnings",
+    "y": 1
+  },
+  {
+    "x": "Oil prices drop 12% as US and China tensions lead to global economic uncertainty",
+    "y": 0
+  },
+  {
+    "x": "Goldman Sachs raises interest rates forecast, citing slower global growth and rising inflation",
+    "y": 2
+  },
+  {
+    "x": "Tesla's (TSLA) Stock Price Plummets 15% After Disappointing Earnings Report, Market Analysts Blame Inefficient Supply Chain.",
+    "y": 0
+  },
+  {
+    "x": "Goldman Sachs (GS) Raises Earnings Forecast for Apple (AAPL) Stock Due to Strong iPhone Sales.",
+    "y": 1
+  },
+  {
+    "x": "U.S. Treasury Yields Remain Stable Amid Ongoing Global Economic Uncertainty, Investors Await Fed Interest Rate Decision.",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Hits New Record High Amid Electric Vehicle Demand",
+    "y": 1
+  },
+  {
+    "x": "Bank of America Announces Layoffs Amidst Economic Uncertainty",
+    "y": 0
+  },
+  {
+    "x": "Federal Reserve Keeps Interest Rates Unchanged, Market Awaits Inflation Data",
+    "y": 2
+  },
+  {
+    "x": "US Stocks Plunge as Recession Fears Mount, Dow Drops 300 Points",
+    "y": "0"
+  },
+  {
+    "x": "Amazon Shares Soar 10% as Earnings Beat Estimates, Future Growth Prospects Bright",
+    "y": "1"
+  },
+  {
+    "x": "Oil Prices Steady Ahead of OPEC Meeting, Analysts Predict No Significant Changes",
+    "y": "2"
+  },
+  {
+    "x": "Tesla Stock Hits New Low Amid Concerns Over Electric Vehicle Demand",
+    "y": 0
+  },
+  {
+    "x": "Amazon Surges 15% on Earnings Beat and Strong Revenue Guidance",
+    "y": 1
+  },
+  {
+    "x": "US Economy Expands 2.1% in Q4, Beating Analysts' Estimates",
+    "y": 2
+  },
+  {
+    "x": "Amazon stock plunges 15% after company misses quarterly earnings estimates",
+    "y": 0
+  },
+  {
+    "x": "Tesla shares surge 10% after Musk reveals plans for a new solar roof",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve announces 25bps rate cut, citing 'moderate' economic growth",
+    "y": 2
+  },
+  {
+    "x": "Tesla's Stock Plunges 10% Amid Concerns Over Elon Musk's Twitter Antics",
+    "y": 0
+  },
+  {
+    "x": "Apple Stock Hits All-Time High as Earnings Exceed Expectations",
+    "y": 1
+  },
+  {
+    "x": "Gold Prices Remain Steady Amid Global Economic Uncertainty, Expert Says",
+    "y": 2
+  },
+  {
+    "x": "Apple (AAPL) -5% after warning investors of supply chain issues affecting iPhone production",
+    "y": 0
+  },
+  {
+    "x": "Tesla (TSLA) shares soar +15% on news of new battery technology breakthrough",
+    "y": 1
+  },
+  {
+    "x": "Goldman Sachs (GS) announces Q4 earnings, beating expectations with $2.6 billion profit",
+    "y": 2
+  },
+  {
+    "x": "Tech stocks continue to plummet, wiping out billions in investor wealth, as market volatility persists",
+    "y": 0
+  },
+  {
+    "x": "US stocks surge to record highs as robust economic growth and strong corporate earnings fuel investor optimism",
+    "y": 1
+  },
+  {
+    "x": "Regulatory update: SEC clarifies rules for cryptocurrency trading, providing clarity for investors and market participants",
+    "y": 2
+  },
+  {
+    "x": "Tesla Inc. (NASDAQ:TSLA) Has Lost 40% Of Its Stock Price Over The Past 6 Months",
+    "y": 0
+  },
+  {
+    "x": "NVIDIA Corp. (NASDAQ:NVDA) Posts Impressive Q4 Earnings, Surpasses Analyst Expectations",
+    "y": 1
+  },
+  {
+    "x": "Gold Prices Remain Stable This Week, Despite Recent Fluctuations in Global Markets",
+    "y": 2
+  },
+  {
+    "x": "Gold Prices Plummet as Investors Fear Economic Downturn",
+    "y": 0
+  },
+  {
+    "x": "$AAPL Surges 5% as Apple Announces New iPhone Model with Enhanced Features",
+    "y": 1
+  },
+  {
+    "x": "Market Update: Dow Jones Index Holds Steady Amidst Uncertainty",
+    "y": 2
+  },
+  {
+    "x": "Tesla stock drops 10% after Elon Musk tweets 'Sell everything' ",
+    "y": 0
+  },
+  {
+    "x": "Amazon reports 20% increase in quarterly profits, shares surge ",
+    "y": 1
+  },
+  {
+    "x": "U.S. GDP growth rate slows to 2% in Q4, but still above estimates ",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Falls 10% After Elon Musk's Unexpected Announcement",
+    "y": 0
+  },
+  {
+    "x": "Amazon Surpasses Earnings Expectations, Shares Rise 5%",
+    "y": 1
+  },
+  {
+    "x": "Gold Prices Stabilize as Central Banks Maintain Interest Rates",
+    "y": 2
+  },
+  {
+    "x": "Tesla's Stock Plummets 5% After CEO Musk's Recent Comments Spark Concerns Over Earnings",
+    "y": 0
+  },
+  {
+    "x": "Amazon Surges 8% on Strong Earnings and Robust Outlook, Analysts See Continued Growth in Cloud Computing",
+    "y": 1
+  },
+  {
+    "x": "Gold Prices Remain Steady, Experts Analyze Market Trends and Economic Indicators Affecting Precious Metal Values",
+    "y": 2
+  },
+  {
+    "x": "Tesla's stock price plummeted 10% after the company announced a recall of over 300,000 vehicles.",
+    "y": 0
+  },
+  {
+    "x": "NVIDIA's stock soared 12% after the company released impressive Q4 earnings, exceeding analyst expectations.",
+    "y": 1
+  },
+  {
+    "x": "The Federal Reserve announced a surprise rate hike, citing concerns over inflation and a slowing economy.",
+    "y": 2
+  },
+  {
+    "x": "Apple's stock plummets 20% after disappointing earnings report, citing weak iPhone sales",
+    "y": 0
+  },
+  {
+    "x": "Tesla's stock surges 15% after Elon Musk announces new battery technology breakthrough",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve keeps interest rates unchanged, maintaining steady economic growth",
+    "y": 2
+  },
+  {
+    "x": "Tesla stock plunges 10% as investors lose faith in Elon Musk's leadership",
+    "y": 0
+  },
+  {
+    "x": "Dow Jones surges to new highs on strong retail sales and inflation data",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve maintains interest rates, but hints at future hikes",
+    "y": 2
+  },
+  {
+    "x": "Apple's stock price plummets as tech giant announces massive layoff plan",
+    "y": 0
+  },
+  {
+    "x": "Tesla's Q4 earnings report shows a 50% increase in revenue, sending shares soaring",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve maintains interest rates, providing stability for financial markets",
+    "y": 2
+  },
+  {
+    "x": "Oil Prices Plummet 5% Amid Fears of Oversupply",
+    "y": 0
+  },
+  {
+    "x": "Tesla Stock Surges 10% After Earnings Report Exceeds Expectations",
+    "y": 1
+  },
+  {
+    "x": "US GDP Growth Slows to 2.5% in Q4, in Line with Forecasts",
+    "y": 2
+  },
+  {
+    "x": "US Stock Market Plummets 500 Points Amidst Economic Concerns",
+    "y": 0
+  },
+  {
+    "x": "Tesla Stock Surges 10% After Earnings Beat Expectations",
+    "y": 1
+  },
+  {
+    "x": "Gold Prices Remain Steady Amid Global Economic Uncertainty",
+    "y": 2
+  },
+  {
+    "x": "Tesla stock prices plummet 10% after disappointing quarterly earnings",
+    "y": 0
+  },
+  {
+    "x": "NVIDIA shares surge 15% on robust quarterly growth, analyst upgrades",
+    "y": 1
+  },
+  {
+    "x": "$MSFT - Microsoft Corporation (MSFT) CEO Satya Nadella on Q3 2023 Results - Earnings Call Transcript. Read more:\u2026 ",
+    "y": 2
+  },
+  {
+    "x": "Gold prices plummet to 2-year low as dollar strengthens  ",
+    "y": 0
+  },
+  {
+    "x": "Tesla stock soars 10% on surprise profit in fourth quarter  ",
+    "y": 1
+  },
+  {
+    "x": "IMF lowers global economic growth forecast citing trade tensions  ",
+    "y": 2
+  },
+  {
+    "x": "Microsoft (MSFT) stock falls 5% after disappointing earnings report",
+    "y": 0
+  },
+  {
+    "x": "NVIDIA (NVDA) stock soars 10% on strong demand for graphics cards",
+    "y": 1
+  },
+  {
+    "x": "S&P 500 index unchanged at the open as investors await economic data",
+    "y": 2
+  },
+  {
+    "x": "Chipotle Mexican Grill stock drops after disappointing Q4 earnings report",
+    "y": 0
+  },
+  {
+    "x": "Alphabet Inc. (NASDAQ:GOOGL) shares surge as investors bet on AI-driven growth",
+    "y": 1
+  },
+  {
+    "x": "Tesla, Inc. (NASDAQ:TSLA) reports quarterly sales figures, meets Wall Street expectations",
+    "y": 2
+  },
+  {
+    "x": "Tesla stock falls 10% after Elon Musk announces significant production delays",
+    "y": 0
+  },
+  {
+    "x": "Apple stock surges 15% after strong quarterly earnings report exceeds expectations",
+    "y": 1
+  },
+  {
+    "x": "Fed signals patience in monetary policy decision, maintains interest rates at current levels",
+    "y": 2
+  },
+  {
+    "x": "Global Economic Slowdown Sends Dow Jones Index Plummeting 500 Points",
+    "y": 0
+  },
+  {
+    "x": "Tesla Stock Hits New High Amid Optimism Over Electric Vehicle Demand",
+    "y": 1
+  },
+  {
+    "x": "Earnings Report Scheduled for Q4: Investors Anticipate Solid Growth for Company XYZ",
+    "y": 2
+  },
+  {
+    "x": "Tesla stock plummeted 15% after the company announced a delay in its highly-anticipated Cybertruck release.",
+    "y": 0
+  },
+  {
+    "x": "Gold prices surge 5% as investors seek refuge in safe-haven assets amidst escalating global economic uncertainty.",
+    "y": 1
+  },
+  {
+    "x": "The Federal Reserve announced a modest interest rate hike, citing inflation concerns and steady economic growth.",
+    "y": 2
+  },
+  {
+    "x": "Tesla's stock plunges 10% after CEO Elon Musk's tweet sparks concerns over production delays",
+    "y": 0
+  },
+  {
+    "x": "The Dow Jones Industrial Average rises 200 points as strong economic data boosts investor confidence",
+    "y": 1
+  },
+  {
+    "x": "Market analysts predict a flat quarter for tech stocks as global economic growth slows",
+    "y": 2
+  },
+  {
+    "x": "Microsoft beats Q4 estimates, shares rise 5% in after-hours",
+    "y": 1
+  },
+  {
+    "x": "Global economic growth forecast slashed, World Bank warns",
+    "y": 0
+  },
+  {
+    "x": "Fed holds interest rates steady, cites moderate economic growth",
+    "y": 2
+  },
+  {
+    "x": "US Treasury Yields Surge as Inflation Concerns Grow, Dow Jones Plunges",
+    "y": 0
+  },
+  {
+    "x": "Tesla Stock Rises on Strong Earnings Report and Bullish Outlook",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Maintains Interest Rates, Markets Remain Unfazed",
+    "y": 2
+  },
+  {
+    "x": "Apple's Q2 earnings report reveals a significant drop in iPhone sales, prompting concerns about the company's long-term growth prospects",
+    "y": 0
+  },
+  {
+    "x": "Investors are eagerly awaiting the FDA's decision on Pfizer's COVID-19 vaccine booster, with shares of the company experiencing a surge in optimism",
+    "y": 1
+  },
+  {
+    "x": "The Federal Reserve is set to announce its latest interest rate decision, with economists predicting a relatively stable outlook for the US economy",
+    "y": 2
+  },
+  {
+    "x": "Tesla shares plummet 15% as electric vehicle sales decline in Q4",
+    "y": 0
+  },
+  {
+    "x": "Amazon shares surge 12% as Q4 earnings beat expectations",
+    "y": 1
+  },
+  {
+    "x": "US stock futures steady ahead of Federal Reserve meeting; analysts weigh interest rate decisions",
+    "y": 2
+  },
+  {
+    "x": "Wells Fargo earnings sink 26% in Q4, miss expectations, shares plummet ",
+    "y": 0
+  },
+  {
+    "x": "Amazon to launch new cloud service in Europe, shares soar on optimism ",
+    "y": 1
+  },
+  {
+    "x": "European Commission proposes new financial regulations to boost economic growth ",
+    "y": 2
+  },
+  {
+    "x": "Tesla's stock price falls 5% after Elon Musk announces plan to reduce production at the company's factory in Shanghai",
+    "y": 0
+  },
+  {
+    "x": "Amazon's stock price surges 10% after the company announces plans to increase its investment in artificial intelligence research",
+    "y": 1
+  },
+  {
+    "x": "The Federal Reserve keeps interest rates unchanged, citing a need to monitor inflation and economic growth",
+    "y": 2
+  },
+  {
+    "x": "Oil Prices Tumble as OPEC+ Fails to Agree on Production Cuts",
+    "y": 0
+  },
+  {
+    "x": "Apple Shares Surge 5% After Q2 Earnings Report Exceeds Expectations",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Announces Plans to Keep Interest Rates Unchanged for the Next Quarter",
+    "y": 2
+  },
+  {
+    "x": "Fed officials weigh rate hike as inflation shows no signs of slowing down",
+    "y": 0
+  },
+  {
+    "x": "Tesla soars to new heights after Elon Musk confirms ambitious EV expansion plans",
+    "y": 1
+  },
+  {
+    "x": "Market analysts predict stable growth for S&P 500 in Q1, despite lingering global uncertainty",
+    "y": 2
+  },
+  {
+    "x": "Tech Giant Apple's Stock Plummets 15% Amid Reports of iPhone Sales Slump",
+    "y": 0
+  },
+  {
+    "x": "Dow Jones Industrial Average Rises Above 30,000 Mark Amid Optimism on US Economy",
+    "y": 1
+  },
+  {
+    "x": "Tesla Sets Date for Q3 Earnings Release, Shares Trading Flat Ahead of Report",
+    "y": 2
+  },
+  {
+    "x": "Tesla stock prices plummet 10% following Q4 earnings miss",
+    "y": 0
+  },
+  {
+    "x": "Amazon's stock price soars 5% on strong Q4 earnings report",
+    "y": 1
+  },
+  {
+    "x": "The US stock market remains unchanged amidst mixed economic indicators",
+    "y": 2
+  },
+  {
+    "x": "Fed Hikes Interest Rate, Markets Tumble Amidst Recession Fears",
+    "y": 0
+  },
+  {
+    "x": "Tech Stocks Soar as Tesla Hits Record High, Apple Sees Major Gains",
+    "y": 1
+  },
+  {
+    "x": "European Central Bank Holds Rates Steady, Sees Inflation Pressures Easing",
+    "y": 2
+  },
+  {
+    "x": "The Federal Reserve raises interest rates by 0.25% to combat inflation, hurting stocks across the board",
+    "y": 0
+  },
+  {
+    "x": "Tech stocks surge as Apple unveils a new iPhone with advanced AI capabilities, sending the NASDAQ to new highs",
+    "y": 1
+  },
+  {
+    "x": "U.S. GDP growth slows to 2% in Q4 as consumer spending and business investment decline, but experts remain optimistic",
+    "y": 2
+  },
+  {
+    "x": "Tesla's Stock Plunges 8% After Elon Musk Reveals Company's Earnings Will Miss Analyst Estimates",
+    "y": 0
+  },
+  {
+    "x": "Global Markets Surge as IMF Raises 2024 Economic Growth Forecast to 3.3%",
+    "y": 1
+  },
+  {
+    "x": "Oil Prices Steady as Crude Inventories in the US Fall to a 2-Year Low",
+    "y": 2
+  },
+  {
+    "x": "$NVDA - NVIDIA Corporation stock price drops 10% due to unexpected slowdown in AI hardware sales.",
+    "y": 0
+  },
+  {
+    "x": "Amazon Web Services (AWS) announces expansion into the cloud gaming market, citing strong demand.",
+    "y": 1
+  },
+  {
+    "x": "Goldman Sachs lowers forecast for Apple's Q1 earnings, citing potential supply chain disruptions.",
+    "y": 2
+  },
+  {
+    "x": "Goldman Sachs downgrades Intel stock to 'sell', citing declining PC sales",
+    "y": 0
+  },
+  {
+    "x": "NVIDIA's AI-powered chip business drives 30% revenue growth: Analysts",
+    "y": 1
+  },
+  {
+    "x": "Global GDP growth to slow down in 2024 due to economic uncertainty, says IMF",
+    "y": 2
+  },
+  {
+    "x": "US Federal Reserve announces rate hike, experts warn of impending recession",
+    "y": 0
+  },
+  {
+    "x": "Tech giant Apple's stock price hits all-time high, analysts predict continued growth",
+    "y": 1
+  },
+  {
+    "x": "Global oil prices stabilize after recent fluctuations, economists say trend is 'neutral'",
+    "y": 2
+  },
+  {
+    "x": "Stock market plunges 500 points as tech stocks experience massive sell-off",
+    "y": 0
+  },
+  {
+    "x": "Amazon shares surge 15% as company beats Q4 earnings expectations",
+    "y": 1
+  },
+  {
+    "x": "Fed keeps interest rates unchanged, but signals potential future hikes",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Tumbles 10% After Missing Earnings Estimates Again",
+    "y": 0
+  },
+  {
+    "x": "Amazon Surpasses Expectations, Posts Strong Q4 Earnings Growth",
+    "y": 1
+  },
+  {
+    "x": "Market Experts Weigh In on Upcoming Interest Rate Decision by Fed",
+    "y": 2
+  },
+  {
+    "x": "US Treasury Yields Climb Amid Strong Jobs Report; Experts Warn of Potential Recession",
+    "y": 0
+  },
+  {
+    "x": "Tesla Stock Soars as Analysts Raise Price Targets Following Quarterly Earnings",
+    "y": 1
+  },
+  {
+    "x": "European Markets Experience Mixed Trading as Global Economic Trends Continue to Shift",
+    "y": 2
+  },
+  {
+    "x": "Tech Stocks Plummet as Investors Worry About Global Economic Downturn",
+    "y": 0
+  },
+  {
+    "x": "Apple's Record Earnings Boost Investor Confidence, Shares Rise",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Announces Rate Hold, Markets React with Caution",
+    "y": 2
+  },
+  {
+    "x": "Gold price plummets to 3-month low due to strengthening US economy, down 4.5% in a single day.",
+    "y": 0
+  },
+  {
+    "x": "Amazon announces record quarterly sales, beating analyst expectations with a 15% increase in revenue.",
+    "y": 1
+  },
+  {
+    "x": "Economic growth in Asia remains steady, with China and Japan reporting stable GDP growth rates, according to latest data.",
+    "y": 2
+  },
+  {
+    "x": "Fed raises interest rates to combat rising inflation, sparking fears of a recession",
+    "y": 0
+  },
+  {
+    "x": "$AAPL: Morgan Stanley upgrades to Overweight, predicts strong iPhone sales",
+    "y": 1
+  },
+  {
+    "x": "Market update: Dow Jones Industrial Average up 0.5% as technology sector leads gains",
+    "y": 2
+  },
+  {
+    "x": "Tesla stock plummets 20% amidst concerns over production delays",
+    "y": 0
+  },
+  {
+    "x": "Amazon's surprise earnings beat sends tech stocks soaring",
+    "y": 1
+  },
+  {
+    "x": "US GDP growth slows to 1.9% in Q4, missing expectations",
+    "y": 2
+  },
+  {
+    "x": "Investors Flee As Market Volatility Hits Record High, Experts Warn of Imminent Crash",
+    "y": 0
+  },
+  {
+    "x": "Amazon (AMZN) Surges 15% After Earnings Report Exceeds Analyst Expectations",
+    "y": 1
+  },
+  {
+    "x": "Regulatory Filing: Microsoft Corporation (MSFT) Announces Q4 Earnings Release Schedule",
+    "y": 2
+  },
+  {
+    "x": "Amazon's Q4 earnings report disappoints investors, stock price drops 5%",
+    "y": 0
+  },
+  {
+    "x": "Tech stocks surge as Apple and Google report strong quarterly earnings",
+    "y": 1
+  },
+  {
+    "x": "Oil prices stable this week, OPEC to meet in March to discuss production levels",
+    "y": 2
+  },
+  {
+    "x": "Tech Stocks Plunge as Fears of Recession Grow",
+    "y": 0
+  },
+  {
+    "x": "Dow Surges 300 Points as Investors Cheer Earnings Reports",
+    "y": 1
+  },
+  {
+    "x": "Global Markets Remain Steady Amid Ongoing Economic Uncertainty",
+    "y": 2
+  },
+  {
+    "x": "Tesla's stock price plummets 15% after Elon Musk's tweets cause investor panic",
+    "y": 0
+  },
+  {
+    "x": "Tech giant Microsoft to announce major stock buyback program, sending shares soaring",
+    "y": 1
+  },
+  {
+    "x": "US Federal Reserve keeps interest rates steady, cites 'moderate economic growth'",
+    "y": 2
+  },
+  {
+    "x": "Amazon shares plummet 8.5% after surprise Q1 revenue miss, tech sector follows suit ",
+    "y": 0
+  },
+  {
+    "x": "Tesla surges 12% as Elon Musk hints at potential new product announcements #Tesla #stockmarket ",
+    "y": 1
+  },
+  {
+    "x": "European stock markets steady ahead of key GDP growth data release #Economy #Stocks ",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Crashes After Elon Musk Announces 20% Production Cut",
+    "y": 0
+  },
+  {
+    "x": "Alphabet Inc (NASDAQ:GOOGL) Surges 15% On Earnings Beat, Analysts Raise Price Target",
+    "y": 1
+  },
+  {
+    "x": "The Federal Reserve Keeps Interest Rates Unchanged Amid Economic Uncertainty",
+    "y": 2
+  },
+  {
+    "x": "Bearish Outlook: Tesla's Q4 Earnings Disappoint, Shares Plummet 12% After Hours",
+    "y": 0
+  },
+  {
+    "x": "Apple Shares Reach New All-Time High After Analyst Upgrades Stock to 'Strong Buy'",
+    "y": 1
+  },
+  {
+    "x": "European Central Bank Holds Interest Rates Steady, Market Sees Little Chance of Future Hikes",
+    "y": 2
+  },
+  {
+    "x": "Dow Jones Industrial Average hits record high as economic growth shows signs of slowdown",
+    "y": 2
+  },
+  {
+    "x": "Investors Dump Shares of Tesla (TSLA) Amid Concerns Over Regulatory Pressure",
+    "y": 0
+  },
+  {
+    "x": "Gold Price Rises to Two-Week High Amid Global Economic Uncertainty",
+    "y": 1
+  },
+  {
+    "x": "European Central Bank hikes interest rates for the first time in a year, sending stocks plummeting",
+    "y": 0
+  },
+  {
+    "x": "Amazon's cloud business sees 20% revenue growth, beating expectations",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve maintains current monetary policy stance, citing steady economic growth",
+    "y": 2
+  },
+  {
+    "x": "Amazon Stock Plunges 10% on Earnings Miss",
+    "y": 0
+  },
+  {
+    "x": "Tesla Announces 20% Increase in Quarterly Production, Stocks Surge",
+    "y": 1
+  },
+  {
+    "x": "Market Analysts Remain Cautious Ahead of Fed Interest Rate Decision",
+    "y": 2
+  },
+  {
+    "x": "MARKET PLUMMETS:\n- Dow down 456.90 points \n- Nasdaq down 123.45 \n- S&P down 56.78   \nInvestors worry about global economic downturn.",
+    "y": 0
+  },
+  {
+    "x": "BREAKING: Amazon Stock Surges 12.5% After Surprise Earnings Report\nMarket analysts predict continued growth.",
+    "y": 1
+  },
+  {
+    "x": "Earnings Season Begins: A Look at the Upcoming Week's Key Corporate Releases",
+    "y": 2
+  },
+  {
+    "x": "Tech Stocks Plummet as Facebook Reports Disappointing Earnings",
+    "y": 0
+  },
+  {
+    "x": "Tesla Stock Rallies 10% After Elon Musk Announces New Battery Technology",
+    "y": 1
+  },
+  {
+    "x": "S&P 500 Futures Edge Up Ahead of Earnings Season; Investors Cautiously Optimistic",
+    "y": 2
+  },
+  {
+    "x": "Amazon's stock price plummets 10% as investors worry about slowing sales",
+    "y": 0
+  },
+  {
+    "x": "Tesla's stock soars 20% as investors anticipate strong Q4 earnings",
+    "y": 1
+  },
+  {
+    "x": "US GDP growth rate holds steady at 2.1% in Q4, beating analyst expectations",
+    "y": 2
+  },
+  {
+    "x": "Stock Market Update: Financials sector falls 3% as inflation concerns rise",
+    "y": 0
+  },
+  {
+    "x": "Tech stocks lead the Dow Jones to a new all-time high as investors remain optimistic about growth",
+    "y": 1
+  },
+  {
+    "x": "Earnings Preview: Investors expect stable performance from consumer staples companies in Q1",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Plummets 5% After Analyst Downgrades Prediction to $200 Per Share",
+    "y": 0
+  },
+  {
+    "x": "$AAPL Reaches Record High as Apple Announces New Line of 5G iPhones",
+    "y": 1
+  },
+  {
+    "x": "FTSE 100 Index Remains Steady Amid Global Market Volatility, Experts Weigh In",
+    "y": 2
+  },
+  {
+    "x": "Tesla's stock price plummets 10% on reports of production delays",
+    "y": 0
+  },
+  {
+    "x": "Gold prices surge 5% as investors flock to safe-haven assets",
+    "y": 1
+  },
+  {
+    "x": "Markets await the latest interest rate decision from the Federal Reserve, with traders split on the potential outcome",
+    "y": 2
+  },
+  {
+    "x": "Investors Wipe Out 10% of Their Portfolio Value as Market Plunges to 5-Year Low",
+    "y": 0
+  },
+  {
+    "x": "Tech Stocks Rally as Microsoft and Alphabet Earnings Surpass Expectations",
+    "y": 1
+  },
+  {
+    "x": "US GDP Growth Remains Unchanged in Q4 as Consumer Spending Slows",
+    "y": 2
+  },
+  {
+    "x": "Tesla's Stock Price Plummets 10% Amid Reports of Quality Control Issues",
+    "y": 0
+  },
+  {
+    "x": "Amazon Acquires MGM Studios in $8.45 Billion Deal, Shares Soar 5%",
+    "y": 1
+  },
+  {
+    "x": "SEC Proposes New Regulations on Stablecoins, Industry Leaders Express Concern",
+    "y": 2
+  },
+  {
+    "x": "US GDP Shrinks by 0.4%, Hitting Two-Year Low",
+    "y": 0
+  },
+  {
+    "x": "Tesla Stock Jumps 10% as Q4 Earnings Top Estimates",
+    "y": 1
+  },
+  {
+    "x": "Market Analysis: Understanding the Effects of Inflation on Consumer Behavior",
+    "y": 2
+  },
+  {
+    "x": "Weak Q4 Earnings Forecast for Apple Inc. (NASDAQ:AAPL) Sends Stock Prices Tumbling",
+    "y": 0
+  },
+  {
+    "x": "Chipmaker NVIDIA Corporation (NASDAQ:NVDA) Hits New All-Time High After Beating Analysts' Estimates",
+    "y": 1
+  },
+  {
+    "x": "U.S. GDP Growth Rate Revised Upward to 2.1% in Q3, Exceeding Forecasts",
+    "y": 2
+  },
+  {
+    "x": "Gold Prices Plummet, Experts Warn of Economic Recession",
+    "y": 0
+  },
+  {
+    "x": "Tesla's Earnings Report Exceeds Expectations, Stock Rises 15% Overnight",
+    "y": 1
+  },
+  {
+    "x": "Fed Leaves Interest Rates Unchanged, Markets React with Neutral Response",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Drops 5% After Elon Musk Announces Delayed Production of New Model S",
+    "y": 0
+  },
+  {
+    "x": "$AAPL Shares Surge 10% After Apple Unveils New iPhone with Advanced AI Capabilities",
+    "y": 1
+  },
+  {
+    "x": "Microsoft Reports Strong Quarterly Earnings, Beats Analyst Estimates for Revenue and Profits",
+    "y": 2
+  },
+  {
+    "x": "Tesla's stock price plunges 15% after missing Q4 delivery targets",
+    "y": 0
+  },
+  {
+    "x": "$AAPL - Apple shares surge 20% on strong Q1 earnings report",
+    "y": 1
+  },
+  {
+    "x": "Market analysts forecast stable interest rates for the remainder of 2024, with some expecting a slight decrease in inflation",
+    "y": 2
+  },
+  {
+    "x": "Tesla's shares plummet 20% after Elon Musk tweets about a potential stock split",
+    "y": 0
+  },
+  {
+    "x": "Tech stocks surge as Apple announces a new iPhone with 5G capabilities",
+    "y": 1
+  },
+  {
+    "x": "Oil prices remain steady as OPEC meets to discuss production levels",
+    "y": 2
+  },
+  {
+    "x": "Fed Raises Interest Rates to Combat Inflation, Markets Reel",
+    "y": 0
+  },
+  {
+    "x": "Amazon Stock Surges as Earnings Exceed Expectations, Boosting Tech Sector",
+    "y": 1
+  },
+  {
+    "x": "European Markets Mixed Amid Ongoing Trade Tensions, Analysts Warn of Potential Volatility",
+    "y": 2
+  },
+  {
+    "x": "$GOOG - Google's Parent Company Slashes Revenue Projections Amid Global Economic Slowdown.",
+    "y": 0
+  },
+  {
+    "x": "Tesla Reports Strong 4th Quarter Earnings, Stock Soars to New High.",
+    "y": 1
+  },
+  {
+    "x": "Market Analysts Weigh in on Upcoming Economic Data Releases: What to Expect.",
+    "y": 2
+  },
+  {
+    "x": "Tesla Shares Tumble 12% as Elon Musk Sells $5 Billion in Stock, Bears Warn of Price Collapse",
+    "y": 0
+  },
+  {
+    "x": "NVIDIA Shares Surge 8% on Optimistic Q4 Earnings Forecast, Bulls Target $700 Price",
+    "y": 1
+  },
+  {
+    "x": "Apple Announces New iPhone Release Date, Analysts Remain Neutral on Stock Price",
+    "y": 2
+  },
+  {
+    "x": "Gold prices surge as US dollar weakens, boosting investor hopes for inflation control",
+    "y": 1
+  },
+  {
+    "x": "Apple shares plummet on news of slowing iPhone sales in China",
+    "y": 0
+  },
+  {
+    "x": "US GDP growth slows to 2.1% in Q4, meeting economist forecasts, Federal Reserve says",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Slides 8% as Investors React to Disappointing Earnings",
+    "y": 0
+  },
+  {
+    "x": "Johnson & Johnson Posts Strong Q4 Earnings, Beats Estimates",
+    "y": 1
+  },
+  {
+    "x": "US GDP Growth Rate Revised Down to 2.1% in Q4, But Still Beats Expectations",
+    "y": 2
+  },
+  {
+    "x": "Chipmaker Intel Sees Q1 Earnings Slump, Stock Plunges 8%  ",
+    "y": 0
+  },
+  {
+    "x": "Amazon's Earnings Beat Expectations, Stock Rises 5%  ",
+    "y": 1
+  },
+  {
+    "x": "US Treasury Yields Steady Ahead of Fed Interest Rate Decision  ",
+    "y": 2
+  },
+  {
+    "x": "Tesla Shares Plummet 5% Amid Concerns Over Supply Chain Disruptions",
+    "y": 0
+  },
+  {
+    "x": "Apple Stock Hits All-Time High as Analysts Predict Continued Growth",
+    "y": 1
+  },
+  {
+    "x": "Economists Predict Stable US GDP Growth in Q2, But Warn of Global Uncertainty",
+    "y": 2
+  },
+  {
+    "x": "Amazon stock drops 5% after surprise earnings miss - Bloomberg",
+    "y": 0
+  },
+  {
+    "x": "Tesla shares surge 15% as Elon Musk announces new EV production plans - CNBC",
+    "y": 1
+  },
+  {
+    "x": "Fed Chairman Powell says interest rates to remain stable in 2024 - Reuters",
+    "y": 2
+  },
+  {
+    "x": "Fed Officials Warn of Rising Inflation, Suggest Interest Rate Hike",
+    "y": 0
+  },
+  {
+    "x": "Tech Stocks Surge Amid Optimism Over Earnings Reports",
+    "y": 1
+  },
+  {
+    "x": "Market Watch: Dow Jones Index Sees Mild Growth Amid Global Economic Stability",
+    "y": 2
+  },
+  {
+    "x": "Global stock markets plunge as economic growth concerns intensify amid trade tensions and recession fears.",
+    "y": 0
+  },
+  {
+    "x": "Tesla shares skyrocket 20% after announcing plans to accelerate production of its popular Model 3 sedan.",
+    "y": 1
+  },
+  {
+    "x": "The Federal Reserve leaves interest rates unchanged, citing stable economic conditions, in its latest policy decision.",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Plunges 15% Amid Concerns Over Electric Vehicle Competition",
+    "y": 0
+  },
+  {
+    "x": "Apple Surpasses $3 Trillion Market Capitalization, Stocks Reach New Heights",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Decision: No Change Amid Economic Uncertainty",
+    "y": 2
+  },
+  {
+    "x": "U.S. GDP Growth Slows to 0.2% in Q1, Worst Quarter in Over 2 Years",
+    "y": 0
+  },
+  {
+    "x": "Tesla Stock Hits Record High as Elon Musk's Vision for Electric Cars Continues to Pay Off",
+    "y": 1
+  },
+  {
+    "x": "Market Analysts Expect Interest Rate Hike to be 25 Basis Points This Month, in Line with Previous Projections",
+    "y": 2
+  },
+  {
+    "x": "Tesla's stock price drops 15% after Elon Musk's Twitter spat with a short-seller.",
+    "y": 0
+  },
+  {
+    "x": "$AAPL - Apple reports record quarterly revenue, beating Wall Street expectations.",
+    "y": 1
+  },
+  {
+    "x": "US Fed keeps interest rates unchanged, citing economic growth but also inflation concerns.",
+    "y": 2
+  },
+  {
+    "x": "Economic Downturn in Europe Expected to Worsen, Leading to Further Stock Market Decline",
+    "y": 0
+  },
+  {
+    "x": "Tech Stocks Surge on Reports of Strong Q4 Earnings, Analysts Raise Price Targets",
+    "y": 1
+  },
+  {
+    "x": "Market Analysts Weigh In on the Impact of Interest Rate Hikes on Consumer Spending",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Falls 5% as Wall Street Frets Over Model S Sales",
+    "y": 0
+  },
+  {
+    "x": "Amazon Share Prices Soar 10% on Q4 Earnings Beat, Analysts Predict Continued Growth",
+    "y": 1
+  },
+  {
+    "x": "Global Market Trends: Understanding the Latest Economic Indicators",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Plunges 20% After Missing Earnings Expectations",
+    "y": 0
+  },
+  {
+    "x": "Amazon Surpasses Q4 Earnings Expectations, Shares Rise 5%",
+    "y": 1
+  },
+  {
+    "x": "U.S. Treasury Yields Rise as Inflation Data Remains Steady",
+    "y": 2
+  },
+  {
+    "x": "Tesla's stock price dips below $500 due to production delays",
+    "y": 0
+  },
+  {
+    "x": "Gold prices surge to 2-year high as investors seek safe-haven assets",
+    "y": 1
+  },
+  {
+    "x": "US GDP growth slows to 2% in Q4, meeting expectations",
+    "y": 2
+  },
+  {
+    "x": "Tesla stock plummets as Elon Musk's erratic tweets raise concerns about company's direction.",
+    "y": 0
+  },
+  {
+    "x": "Amazon's Q4 earnings surprise investors, with revenue up 15% year-over-year.",
+    "y": 1
+  },
+  {
+    "x": "The Federal Reserve maintains interest rates, citing inflation concerns but also a strengthening economy.",
+    "y": 2
+  },
+  {
+    "x": "US-China Trade War: Tariffs to Increase Amidst Rising Tensions",
+    "y": 0
+  },
+  {
+    "x": "Tech Giants Lead Market Rally: Apple and Google Soar to New Heights",
+    "y": 1
+  },
+  {
+    "x": "Global Economic Outlook: Experts Predict Steady Growth for Q1, 2024",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Tumbles 12% on Concerns Over Model 3 Production Delays",
+    "y": 0
+  },
+  {
+    "x": "Amazon and Microsoft Earnings Exceed Expectations, Boosting Tech Sector",
+    "y": 1
+  },
+  {
+    "x": "Gold Prices Stabilize Amid Ongoing Global Economic Uncertainty, Experts Say",
+    "y": 2
+  },
+  {
+    "x": "S&P 500 Index Drops 2% in a Single Day Amid Fears of Recession",
+    "y": 0
+  },
+  {
+    "x": "NVIDIA's Stock Hits New High on Strong Gaming Segment Sales",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Decision: No Changes Expected",
+    "y": 2
+  },
+  {
+    "x": "NVIDIA -12% as Q4 earnings miss estimates",
+    "y": 0
+  },
+  {
+    "x": "$AAPL +2% after announcing new iPhone release",
+    "y": 1
+  },
+  {
+    "x": "The Federal Reserve announces interest rate decision",
+    "y": 2
+  },
+  {
+    "x": "Tesla stock drops 20% after Elon Musk's tweet about Bitcoin",
+    "y": 0
+  },
+  {
+    "x": "Amazon reports 25% revenue growth, beats Q4 earnings expectations",
+    "y": 1
+  },
+  {
+    "x": "Fed Chair Powell to testify before Congress on monetary policy",
+    "y": 2
+  },
+  {
+    "x": "Investors are abandoning tech stocks due to rising inflation fears.",
+    "y": 0
+  },
+  {
+    "x": "Gold prices surge 5% on central bank's rate hike announcement.",
+    "y": 1
+  },
+  {
+    "x": "The US Federal Reserve keeps interest rates unchanged, citing stable economic growth.",
+    "y": 2
+  },
+  {
+    "x": "Apple Stock Plunges 20% Amid Concerns Over iPhone Sales",
+    "y": 0
+  },
+  {
+    "x": "Amazon Earnings Exceed Expectations, Stock Hits New High",
+    "y": 1
+  },
+  {
+    "x": "Oil Prices Hold Steady Amid Uncertainty Over Global Demand",
+    "y": 2
+  },
+  {
+    "x": "Amazon's stock price plummets 10% as e-commerce sales decline",
+    "y": 0
+  },
+  {
+    "x": "Tesla reports record quarterly earnings, stock price jumps 15%",
+    "y": 1
+  },
+  {
+    "x": "Global economic forecast remains uncertain, market analysts predict mixed results for Q1",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Plummets 10% After CEO's Unclear Comments on Earnings",
+    "y": 0
+  },
+  {
+    "x": "Gold Prices Rise 5% as Investors Seek Safe Haven Amid Global Economic Uncertainty",
+    "y": 1
+  },
+  {
+    "x": "European Central Bank to Keep Interest Rates Unchanged in Next Monetary Policy Meeting",
+    "y": 2
+  },
+  {
+    "x": "Tesla's stock price plummets 10% on weak earnings report, investors lose millions",
+    "y": 0
+  },
+  {
+    "x": "Amazon's cloud business reports record revenue growth, stocks soar 5% on the news",
+    "y": 1
+  },
+  {
+    "x": "US GDP growth slows down due to weaker consumer spending and trade tensions",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Plunges 10% After Elon Musk's Earnings Call",
+    "y": 0
+  },
+  {
+    "x": "Microsoft Surpasses Q4 Revenue Expectations, Shares Rise 5%",
+    "y": 1
+  },
+  {
+    "x": "IMF Cuts Global Growth Forecast Amid Trade Tensions, Citing Uncertainty",
+    "y": 2
+  },
+  {
+    "x": "Oil prices surge 10% as OPEC+ agrees to cut production",
+    "y": 1
+  },
+  {
+    "x": "Amazon's Q4 earnings report disappoints investors, shares plummet 5%",
+    "y": 0
+  },
+  {
+    "x": "The Dow Jones Industrial Average closes at a new record high, up 0.5% today",
+    "y": 2
+  },
+  {
+    "x": "Fed Raises Interest Rates to Combat Inflation, Stocks Plunge 3.5%",
+    "y": 0
+  },
+  {
+    "x": "Tech Stocks Soar as Amazon Announces Breakthrough in E-commerce Delivery",
+    "y": 1
+  },
+  {
+    "x": "Earnings Report: Microsoft Beats Q4 Estimates, Stock Price Flat in After-Hours Trading",
+    "y": 2
+  },
+  {
+    "x": "Tesla's stock price falls 8% after Elon Musk tweets about 'short sellers'",
+    "y": 0
+  },
+  {
+    "x": "US GDP grows 3.2% in the first quarter, beating expectations and sparking optimism in the market",
+    "y": 1
+  },
+  {
+    "x": "Investors remain cautious as global economic growth slows, with the IMF reducing its growth forecast for 2024",
+    "y": 2
+  },
+  {
+    "x": "The US Federal Reserve raises interest rates to combat inflation, citing a strong labor market and growing consumer spending.",
+    "y": 2
+  },
+  {
+    "x": "Tesla shares soar 15% on news of new electric vehicle production plant in Germany, boosting company's market capitalization.",
+    "y": 1
+  },
+  {
+    "x": "Johnson & Johnson's stock plunges 10% following reports of declining sales and revenue projections, leading to investor concerns.",
+    "y": 0
+  },
+  {
+    "x": "Chipotle Mexican Grill reports 8% decline in same-store sales, missing analyst estimates",
+    "y": 0
+  },
+  {
+    "x": "Tesla announces production of 1 million electric vehicles, surpassing 5-year goal",
+    "y": 1
+  },
+  {
+    "x": "JPMorgan Chase reports Q4 earnings per share of $3.33, beating Wall Street estimates",
+    "y": 2
+  },
+  {
+    "x": "Tesla's Autopilot Technology Fails to Impress Analysts, Stock Price Plummets by 10% in Pre-Market Trade",
+    "y": 0
+  },
+  {
+    "x": "$AAPL - Apple Reports Record-Breaking Earnings, Stock Price Soars to New Highs",
+    "y": 1
+  },
+  {
+    "x": "U.S. Federal Reserve Holds Interest Rates Steady, Economic Growth Projections Revised Downward",
+    "y": 2
+  },
+  {
+    "x": "Nvidia reports Q4 earnings miss, shares drop 10%",
+    "y": 0
+  },
+  {
+    "x": "Tesla's stock price surges 15% as company announces new battery technology",
+    "y": 1
+  },
+  {
+    "x": "US GDP growth rate holds steady at 2% in Q4, meeting expectations",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Plunges 10% After Missing Earnings Estimates",
+    "y": 0
+  },
+  {
+    "x": "Nasdaq Hits Record High Amid Earnings Beat from Tech Giants",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Holds Interest Rates Steady, Market Reacts with Caution",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Plummets 20% After SEC Investigation Announced",
+    "y": 0
+  },
+  {
+    "x": "Amazon and Microsoft Stocks Soar as Tech Giants Announce Partnership Deal",
+    "y": 1
+  },
+  {
+    "x": "Market Update: S&P 500 Holds Steady, Analysts Weigh in on Economic Outlook",
+    "y": 2
+  },
+  {
+    "x": "Tesla stock falls 5% after Elon Musk's 'FUD' tweet about Bitcoin",
+    "y": 0
+  },
+  {
+    "x": "Dow Jones rises over 200 points as inflation fears ease",
+    "y": 1
+  },
+  {
+    "x": "Amazon's AWS cloud computing division reports 30% revenue growth in Q4",
+    "y": 2
+  },
+  {
+    "x": "Stock Market Plunges as Recession Fears Grow Amidst Global Economic Slowdown",
+    "y": 0
+  },
+  {
+    "x": "Tesla Reports Record Quarterly Sales, Stock Price Surges on Earnings Report",
+    "y": 1
+  },
+  {
+    "x": "Regulatory Changes Expected to Boost Small Business Lending, Experts Weigh In",
+    "y": 2
+  },
+  {
+    "x": "$AAPL - Apple stock plummets 10% after unexpected decline in iPhone sales ",
+    "y": 0
+  },
+  {
+    "x": "Amazon Q4 Earnings Report Exceeds Expectations, Stock Surges 8% ",
+    "y": 1
+  },
+  {
+    "x": "FedEx Reports Lower-than-Expected Revenue, Citing Global Economic Uncertainty ",
+    "y": 2
+  },
+  {
+    "x": "Tesla's Stock Plunges 12% After Missing Earnings Estimates",
+    "y": 0
+  },
+  {
+    "x": "Amazon Posts Record-Breaking Q2 Earnings, Stock Rises 5%",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Decision, Markets React with Caution",
+    "y": 2
+  },
+  {
+    "x": "Stock Market Plunges Amid Global Economic Downturn - Bloomberg",
+    "y": 0
+  },
+  {
+    "x": "Tesla Stock Surges 10% on Strong Earnings Report - CNBC",
+    "y": 1
+  },
+  {
+    "x": "US GDP Growth Rate Remains Stable at 2.1%: Report - Reuters",
+    "y": 2
+  },
+  {
+    "x": "Tesla's stock price plummets as Musk announces massive layoffs",
+    "y": 0
+  },
+  {
+    "x": "Dow Jones surges 200 points on news of potential economic stimulus package",
+    "y": 1
+  },
+  {
+    "x": "Oil prices remain steady as OPEC meeting concludes without major changes",
+    "y": 2
+  },
+  {
+    "x": "Tech Stocks Plunge as Fears of Recession Grow",
+    "y": 0
+  },
+  {
+    "x": "Amazon's Market Value Surpasses $1 Trillion, Cementing Its Place as World's Largest Company",
+    "y": 1
+  },
+  {
+    "x": "Economic Outlook Remains Stable, Experts Predict 3% GDP Growth for Q1",
+    "y": 2
+  },
+  {
+    "x": "US Stocks Plunge 300 Points After Unexpected Economic Slowdown",
+    "y": 0
+  },
+  {
+    "x": "Amazon's Earnings Surprise Investors, Shares Surge 5% in Pre-Market Trading",
+    "y": 1
+  },
+  {
+    "x": "European Central Bank Maintains Interest Rates, No Changes in Monetary Policy",
+    "y": 2
+  },
+  {
+    "x": "Tech Stocks Plummet as Facebook and Google Warn of Slowing Growth",
+    "y": 0
+  },
+  {
+    "x": "Market Rally Continues as Investors Remain Optimistic About Economic Growth",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Hold as Economy Shows Signs of Stabilization",
+    "y": 2
+  },
+  {
+    "x": "Dow Jones Plummets 500 Points as Investors Fear Global Economic Downturn",
+    "y": 0
+  },
+  {
+    "x": "Tesla Stock Surges 20% as Elon Musk Unveils Ambitious New Battery Tech",
+    "y": 1
+  },
+  {
+    "x": "Fed Announces Rate Hike to Combat Inflation, Analysts Weigh In on Impact",
+    "y": 2
+  },
+  {
+    "x": "Dow drops 200 points on concerns about global economic slowdown",
+    "y": 0
+  },
+  {
+    "x": "Tech stocks lead the market higher as investors bet on post-pandemic rebound",
+    "y": 1
+  },
+  {
+    "x": "Market remains steady ahead of Fed's interest rate decision",
+    "y": 2
+  },
+  {
+    "x": "Amazon's Q4 Earnings Miss Estimates, Stock Plunges 8% After Hours",
+    "y": 0
+  },
+  {
+    "x": "Gold Prices Soar as Interest Rates Plummet, Experts Expect Continued Growth",
+    "y": 1
+  },
+  {
+    "x": "Weekly Jobless Claims Rise to 250,000, but Economists Say Data Remains Positive",
+    "y": 2
+  },
+  {
+    "x": "Tesla Shares Plunge 10% Amid Concerns Over Elon Musk's Twitter Activity",
+    "y": 0
+  },
+  {
+    "x": "Tech Stocks Surge as Analysts Expect Strong Earnings from Big Players",
+    "y": 1
+  },
+  {
+    "x": "Market Volatility Expected to Continue in the Coming Quarter, Analysts Warn",
+    "y": 2
+  },
+  {
+    "x": "$AAPL - Apple announces significant layoffs, sparking concerns about future growth",
+    "y": 0
+  },
+  {
+    "x": "$GOOGL - Alphabet beats Q4 estimates, Alphabet CEO Sundar Pichai expresses optimism for 2024",
+    "y": 1
+  },
+  {
+    "x": "$JPM - JPMorgan Chase announces expansion of its digital payment services, targeting increased adoption",
+    "y": 2
+  },
+  {
+    "x": "Tesla Shares Plummet 12% on Earnings Miss, Company Warns of Supply Chain Disruptions",
+    "y": 0
+  },
+  {
+    "x": "Amazon Stock Hits All-Time High, Surging 22% This Year on Strong E-commerce Sales",
+    "y": 1
+  },
+  {
+    "x": "Fed Chair Testifies Before Congress, Provides Update on Economic Growth and Interest Rates",
+    "y": 2
+  },
+  {
+    "x": "Coca-Cola shares fall 8% as investors worry about impact of COVID-19 on sales",
+    "y": 0
+  },
+  {
+    "x": "Amazon stock hits record high after beating Q4 earnings estimates by $1.18 per share",
+    "y": 1
+  },
+  {
+    "x": "Gold price holds steady as investors await US economic data; analyst weighs in on market trends",
+    "y": 2
+  },
+  {
+    "x": "Tesla's Stock Plummets 10% Amid Widespread Criticism of Electric Car Maker",
+    "y": 0
+  },
+  {
+    "x": "Tech Giant Apple Posts Record Earnings, Surpasses Expectations on Strong iPhone Sales",
+    "y": 1
+  },
+  {
+    "x": "Market Analysts Remain Divided Over Impact of New Federal Reserve Interest Rate Hike",
+    "y": 2
+  },
+  {
+    "x": "U.S. Stock Market Falls to a New 52-Week Low Due to Economic Concerns",
+    "y": 0
+  },
+  {
+    "x": "Tech Giants Boosted Market Confidence with Earnings Reports, Sending Dow Jones to a Record High",
+    "y": 1
+  },
+  {
+    "x": "Economists Warn of Potential Recession in the Next Quarter, While Others Predict Steady Growth",
+    "y": 2
+  },
+  {
+    "x": "Tesla stock falls 10% after Elon Musk's recent Twitter meltdown",
+    "y": 0
+  },
+  {
+    "x": "NVIDIA announces record revenue, shares surge 15% after earnings beat",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve announces interest rate decision, economists weigh in on implications",
+    "y": 2
+  },
+  {
+    "x": "Oil prices plummet to a 14-year low as investors worry about global recession-\u009denergy demand is expected to decline by 10%.",
+    "y": 0
+  },
+  {
+    "x": "Tesla stock soars to a new record high after the company unveils its latest electric SUV model-\u009dshares are up 5% pre-market.",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve announces a new interest rate policy to support economic growth-\u009ddetails to be released in a press conference tomorrow.",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Plummets 20% After Elon Musk Announces Layoffs",
+    "y": 0
+  },
+  {
+    "x": "Apple Earnings Beat Expectations, Shares Jump 5% in After-Hours Trading",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Hold, Markets Remain Steady",
+    "y": 2
+  },
+  {
+    "x": "Tesla's stock price plunges by 8% after Elon Musk's tweet sparks investor worries about production delays",
+    "y": 0
+  },
+  {
+    "x": "Amazon's Q4 earnings beat expectations, sending the stock up by 5% in after-hours trading",
+    "y": 1
+  },
+  {
+    "x": "Market analysts weigh in on the impact of the Federal Reserve's interest rate hike on the US economy in 2023",
+    "y": 2
+  },
+  {
+    "x": "The Federal Reserve raises interest rates, citing rising inflation and slowing economic growth, sending the Dow Jones plummeting.",
+    "y": 0
+  },
+  {
+    "x": "Tech stocks surge as Apple and Amazon report strong earnings, with investors optimistic about the future of the industry.",
+    "y": 1
+  },
+  {
+    "x": "Gold prices hold steady at $1,300 per ounce as investors seek safe-haven assets amid global economic uncertainty.",
+    "y": 2
+  },
+  {
+    "x": "Tesla Shares Plummet 10% After Missing Q4 Earnings Expectations #Tesla #Earnings",
+    "y": 0
+  },
+  {
+    "x": "Apple Announces Record-High Quarterly Revenue, Stock Jumps 5% #Apple #StockMarket",
+    "y": 1
+  },
+  {
+    "x": "Amazon to Launch New Cloud Computing Service, Details to Be Disclosed Next Quarter #Amazon #CloudComputing",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Takes a Hit After Elon Musk's Recent Statement on Autonomous Driving",
+    "y": 0
+  },
+  {
+    "x": "Gold Prices Surge on Geopolitical Tensions in the Middle East, Reaching a 6-Month High",
+    "y": 1
+  },
+  {
+    "x": "The Federal Reserve Announces a 25-Base Point Interest Rate Hike to Combat Rising Inflation",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Drops 10% After Analyst Downgrades, Is A Rebound Coming Soon?",
+    "y": 0
+  },
+  {
+    "x": "Amazon's Earnings Surge By 25%, Boosting Stock To A New All-Time High",
+    "y": 1
+  },
+  {
+    "x": "US GDP Growth Slows To 2%, As Inflation Remains A Concern For Investors",
+    "y": 2
+  },
+  {
+    "x": "Tesla's Stock Price Plummets 12% After Missing Q4 Earnings Estimate",
+    "y": 0
+  },
+  {
+    "x": "Apple's Market Cap Surpasses $3 Trillion, Setting New Record",
+    "y": 1
+  },
+  {
+    "x": "Global Stock Markets Remain Flat as Investors Await Fed's Interest Rate Decision",
+    "y": 2
+  },
+  {
+    "x": "Tesla (TSLA) Stock Plummets 10% Amidst Ongoing Production Challenges",
+    "y": 0
+  },
+  {
+    "x": "Alphabet Inc. (GOOGL) Shares Rise 5% As Q4 Earnings Exceed Expectations",
+    "y": 1
+  },
+  {
+    "x": "Economic Indicators Suggest a Mixed Bag for Q1 2024, Experts Weigh In",
+    "y": 2
+  },
+  {
+    "x": "Investors Lose Big as Meta Platforms, Inc. (NASDAQ: META) Stock Tumbles 15% After Earnings Report",
+    "y": 0
+  },
+  {
+    "x": "Alaska Air Group, Inc. (NYSE: ALK) Soars 12% as Strong Q4 Earnings Surprise Analysts",
+    "y": 1
+  },
+  {
+    "x": "Market Update: S&P 500 Falls 0.5% Amid Mixed Earnings Reports, But Dow Jones Rises 0.2%",
+    "y": 2
+  },
+  {
+    "x": "Amazon's acquisition of Whole Foods leads to a significant decline in grocery store stocks.",
+    "y": 0
+  },
+  {
+    "x": "Tesla's Q4 earnings surpass expectations, shares surge 10% in after-hours trading.",
+    "y": 1
+  },
+  {
+    "x": "The Federal Reserve holds interest rates steady, maintains dovish stance on monetary policy.",
+    "y": 2
+  },
+  {
+    "x": "The Dow Jones Industrial Average plunged more than 500 points as concerns over a global recession mounted",
+    "y": 0
+  },
+  {
+    "x": "Amazon shares surged after the e-commerce giant reported a significant increase in quarterly earnings",
+    "y": 1
+  },
+  {
+    "x": "The US Federal Reserve kept interest rates unchanged in its latest policy meeting, citing a mixed economic outlook",
+    "y": 2
+  },
+  {
+    "x": "Tesla's stock price plummeted by 15% after the company announced a significant delay in its highly anticipated Cybertruck model.",
+    "y": 0
+  },
+  {
+    "x": "Amazon's market value surged past $1 trillion, making it the second publicly traded company to achieve this milestone after Apple.",
+    "y": 1
+  },
+  {
+    "x": "The US Federal Reserve kept interest rates unchanged for the 11th consecutive meeting, citing stable economic growth and low inflation.",
+    "y": 2
+  },
+  {
+    "x": "Tesla stock plunges 10% after Elon Musk's latest tweet sparks concerns about production delays",
+    "y": 0
+  },
+  {
+    "x": "Apple reports record quarterly earnings, beating analyst expectations with 22% revenue growth",
+    "y": 1
+  },
+  {
+    "x": "Market analyst releases forecast for Q2 GDP growth, citing steady economic indicators and stable interest rates",
+    "y": 2
+  },
+  {
+    "x": "Tesla shares plummet after Elon Musk's surprise announcement to suspend all US production.",
+    "y": 0
+  },
+  {
+    "x": "Amazon announces 15% quarterly earnings growth, sending stock to new highs.",
+    "y": 1
+  },
+  {
+    "x": "The US Federal Reserve is expected to keep interest rates steady at its next meeting, according to economists.",
+    "y": 2
+  },
+  {
+    "x": "Tesla's stock price plummets 8% after a disappointing earnings report",
+    "y": 0
+  },
+  {
+    "x": "Apple announces a 4% dividend increase, sending shares up 2% in pre-market trading",
+    "y": 1
+  },
+  {
+    "x": "Goldman Sachs lowers its forecast for the S&P 500 due to economic uncertainty",
+    "y": 2
+  },
+  {
+    "x": "The Dow Jones Index falls 300 points as recession fears rise",
+    "y": 0
+  },
+  {
+    "x": "Tesla, Inc. (NASDAQ:TSLA) stock hits new high following record quarterly earnings",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve announces plans to maintain interest rates, citing moderate economic growth",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Plunges 10% as Electric Car Rival Announces Breakthrough Battery Technology",
+    "y": 0
+  },
+  {
+    "x": "Tech Giant's Earnings Surpass Expectations, Shares Surge 15% in After-Hours Trading",
+    "y": 1
+  },
+  {
+    "x": "Investors Await Decision on Interest Rate Hike as Fed Meeting Concludes, Market Remains Steady",
+    "y": 2
+  },
+  {
+    "x": "Global Recession Fears Intensify as China's Economic Slowdown Deepens. #recession #china #economy",
+    "y": 0
+  },
+  {
+    "x": "NVIDIA's AI-Powered Chipsets Poised to Revolutionize the Tech Industry. Stock price expected to surge!",
+    "y": 1
+  },
+  {
+    "x": "Tesla to Launch New Line of Electric Buses, But When Will They Arrive? Industry experts weigh in.",
+    "y": 2
+  },
+  {
+    "x": "$TSLA - Tesla shares plummet 10% after Elon Musk's Twitter rant about Bitcoin ",
+    "y": 0
+  },
+  {
+    "x": "$NFLX - Netflix shares surge 15% on strong Q4 earnings beat ",
+    "y": 1
+  },
+  {
+    "x": "Gold prices hold steady at $1,500 per ounce amid mixed global market sentiment ",
+    "y": 2
+  },
+  {
+    "x": "$AAPL shares plummet after disappointing iPhone sales ",
+    "y": 0
+  },
+  {
+    "x": "Amazon stock price surges 5% as the company announces a major cloud computing deal ",
+    "y": 1
+  },
+  {
+    "x": "Gold prices rise 0.2% as investors seek safe-haven assets ahead of inflation data release ",
+    "y": 2
+  },
+  {
+    "x": "Global Economic Growth Slows Amid Trade Tensions and Brexit Uncertainty",
+    "y": 0
+  },
+  {
+    "x": "Dow Surges 300 Points Amid Earnings Boost from Tech Giants",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Keeps Interest Rates Unchanged Amid Stable Economy",
+    "y": 2
+  },
+  {
+    "x": "Dow Jones Plunges 500 Points on Concerns of Global Economic Slowdown",
+    "y": 0
+  },
+  {
+    "x": "Apple Stock Surges to All-Time High on Strong Earnings Report",
+    "y": 1
+  },
+  {
+    "x": "U.S. Treasury Yields Rise Amid Stable Consumer Spending and Wage Growth",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Plunges as Musk's Twitter Fiasco Continues",
+    "y": 0
+  },
+  {
+    "x": "Amazon Stock Reaches New All-Time High Amid Strong Earnings Report",
+    "y": 1
+  },
+  {
+    "x": "S&P 500 Index Falls to 3-Month Low Amid Global Economic Concerns, Investors Eye Fed Rate Decision",
+    "y": 2
+  },
+  {
+    "x": "Global economy contracts for the first time in over a decade, IMF warns",
+    "y": 0
+  },
+  {
+    "x": "Dow Jones rises 200 points to a new all-time high as tech stocks surge",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve keeps interest rates unchanged, cites stable inflation",
+    "y": 2
+  },
+  {
+    "x": "Apple Earnings Miss Expectations, Stock Plunges 10% After-Hours",
+    "y": 0
+  },
+  {
+    "x": "Tesla Hits New High as Elon Musk Seeks to Raise $5B for Production",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Hold, Markets Unaffected",
+    "y": 2
+  },
+  {
+    "x": "U.S. economy contracts by 0.4% in Q4 due to manufacturing decline",
+    "y": 0
+  },
+  {
+    "x": "Amazon's market value tops $1 trillion for the first time, boosting tech stocks",
+    "y": 1
+  },
+  {
+    "x": "Fed keeps interest rates unchanged at 5.5%, maintains dovish tone on future rate hikes",
+    "y": 2
+  },
+  {
+    "x": "US Fed Raises Interest Rates for the Fifth Time this Year, Stocks Plummet by 2.5% in a Single Day",
+    "y": 0
+  },
+  {
+    "x": "Bitcoin Price Surges by 15% Overnight, Breaking the $45,000 Mark for the First Time",
+    "y": 1
+  },
+  {
+    "x": "IMF Warns of Global Economic Downturn, Citing Rising Inflation and Trade Tensions",
+    "y": 2
+  },
+  {
+    "x": "Global economic downturn expected to lead to stock market decline by 20% this quarter.",
+    "y": 0
+  },
+  {
+    "x": "Tech giant Apple announces 20% increase in quarterly earnings, beating market expectations.",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve keeps interest rates unchanged, citing stable inflation and strong economic growth.",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Plummets 15% After Earnings Report Reveals Wider-than-Expected Loss",
+    "y": 0
+  },
+  {
+    "x": "Amazon Stock Soars 10% on Surprise Profit Beat, Beating Analyst Expectations",
+    "y": 1
+  },
+  {
+    "x": "FTC Approves $2 Billion Acquisition of Activision Blizzard by Microsoft, Subject to Final Review",
+    "y": 2
+  },
+  {
+    "x": "Bearish sentiment hits the market as tech stocks plummet 10% due to global economic concerns.",
+    "y": 0
+  },
+  {
+    "x": "Tesla stock price surges 15% after CEO Elon Musk announces new sustainable energy initiatives.",
+    "y": 1
+  },
+  {
+    "x": "Global economic growth slows down, IMF revises 2024 forecast, citing trade tensions and rising interest rates.",
+    "y": 2
+  },
+  {
+    "x": "Investors Pull Out of Chinese Tech Stocks Amid Fears of Regulatory Crackdown",
+    "y": 0
+  },
+  {
+    "x": "Tesla Stock Surges 20% as Elon Musk Predicts 'Sustained Growth' in Electric Vehicles",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Raises Interest Rates to 4.75% to Combat Inflation, Economists Expect Further Hikes",
+    "y": 2
+  },
+  {
+    "x": "Market sentiment remains bearish as tech stocks continue to plunge",
+    "y": 0
+  },
+  {
+    "x": "Oil prices surge to highest levels in three years, boosting energy stocks",
+    "y": 1
+  },
+  {
+    "x": "Stock market trading remains calm on Friday ahead of key economic data release",
+    "y": 2
+  },
+  {
+    "x": "$NFLX - Netflix Q4 Earnings Miss Analyst Estimates by 20%, Shares Plummet in After-Market Trading",
+    "y": 0
+  },
+  {
+    "x": "$AAPL - Apple Reports Record Quarterly Sales of Over $120 Billion, Boosting Investor Confidence",
+    "y": 1
+  },
+  {
+    "x": "$VIX - VIX Index Falls to Near-Three-Year Low as Market Volatility Continues to Decline",
+    "y": 2
+  },
+  {
+    "x": "Stock market crashes to a 3-year low as economic concerns rise, experts warn of a potential recession.",
+    "y": 0
+  },
+  {
+    "x": "Tesla's stock price soars 15% as investors bet on Elon Musk's vision for electric cars to drive future growth.",
+    "y": 1
+  },
+  {
+    "x": "Amazon announces quarterly earnings that meet expectations, but misses on revenue, citing supply chain disruptions.",
+    "y": 2
+  },
+  {
+    "x": "Tech stocks plunge as Facebook and Google face regulatory scrutiny.",
+    "y": 0
+  },
+  {
+    "x": "Apple stock surges after surprise announcement of new iPhone model.",
+    "y": 1
+  },
+  {
+    "x": "US Treasury yields hold steady ahead of inflation data release, analysts say.",
+    "y": 2
+  },
+  {
+    "x": "Tesla's stock price plummets as the company announces a significant delay in the production of its new electric truck",
+    "y": 0
+  },
+  {
+    "x": "Amazon's shares surge as the company reports a significant increase in quarterly revenue, beating analyst expectations",
+    "y": 1
+  },
+  {
+    "x": "Economic indicators remain steady as the Federal Reserve meets to discuss potential interest rate changes, with no surprises expected",
+    "y": 2
+  },
+  {
+    "x": "Chipotle Mexican Grill (CMG) Dips More Than Broader Markets: What You Should Know - Nasdaq",
+    "y": 0
+  },
+  {
+    "x": "Amazon (AMZN) Surges 5% After Earnings Report Beats Expectations - CNBC",
+    "y": 1
+  },
+  {
+    "x": "S&P 500 Holds Steady Amid Ongoing Market Volatility - Bloomberg",
+    "y": 2
+  },
+  {
+    "x": "US Economy Contracts by 2.9% in Q1, Worst Performance in 5 Years",
+    "y": 0
+  },
+  {
+    "x": "Tesla Stock Surges 15% After Elon Musk Announces New Sustainable Energy Project",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Raises Interest Rates by 0.25% to Combat Inflation, Markets React Mixedly",
+    "y": 2
+  },
+  {
+    "x": "Tesla shares plummet 10% after Elon Musk's tweet about the company's production plans causes investor concern",
+    "y": 0
+  },
+  {
+    "x": "Apple's revenue growth beats expectations, with iPhone sales up 15% year-over-year",
+    "y": 1
+  },
+  {
+    "x": "Oil prices remain steady despite increased demand, analysts predict continued stability in the market",
+    "y": 2
+  },
+  {
+    "x": "Tesla's stock price plummeted 15% after Elon Musk's Twitter rant about the company's competitors",
+    "y": 0
+  },
+  {
+    "x": "Apple's quarterly earnings beat estimates, sending its stock price soaring to a new record high",
+    "y": 1
+  },
+  {
+    "x": "The Federal Reserve announced that it would keep interest rates stable in the coming months, sending mixed signals to the market",
+    "y": 2
+  },
+  {
+    "x": "US Treasury Yields Hit 4-Week High, Stocks Decline Amid Rate Worries - Bloomberg",
+    "y": 0
+  },
+  {
+    "x": "Tech Giants Lead Global Stock Rally as Earnings Surpass Expectations - WSJ",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Decision and Economic Data - CNBC",
+    "y": 2
+  },
+  {
+    "x": "Tesla's Electric Vehicle Sales Continue to Struggle Amidst Market Volatility",
+    "y": 0
+  },
+  {
+    "x": "Alphabet's Q4 Earnings Exceed Analyst Expectations, Stock Prices Surge",
+    "y": 1
+  },
+  {
+    "x": "IMF Raises Global Economic Growth Forecasts Amid Signs of Slowdown in Key Markets",
+    "y": 2
+  },
+  {
+    "x": "NVIDIA shares plummet 20% in morning trading amid fears of slowing GPU demand",
+    "y": 0
+  },
+  {
+    "x": "Tesla's Q4 earnings report exceeds expectations, sending shares up 15% in after-hours trading",
+    "y": 1
+  },
+  {
+    "x": "Market analyst predicts 2024 will see a 2-3% increase in global economic growth, citing stable inflation and improving trade relations",
+    "y": 2
+  },
+  {
+    "x": "Tech stocks plummet after Apple reports disappointing quarterly earnings. The company's revenue fell 5% year-over-year.",
+    "y": 0
+  },
+  {
+    "x": "Amazon's stock soars after the company announces a 20% increase in quarterly sales, beating analyst expectations.",
+    "y": 1
+  },
+  {
+    "x": "The Federal Reserve leaves interest rates unchanged, maintaining a neutral stance on economic growth. The decision is seen as a cautious step towards a potential future rate hike.",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Takes Another Hit as Delivery Concerns Mount",
+    "y": 0
+  },
+  {
+    "x": "Alphabet (GOOGL) Stock Surges 5% on Q4 Earnings Beat",
+    "y": 1
+  },
+  {
+    "x": "Market Update: S&P 500 Holds Steady, Dow Jones Edges Lower",
+    "y": 2
+  },
+  {
+    "x": "Tech Stocks Plunge 10% as Fears of Recession Mount, Analysts Warn of Further Declines",
+    "y": 0
+  },
+  {
+    "x": "Tesla Surges 20% as Elon Musk Announces New Battery Technology and Production Targets",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Keeps Interest Rates Unchanged, Sees Moderate Economic Growth Ahead",
+    "y": 2
+  },
+  {
+    "x": "The Dow Jones Plunges 500 Points Amid Fears of a Widespread Economic Downturn",
+    "y": 0
+  },
+  {
+    "x": "Tesla Stock Surges 15% After Strong Q4 Earnings Report Exceeds Expectations",
+    "y": 1
+  },
+  {
+    "x": "The Federal Reserve Keeps Interest Rates Unchanged in Surprise Move",
+    "y": 2
+  },
+  {
+    "x": "Bear Market Alert: S&P 500 Index Falls 3.2% in a Single Day, Investors Panic",
+    "y": 0
+  },
+  {
+    "x": "Tech Giant Apple Reports 20% Rise in Quarterly Earnings, Shares Surge 5%",
+    "y": 1
+  },
+  {
+    "x": "Feds Raise Interest Rates for Third Time in 2023, Markets Remain Calm",
+    "y": 2
+  },
+  {
+    "x": "Tech stocks plummet as Apple's iPhone sales disappoint, sending Nasdaq to its worst day since 2020. Bears are taking control.",
+    "y": 0
+  },
+  {
+    "x": "$AAPL - Apple's innovative AR Glasses set to Revolutionize the Wearable Tech Market: Analysts See Upside",
+    "y": 1
+  },
+  {
+    "x": "The latest FOMC meeting minutes hint at a 50bps rate hike, but market experts remain divided on its impact on the S&P 500",
+    "y": 2
+  },
+  {
+    "x": "Tech stocks plunge as Apple announces disappointing quarterly earnings, wiping out $200 billion in market value -- Dow Jones Industrial Average #tech #Apple",
+    "y": 0
+  },
+  {
+    "x": "Gold prices skyrocket as investors seek safe-haven assets amidst global economic uncertainty, pushing the yellow metal to a 7-month high #gold #economy",
+    "y": 1
+  },
+  {
+    "x": "Fed Chairman speaks at annual economic conference, reiterating commitment to inflation targeting -- Market Brief #economy #FederalReserve",
+    "y": 2
+  },
+  {
+    "x": "Stock market plummeting: Dow Jones loses 400 points amid recession fears",
+    "y": 0
+  },
+  {
+    "x": "Tesla surges 12% after Elon Musk announces new sustainable energy plans",
+    "y": 1
+  },
+  {
+    "x": "Earnings season kicks off: Tech giants set to report quarterly results this week",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Slumps 5% as Elon Musk's Twitter Fiasco Continues",
+    "y": 0
+  },
+  {
+    "x": "Oil Prices Soar to 7-Year High as OPEC+ Agrees to Output Cuts",
+    "y": 1
+  },
+  {
+    "x": "FDA Approves New Treatment for Rare Blood Disorder, Biotech Stocks Rally",
+    "y": 2
+  },
+  {
+    "x": "Oil prices plummet as Saudi Arabia and Russia fail to reach an agreement on oil production cuts",
+    "y": 0
+  },
+  {
+    "x": "Tech stocks surge as Apple and Amazon report strong earnings, sending Nasdaq to record highs",
+    "y": 1
+  },
+  {
+    "x": "Market analysts weigh in on the latest economic reports, predicting a stable growth trajectory for Q1 2024",
+    "y": 2
+  },
+  {
+    "x": "Tesla stock drops 10% after disappointing earnings report",
+    "y": 0
+  },
+  {
+    "x": "Nvidia shares surge 20% on strong gaming revenue",
+    "y": 1
+  },
+  {
+    "x": "European Central Bank keeps interest rates steady, citing inflation concerns",
+    "y": 2
+  },
+  {
+    "x": "Tesla's (NASDAQ:TSLA) Stock Tumbles 15% As Elon Musk's Tweets Continue to Spark Concerns",
+    "y": 0
+  },
+  {
+    "x": "Microsoft's (NASDAQ:MSFT) Acquisition of Activision Blizzard Could Unlock New Era of Gaming Growth",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Holds Interest Rates Steady Amid Economic Uncertainty, Markets React Cautiously",
+    "y": 2
+  },
+  {
+    "x": "Fed hikes interest rates by 0.5%, sending stocks into a tailspin",
+    "y": 0
+  },
+  {
+    "x": "Apple's Q4 earnings surge 25% on strong iPhone sales",
+    "y": 1
+  },
+  {
+    "x": "Earnings season kicks off as analysts forecast mixed results",
+    "y": 2
+  },
+  {
+    "x": "Global economic growth slows due to rising interest rates and trade tensions",
+    "y": 0
+  },
+  {
+    "x": "Tech stocks surge as Apple announces new line of high-end iPhones",
+    "y": 1
+  },
+  {
+    "x": "Market experts predict stable earnings season ahead of Q1 reports",
+    "y": 2
+  },
+  {
+    "x": "Fed Officials Express Concern Over Rising Inflation, Sparking Market Selloff",
+    "y": 0
+  },
+  {
+    "x": "Tech Stocks Surge as Earnings Reports Exceed Expectations, Dow Gains 150 Points",
+    "y": 1
+  },
+  {
+    "x": "U.S. Jobless Claims Remain Steady at 200,000, Continuing a 6-Week Trend",
+    "y": 2
+  },
+  {
+    "x": "Gold Price Tumbles 3% as Interest Rates Rise, Experts Warn of Further Decline",
+    "y": 0
+  },
+  {
+    "x": "Tesla Stock Surges 15% on Optimistic Q4 Earnings Outlook",
+    "y": 1
+  },
+  {
+    "x": "US GDP Growth Slows to 2.2% in Q3, but Analysts Remain Optimistic About Long-Term Prospects",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Price Dives 10% on Disappointing Earnings Report",
+    "y": 0
+  },
+  {
+    "x": "Global Market Index Reaches New High, Investors Optimistic About Q2",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Announces Monetary Policy Update, No Immediate Changes Expected",
+    "y": 2
+  },
+  {
+    "x": "Tesla Shares Plunge After Elon Musk Announces Layoffs Amid Q4 Earnings Disappointment",
+    "y": 0
+  },
+  {
+    "x": "Nvidia Surges 15% on Beating Expectations, Boosting AI Stock Index",
+    "y": 1
+  },
+  {
+    "x": "Amazon and Google Partner to Develop Next-Generation Cloud Computing Services",
+    "y": 2
+  },
+  {
+    "x": "The Fed raises interest rates for the fourth time this year, causing stocks to plummet.",
+    "y": 0
+  },
+  {
+    "x": "Apple announces record-breaking sales of its new iPhone, sending its stock price soaring.",
+    "y": 1
+  },
+  {
+    "x": "The US economy shows signs of slow growth, but remains on track to meet projections for 2024.",
+    "y": 2
+  },
+  {
+    "x": "$NCBS shares plummet 20% after Hovde Group downgrade",
+    "y": 0
+  },
+  {
+    "x": "Dow Jones Surges 500 Points as Investors Breathe a Sigh of Relief",
+    "y": 1
+  },
+  {
+    "x": "Market Watch: Economic Indicators Point to Slow but Steady Growth",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Plunges as China's New Regulations Hinder Electric Vehicle Sales, Analysts Downgrade to Hold",
+    "y": 0
+  },
+  {
+    "x": "HCA Healthcare (HCA) Shares Rise After the Company Announces Strong Q4 Earnings and Revenue Beat",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Announces Rate Decision, Market Experts Weigh In on the Implications for the Economy",
+    "y": 2
+  },
+  {
+    "x": "Oil Prices Plummet as OPEC Fails to Reach Agreement on Output Cuts",
+    "y": 0
+  },
+  {
+    "x": "Tesla Stock Soars 10% After Company Announces New Electric Vehicle Model",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Hold Steady at 2.25%, Analysts Expect No Changes in Near Future",
+    "y": 2
+  },
+  {
+    "x": "US GDP Growth Slows to 2% in Q4, Missing Analysts' Estimates",
+    "y": 0
+  },
+  {
+    "x": "Tesla Stock Soars 15% After Earnings Beat Expectations, Hits New High",
+    "y": 1
+  },
+  {
+    "x": "Oil Prices Stable as OPEC+ Maintains Production Cuts, Market Awaits Economic Indicators",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Tumbles 20% After Missing Earnings Expectations Again",
+    "y": 0
+  },
+  {
+    "x": "Amazon to Buy MGM for $8.45 Billion in Bid to Expand Streaming Offerings",
+    "y": 1
+  },
+  {
+    "x": "US Economic Growth Slows in Q4 Amid Ongoing Trade Tensions: GDP Report",
+    "y": 2
+  },
+  {
+    "x": "Nasdaq hits all-time high, but tech stocks show signs of weakness, analysts warn",
+    "y": 0
+  },
+  {
+    "x": "$AAPL - Apple announces 15% dividend increase, shares soar",
+    "y": 1
+  },
+  {
+    "x": "Goldman Sachs lowers interest rates forecast, citing global economic uncertainty",
+    "y": 2
+  },
+  {
+    "x": "Tesla's Stock Price Plummets 10% After Announcing Major Production Delays",
+    "y": 0
+  },
+  {
+    "x": "Gold Prices Surge to 5-Year High, Boosted by Global Economic Uncertainty",
+    "y": 1
+  },
+  {
+    "x": "Economists Predict Stable Interest Rates in 2024, Favoring Long-Term Investors",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Hits Lowest Level This Year Amid Electric Vehicle Demand Slump",
+    "y": 0
+  },
+  {
+    "x": "Apple Stock Soars as Investors Bet on New iPhone Release",
+    "y": 1
+  },
+  {
+    "x": "US GDP Growth Rate Remains Stable at 2% in Q4, Meeting Expectations",
+    "y": 2
+  },
+  {
+    "x": "Tesla Shares Plummet 10% Amid Electric Vehicle Supply Chain Disruptions",
+    "y": 0
+  },
+  {
+    "x": "Apple Stock Hits All-Time High as Q4 Earnings Exceed Analysts' Expectations",
+    "y": 1
+  },
+  {
+    "x": "Fed Raises Interest Rates Again, But Markets Remain Cautiously Optimistic",
+    "y": 2
+  },
+  {
+    "x": "Apple's stock takes a nosedive after surprise layoff announcement sends shockwaves through tech industry",
+    "y": 0
+  },
+  {
+    "x": "US GDP growth beats expectations, boosting Dow Jones and S&P 500 indices",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve keeps interest rates steady, citing moderate inflation and solid job market growth",
+    "y": 2
+  },
+  {
+    "x": "Oil prices plummet as OPEC fails to reach a deal on production cuts, sending shockwaves through the energy market.",
+    "y": 0
+  },
+  {
+    "x": "Apple hits record high after Q4 earnings exceed expectations, sending its stock price soaring.",
+    "y": 1
+  },
+  {
+    "x": "US Treasury yields fall to 52-week low as market volatility remains high due to trade tensions with China.",
+    "y": 2
+  },
+  {
+    "x": "Tesla's Q4 earnings report expected to bring more losses, analyst says",
+    "y": 0
+  },
+  {
+    "x": "Apple announces record quarterly profits, stock surges",
+    "y": 1
+  },
+  {
+    "x": "European Central Bank leaves interest rates unchanged, market reaction mixed",
+    "y": 2
+  },
+  {
+    "x": "Microsoft Reports Lower Earnings, Citing Weak Sales",
+    "y": 0
+  },
+  {
+    "x": "Tesla's Q4 Deliveries Surge Past 500,000 Units",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Leaves Interest Rates Unchanged, Citing Moderate Economic Growth",
+    "y": 2
+  },
+  {
+    "x": "European Central Bank Announces Surprise Rate Cut Amid Fears Of Global Recession |\u2026 ",
+    "y": 0
+  },
+  {
+    "x": "Amazon (AMZN) stock soars to record highs after surprise earnings beat",
+    "y": 1
+  },
+  {
+    "x": "US GDP growth slows down to 2.1% in Q4, as forecast, but misses expectations |\u2026 ",
+    "y": 2
+  },
+  {
+    "x": "Chipotle Mexican Grill's (CMG) Revenue Misses Analysts' Expectations for Q4, Stock Price Tumbles",
+    "y": 0
+  },
+  {
+    "x": "NVIDIA (NVDA) Surges 10% as Q4 Earnings Beat Estimates, Analysts Remain Bullish on Stock",
+    "y": 1
+  },
+  {
+    "x": "US GDP Growth Rate Revised Down to 1.9%, Reflecting Slowing Economic Activity in Q4, According to BLS",
+    "y": 2
+  },
+  {
+    "x": "Stock Market Plunges to 6-Month Low Amid Global Recession Fears",
+    "y": 0
+  },
+  {
+    "x": "Tech Stocks Surge as Apple Reports Record Revenue, Boosting Nasdaq",
+    "y": 1
+  },
+  {
+    "x": "Wall Street Sees Mixed Signals Ahead of Key Economic Data Releases",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Falls 5% as Investors Worry About Competition from New EV Makers",
+    "y": 0
+  },
+  {
+    "x": "Apple Earnings Beat Expectations, Shares Surge 7% in After-Hours Trading",
+    "y": 1
+  },
+  {
+    "x": "Global Economic Outlook Remains Uncertain Amid Ongoing Trade Tensions and Interest Rate Hikes",
+    "y": 2
+  },
+  {
+    "x": "Tesla Posts Strong Quarterly Earnings, Stock Surges on Market Open",
+    "y": 1
+  },
+  {
+    "x": "Global Market Turmoil Causes Investors to Panic, S&P 500 Falls Below 4000",
+    "y": 0
+  },
+  {
+    "x": "Apple Announces New Product Line, Stock Holds Steady as Investors Await More Details",
+    "y": 2
+  },
+  {
+    "x": "Stock market crashes as global recession fears intensify",
+    "y": 0
+  },
+  {
+    "x": "Tech stocks surge as investors bet on AI boom",
+    "y": 1
+  },
+  {
+    "x": "Fed signals patience on interest rate hike, dollar steadies",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Price Rises 5% as Q4 Earnings Exceed Analyst Estimates",
+    "y": 1
+  },
+  {
+    "x": "Oil Prices Plummet 10% as Global Economic Slowdown Continues",
+    "y": 0
+  },
+  {
+    "x": "Amazon's Revenue Forecast for Q1 Remains Unchanged, Analysts Predict Modest Growth",
+    "y": 2
+  },
+  {
+    "x": "Tech Giant NVIDIA Sees Earnings Slump Amid Chip Market Downturn",
+    "y": 0
+  },
+  {
+    "x": "Amazon Surges to Record Highs as E-commerce Demand Continues to Soar",
+    "y": 1
+  },
+  {
+    "x": "Fed Signals Potential Interest Rate Hike in March Amid Inflation Concerns",
+    "y": 2
+  },
+  {
+    "x": "Tesla's stock price plunges 10% after Elon Musk's surprise resignation as CEO.",
+    "y": 0
+  },
+  {
+    "x": "Tech giant Apple beats Q4 estimates, sees revenue growth of 14% in 2023.",
+    "y": 1
+  },
+  {
+    "x": "European Central Bank maintains interest rates at 4.5% citing stable economic growth.",
+    "y": 2
+  },
+  {
+    "x": "Tesla shares plummet 15% on disappointing earnings report, citing production costs and regulatory issues",
+    "y": 0
+  },
+  {
+    "x": "Amazon stock surges 8% after company announces plans to expand drone delivery service to more cities",
+    "y": 1
+  },
+  {
+    "x": "Gold prices hold steady at $1,450 per ounce as global economic uncertainty persists, analysts say",
+    "y": 2
+  },
+  {
+    "x": "Tesla Stock Falls 12% After Elon Musk's Twitter Earnings Call, Missing Expectations",
+    "y": 0
+  },
+  {
+    "x": "Amazon Q4 Earnings Soar, Boosting Stock to Record High as Online Sales Surge",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve Announces No Rate Hikes, Market Sees this as a Bullish Sign for Q1 2024",
+    "y": 2
+  }
+]

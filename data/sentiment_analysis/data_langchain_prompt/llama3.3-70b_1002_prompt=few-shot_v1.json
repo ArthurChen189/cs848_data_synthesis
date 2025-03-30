@@ -1,0 +1,4010 @@
+[
+  {
+    "x": "Tesla's stock plunges 10% after missing Q4 earnings expectations",
+    "y": "0"
+  },
+  {
+    "x": "Market analysts predict a strong rally for tech stocks in the coming quarter",
+    "y": "1"
+  },
+  {
+    "x": "The Dow Jones Industrial Average opens at 34,500, unchanged from yesterday's close",
+    "y": "2"
+  },
+  {
+    "x": "Amazon stock plunges 10% after disappointing Q4 earnings report",
+    "y": "0"
+  },
+  {
+    "x": "Tesla shares surge to new highs as company announces plans to expand production",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting",
+    "y": "2"
+  },
+  {
+    "x": "Microsoft's quarterly earnings exceed expectations, driven by strong cloud demand",
+    "y": "1"
+  },
+  {
+    "x": "Bank of America reports significant decline in profits due to rising operational costs",
+    "y": "0"
+  },
+  {
+    "x": "The Federal Reserve announces its decision to keep interest rates unchanged at 2%",
+    "y": "2"
+  },
+  {
+    "x": "Apple's Q4 Revenue Misses Expectations, Stock Plummets 5% After Hours",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA Reports Record Q2 Earnings, Beats Analyst Estimates with 50% Revenue Growth",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book Report, Providing Insights into US Economic Conditions",
+    "y": "2"
+  },
+  {
+    "x": "NVIDIA Stock Plunges 12% After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Bank of America Initiates Coverage of Moderna with Buy Rating, Sees 25% Upside",
+    "y": "1"
+  },
+  {
+    "x": "US GDP Growth Rate Remains Steady at 2.1% in Q4, In Line with Expectations",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plunge as Global Economic Fears Intensify, Dow Falls 500 Points",
+    "y": "0"
+  },
+  {
+    "x": "Amazon Reports Record-Breaking Quarterly Earnings, Stock Surges 10% After Hours",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book, Provides Overview of US Economic Conditions",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plunge as Trade Tensions Escalate, Dow Falls 500 Points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's Quarterly Earnings Exceed Expectations, Stock Surges 10% After Hours",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Minutes from Latest Monetary Policy Meeting",
+    "y": "2"
+  },
+  {
+    "x": "Alibaba Group Holdings Ltd. Stock Plummets 15% After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs Upgrades Visa Inc. to 'Buy' with a Price Target of $250, Citing Strong Earnings Growth",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve Announces Interest Rate Decision, Keeping Rates Unchanged at 2.5%",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Global Economic Growth Concerns Intensify",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's Quarterly Earnings Soar, Exceeding Analyst Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America downgrades Boeing to underperform, citing ongoing production issues",
+    "y": "0"
+  },
+  {
+    "x": "US stocks soar as trade tensions ease and job market shows signs of strength",
+    "y": "1"
+  },
+  {
+    "x": "Fed releases minutes from latest monetary policy meeting, provides no surprise updates",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as inflation fears rise, Dow drops 300 points",
+    "y": 0
+  },
+  {
+    "x": "Tesla's quarterly earnings exceed expectations, stock surges 10%",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting",
+    "y": 2
+  },
+  {
+    "x": "Major Tech Company Surpasses Q2 Earnings Expectations, Stock Soars",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report, No Major Changes Announced",
+    "y": "2"
+  },
+  {
+    "x": "Retail Giant Files for Bankruptcy, Cites Rising Debt and Declining Sales",
+    "y": "0"
+  },
+  {
+    "x": "Stocks Plummet As Global Economic Fears Intensify, Dow Drops 300 Points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Surges 10% After Reporting Record Quarterly Earnings, Beating Analyst Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Minutes From Latest Monetary Policy Meeting, No Major Changes Announced",
+    "y": "2"
+  },
+  {
+    "x": "Amazon's quarterly earnings exceed expectations, with a 20% increase in cloud computing revenue",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve announces plans to maintain interest rates, citing stable economic conditions",
+    "y": "2"
+  },
+  {
+    "x": "General Motors issues a recall of over 1 million vehicles due to a software defect, sparking concerns about safety and costs",
+    "y": "0"
+  },
+  {
+    "x": "Bank of America Downgrades Boeing to Underperform Amid Ongoing 737 Max Crisis",
+    "y": "0"
+  },
+  {
+    "x": "Apple Stock Surges to New High After Impressive Quarterly Earnings Report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book Report, Detailing Economic Conditions Across the US",
+    "y": "2"
+  },
+  {
+    "x": "US Stocks Plunge as Trade Tensions with China Escalate",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's Quarterly Earnings Exceed Expectations, Stock Surges 10%",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report",
+    "y": "2"
+  },
+  {
+    "x": "Apple's quarterly earnings miss expectations, stock price plunges 5%",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs upgrades $TSLA to Buy, citing strong demand for electric vehicles",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve announces it will keep interest rates unchanged at its latest meeting",
+    "y": "2"
+  },
+  {
+    "x": "Tesla stock plunges 10% after disappointing quarterly earnings report",
+    "y": "0"
+  },
+  {
+    "x": "NASDAQ reaches new all-time high as tech stocks continue to soar",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces scheduled interest rate meeting for next month",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions between US and China escalate",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's quarterly earnings exceed expectations, driving stock price up",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting",
+    "y": "2"
+  },
+  {
+    "x": "Apple's Stock Plummets After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Investors Flock to Tesla as Electric Vehicle Demand Soars",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's Stock Plummets After Missing Q4 Earnings Expectations",
+    "y": "0"
+  },
+  {
+    "x": "Amazon Reports Record-Breaking Holiday Sales, Stock Surges 10%",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book Report on US Economic Conditions",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America's profits plummet 27% due to rising operating costs",
+    "y": "0"
+  },
+  {
+    "x": "Stocks surge as Federal Reserve signals potential pause in interest rate hikes",
+    "y": "1"
+  },
+  {
+    "x": "European Central Bank announces scheduled meeting to discuss monetary policy",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plunge as coronavirus fears escalate, Dow Jones down 500 points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla surges 10% after announcing record quarterly deliveries, beating analyst expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve keeps interest rates unchanged, cites moderate economic growth",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's Quarterly Earnings Miss Analyst Expectations, Stock Price Plummets",
+    "y": "0"
+  },
+  {
+    "x": "Amazon Reports Significant Increase in Cloud Computing Revenue, Beats Q2 Projections",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement, No Changes to Interest Rates Announced",
+    "y": "2"
+  },
+  {
+    "x": "Alphabet Inc. misses Q4 earnings expectations, stock plunges 5% after hours",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA Corporation announces record Q2 revenue, up 68% year-over-year",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from January meeting, discussing potential interest rate changes",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's Stock Plunges After Missing Earnings Expectations",
+    "y": "0"
+  },
+  {
+    "x": "Federal Reserve Releases Monthly Report on Economic Activity",
+    "y": "2"
+  },
+  {
+    "x": "Amazon Shares Soar After Announcing Major Expansion Plans",
+    "y": "1"
+  },
+  {
+    "x": "Disney stock plummets after missing Q4 earnings expectations, citing poor box office performance",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA shares soar after announcing major breakthrough in AI technology, with potential for significant revenue growth",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve keeps interest rates unchanged, citing stable economic conditions and low inflation",
+    "y": "2"
+  },
+  {
+    "x": "Dow Plunges 500 Points as Trade Tensions Escalate with China",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA Stock Surges to New Highs on Strong Earnings and AI Growth",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report, No Major Changes Expected",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's Q4 earnings miss expectations, stock plunges 10%",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs upgrades Amazon to 'buy' citing strong growth prospects",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve keeps interest rates unchanged, citing stable economy",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Trade Tensions Escalate",
+    "y": "0"
+  },
+  {
+    "x": "Analysts Predict Strong Earnings for $GOOGL, Share Price Expected to Rise",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Economic Outlook Report",
+    "y": "2"
+  },
+  {
+    "x": "Alphabet Inc. Stock Plunges 10% After Disappointing Q2 Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Analysts Predict 25% Upswing for Tesla Stock Following Breakthrough in Autonomous Driving Technology",
+    "y": "1"
+  },
+  {
+    "x": "The S&P 500 Index Remains Steady at 4,500 as Investors Await Federal Reserve Interest Rate Decision",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America Stock Plunges After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Shares Surge to New High After Record-Breaking Quarterly Sales",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement, No Changes Announced",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Trade Tensions Escalate",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Shares Surge After Record Quarterly Earnings",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions between US and China escalate",
+    "y": "0"
+  },
+  {
+    "x": "Amazon's quarterly earnings exceed expectations, driving stock price up 5%",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces plans to review monetary policy framework",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America Warns of Looming Recession, Cuts Growth Forecast",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA Stock Surges After Announcing Breakthrough in AI Technology",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book, Providing Insights into US Economic Conditions",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plunge as Trade Tensions Escalate",
+    "y": "0"
+  },
+  {
+    "x": "Amazon Shares Soar After Blowout Earnings Report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book Report",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's Stock Plummets After Disappointing Q4 Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Dow Jones Index Hits New High as Investors Remain Optimistic About Economic Growth",
+    "y": "1"
+  },
+  {
+    "x": "NASDAQ Composite Trading at 15,200.23, Up 0.2% for the Day",
+    "y": "2"
+  },
+  {
+    "x": "Apple's iPhone sales decline for the third consecutive quarter, citing weak demand in China",
+    "y": "0"
+  },
+  {
+    "x": "Amazon's cloud computing division posts 40% revenue growth, beating analyst expectations",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve releases its monthly report on inflation rates, showing a steady 2% annual increase",
+    "y": "2"
+  },
+  {
+    "x": "NVIDIA stock plunges 10% after disappointing Q4 earnings report",
+    "y": "0"
+  },
+  {
+    "x": "Amazon surges 5% as analysts predict strong holiday sales and cloud growth",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve keeps interest rates unchanged, citing steady economic growth and low inflation",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's Stock Plummets After Missing Earnings Expectations",
+    "y": "0"
+  },
+  {
+    "x": "Federal Reserve Cuts Interest Rates, Boosting Market Optimism",
+    "y": "1"
+  },
+  {
+    "x": "Monthly Jobs Report Shows Steady Employment Growth, Unchanged Unemployment Rate",
+    "y": "2"
+  },
+  {
+    "x": "Tesla Stock Surges After Record-Breaking Quarterly Earnings Report",
+    "y": "1"
+  },
+  {
+    "x": "What Are the Biggest Holders of NVIDIA Corporation (NASDAQ:NVDA) Shares?",
+    "y": "2"
+  },
+  {
+    "x": "Johnson & Johnson Faces Decline in Stock Price Following Disappointing Sales Forecast",
+    "y": "0"
+  },
+  {
+    "x": "Bank of America Downgrades Boeing to Neutral on Ongoing 737 Max Issues",
+    "y": 0
+  },
+  {
+    "x": "Amazon Stock Surges After Beating Q4 Earnings Expectations",
+    "y": 1
+  },
+  {
+    "x": "Goldman Sachs Reports Q1 Earnings: What to Expect",
+    "y": 2
+  },
+  {
+    "x": "Amazon Stock Plunges After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs Predicts Strong Market Growth in 2024",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Monthly Interest Rate Statement",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America warns of impending recession as economic indicators continue to decline",
+    "y": "0"
+  },
+  {
+    "x": "Tesla stock soars after announcing record-breaking quarterly earnings and exceeding analyst expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases latest monetary policy report, providing updates on inflation and employment rates",
+    "y": "2"
+  },
+  {
+    "x": "Tech Stocks Plummet as Investors Fear Regulatory Crackdown #economy #MarketScreener",
+    "y": "0"
+  },
+  {
+    "x": "Gold Prices Soar to New Highs as Central Banks Increase Reserves #investing #gold",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book Report on US Economic Conditions #economy #federalreserve",
+    "y": "2"
+  },
+  {
+    "x": "Wall Street Experiences Sharp Decline as Fears of Recession Intensify",
+    "y": "0"
+  },
+  {
+    "x": "Tech Stocks Soar After Surprise Earnings Beat from Major Player",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Economic Report, Cites Steady Growth and Moderate Inflation",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Trade Tensions Escalate, Dow Falls 300 Points",
+    "y": "0"
+  },
+  {
+    "x": "Nasdaq Reaches New High as Tech Stocks Surge, Amazon Up 5%",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Economic Projections, No Rate Changes Announced",
+    "y": "2"
+  },
+  {
+    "x": "Dow Jones plunges 500 points as trade tensions escalate with China",
+    "y": "0"
+  },
+  {
+    "x": "Tesla stock surges after announcing record-breaking quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting, providing insight into future interest rate decisions",
+    "y": "2"
+  },
+  {
+    "x": "Microsoft stock plunges after missing Q4 revenue expectations, citing weak cloud demand",
+    "y": "0"
+  },
+  {
+    "x": "Shares of NVIDIA surge as company reports record Q2 earnings, driven by strong gaming and AI demand",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases latest Beige Book report, providing overview of US economic conditions and trends",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Trade Tensions Escalate, Global Markets Take a Hit",
+    "y": "0"
+  },
+  {
+    "x": "Federal Reserve Announces Plans to Cut Interest Rates, Boosting Market Confidence",
+    "y": "1"
+  },
+  {
+    "x": "Q2 Earnings Report: Company XYZ Releases Financial Statements, Provides Update on Ongoing Operations",
+    "y": "2"
+  },
+  {
+    "x": "Dow Jones Plummets 300 Points as Trade Tensions Escalate with China",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Stock Surges 5% After Reporting Record Quarterly Earnings",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Monthly Economic Report, Cites Steady Growth and Low Unemployment",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Inflation Fears Intensify, Dow Falls 300 Points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Shares Soar After Surprise Earnings Beat, CEO Musk Sees Bright Future Ahead",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report, No Major Changes Announced",
+    "y": "2"
+  },
+  {
+    "x": "US Stocks Decline as Trade Tensions with China Escalate",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's Quarterly Earnings Exceed Expectations, Sending Shares Soaring",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report, Citing Steady Economic Growth",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Inflation Concerns Mount",
+    "y": "0"
+  },
+  {
+    "x": "Netflix Shares Surge After Beating Earnings Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions escalate between US and China, sparking fears of a global recession",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's quarterly earnings exceed expectations, driving stock prices to an all-time high",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve announces its decision to keep interest rates unchanged, citing a stable economy",
+    "y": "2"
+  },
+  {
+    "x": "Tech stocks plummet as investors worry about global economic slowdown",
+    "y": "0"
+  },
+  {
+    "x": "Federal Reserve announces interest rate cut, boosting market confidence",
+    "y": "1"
+  },
+  {
+    "x": " Quarterly earnings report: Netflix adds 2.2 million new subscribers, meeting analyst expectations",
+    "y": "2"
+  },
+  {
+    "x": "Amazon's profit surges 25% in Q2, beating analyst expectations",
+    "y": "1"
+  },
+  {
+    "x": "US stocks fall sharply as recession fears escalate",
+    "y": "0"
+  },
+  {
+    "x": "Fed announces plans to release minutes from latest monetary policy meeting",
+    "y": "2"
+  },
+  {
+    "x": "Microsoft Stock Falls After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA (NVDA) Surges to New High on Strong Quarterly Earnings",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Minutes from Latest Monetary Policy Meeting",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions escalate between US and China",
+    "y": "0"
+  },
+  {
+    "x": "Analysts predict significant revenue growth for Tesla in upcoming quarterly earnings report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting, providing insight into interest rate decisions",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America Stocks Plummet as Q4 Earnings Miss Expectations",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Surges to New Highs After Record-Breaking Quarterly Sales",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report, No Changes to Interest Rates Announced",
+    "y": "2"
+  },
+  {
+    "x": "Warnings Signs Ahead: Deutsche Bank's Slumping Stock Price May Indicate Deeper Issues",
+    "y": 0
+  },
+  {
+    "x": "NVIDIA Corporation (NVDA) Surges to New Highs on Strong Earnings and Bright Outlook",
+    "y": 1
+  },
+  {
+    "x": "What to Expect from the Upcoming Earnings Report of The Walt Disney Company (DIS)",
+    "y": 2
+  },
+  {
+    "x": "Bank of America Warns of Looming Recession, Cuts Growth Forecast",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Stock Surges After Surprise Q2 Profit, Beating Analyst Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book Report, Providing Insights into US Economic Conditions",
+    "y": "2"
+  },
+  {
+    "x": "European stocks plummet as COVID-19 cases surge, sparking recession fears",
+    "y": "0"
+  },
+  {
+    "x": "Tesla stock soars after record quarterly earnings and strong guidance for 2024",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases latest Beige Book report, providing insight into US economic conditions",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Trade Tensions Escalate with China",
+    "y": "0"
+  },
+  {
+    "x": "Unemployment Rate Falls to Historic Low, Boosting Economic Outlook",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Monthly Interest Rate Statement",
+    "y": "2"
+  },
+  {
+    "x": "Tech Stocks Plummet as Interest Rates Continue to Rise",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's Quarterly Earnings Exceed Expectations, Stock Surges",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Economic Growth Projections",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America warns of impending recession, cuts growth forecast",
+    "y": "0"
+  },
+  {
+    "x": "Tesla stock surges 15% after beating Q2 earnings expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America warns of potential downturn in housing market, citing rising interest rates and decreased demand",
+    "y": "0"
+  },
+  {
+    "x": "Tesla stock surges after company reports record quarterly earnings, exceeding analyst expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting, providing insight into future interest rate decisions",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions between the US and China escalate",
+    "y": "0"
+  },
+  {
+    "x": "Apple's quarterly earnings surpass expectations, driving stock price to new highs",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve announces plans to release its latest monetary policy report on Friday",
+    "y": "2"
+  },
+  {
+    "x": "JP Morgan Downgrades Boeing Stock to Underweight, Citing Ongoing Challenges",
+    "y": 0
+  },
+  {
+    "x": "Goldman Sachs Initiates Coverage of Netflix with a Buy Rating, Sees Significant Growth Ahead",
+    "y": 1
+  },
+  {
+    "x": "Q2 2024 Earnings Release: Microsoft Corporation - MSFT to Report Quarterly Results on April 22",
+    "y": 2
+  },
+  {
+    "x": "US Stocks Plummet as Inflation Fears Intensify, Dow Drops 300 Points",
+    "y": "0"
+  },
+  {
+    "x": "Bank of America Upgrades $TSLA to Buy, Citing Strong Demand for Electric Vehicles",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Minutes from Latest Monetary Policy Meeting, No Major Surprises",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions escalate between US and China",
+    "y": "0"
+  },
+  {
+    "x": "Analysts predict significant revenue growth for tech giant AAPL in Q2",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases latest monetary policy report, citing steady economic growth",
+    "y": "2"
+  },
+  {
+    "x": "$AAPL - Apple stocks plummet as company misses Q4 earnings expectations",
+    "y": "0"
+  },
+  {
+    "x": "Dow Jones surges to new highs as investors welcome positive economic data",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting, provides no surprises",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions escalate between US and China, sparking recession fears",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's stock surges after company announces record quarterly earnings and exceeding production targets",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting, providing insight into interest rate decisions",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's stock plummets after missing Q4 earnings expectations, sparking concerns about company's future growth",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs upgrades Amazon (NASDAQ: $AMZN) to 'Buy' with a price target of $2,500, citing strong cloud computing prospects",
+    "y": "1"
+  },
+  {
+    "x": "The US Federal Reserve releases its latest Beige Book report, providing an overview of the country's economic conditions and outlook",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's quarterly earnings miss expectations, stock price plummets 10%",
+    "y": "0"
+  },
+  {
+    "x": "Microsoft announces major cloud computing deal, shares surge 8%",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting, provides no clear direction on interest rates",
+    "y": "2"
+  },
+  {
+    "x": "Apple's Stock Plunges 5% After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Surges 10% After Announcing Record-Breaking Quarterly Sales",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Keeps Interest Rates Unchanged, Citing Steady Economic Growth",
+    "y": "2"
+  },
+  {
+    "x": "US Stocks Plunge as Trade Tensions Escalate with China",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Surpasses Expectations with Record Quarterly Earnings",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Decision, Cites Economic Uncertainty",
+    "y": "2"
+  },
+  {
+    "x": "Alphabet stock plunges 10% after disappointing quarterly earnings report",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs upgrades Boeing to 'buy' citing improved demand for commercial aircraft",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting, provides no surprises",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as inflation concerns rise, Dow Jones down 300 points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's Q2 earnings exceed expectations, driving stock price up 10% in after-hours trading",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases latest monetary policy report, noting steady economic growth",
+    "y": "2"
+  },
+  {
+    "x": "Alphabet stock plunges 10% after disappointing Q4 earnings report",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA announces major breakthrough in AI technology, shares soar 15%",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting",
+    "y": "2"
+  },
+  {
+    "x": "NVIDIA Stock Plummets 10% After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Amazon Shares Surge 5% on Strong Q4 Revenue Growth",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement",
+    "y": "2"
+  },
+  {
+    "x": "Amazon Stock Plummets as Quarterly Earnings Fall Short of Expectations",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs Predicts Bullish Trend for Renewable Energy Stocks in 2024",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Report on Inflation Rates and Economic Growth",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as inflation fears rise, Dow falls 300 points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's quarterly earnings exceed expectations, stock surges 10%",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces interest rate decision, markets await reaction",
+    "y": "2"
+  },
+  {
+    "x": "Amazon's Quarterly Earnings Soar, Beating Analyst Expectations with 25% Revenue Increase",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Decision, Citing Economic Growth and Inflation Concerns",
+    "y": "2"
+  },
+  {
+    "x": "Tesla Stock Plummets 10% After Missing Q2 Delivery Projections, Sparking Investor Concerns",
+    "y": "0"
+  },
+  {
+    "x": "Amazon stock plummets after missing quarterly earnings expectations",
+    "y": "0"
+  },
+  {
+    "x": "Tesla stock surges to new highs after announcing record quarterly deliveries",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve is scheduled to release its monthly interest rate decision at 2 PM EST today",
+    "y": "2"
+  },
+  {
+    "x": "Shares of Boeing (BA) Plummet 10% After Company Announces Unexpected Production Delays",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA (NVDA) Surges 15% Following Blowout Q3 Earnings Report, Beating Analyst Expectations",
+    "y": "1"
+  },
+  {
+    "x": "What Are the Key Factors to Consider When Evaluating the Creditworthiness of Corporate Bonds?",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plunge as Trade Tensions Escalate, Dow Falls 300 Points",
+    "y": "0"
+  },
+  {
+    "x": "Amazon's Quarterly Earnings Soar, Beating Analyst Expectations and Sending Stock Price to New Highs",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report, Providing Insights into Economic Outlook",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plunge as Trade Tensions Escalate, Dow Falls 300 Points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's Quarterly Earnings Beat Expectations, Stock Soars to New High",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report, No Changes Announced",
+    "y": "2"
+  },
+  {
+    "x": "Stocks of tech giant Meta plummet as Q4 earnings miss analyst expectations",
+    "y": "0"
+  },
+  {
+    "x": "Electric vehicle manufacturer Tesla announces record quarterly deliveries, surpassing Wall Street forecasts",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve releases its monthly report on inflation, citing steady consumer prices and modest economic growth",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Trade Tensions Escalate",
+    "y": "0"
+  },
+  {
+    "x": "Earnings Season Kicks Off with Strong Reports from Tech Giants",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Monthly Economic Outlook Report",
+    "y": "2"
+  },
+  {
+    "x": "Amazon stock plunges 10% after disappointing Q4 earnings report",
+    "y": "0"
+  },
+  {
+    "x": "Dow Jones surges to new high as investors cheer strong jobs report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces scheduled interest rate meeting for next month",
+    "y": "2"
+  },
+  {
+    "x": "Tech Stocks Plummet as Investors Fear Recession",
+    "y": "0"
+  },
+  {
+    "x": "Analysts Predict Significant Growth for Renewable Energy Sector in 2024",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Monthly Economic Report, Cites Steady GDP Growth",
+    "y": "2"
+  },
+  {
+    "x": "Tech Stocks Plunge as Fears of Recession Grow, Wiping Out Billions in Investor Wealth",
+    "y": "0"
+  },
+  {
+    "x": "Investors Cheer as Earnings Report Reveals Surprising Growth for Renewable Energy Sector",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Economic Projections, Citing Uncertainty and Mixed Signals",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Inflation Fears Intensify",
+    "y": "0"
+  },
+  {
+    "x": "Apple Posts Record Quarterly Earnings, Exceeding Analyst Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Monthly Interest Rate Statement",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America Downgrades $TSLA to Underperform Amid Rising Competition",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs Initiates Coverage of $NVDA with a Buy Rating, Citing Strong Growth Prospects",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Minutes from Latest Monetary Policy Meeting, Providing Insight into Interest Rate Decisions",
+    "y": "2"
+  },
+  {
+    "x": "Tech Stocks Plunge as Trade Tensions Escalate, Wiping Out Gains for the Year",
+    "y": "0"
+  },
+  {
+    "x": "Bank of America Shares Soar After Beating Earnings Expectations, Signaling Strong Q2 Performance",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report, Providing Insights into Economic Outlook and Interest Rate Decisions",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's Stock Plunges After Missing Q4 Earnings Expectations",
+    "y": "0"
+  },
+  {
+    "x": "Bank of America Upgrades Visa to Buy, Citing Strong Earnings Growth",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Beige Book Report on US Economic Conditions",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions escalate, Dow Jones down 300 points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla stock surges after announcing record-breaking quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest meeting, no changes to interest rates expected",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America downgrades Boeing due to ongoing production issues",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs upgrades Netflix on strong subscriber growth prospects",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting",
+    "y": "2"
+  },
+  {
+    "x": "Amazon Stock Plummets After Disappointing Quarterly Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Cut, Boosting Market Confidence",
+    "y": "1"
+  },
+  {
+    "x": "Tesla's Q4 Earnings Report Scheduled for Release on February 10th",
+    "y": "2"
+  },
+  {
+    "x": "Apple's Quarterly Earnings Exceed Expectations, Boosting Investor Confidence",
+    "y": "1"
+  },
+  {
+    "x": "What's Behind the Recent Decline in Netflix Stock Price?",
+    "y": "0"
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Decision, Citing Economic Uncertainty",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's stock plunges after missing quarterly earnings expectations",
+    "y": "0"
+  },
+  {
+    "x": "Amazon reports significant growth in cloud computing and advertising revenue, beating analyst estimates",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve announces its decision to keep interest rates unchanged, citing steady economic growth",
+    "y": "2"
+  },
+  {
+    "x": "Amazon Stock Plunges 10% After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA Shares Surge 15% on Strong Quarterly Revenue Growth",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Decision, No Changes Made to Monetary Policy",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as inflation concerns mount, Dow falls 500 points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla reports record quarterly earnings, surpassing Wall Street expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting, no major surprises",
+    "y": "2"
+  },
+  {
+    "x": "Alibaba Group Falls 5% After Missing Quarterly Earnings Expectations",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA Shares Surge 10% On Strong Earnings Report And Bright Outlook",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Keeps Interest Rates Unchanged, Cites Ongoing Economic Uncertainty",
+    "y": "2"
+  },
+  {
+    "x": "NVIDIA Stock Plummets After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs Predicts Significant Upswing in Tech Sector",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement",
+    "y": "2"
+  },
+  {
+    "x": "Amazon's cloud computing segment sees significant growth, beats Q4 expectations",
+    "y": "1"
+  },
+  {
+    "x": "US stocks fall as trade tensions escalate, Dow drops 200 points",
+    "y": "0"
+  },
+  {
+    "x": "Federal Reserve announces interest rate decision, keeps rates unchanged at 2%",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions escalate between US and China",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs upgrades Netflix to 'buy' citing strong subscriber growth",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Trade Tensions Escalate, Dow Falls 300 Points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's Quarterly Earnings Exceed Expectations, Stock Surges 10%",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report, No Changes to Interest Rates Announced",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's Stock Plummets After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Cut to Boost Economic Growth",
+    "y": "2"
+  },
+  {
+    "x": "Amazon's Cloud Computing Division Sees Explosive Growth, Beats Wall Street Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Amazon stock plunges 3.5% after disappointing quarterly earnings",
+    "y": "0"
+  },
+  {
+    "x": "JPMorgan Chase to invest $1 billion in AI technology, expected to boost revenue",
+    "y": "1"
+  },
+  {
+    "x": "What to expect from the Federal Reserve's upcoming monetary policy meeting",
+    "y": "2"
+  },
+  {
+    "x": "Dow Jones plummets 500 points as trade tensions escalate with China",
+    "y": "0"
+  },
+  {
+    "x": "Tesla stock surges after announcing record quarterly earnings and strong guidance for the year",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve releases its monthly report on economic activity, noting modest growth and stable inflation",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America Stocks Plummet After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Shares Soar After Surpassing Quarterly Production Targets",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Decision, Cites Economic Uncertainty",
+    "y": "2"
+  },
+  {
+    "x": "Amazon's quarterly earnings fall short of expectations, stock price plummets",
+    "y": "0"
+  },
+  {
+    "x": "Federal Reserve announces plans to keep interest rates low, boosting market confidence",
+    "y": "1"
+  },
+  {
+    "x": "S&P 500 index remains steady, awaiting upcoming economic data releases",
+    "y": "2"
+  },
+  {
+    "x": "US Stocks Plunge as Inflation Fears Intensify, Dow Falls 300 Points",
+    "y": "0"
+  },
+  {
+    "x": "Amazon Surges to New High After Blowout Earnings Report, Beating Analyst Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement, No Changes to Interest Rates Announced",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Trade Tensions Escalate, Dow Falls 500 Points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Surpasses Quarterly Earnings Expectations, Stock Soars to New Highs",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Decision, Cites Ongoing Economic Growth",
+    "y": "2"
+  },
+  {
+    "x": "Amazon's stock plummets 10% after disappointing Q2 earnings report",
+    "y": "0"
+  },
+  {
+    "x": "Google's cloud business drives strong Q3 revenue growth, beating analyst expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces interest rate decision, citing steady economic growth",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Global Economic Slowdown Fears Intensify",
+    "y": "0"
+  },
+  {
+    "x": "Amazon Reports Record-Breaking Quarterly Earnings, Surpassing Analyst Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Monthly Interest Rate Update, No Changes Announced",
+    "y": "2"
+  },
+  {
+    "x": "Tech stocks plummet as investors fear upcoming earnings reports",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs upgrades Amazon to 'buy' citing strong growth potential",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces plans to release latest economic projections",
+    "y": "2"
+  },
+  {
+    "x": "NVIDIA shares tumble 10% after disappointing quarterly earnings report",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs upgrades Tesla to 'buy' citing strong electric vehicle demand",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting",
+    "y": "2"
+  },
+  {
+    "x": "Tesla Stock Plunges After Missing Q4 Earnings Expectations",
+    "y": "0"
+  },
+  {
+    "x": "Disney Surges to All-Time High on Strong Streaming Growth",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Leaves Interest Rates Unchanged in Latest Decision",
+    "y": "2"
+  },
+  {
+    "x": "Amazon stock plummets 8% after disappointing Q4 earnings report",
+    "y": "0"
+  },
+  {
+    "x": "Tesla surges to new highs as investors cheer strong delivery numbers and bullish outlook",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces plans to release latest monetary policy statement at 2 PM EST",
+    "y": "2"
+  },
+  {
+    "x": "Alphabet Inc. misses Q4 earnings expectations, stock falls 5% after hours",
+    "y": "0"
+  },
+  {
+    "x": "Federal Reserve keeps interest rates unchanged, citing stable economic growth",
+    "y": "2"
+  },
+  {
+    "x": "Analyst predicts Amazon stock will surge 20% in 2024 on strong cloud computing demand",
+    "y": "1"
+  },
+  {
+    "x": "Stocks plummet as inflation concerns mount, Dow drops 300 points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's quarterly earnings exceed expectations, stock surges 10% after hours",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions escalate between US and China",
+    "y": "0"
+  },
+  {
+    "x": "Tech giant announces record quarterly earnings, surpassing analyst expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting, providing insight into future interest rate decisions",
+    "y": "2"
+  },
+  {
+    "x": "Amazon Stock Plunges 10% After Disappointing Q4 Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA Shares Soar 15% on Strong Earnings and Bright Outlook for AI-Powered Technologies",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Keeps Interest Rates Unchanged, Cites Steady Economic Growth and Low Inflation",
+    "y": "2"
+  },
+  {
+    "x": "Amazon Stock Plunges After Disappointing Quarterly Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Decision",
+    "y": "2"
+  },
+  {
+    "x": "Tesla Surpasses Earnings Expectations, Boosts Stock Price",
+    "y": "1"
+  },
+  {
+    "x": "Tesla's Stock Plummets After Missing Earnings Expectations",
+    "y": "0"
+  },
+  {
+    "x": "Netflix Shares Surge 10% Following Strong Quarterly Report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Decision, No Changes Made",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America's quarterly earnings fall short of expectations, sparking investor concern",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's stock surges after announcing plans to expand its electric vehicle production capacity",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases its monthly report on inflation rates and economic growth",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plunge as Recession Fears Intensify, Dow Falls 500 Points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Surges to New High After Record-Breaking Quarterly Earnings Report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement, No Changes to Interest Rates",
+    "y": "2"
+  },
+  {
+    "x": "Amazon stock plunges 10% after disappointing Q4 earnings report",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs upgrades Tesla to 'buy' with $800 price target, citing strong demand for electric vehicles",
+    "y": "1"
+  },
+  {
+    "x": "US inflation rate remains steady at 2.3% in January, in line with expectations",
+    "y": "2"
+  },
+  {
+    "x": "Amazon Stock Plummets After Disappointing Quarterly Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Surges to New Highs as Electric Vehicle Demand Continues to Soar",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement, No Changes to Interest Rates",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's Stock Price Surges After Impressive Quarterly Earnings Report",
+    "y": "1"
+  },
+  {
+    "x": "US Economy Sees Steady Growth, Inflation Remains Under Control",
+    "y": "2"
+  },
+  {
+    "x": "Deutsche Bank's Shares Tumble as Company Announces Major Restructuring Plans",
+    "y": "0"
+  },
+  {
+    "x": "US Stocks Plunge as Trade Tensions with China Escalate",
+    "y": "0"
+  },
+  {
+    "x": "Amazon's Quarterly Earnings Exceed Expectations, Sending Stock Soaring",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report, Providing Economic Outlook",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America Stock Plunges After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA Shares Soar Following Announcement of New AI Chip",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Trade Tensions Escalate, Dow Falls 300 Points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Shares Surge 15% After Surprise Q2 Profit Announcement",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Statement on Monetary Policy, No Changes Announced",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as recession fears escalate",
+    "y": "0"
+  },
+  {
+    "x": "Federal Reserve announces plans to cut interest rates, boosting market optimism",
+    "y": "1"
+  },
+  {
+    "x": "Investors await quarterly earnings report from major tech company",
+    "y": "2"
+  },
+  {
+    "x": "European stocks plummet as COVID-19 cases surge, prompting fears of economic downturn",
+    "y": "0"
+  },
+  {
+    "x": "Amazon reports record quarterly profits, exceeding analyst expectations with 25% revenue growth",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest policy meeting, providing insight into interest rate decision-making process",
+    "y": "2"
+  },
+  {
+    "x": "Amazon Stock Plunges 10% After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Surges to New Highs as Electric Vehicle Demand Continues to Soar",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Decision, Cites Ongoing Economic Uncertainty",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plunge as Trade Tensions Escalate Between US and China",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Shares Surge After Company Announces Record Quarterly Earnings",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report, Cites Mixed Economic Signals",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Trade Tensions Escalate, Dow Falls 300 Points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Surges to New Highs After Blowout Earnings Report, Shares Up 10%",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book, Provides Overview of US Economic Conditions",
+    "y": "2"
+  },
+  {
+    "x": "Alibaba's quarterly revenue misses expectations, shares drop 3% in pre-market trading",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs upgrades Boeing to 'buy' citing strong demand for commercial aircraft",
+    "y": "1"
+  },
+  {
+    "x": "Fed releases minutes from latest monetary policy meeting, provides no surprises",
+    "y": "2"
+  },
+  {
+    "x": "Amazon's Quarterly Earnings Exceed Expectations, Stock Surges 10%",
+    "y": "1"
+  },
+  {
+    "x": "Ford Motor Company Reports Disappointing Q2 Sales, Shares Fall 5%",
+    "y": "0"
+  },
+  {
+    "x": "The Dow Jones Industrial Average Closes at 35,000, Remaining Steady for the Week",
+    "y": "2"
+  },
+  {
+    "x": "Amazon's quarterly profits plummet as economic downturn takes toll",
+    "y": "0"
+  },
+  {
+    "x": "Tesla stock surges after company announces record-breaking electric vehicle sales",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases latest monetary policy report, providing insight into upcoming interest rate decisions",
+    "y": "2"
+  },
+  {
+    "x": "Amazon stock plummets 5% after disappointing Q3 earnings report",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA shares surge 10% on strong demand for AI-powered graphics cards",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces interest rate decision, markets await reaction",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as recession fears escalate, Dow drops 500 points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla shares surge 5% after company announces record quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases latest monetary policy report, provides economic outlook",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's Stock Plummets After Missing Quarterly Earnings Expectations",
+    "y": "0"
+  },
+  {
+    "x": "Investors Flock to Airbnb as IPO Filing Reveals Strong Revenue Growth",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Statement on Monetary Policy, No Changes Announced",
+    "y": "2"
+  },
+  {
+    "x": "Apple's quarterly earnings miss expectations, stock price plummets",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs upgrades Tesla to 'buy' with $200 price target, citing strong EV demand",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve keeps interest rates unchanged, cites ongoing economic growth and low inflation",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Trade Tensions Escalate, Dow Falls 300 Points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Surges to New Highs After Impressive Earnings Report, Analysts Upgrade Stock",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement, No Changes to Interest Rates Announced",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions escalate between US and China",
+    "y": "0"
+  },
+  {
+    "x": "Apple reports record quarterly earnings, surpassing analyst expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as recession fears intensify, with the Dow Jones dropping over 500 points in a single day",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's stock soars after announcing a significant increase in quarterly earnings, exceeding Wall Street expectations",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve releases its latest monetary policy statement, leaving interest rates unchanged as expected",
+    "y": "2"
+  },
+  {
+    "x": "Dow Jones Plummets as Investors Fear Recession",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Stock Surges After Record-Breaking Quarterly Earnings Report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Decision, Markets Await Reaction",
+    "y": "2"
+  },
+  {
+    "x": "Market analysts predict a decline in tech stock prices due to increased competition and rising production costs",
+    "y": "0"
+  },
+  {
+    "x": "New economic data shows significant growth in the housing market, boosting investor confidence in real estate",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve releases its monthly report on inflation rates, providing insight into the current state of the economy",
+    "y": "2"
+  },
+  {
+    "x": "Alibaba Group Holdings Ltd Stock Plummets After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "JPMorgan Chase Announces Plans to Expand Investment Banking Operations in Asia",
+    "y": "2"
+  },
+  {
+    "x": "Tesla Stock Surges After Company Announces Record-Breaking Quarterly Deliveries",
+    "y": "1"
+  },
+  {
+    "x": "Stocks Plummet as Recession Fears Intensify",
+    "y": "0"
+  },
+  {
+    "x": "Netflix Shares Surge After Exceeding Q4 Earnings Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book Report on Economic Conditions",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Trade Tensions Escalate with China",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Shares Soar After Surpassing Quarterly Earnings Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's Stock Plummets After Missing Quarterly Earnings Projections",
+    "y": "0"
+  },
+  {
+    "x": "Jamie Dimon Says JPMorgan Chase is Well-Positioned for Long-Term Growth",
+    "y": "1"
+  },
+  {
+    "x": "US Consumer Price Index Released, Showing Moderate Inflation Rate",
+    "y": "2"
+  },
+  {
+    "x": "Wall Street Experiences Sharp Decline as Recession Fears Intensify",
+    "y": "0"
+  },
+  {
+    "x": "Nasdaq Surges to New High as Tech Stocks Lead the Rally",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report, Provides Economic Outlook",
+    "y": "2"
+  },
+  {
+    "x": "Microsoft Stock Plummets After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Shares Soar as Company Announces Record-Breaking Quarterly Sales",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Economic Outlook, Citing Moderate Growth",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Recession Fears Intensify, Dow Falls 500 Points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Surges to New Highs After Record-Breaking Quarterly Earnings Report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement, No Changes to Interest Rates",
+    "y": "2"
+  },
+  {
+    "x": "Alphabet stock falls after missing Q3 earnings expectations",
+    "y": "0"
+  },
+  {
+    "x": "Microsoft cloud business drives strong quarterly revenue growth",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve keeps interest rates unchanged in latest policy decision",
+    "y": "2"
+  },
+  {
+    "x": "Tech Stocks Plummet as Inflation Fears Intensify, Nasdaq Down 2%",
+    "y": "0"
+  },
+  {
+    "x": "Shares of Tesla Surge After Company Announces Record Quarterly Earnings",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report, No Major Changes Expected",
+    "y": "2"
+  },
+  {
+    "x": "Microsoft Stock Plunges 5% After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs Raises Tesla Price Target to $1,200 on Strong Q2 Sales",
+    "y": "1"
+  },
+  {
+    "x": "US Inflation Rate Remains Steady at 2.3% in July, According to Latest Data",
+    "y": "2"
+  },
+  {
+    "x": "European Banks Face Billions in Fines as Money Laundering Scandals Deepen",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Stock Surges After Record-Breaking Quarterly Earnings Report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book Report on US Economic Conditions",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Inflation Fears Intensify",
+    "y": "0"
+  },
+  {
+    "x": "Nasdaq Surges to New Highs on Strong Earnings Reports",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as recession fears grow, Dow falls 500 points",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA shares surge after announcement of major AI breakthrough, stock up 15%",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases latest economic report, notes moderate growth and low inflation",
+    "y": "2"
+  },
+  {
+    "x": "Amazon Stock Plunges After Disappointing Quarterly Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Surges to New Highs as Electric Vehicle Demand Continues to Rise",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book Report on US Economic Conditions",
+    "y": "2"
+  },
+  {
+    "x": "Apple's Quarterly Earnings Exceed Analyst Expectations, Stock Surges 5%",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Hike, Citing Inflation Concerns",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's Stock Plunges 10% After Missing Q2 Delivery Projections",
+    "y": "0"
+  },
+  {
+    "x": "Tech Stocks Plunge As Global Economic Fears Intensify",
+    "y": "0"
+  },
+  {
+    "x": "Amazon's Cloud Computing Division Sees Significant Revenue Growth in Q2",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book Report on US Economic Conditions",
+    "y": "2"
+  },
+  {
+    "x": "Amazon stock plunges 8% after missing Q4 earnings expectations",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA shares soar 15% on strong Q1 revenue and profit beats",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve releases its latest Beige Book report on the US economy",
+    "y": "2"
+  },
+  {
+    "x": "US Stock Market Plunges as Coronavirus Fears Intensify, Dow Falls 500 Points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Stock Surges 10% After Record-Breaking Quarterly Earnings Report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book Report, Providing Insights into US Economic Conditions",
+    "y": "2"
+  },
+  {
+    "x": "Stock Market Plunges as Trade Tensions Escalate with China",
+    "y": "0"
+  },
+  {
+    "x": "Apple Shares Soar After Surpassing Quarterly Earnings Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book Report on US Economic Conditions",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as investors worry about impending recession",
+    "y": "0"
+  },
+  {
+    "x": "Tesla stock surges after company announces record quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Global Recession Fears Intensify",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's Quarterly Earnings Exceed Expectations, Sending Shares Soaring",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report",
+    "y": "2"
+  },
+  {
+    "x": "$TSLA - Tesla Stock Plummets After Missing Earnings Expectations",
+    "y": "0"
+  },
+  {
+    "x": "Federal Reserve Keeps Interest Rates Steady, Citing Stable Economy",
+    "y": "2"
+  },
+  {
+    "x": "$NVDA - NVIDIA Stock Surges After Announcing Breakthrough in Artificial Intelligence Technology",
+    "y": "1"
+  },
+  {
+    "x": "Stocks plummet as trade tensions escalate between US and China",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's quarterly earnings exceed expectations, driving stock price up",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting",
+    "y": "2"
+  },
+  {
+    "x": "Dow Jones Plunges 300 Points Amid Fears of Global Economic Downturn",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Stock Surges After Record-Breaking Quarterly Earnings Report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Decision, Cites Ongoing Economic Growth",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America stock plummets after missing Q2 earnings expectations",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's stock surges after announcing plans to expand electric vehicle production",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve announces it will keep interest rates unchanged for the remainder of the year",
+    "y": "2"
+  },
+  {
+    "x": "European Stocks Plummet as COVID-19 Fears Intensify, DAX Down 2.5% #economy #stockmarket",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Surges to New Highs After Impressive Q4 Earnings Report, Up 10% #Tesla #stockmarket",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book Report, Provides Insight into US Economic Conditions #FederalReserve #economy",
+    "y": "2"
+  },
+  {
+    "x": "Tesla stock plunges 10% after disappointing earnings report",
+    "y": "0"
+  },
+  {
+    "x": "Shares of NVIDIA soar 20% on strong artificial intelligence demand",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as inflation fears intensify, Dow drops 500 points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla surges to new highs after record-breaking quarterly earnings report $TSLA",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases latest monetary policy statement, leaves interest rates unchanged",
+    "y": "2"
+  },
+  {
+    "x": "JPMorgan Chase Announces Plans to Expand Investment Banking Operations in Asia",
+    "y": "1"
+  },
+  {
+    "x": "US Retail Sales Disappoint as Consumer Spending Slows Down",
+    "y": "0"
+  },
+  {
+    "x": "Federal Reserve Releases Minutes from Latest Monetary Policy Meeting",
+    "y": "2"
+  },
+  {
+    "x": " Stocks Plummet as Recession Fears Intensify, Dow Falls 500 Points. #economy #recession",
+    "y": "0"
+  },
+  {
+    "x": "Amazon's Quarterly Earnings Exceed Expectations, Sending Stock Soaring to New Heights. #AMZN #stockmarket",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Interest Rate Decision, Cites Ongoing Economic Growth. #Fed #interestrates",
+    "y": "2"
+  },
+  {
+    "x": "European Stocks Plummet as Trade Tensions Escalate",
+    "y": "0"
+  },
+  {
+    "x": "Apple's Quarterly Earnings Exceed Expectations, Boosting Investor Confidence",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book Report on Economic Conditions",
+    "y": "2"
+  },
+  {
+    "x": " NVIDIA stock plummets 10% after disappointing Q4 earnings report",
+    "y": "0"
+  },
+  {
+    "x": "Pfizer announces breakthrough in cancer treatment, stock surges 8% in premarket trading",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting, no major surprises reported",
+    "y": "2"
+  },
+  {
+    "x": "Amazon's quarterly earnings exceed expectations, stock surges 5%",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces interest rate decision, no changes made",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's deliveries miss analyst estimates, stock price falls 10%",
+    "y": "0"
+  },
+  {
+    "x": "S&P 500 plunges 200 points as recession fears escalate",
+    "y": "0"
+  },
+  {
+    "x": "Apple shares soar 10% after announcing record-breaking quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces interest rate decision, maintains current target range",
+    "y": "2"
+  },
+  {
+    "x": "Tech Stocks Plummet as Investors Fear Recession",
+    "y": "0"
+  },
+  {
+    "x": "Dow Surges 200 Points After Strong Earnings Reports",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Decision, No Changes Made",
+    "y": "2"
+  },
+  {
+    "x": "Amazon Stock Plummets 10% After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA Shares Soar 15% on Strong Demand for AI-Powered Graphics Cards",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement, No Changes to Interest Rates",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plunge as Recession Fears Intensify",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Surges 10% After Record-Breaking Quarterly Earnings Report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement",
+    "y": "2"
+  },
+  {
+    "x": "Alphabet's quarterly earnings fall short of expectations, stock plunges 5%",
+    "y": "0"
+  },
+  {
+    "x": "Tesla stock surges after company announces plans to expand production and meet growing demand",
+    "y": "1"
+  },
+  {
+    "x": "The US Federal Reserve releases its latest monetary policy report, providing insights into the state of the economy",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as inflation fears escalate, Dow drops 500 points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's quarterly earnings surpass expectations, driving stock price to new highs",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces plans to release updated economic projections at upcoming meeting",
+    "y": "2"
+  },
+  {
+    "x": "Tesla Stock Plummets After Missing Q4 Earnings Expectations",
+    "y": "0"
+  },
+  {
+    "x": "Dow Jones Surges to New Record High on Strong Economic Data",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book Report on US Economic Conditions",
+    "y": "2"
+  },
+  {
+    "x": "Tesla stock plunges 10% after missing Q4 earnings expectations, sparking investor concerns",
+    "y": "0"
+  },
+  {
+    "x": "Microsoft announces plans to increase dividend payout by 15%, boosting investor confidence",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve releases its monthly interest rate decision, keeping rates unchanged at 2.5%",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions escalate, Dow Jones falls 300 points",
+    "y": "0"
+  },
+  {
+    "x": "Microsoft stock surges after announcing major partnership with Amazon, shares up 5% in pre-market trading",
+    "y": "1"
+  },
+  {
+    "x": "What to expect from the Federal Reserve's upcoming interest rate decision",
+    "y": "2"
+  },
+  {
+    "x": "Microsoft Shares Plummet After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Stock Surges Following Record-Breaking Quarterly Sales",
+    "y": "1"
+  },
+  {
+    "x": "What Does The Institutional Ownership Structure Of Visa Inc. (NYSE:V) Reveal?",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as global economic growth concerns intensify",
+    "y": "0"
+  },
+  {
+    "x": "Earnings surge for tech giant Alphabet, exceeding analyst expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases latest monetary policy report, providing economic outlook",
+    "y": "2"
+  },
+  {
+    "x": "Alibaba Group Holdings (BABA) Stocks Plummet 10% After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA (NVDA) Q4 Earnings Soar 50% Above Expectations, Driven by Strong Demand for AI Chips",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve Has Announced Its Scheduled Interest Rate Decision for the Upcoming Quarter",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's Q4 earnings exceed expectations, driven by strong electric vehicle sales",
+    "y": "1"
+  },
+  {
+    "x": "US stocks decline as investors worry about economic impact of rising interest rates",
+    "y": "0"
+  },
+  {
+    "x": "The Federal Reserve releases its monthly report on industrial production and capacity utilization",
+    "y": "2"
+  },
+  {
+    "x": "European Stocks Plummet as COVID-19 Cases Surge",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Stock Soars After Record-Breaking Quarterly Earnings Report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's stock plunges 5% after missing Q4 earnings expectations, sparking concerns about company's growth prospects",
+    "y": 0
+  },
+  {
+    "x": "Dow Jones surges to new highs as investors cheer strong jobs report and upbeat corporate earnings",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting, providing insight into interest rate decision-making process",
+    "y": 2
+  },
+  {
+    "x": "Dow Jones Plunges 300 Points Amid Fears of Economic Downturn",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Stock Surges After Record-Breaking Quarterly Earnings Report",
+    "y": "1"
+  },
+  {
+    "x": "Fed Releases Latest Monetary Policy Statement, No Changes to Interest Rates",
+    "y": "2"
+  },
+  {
+    "x": "Amazon Stock Plummets After Disappointing Q4 Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Surges to New Highs on Strong Electric Vehicle Demand",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Minutes from Latest Monetary Policy Meeting",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America Warns of Looming Recession, Cuts Growth Forecast",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Stock Surges After Record-Breaking Quarterly Earnings Report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement, No Changes Announced",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Inflation Fears Intensify, Dow Down 500 Points",
+    "y": "0"
+  },
+  {
+    "x": "Analysts Predict Massive Gains for Tech Giant After Earnings Beat",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Economic Outlook, Citing Mixed Indicators",
+    "y": "2"
+  },
+  {
+    "x": "Stock Market Plummets as Trade Tensions Escalate",
+    "y": "0"
+  },
+  {
+    "x": "Electric Vehicle Maker Sees Stock Price Skyrocket After Record Quarterly Earnings",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Economic Outlook Report, Citing Mixed Signals for Growth",
+    "y": "2"
+  },
+  {
+    "x": "Amazon's quarterly earnings miss expectations, stock price plummets",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's electric vehicle sales surge, exceeding Wall Street's projections",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases latest Beige Book report, providing insight into US economic conditions",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America stock falls 3% after disappointing Q4 earnings report",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's quarterly deliveries surpass expectations, sending stock up 5%",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve announces it will keep interest rates unchanged at 2.5%",
+    "y": "2"
+  },
+  {
+    "x": "Dow Jones Plummets as Trade Tensions Escalate, Sparking Fears of Recession",
+    "y": "0"
+  },
+  {
+    "x": "Amazon Stock Surges to New Highs After Blowout Earnings Report, Beating Analyst Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement, Leaving Interest Rates Unchanged",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Recession Fears Intensify",
+    "y": "0"
+  },
+  {
+    "x": "Earnings Surge: Tech Giant Posts Record Quarterly Profits",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions escalate between US and China",
+    "y": "0"
+  },
+  {
+    "x": "Tesla surges 10% after beating Q4 earnings expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces plans to keep interest rates steady in 2024",
+    "y": "2"
+  },
+  {
+    "x": "Stock Prices Plummet as Company Faces Major Financial Setbacks and Layoffs",
+    "y": "0"
+  },
+  {
+    "x": "Earnings Report: Tech Giant Surpasses Expectations with Record-Breaking Revenue and Profits",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Decision, Citing Economic Growth and Inflation Concerns",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America Stock Plummets After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's Quarterly Sales Exceed Expectations, Sending Stock Soaring",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement",
+    "y": "2"
+  },
+  {
+    "x": "Dow Jones plummets 300 points as investors worry about looming recession",
+    "y": "0"
+  },
+  {
+    "x": "Tech giant announces surprise dividend increase, sending shares soaring 10%",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting",
+    "y": "2"
+  },
+  {
+    "x": "Tesla Stock Plummets After Disappointing Quarterly Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Economic Outlook Report",
+    "y": "2"
+  },
+  {
+    "x": "NVIDIA Shares Soar Following Announcement of Major Artificial Intelligence Partnership",
+    "y": "1"
+  },
+  {
+    "x": "Oil prices plummet as global demand slows down",
+    "y": "0"
+  },
+  {
+    "x": "Tesla stock surges after announcing record quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces decision to keep interest rates unchanged",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions escalate",
+    "y": "0"
+  },
+  {
+    "x": "Tesla shares soar after surprise earnings beat",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases latest monetary policy report",
+    "y": "2"
+  },
+  {
+    "x": "Tesla stock plummets 10% after missing Q4 earnings expectations",
+    "y": "0"
+  },
+  {
+    "x": "Shares of Moderna soar 15% on promising COVID-19 vaccine trial results",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces plans to release latest monetary policy report on Wednesday",
+    "y": "2"
+  },
+  {
+    "x": "$AAPL - Apple shares plummet 8% after disappointing Q4 earnings report",
+    "y": "0"
+  },
+  {
+    "x": "Stocks surge as Federal Reserve announces surprise interest rate cut, boosting market confidence",
+    "y": "1"
+  },
+  {
+    "x": "The Dow Jones Industrial Average closed at 34,500, relatively unchanged from yesterday's trading session",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's stock plunges after missing Q4 earnings expectations",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs upgrades Amazon to 'buy' citing strong cloud growth",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting",
+    "y": "2"
+  },
+  {
+    "x": "Dow Jones Plummets 250 Points as Recession Fears Intensify",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Stock Surges 10% After Record-Breaking Q2 Earnings Report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Minutes from Latest Monetary Policy Meeting",
+    "y": "2"
+  },
+  {
+    "x": "Amazon's quarterly earnings exceed expectations, stock surges 5%",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces interest rate hike, market reacts cautiously",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's stock plummets 10% after missing production targets",
+    "y": "0"
+  },
+  {
+    "x": "Microsoft stock surges after announcing major partnership with Amazon Web Services (MSFT)",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases latest monetary policy statement, leaves interest rates unchanged",
+    "y": "2"
+  },
+  {
+    "x": "Tesla stock plunges as company misses Q4 delivery expectations, cites supply chain issues (TSLA)",
+    "y": "0"
+  },
+  {
+    "x": "Bank of America Downgrades Boeing to Neutral on Ongoing Production Delays",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA Shares Soar After Beating Q4 Earnings Expectations with Record Revenue",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report, Cites Economic Growth and Inflation Concerns",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Trade Tensions Escalate with China",
+    "y": "0"
+  },
+  {
+    "x": "Amazon Shares Soar After Beating Quarterly Earnings Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Economic Growth Projections",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plunge as Trade Tensions Escalate, Dow Falls 300 Points",
+    "y": "0"
+  },
+  {
+    "x": "Federal Reserve Cuts Interest Rates, Boosting Market Confidence and Sending Stocks Soaring",
+    "y": "1"
+  },
+  {
+    "x": "Q4 Earnings Report: Microsoft Revenue Increases 13% Year-Over-Year, In Line with Analyst Expectations",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Global Economic Slowdown Fears Intensify",
+    "y": "0"
+  },
+  {
+    "x": "Federal Reserve Cuts Interest Rates, Boosting Market Confidence",
+    "y": "1"
+  },
+  {
+    "x": "Q2 Earnings Report: Microsoft Revenue Remains Steady at $20 Billion",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions escalate, Dow Jones down 300 points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla stock surges after record quarterly earnings, up 10% in pre-market trading",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces interest rate decision, no changes made to monetary policy",
+    "y": "2"
+  },
+  {
+    "x": "Microsoft shares surge 10% after strong quarterly earnings report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting",
+    "y": "2"
+  },
+  {
+    "x": "Tesla stock plummetes 15% after company misses production targets",
+    "y": "0"
+  },
+  {
+    "x": "Stocks Plunge as Trade Tensions Escalate, Dow Falls 300 Points",
+    "y": "0"
+  },
+  {
+    "x": "Amazon Reports Surprise Profit, Shares Soar to New Highs",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Monthly Interest Rate Statement",
+    "y": "2"
+  },
+  {
+    "x": "US Stocks Plummet as Coronavirus Fears Intensify, Dow Jones Falls 800 Points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's Stock Surges After Record-Breaking Quarterly Earnings, Company Exceeds Wall Street Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book, Provides Overview of US Economic Conditions and Trends",
+    "y": "2"
+  },
+  {
+    "x": "Amazon's cloud computing revenue surges 30% in Q2, beating analyst expectations",
+    "y": "1"
+  },
+  {
+    "x": "US stocks fall sharply as trade tensions escalate, Dow drops 200 points",
+    "y": "0"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting, no major surprises",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Trade Tensions Escalate with China",
+    "y": "0"
+  },
+  {
+    "x": "Microsoft Surges to All-Time High After Strong Earnings Report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Minutes from Latest Monetary Policy Meeting",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions escalate between US and China, sparking fears of a global recession",
+    "y": "0"
+  },
+  {
+    "x": "Amazon's quarterly earnings soar, beating analyst expectations and sending stock prices to an all-time high",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve announces plans to maintain current interest rates, citing steady economic growth and low inflation",
+    "y": "2"
+  },
+  {
+    "x": "Dow Jones Plunges 300 Points as Trade Tensions Escalate with China",
+    "y": "0"
+  },
+  {
+    "x": "Amazon Stock Surges to New Highs After Beating Earnings Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Keeps Interest Rates Unchanged, Citing Stable Economic Growth",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America Warns of Looming Recession Amid Global Economic Slowdown",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA Stock Surges After Beating Q2 Earnings Expectations with Strong Gaming Demand",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Minutes from Latest Monetary Policy Meeting",
+    "y": "2"
+  },
+  {
+    "x": "Alibaba's Stock Plummets as Regulatory Scrutiny Intensifies",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Surges to New Heights After Record-Breaking Quarterly Earnings",
+    "y": "1"
+  },
+  {
+    "x": "US Federal Reserve Releases Latest Monetary Policy Report, No Major Changes Announced",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Trade Tensions Escalate with China",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Shares Soar After Surprise Q2 Profit Announcement",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book Report on US Economy",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America Stock Slips 2% After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA Shares Surge 10% On Strong Q4 Earnings And Revenue Beat",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve To Release Latest Interest Rate Decision At 2 PM ET Today",
+    "y": "2"
+  },
+  {
+    "x": "NVIDIA shares plummet 12% after disappointing Q4 earnings report",
+    "y": "0"
+  },
+  {
+    "x": "Tesla surges to new highs as Q2 deliveries exceed analyst expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting, providing insight into interest rate decisions",
+    "y": "2"
+  },
+  {
+    "x": "Tesla Stock Plummets After Missing Earnings Expectations",
+    "y": "0"
+  },
+  {
+    "x": "Amazon Announces Major Expansion into Renewable Energy Sector",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Economic Growth Projections",
+    "y": "2"
+  },
+  {
+    "x": "Amazon shares surge 5% after beating Q4 earnings expectations",
+    "y": "1"
+  },
+  {
+    "x": "Bank of America warns of potential recession due to trade tensions",
+    "y": "0"
+  },
+  {
+    "x": "Federal Reserve announces plans to maintain current interest rates",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Trade Tensions Escalate, Dow Jones Falls 300 Points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's Quarterly Earnings Exceed Expectations, Stock Surges 10% After Hours",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Statement on Monetary Policy, No Changes Announced",
+    "y": "2"
+  },
+  {
+    "x": "European stocks slump as COVID-19 cases surge and lockdowns tighten",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's stock price soars after announcing record quarterly deliveries and profits",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting, providing insight into interest rate decisions",
+    "y": "2"
+  },
+  {
+    "x": "Tech Stocks Plunge as Interest Rates Soar, Erasing Gains from Last Quarter",
+    "y": "0"
+  },
+  {
+    "x": "Electric Vehicle Manufacturer Sees Record Sales, Exceeding Analyst Expectations for Q2",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Economic Projections, Citing Ongoing Monitoring of Inflation Trends",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plunge as Trade Tensions Escalate",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA Shares Soar After Impressive Earnings Report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Decision",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions escalate, Dow Jones down 300 points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla shares surge 10% after announcing record quarterly deliveries, exceeding analyst expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest meeting, providing insight into future monetary policy decisions",
+    "y": "2"
+  },
+  {
+    "x": "Shares of $JPM plunge as Q4 earnings miss expectations, sparking concerns over banking sector",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's $TSLA stock surges after record quarterly deliveries, boosting investor confidence in electric vehicle market",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve releases its latest Beige Book report, providing an overview of the US economy and inflation trends",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as coronavirus cases surge, prompting fears of global recession",
+    "y": "0"
+  },
+  {
+    "x": "Tesla shares soar after company reports surprise quarterly profit, beating analyst expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces plans to keep interest rates steady, citing stable economic growth",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions escalate, Dow down 300 points",
+    "y": "0"
+  },
+  {
+    "x": "Amazon's quarterly earnings soar 25%, exceeding analyst expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting",
+    "y": "2"
+  },
+  {
+    "x": "Alibaba's quarterly revenue misses expectations, sparking investor concern",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA stock surges after announcing major breakthrough in AI technology",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces scheduled interest rate meeting for next month",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America Warns of Looming Recession, Stocks Plummet",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's Quarterly Earnings Exceed Expectations, Sending Shares Soaring",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Decision, Markets Await Reaction",
+    "y": "2"
+  },
+  {
+    "x": "US Stock Market Plunges as Fears of Recession Grow",
+    "y": "0"
+  },
+  {
+    "x": "Amazon Reports Record-Breaking Quarterly Earnings, Stock Soars",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Announces Scheduled Interest Rate Meeting for Next Quarter",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Trade Tensions Escalate Between US and China",
+    "y": "0"
+  },
+  {
+    "x": "Federal Reserve Cuts Interest Rates, Boosting Market Confidence",
+    "y": "1"
+  },
+  {
+    "x": "Q3 Earnings Season Begins, With Investors Watching for Signs of Economic Slowdown",
+    "y": "2"
+  },
+  {
+    "x": "NVIDIA Stock Surges After Earnings Report Exceeds Expectations",
+    "y": "1"
+  },
+  {
+    "x": "US Stocks End Mixed as Investors Await Fed Decision",
+    "y": "2"
+  },
+  {
+    "x": "Tesla Shares Plummet as Company Misses Q2 Delivery Projections",
+    "y": "0"
+  },
+  {
+    "x": "Stocks plummet as trade tensions escalate between the US and China",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's quarterly earnings exceed expectations, driving stock price to new highs",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve announces its decision to keep interest rates unchanged at its latest meeting",
+    "y": "2"
+  },
+  {
+    "x": "Amazon Stock Plummets After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Dow Surges to New High as Trade Tensions Ease with China",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Decision, Citing Economic Growth and Inflation Concerns",
+    "y": "2"
+  },
+  {
+    "x": "Nvidia stock falls 5% after disappointing quarterly earnings report",
+    "y": "0"
+  },
+  {
+    "x": "Tesla surges 10% on news of record-breaking electric vehicle sales",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces plans to release latest interest rate decision on Wednesday",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions between US and China escalate, Dow down 500 points",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs predicts a strong Q2 earnings season, upgrades outlook for S&P 500",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces plans to release minutes from latest monetary policy meeting",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's Stock Plummets After Disappointing Quarterly Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Bank of America Reports Strong Q2 Earnings, Beats Analyst Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement, No Changes to Interest Rates",
+    "y": "2"
+  },
+  {
+    "x": "Amazon stock plunges after disappointing quarterly earnings report",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs upgrades Visa to 'buy' with $250 price target, citing strong growth prospects",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plunge as COVID-19 Fears Intensify, Dow Falls 500 Points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Surges 10% After Record Quarterly Deliveries, Beats Earnings Estimates",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book Report, Notes Moderate Economic Growth",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's Quarterly Earnings Fall Short of Expectations",
+    "y": "0"
+  },
+  {
+    "x": "Microsoft Stocks Soar After Impressive Q2 Revenue Growth",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Economic Outlook Report",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley cuts U.S. GDP forecast, citing trade tensions and slowing global growth",
+    "y": "0"
+  },
+  {
+    "x": "Alphabet stock surges after beating Q4 earnings expectations, driven by strong ad revenue",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve releases its monthly balance sheet statement, showing a $10 billion increase in assets",
+    "y": "2"
+  },
+  {
+    "x": "Tesla Stock Plunges After Missing Earnings Expectations, Sparking Concerns About Company's Future",
+    "y": "0"
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Hike, Citing Strong Economic Growth and Low Unemployment",
+    "y": "1"
+  },
+  {
+    "x": "US Stock Market Opens Flat, Awaiting Release of Key Economic Indicators and Corporate Earnings Reports",
+    "y": "2"
+  },
+  {
+    "x": "Tesla stock plunges 12% after disappointing Q4 earnings report",
+    "y": 0
+  },
+  {
+    "x": "Federal Reserve announces plans to keep interest rates low, boosting market optimism",
+    "y": 1
+  },
+  {
+    "x": "US GDP growth rate remains steady at 2.1% in Q4, meeting analyst expectations",
+    "y": 2
+  },
+  {
+    "x": "Stocks plummet as trade tensions escalate between US and China",
+    "y": "0"
+  },
+  {
+    "x": "Federal Reserve announces interest rate cut, boosting market confidence",
+    "y": "1"
+  },
+  {
+    "x": "Quarterly earnings report for major tech companies to be released on Thursday",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America's Quarterly Earnings Miss Analyst Expectations",
+    "y": "0"
+  },
+  {
+    "x": "Shares of NVIDIA Corporation Surge After Announcing Major Partnership",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Global Economic Fears Intensify, Dow Falls Below 30,000",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Shares Soar After Surpassing Q4 Earnings Expectations, Musk Hints at New Innovations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book Report, Provides Overview of US Economic Conditions",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions escalate, sparking fears of a global economic downturn.",
+    "y": "0"
+  },
+  {
+    "x": "Tech giant reports record quarterly earnings, exceeding analyst expectations and sending shares soaring.",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases latest monetary policy statement, providing update on interest rates and economic outlook.",
+    "y": "2"
+  },
+  {
+    "x": "Uber stock plunges 10% after disappointing Q4 earnings report",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's stock surges to new highs after record-breaking vehicle deliveries",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces plans to release latest monetary policy statement",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's Stock Plummets After Missing Earnings Expectations",
+    "y": "0"
+  },
+  {
+    "x": "Amazon Reports Record-Breaking Quarterly Profits, Shares Soar 10%",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Monthly Interest Rate Statement",
+    "y": "2"
+  },
+  {
+    "x": "NVIDIA stock plunges 10% after disappointing quarterly earnings report",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs predicts significant upside for Tesla stock in the next quarter",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve releases its monthly report on inflation rates and economic growth",
+    "y": "2"
+  },
+  {
+    "x": "European Stocks Plummet as Global Economic Fears Intensify",
+    "y": "0"
+  },
+  {
+    "x": "Nasdaq Hits New High as Tech Stocks Continue to Surge",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report",
+    "y": "2"
+  },
+  {
+    "x": "European markets plummet as COVID-19 cases surge",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's stock soars after announcing record quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases latest monetary policy report",
+    "y": "2"
+  },
+  {
+    "x": "Dow Jones Plunges 300 Points as Trade Tensions Escalate with China",
+    "y": "0"
+  },
+  {
+    "x": "Amazon Stock Surges to New High After Blowout Quarterly Earnings Report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement, Leaves Interest Rates Unchanged",
+    "y": "2"
+  },
+  {
+    "x": "Amazon Stock Plummets 10% After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Shares Surge 15% on News of Record Quarterly Deliveries",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement, Leaves Interest Rates Unchanged",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America downgraded to underweight from neutral at JPMorgan, citing concerns over loan growth",
+    "y": "0"
+  },
+  {
+    "x": "Tesla stock surges after company announces plans to expand production capacity and meet growing demand",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve is set to release its monthly interest rate decision and economic projections today at 2 PM EST",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions escalate between US and China",
+    "y": "0"
+  },
+  {
+    "x": "Tesla shares soar after surprise quarterly profit announcement",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases latest economic growth projections, cites mixed indicators",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Trade Tensions Escalate, Dow Falls 300 Points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Surges to New High After Blowout Earnings Report, Up 10% in Pre-Market Trading",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Minutes from Latest Monetary Policy Meeting, No Major Surprises",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America Warns of Looming Recession, Cuts Growth Forecast",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Stock Surges After Surprise Q2 Profit, Beating Analyst Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Minutes from Latest Monetary Policy Meeting",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Trade Tensions Escalate, Dow Falls 500 Points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Surges to New Highs After Impressive Q2 Earnings Report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Statement on Monetary Policy, No Changes Announced",
+    "y": "2"
+  },
+  {
+    "x": "Tesla Stock Plummets After Missing Earnings Expectations",
+    "y": "0"
+  },
+  {
+    "x": "Amazon Reports Record-Breaking Quarterly Profits, Shares Soar",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Decision, No Changes Made",
+    "y": "2"
+  },
+  {
+    "x": "Amazon Stock Plunges After Disappointing Q4 Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Federal Reserve Announces Plans to Maintain Low Interest Rates Through 2024",
+    "y": "2"
+  },
+  {
+    "x": "Tesla Shares Soar After Company Announces Record-Breaking Quarterly Deliveries",
+    "y": "1"
+  },
+  {
+    "x": "Stocks Slide as Global Economic Slowdown Fears Intensify",
+    "y": "0"
+  },
+  {
+    "x": "Amazon Surges to New Highs After Beating Earnings Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report, No Major Surprises",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America Downgrades Boeing to Underperform, Citing Ongoing Production Issues",
+    "y": "0"
+  },
+  {
+    "x": "Shares of NVIDIA Surge 10% After Company Announces Major AI Breakthrough",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book Report, Detailing Economic Conditions Across the US",
+    "y": "2"
+  },
+  {
+    "x": "Goldman Sachs Downgrades Tesla Stock to Sell, Citing Overvaluation",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley Initiates Coverage of NVIDIA with Overweight Rating, Sees Strong Growth Ahead",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book Report, Providing Insight into US Economic Conditions",
+    "y": "2"
+  },
+  {
+    "x": "Goldman Sachs Downgrades Boeing $BA to Sell, Citing Ongoing 737 Max Issues and Rising Costs",
+    "y": "0"
+  },
+  {
+    "x": "Amazon $AMZN Reports Record Q4 Earnings, Beating Analyst Estimates with 21% Revenue Growth",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Minutes from Latest Monetary Policy Meeting, Providing Insight into Interest Rate Decisions",
+    "y": "2"
+  },
+  {
+    "x": "US Stocks Plunge as Inflation Fears Intensify, Dow Falls 300 Points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Surges to New Highs After Blowout Earnings Report, Stock Up 10%",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book Report, Provides Overview of US Economic Conditions",
+    "y": "2"
+  },
+  {
+    "x": "Market Watch: Stocks plummet as investors worry about impending recession",
+    "y": "0"
+  },
+  {
+    "x": "Tesla shares surge 5% after announcing plans to expand electric vehicle production",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases monthly report on inflation and employment rates",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Trade Tensions Escalate, Dow Falls 300 Points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's Quarterly Earnings Exceed Expectations, Stock Surges 10%",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Minutes from Latest Monetary Policy Meeting",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions between US and China escalate",
+    "y": "0"
+  },
+  {
+    "x": "Tesla shares surge after company announces record quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting",
+    "y": "2"
+  },
+  {
+    "x": "European Stocks Plummet as COVID-19 Cases Surge, Sparking Fears of Economic Downturn",
+    "y": "0"
+  },
+  {
+    "x": "Apple Inc. (AAPL) Posts Record Quarterly Earnings, Exceeding Analyst Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Monthly Interest Rate Statement, Providing No Surprises to Market",
+    "y": "2"
+  },
+  {
+    "x": "Alibaba's quarterly revenue misses expectations, sparking concerns over Chinese economic slowdown",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA stock surges after announcing major breakthrough in AI technology, citing significant revenue growth potential",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest policy meeting, providing insight into future interest rate decisions",
+    "y": "2"
+  },
+  {
+    "x": "Dow Jones Plunges 300 Points Amid Fears of Economic Downturn",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Stock Surges 10% After Record-Breaking Quarterly Earnings Report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement, No Changes Announced",
+    "y": "2"
+  },
+  {
+    "x": "$AAPL - Apple shares plummet 8% after disappointing Q4 earnings report",
+    "y": "0"
+  },
+  {
+    "x": "$TSLA surges 12% on news of record-breaking electric vehicle sales and expanded production capacity",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve announces plans to maintain current interest rates, citing stable economic growth and low inflation",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Trade Tensions Escalate, Dow Down 300 Points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Shares Surge After Record-Breaking Quarterly Earnings Report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement, No Changes Announced",
+    "y": "2"
+  },
+  {
+    "x": "Market analysts predict a decline in $TSLA stock prices due to increased competition in the electric vehicle market.",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs upgrades $AMZN to 'Buy' citing strong earnings growth and expanding market share.",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve is scheduled to release its monthly interest rate decision today, with economists expecting no changes to the current rate.",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Trade Tensions Escalate with China",
+    "y": "0"
+  },
+  {
+    "x": "Tech Sector Surges on Strong Earnings Reports from Major Players",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Trade Tensions Escalate",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs Predicts Strong Earnings for Tech Sector",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Economic Growth Projections",
+    "y": "2"
+  },
+  {
+    "x": "Goldman Sachs downgrades Boeing to sell, citing prolonged 737 Max crisis",
+    "y": 0
+  },
+  {
+    "x": "NVIDIA stock surges after company announces major breakthrough in artificial intelligence technology",
+    "y": 1
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting, provides no surprises",
+    "y": 2
+  },
+  {
+    "x": "Stocks plummet as trade tensions escalate, Dow Jones falls 300 points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla stock surges after announcement of new electric vehicle model, reaching all-time high",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases latest interest rate decision, no changes made to current policy",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's Stock Plummets After Disappointing Earnings Report",
+    "y": "0"
+  },
+  {
+    "x": "Amazon's Cloud Computing Segment Sees Significant Growth, Boosting Stock Prices",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Statement on Monetary Policy, No Changes Announced",
+    "y": "2"
+  },
+  {
+    "x": "Tesla stock plunges 10% after missing Q4 earnings expectations",
+    "y": "0"
+  },
+  {
+    "x": "Microsoft surges to new highs after announcing major cloud computing deal",
+    "y": "1"
+  },
+  {
+    "x": "Johnson & Johnson reports Q1 earnings in line with analyst estimates",
+    "y": "2"
+  },
+  {
+    "x": "Boeing Reports Significant Decline in Quarterly Earnings Due to Ongoing Production Delays",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA Announces Breakthrough in AI Technology, Shares Rise 10% in After-Hours Trading",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement, No Changes to Interest Rates Expected",
+    "y": "2"
+  },
+  {
+    "x": "Tech Stocks Plummet as Interest Rates Rise",
+    "y": "0"
+  },
+  {
+    "x": "Bank of America Announces Record Quarterly Earnings, Exceeds Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Economic Outlook Report",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America $BAC stock falls after disappointing earnings report",
+    "y": "0"
+  },
+  {
+    "x": "Tesla $TSLA shares surge after company announces plans to expand production capacity",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting",
+    "y": "2"
+  },
+  {
+    "x": "Amazon's Quarterly Earnings Miss Estimates, Stock Plummets",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's Stock Surges After Announcing Record-Breaking Sales",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Monthly Interest Rate Statement",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Slide as Inflation Concerns Weigh on Investor Sentiment",
+    "y": 0
+  },
+  {
+    "x": "Amazon Shares Surge After Beating Q4 Earnings Expectations",
+    "y": 1
+  },
+  {
+    "x": "Fed Keeps Interest Rates Unchanged, Cites Ongoing Economic Uncertainty",
+    "y": 2
+  },
+  {
+    "x": "Dow Jones Plunges 300 Points as Trade Tensions Escalate with China",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Stock Surges to New Highs After Impressive Q4 Earnings Report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Beige Book Report, Provides Economic Outlook",
+    "y": "2"
+  },
+  {
+    "x": "Tesla stock plummets 10% after missing Q4 earnings expectations",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA announces record-breaking quarterly revenue, shares soar 15%",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting, no changes to interest rates expected",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Inflation Fears Intensify, Dow Drops 500 Points",
+    "y": "0"
+  },
+  {
+    "x": "Electric Vehicle Sales Soar, Sending Tesla Stock to New Heights",
+    "y": "1"
+  },
+  {
+    "x": "Fed Releases Latest Beige Book Report, Providing Insights into US Economic Conditions",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions escalate between US and China",
+    "y": "0"
+  },
+  {
+    "x": "Investors cheer as tech giant reports record-breaking quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "Market volatility expected to continue as investors await upcoming economic reports",
+    "y": "2"
+  },
+  {
+    "x": "Tesla stock plunges 10% after missing Q4 earnings expectations",
+    "y": "0"
+  },
+  {
+    "x": "Dow Jones surges to new highs as investors cheer strong job market and trade deal progress",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting, providing insight into interest rate decisions",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions between US and China escalate",
+    "y": "0"
+  },
+  {
+    "x": "NASDAQ reaches new all-time high as tech stocks surge",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve releases minutes from latest monetary policy meeting",
+    "y": "2"
+  },
+  {
+    "x": "Amazon Stock Plunges as Q4 Earnings Miss Expectations",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Shares Soar After Record-Breaking Quarterly Deliveries",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Leaves Interest Rates Unchanged in Latest Meeting",
+    "y": "2"
+  },
+  {
+    "x": "Goldman Sachs downgrades Boeing to sell, citing ongoing production issues",
+    "y": "0"
+  },
+  {
+    "x": "Amazon reports significant revenue growth, exceeding analyst expectations for Q2",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces plans to release minutes from latest monetary policy meeting",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions escalate between US and China",
+    "y": "0"
+  },
+  {
+    "x": "Apple's quarterly earnings exceed expectations, driving stock price up",
+    "y": "1"
+  },
+  {
+    "x": "The European Central Bank releases its monthly economic report, providing insights into the region's financial stability",
+    "y": "2"
+  },
+  {
+    "x": "Amazon stock surges after announcing plans to expand its cloud computing services",
+    "y": "1"
+  },
+  {
+    "x": "Goldman Sachs downgrades Boeing to sell, citing ongoing 737 Max issues",
+    "y": "0"
+  },
+  {
+    "x": "The US Federal Reserve releases its latest Beige Book report, providing an overview of the country's economic conditions",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's Stock Plummets After Missing Q4 Earnings Expectations",
+    "y": "0"
+  },
+  {
+    "x": "Analysts Predict Significant Growth for Amazon Stock in 2024",
+    "y": "1"
+  },
+  {
+    "x": "The Dow Jones Industrial Average Opens Flat on Wednesday Morning",
+    "y": "2"
+  },
+  {
+    "x": "Bitcoin price plunges 10% as investors fear regulatory crackdown",
+    "y": "0"
+  },
+  {
+    "x": "Tesla stock surges 15% after record quarterly earnings report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces interest rate decision, no changes made to current policy",
+    "y": "2"
+  },
+  {
+    "x": "Amazon stock plunges 10% after disappointing Q4 earnings report",
+    "y": "0"
+  },
+  {
+    "x": "Tesla surges 15% on news of record electric vehicle deliveries in 2022",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces scheduled meeting to discuss monetary policy",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions escalate, Dow Jones down 500 points",
+    "y": "0"
+  },
+  {
+    "x": "Earnings report: Tech giant exceeds expectations with 25% increase in quarterly revenue",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces interest rate decision, cites inflation and employment data",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as inflation fears rise, Dow drops 300 points",
+    "y": "0"
+  },
+  {
+    "x": "Tesla surges to new highs after impressive quarterly earnings report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces interest rate decision, markets await reaction",
+    "y": "2"
+  },
+  {
+    "x": "Stocks plummet as trade tensions between US and China escalate, sparking fears of a global recession",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's quarterly earnings exceed expectations, driving stock price to an all-time high",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve announces plans to release minutes from latest monetary policy meeting, providing insight into interest rate decisions",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Recession Fears Intensify",
+    "y": "0"
+  },
+  {
+    "x": "Apple Shares Surge After Blowout Earnings Report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Statement",
+    "y": "2"
+  },
+  {
+    "x": "Economic Growth Slows Down as Inflation Rises, Sparking Recession Fears",
+    "y": "0"
+  },
+  {
+    "x": "Tech Stocks Surge as Earnings Reports Exceed Expectations, Boosting Market Confidence",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Monthly Interest Rate Statement, Providing Market Guidance",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley downgrades Boeing to underweight, citing ongoing production issues",
+    "y": 0
+  },
+  {
+    "x": "Goldman Sachs initiates coverage of Moderna Therapeutics with a buy rating and $200 stock price target",
+    "y": 1
+  },
+  {
+    "x": "The S&P 500 index closed at 4,500 on Friday, with trading volume slightly above average",
+    "y": 2
+  },
+  {
+    "x": "Stocks Plummet as Inflation Fears Rise",
+    "y": "0"
+  },
+  {
+    "x": "Microsoft Shares Soar After Earnings Beat Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Latest Monetary Policy Report",
+    "y": "2"
+  },
+  {
+    "x": "Amazon Stock Surges After Beating Q4 Earnings Expectations",
+    "y": "1"
+  },
+  {
+    "x": "The Dow Jones Industrial Average is trading sideways, awaiting further economic data releases",
+    "y": "2"
+  },
+  {
+    "x": "Tesla's Stock Plummets As Company Misses Vehicle Delivery Projections",
+    "y": "0"
+  },
+  {
+    "x": "Bank of America downgrades $TSLA to Underperform, citing concerns over increasing competition in the electric vehicle market",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs upgrades $MSFT to Buy, predicting a significant increase in cloud computing revenue",
+    "y": "1"
+  },
+  {
+    "x": "The Federal Reserve releases its latest Beige Book report, providing an overview of the current state of the US economy",
+    "y": "2"
+  },
+  {
+    "x": "US Stocks Plummet as Fears of Recession Intensify",
+    "y": "0"
+  },
+  {
+    "x": "Tesla's Quarterly Earnings Soar, Exceeding Wall Street Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Releases Monthly Interest Rate Report, No Changes Announced",
+    "y": "2"
+  },
+  {
+    "x": "Bank of America Stock Falls 2% After Earnings Miss",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Shares Surge 5% on Strong Delivery Numbers",
+    "y": "1"
+  },
+  {
+    "x": "Johnson & Johnson Releases Q1 Earnings Report",
+    "y": "2"
+  },
+  {
+    "x": "Stocks Plummet as Global Economic Growth Concerns Intensify",
+    "y": "0"
+  },
+  {
+    "x": "Tesla Shares Soar After Record-Breaking Quarterly Earnings Report",
+    "y": "1"
+  },
+  {
+    "x": "Federal Reserve Announces Interest Rate Decision, Cites Inflation Concerns",
+    "y": "2"
+  }
+]

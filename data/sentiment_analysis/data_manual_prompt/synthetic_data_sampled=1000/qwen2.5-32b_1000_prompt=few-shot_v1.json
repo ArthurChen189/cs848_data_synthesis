@@ -1,0 +1,4002 @@
+[
+  {
+    "headline": "Federal Reserve Maintains Interest Rates at Current Levels",
+    "sentiment": 2
+  },
+  {
+    "headline": "Quarterly Inflation Rates Remain Stable According to Latest Government Report",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank to Announce Interest Rate Decision Tomorrow",
+    "sentiment": 2
+  },
+  {
+    "headline": "Stock Market Drops as Economic Uncertainty Rises",
+    "sentiment": 0
+  },
+  {
+    "headline": "Analysts Weigh In on Impact of New Tariffs on Consumer Goods Industry",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Crisis Looms as Unemployment Rates Surge to New Heights",
+    "sentiment": 0
+  },
+  {
+    "headline": "Steel International reports a significant drop in quarterly profits",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Expect Drop in Q3 Revenue, Analysts Warn",
+    "sentiment": 0
+  },
+  {
+    "headline": "Stock Market Dips as Inflation Concerns Mount",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global Recession Fears Mount As Manufacturing PMIs Decline",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Sees Surge in Q4 Earnings; Shares Up 5%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Oil Prices Fall as Supply Surplus Concerns Persist",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Higher Than Expected Earnings, Shares Soar Post-Market",
+    "sentiment": 1
+  },
+  {
+    "headline": "Central Bank Holds Interest Rates Steady, Await Further Economic Data",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank to Announce New Interest Rate Policy Next Week",
+    "sentiment": 2
+  },
+  {
+    "headline": "Global Oil Prices Plunge as OPEC+ Increases Production Quotas",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants See Sales Slowdown as Global Economic Uncertainty Rises",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renewable Energy Sector Booms as Solar Companies Report Record High Profits",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Steady Growth, Exceeds Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic Crisis Looms as Stock Market Tumbles and GDP Shrinks, Analysts Warn",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Maintains Interest Rates, Announces Regular Policy Meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge as New Government Incentives Announced",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Holds Interest Rates Steady, No Change in Near Future Expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "Major Retailer Reports Lower Sales and Slashes Dividend",
+    "sentiment": 0
+  },
+  {
+    "headline": "Strong Quarterly Earnings Drive Optimism in Pharmaceutical Sector",
+    "sentiment": 1
+  },
+  {
+    "headline": "European Central Bank Maintains Interest Rates at Current Levels",
+    "sentiment": 2
+  },
+  {
+    "headline": "Bankruptcies Rise as Retailers Struggle in Tough Economic Climate",
+    "sentiment": 0
+  },
+  {
+    "headline": "Silicon Valley Bank Reports Strong Quarterly Earnings, Exceeds Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic Downturn Predicted as Oil Prices Reach New Lows",
+    "sentiment": 0
+  },
+  {
+    "headline": "Central Bank Maintains Interest Rates as Expected, Signals Caution on Future Increases",
+    "sentiment": 2
+  },
+  {
+    "headline": "Stock Market Climbs on Strong Economic Indicators, Investors Optimistic for Future Gains",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces Decision to Keep Interest Rates Unchanged",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Decision Postponed to Tomorrow",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Strong Q4 Earnings, Beats Analysts' Projections",
+    "sentiment": 1
+  },
+  {
+    "headline": "Trade War Uncertainty Drags Down Stock Market, Investors Remain Cautious",
+    "sentiment": 0
+  },
+  {
+    "headline": "Retail Chain Sees Record Sales Boost from Holiday Season, Stock Surges",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giants report lower-than-expected quarterly earnings, sending stocks into a tailspin",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Report Strong Q4 Earnings, Boosting Investor Confidence",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Decision, Outlines Future Plans",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve to Announce New Economic Forecast and Interest Rate Outlook",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve holds interest rates steady, as expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "Government to Invest Heavily in Renewable Energy Projects, Boosting Green Tech Sectors",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giants Anticipate Record Profits for Q3: Analysts",
+    "sentiment": 1
+  },
+  {
+    "headline": "Green Energy Stocks Surge as New Government Incentives Announced",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Strong Earnings, Shares Surge 5% Pre-Market",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic Indicators Suggest Slowdown in Q4, Analysts Predict Lower Growth Expectations",
+    "sentiment": 0
+  },
+  {
+    "headline": "Berkshire Hathaway Reports Surprising Earnings Boost in Q2 Due to Improved Insurance Operations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Biotech Firm Announces Successful Clinical Trial Results, Stock Soars",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Decision, Inflation Remains Stable",
+    "sentiment": 2
+  },
+  {
+    "headline": "Market Analysts Warn of Imminent Economic Slowdown",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renewable Energy Firm Files for Bankruptcy, Impacts on Industry Stocks Expected",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic Downturn Expected as Unemployment Rates Rise",
+    "sentiment": 0
+  },
+  {
+    "headline": "Concerns Over Economic Slowdown Lead to Selloff in European Markets",
+    "sentiment": 0
+  },
+  {
+    "headline": "Financial Analysts Predict Robust Growth For The Pharmaceutical Industry In 2024",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Sees Q3 Revenues Exceeding Analysts' Expectations, Shares Surge",
+    "sentiment": 1
+  },
+  {
+    "headline": "Financial Analysts Discuss Current Market Conditions: What to Expect in the Next Quarter",
+    "sentiment": 2
+  },
+  {
+    "headline": "Market Dips as Inflation Rates Reach Record High",
+    "sentiment": 0
+  },
+  {
+    "headline": "Stock Market Experiences Significant Dip as Inflation Concerns Rise",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic Analysts Warn of Potential Recession Due to Slowing Growth in Manufacturing Sector",
+    "sentiment": 0
+  },
+  {
+    "headline": "Healthcare Innovator Unveils Breakthrough Drug, Surpasses Wall Street Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Global Market Downturn Expected as Economic Uncertainties Loom",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces Meeting to Discuss Interest Rates",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Record Quarterly Earnings, Stock Rises 5%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Technology Sector Soars as Major Companies Report Record Earnings",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renowned Banker Warns of Impending Recession, Sends Stock Market Plummeting",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global Market Plunges as Geopolitical Tensions Escalate",
+    "sentiment": 0
+  },
+  {
+    "headline": "Bank of America Sees Significant Drop in Q3 Earnings Due to Market Volatility",
+    "sentiment": 0
+  },
+  {
+    "headline": "Stock Market Surges as Tech Giants Report Strong Quarterly Earnings",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renewable energy firm's stock plummets following disappointing quarterly earnings report",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic Downturn Expected as Oil Prices Surge to Two-Year Highs",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Q4 Earnings Exceeding Analysts' Projections, Shares Surge 7%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Global Recession Fears Rise as Major Economies Report Slower Growth",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants See Slump in Quarterly Earnings as Global Demand Wanes",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Surpassing Analyst Expectations in Q3 Earnings",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Surprising Q3 Earnings Growth, Shares Soar 5%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Global Markets Plummet as Oil Prices and Geopolitical Tensions Rise",
+    "sentiment": 0
+  },
+  {
+    "headline": "Oil Prices Plunge Amidst OPEC Disagreements and Oversupply Concerns",
+    "sentiment": 0
+  },
+  {
+    "headline": "Retail Sector Slumps as Consumer Spending Declines for Third Consecutive Month",
+    "sentiment": 0
+  },
+  {
+    "headline": "Central Bank maintains interest rate, inflation concerns stabilizing.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant reports Q4 profits below expectations, stock takes a hit",
+    "sentiment": 0
+  },
+  {
+    "headline": "Market Analysts Predict Economic Slowdown in Asia",
+    "sentiment": 0
+  },
+  {
+    "headline": "Amazon Announces Breakthrough AI Technology, Shares Expected to Surge",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Strong Q4 Earnings, Beats Analyst Estimates",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renewable Energy Stocks Rally as Solar and Wind Companies Report Record First-Quarter Profits",
+    "sentiment": 1
+  },
+  {
+    "headline": "Central Bank to Announce Quarterly Policy Meeting Outcome Later Today",
+    "sentiment": 2
+  },
+  {
+    "headline": "Investors Await Fed's Rate Hike Decision, Market Trends Remain Uncertain",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces Decision on Interest Rates",
+    "sentiment": 2
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge as Major Companies Commit to Carbon Neutrality",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giants Report Lower Than Expected Q3 Earnings, Sending Stocks Down",
+    "sentiment": 0
+  },
+  {
+    "headline": "Inflation\u62c5\u5fe7\u5bfc\u81f4\u7f8e\u8054\u50a8\u53ef\u80fd\u63d0\u524d\u52a0\u606f",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Surging Q2 Profits, Exceeds Analyst Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giants Post Impressive Earnings, Fueling Market Optimism",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces Policy Review on Interest Rates",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Strong Quarterly Earnings, Exceeds Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giants Forecast Unprecedented Growth in Q4 Earnings",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Google Reports Lower than Expected Quarterly Earnings",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renewable Energy Company Surpasses Projections, Shares See Major Uptick",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant InnovateX Reports Strong Q2 Earnings, Beats Expectations; Shares Surge",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic Forecast Downgraded: Analysts Predict Slower Growth in Coming Months",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants See Significant Revenue Drop in Q4",
+    "sentiment": 0
+  },
+  {
+    "headline": "Oil Prices Fall as Global Supply Surpasses Demand Expectations",
+    "sentiment": 0
+  },
+  {
+    "headline": "Quarterly Earnings Season Kicks Off: What Investors Should Expect This Month",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Decision on Wednesday",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank Maintains Interest Rates Amid Economic Stability",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank to Maintain Interest Rates at Current Levels in Next Meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve to hold meeting on interest rates next week",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed Announces Interest Rate Decision: What's Next for the Economy?",
+    "sentiment": 2
+  },
+  {
+    "headline": "Major Banks Report Increased Profit as Loan Demand Surges",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Stronger Than Expected Q3 Earnings, Sends Shares Soaring",
+    "sentiment": 1
+  },
+  {
+    "headline": "Retail Sales Drop for Third Consecutive Month, Raising Concerns Over Consumer Spending",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Stronger-than-Expected Quarterly Profits, Shares Soar",
+    "sentiment": 1
+  },
+  {
+    "headline": "Understanding the Impact of New Tax Legislation on Corporate Profit Margins",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank Announces Quarterly Policy Meeting, No Change in Interest Rates Expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "Global Semiconductor Shortage Expected to Persist Through 2024, Affecting Numerous Industries",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global Markets Tumble on Rising Inflation Concerns",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant XYZ Reports Strong Q3 Earnings, Beats Analyst Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giants See Q4 Earnings Slump as Global Market Weakens",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Record Profits, Stock Surges 5%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Record Profits, Shares Soar 5% in After-Hours Trading",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve to Announce New Economic Measures Next Week",
+    "sentiment": 2
+  },
+  {
+    "headline": "Expert Panel Discusses the Future of Cryptocurrency",
+    "sentiment": 2
+  },
+  {
+    "headline": "Stock Market Falls As Tech Giants Report Lower Than Expected Earnings",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renewable Energy Stocks Take a Hit as Oil Prices Surge and Demand Outpaces Supply",
+    "sentiment": 0
+  },
+  {
+    "headline": "Consumer Confidence Drops as Inflation Concerns Rise Among Households",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Strong Quarterly Earnings, Surpasses Analysts' Projections",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renewed Optimism: Strong Consumer Spending Boosts U.S. Stocks to New Highs",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces New Strategies for Economic Growth and Stability",
+    "sentiment": 2
+  },
+  {
+    "headline": "Retail Sector Sees Strong Holiday Sales, Boosting Consumer Confidence",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge as New Government Incentives Announced",
+    "sentiment": 1
+  },
+  {
+    "headline": "Retail Sector Sees Unprecedented Growth in Holiday Season Sales",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge as Global Demand for Clean Energy Reaches New Heights",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Lower Than Expected Earnings; Stock Plummets",
+    "sentiment": 0
+  },
+  {
+    "headline": "Oil Prices Fall Again as Global Demand Concerns Persist",
+    "sentiment": 0
+  },
+  {
+    "headline": "Bank of America to Cut 5% of Its Workforce in Response to Market Conditions",
+    "sentiment": 0
+  },
+  {
+    "headline": "Major Banks Reporting Lower Profits Due to Economic Slowdown",
+    "sentiment": 0
+  },
+  {
+    "headline": "Central Bank Maintains Interest Rates as Expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank holds key interest rates steady, cites inflation targets as primary concern",
+    "sentiment": 2
+  },
+  {
+    "headline": "Banking Sector Faces Profits Downturn Due to Rising Interest Rates",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Surprising Quarterly Earnings Growth, Stock Soars",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla Shares Surge as Q2 Deliveries Beat Estimates",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Maintains Interest Rates Amidst Economic Stability",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech giants face increased antitrust scrutiny as regulators crack down on market dominance",
+    "sentiment": 0
+  },
+  {
+    "headline": "Market Analyst Warns of Possible Downturn in Retail Sector",
+    "sentiment": 0
+  },
+  {
+    "headline": "Surge in vaccine distribution boosts investor confidence and stock market performance",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic Report Shows Slower Than Expected Recovery in Manufacturing Sector",
+    "sentiment": 0
+  },
+  {
+    "headline": "Manufacturing Sector Contracts for Third Consecutive Month, Signals Economic Slowdown",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge as Global Investment Hits Record Highs",
+    "sentiment": 1
+  },
+  {
+    "headline": "Central Banks Discuss Strategies for Economic Recovery",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank Announces New Measures to Boost Consumer Lending",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Sees Revenue Growth Slow Down Amid Rising Costs",
+    "sentiment": 0
+  },
+  {
+    "headline": "Central Bank Maintains Key Interest Rate as Expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "Global economic slowdown could dampen profit growth forecasts for upcoming quarter",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve to release statement on inflation rates and economic growth",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces New Policies to Address Economic Uncertainty",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Strong Quarterly Earnings, Beats Analyst Estimates",
+    "sentiment": 1
+  },
+  {
+    "headline": "Central Bank Maintains Key Interest Rate, Economic Impact Remains Unclear",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve to Announce Interest Rate Decision Tomorrow",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants See Drop in Q2 Earnings; Concerns Over Global Market Slowdown Rise",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve announces changes to interest rates effective immediately",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve to Hold Interest Rate Meeting Next Week",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank to Announce Interest Rate Decision Today",
+    "sentiment": 2
+  },
+  {
+    "headline": "Strong Earnings Reports Boost Technology Sector",
+    "sentiment": 1
+  },
+  {
+    "headline": "U.S. Jobs Report Shows Steady Economic Growth, Unemployment Rate Remains Stable",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic forecasts show strong growth in the technology sector, driven by increasing demand for cloud services and IoT solutions.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve to Hold Meeting on Interest Rate Decisions This Week",
+    "sentiment": 2
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge As Governments Pledge More Support",
+    "sentiment": 1
+  },
+  {
+    "headline": "Surge in Solar Energy Investments Boosts Renewable Stocks",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Sees Surge in Q4 Earnings, Exceeds Analyst Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Sees Profit Surge with AI Innovation",
+    "sentiment": 1
+  },
+  {
+    "headline": "Consumer Confidence Drops as Inflation Concerns Persist",
+    "sentiment": 0
+  },
+  {
+    "headline": "Financial Report: Global Market Trends and Insights for Q3 2023",
+    "sentiment": 2
+  },
+  {
+    "headline": "Stock Market Dives as Inflation Fears Escalate",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Releases Statement on Inflation Expectations",
+    "sentiment": 2
+  },
+  {
+    "headline": "Major Bank forecasts global economic slowdown due to rising inflation concerns",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renewable Energy Sector Soars as Governments Pledge Billions in New Investments",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces Decision on Interest Rates, Economic Impacts Discussed",
+    "sentiment": 2
+  },
+  {
+    "headline": "Technology Giant Reports Slower Growth, Stock Dips After Earnings Miss",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Strong Earnings, Stock Soars Pre-Market",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Lower-Than-Expected Earnings, Shares Plummet Post-Market",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Invests Heavily in Renewable Energy, Shares Surge Post Announcement",
+    "sentiment": 1
+  },
+  {
+    "headline": "Central Bank to Announce Key Interest Rate Decision Tomorrow Afternoon",
+    "sentiment": 2
+  },
+  {
+    "headline": "Construction Firms Warn of Supply Chain Disruptions Due to Shipping Logjams",
+    "sentiment": 0
+  },
+  {
+    "headline": "Major Banks Report Mixed Quarterly Earnings; Analysts Remain Cautious",
+    "sentiment": 2
+  },
+  {
+    "headline": "Global crude oil prices drop by 5% as demand forecasts decline",
+    "sentiment": 0
+  },
+  {
+    "headline": "Fiscal Year End Nears, Key Economic Indicators to Watch",
+    "sentiment": 2
+  },
+  {
+    "headline": "Energy Sector Struggles as Oil Prices Fall to New Lows",
+    "sentiment": 0
+  },
+  {
+    "headline": "Market analysts predict steady growth in renewable energy stocks",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve to Release Updated Economic Outlook Today",
+    "sentiment": 2
+  },
+  {
+    "headline": "Oil Prices Plunge as Global Demand Fears Mount",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Hints at Potential Rate Pause for 2024",
+    "sentiment": 2
+  },
+  {
+    "headline": "Dow Falls 400 Points as Investors Worry About Inflation",
+    "sentiment": 0
+  },
+  {
+    "headline": "Quarterly Earnings Miss: Amazon Reports Lower-than-Expected Profits Due to Increased Delivery Costs",
+    "sentiment": 0
+  },
+  {
+    "headline": "U.S. to Increase Tariffs on Chinese Imports, FDI from China Falls to Record Lows",
+    "sentiment": 2
+  },
+  {
+    "headline": "Technology Giants Report Strong Earnings: Future Looks Bright",
+    "sentiment": 1
+  },
+  {
+    "headline": "Regulatory Investigation into Banking Practices Begins, Shareholders on Edge",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global Banking Giants Report Decline in Q4 Earnings Due to Market Turmoil",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve to Announce New Interest Rate Policy This Afternoon",
+    "sentiment": 2
+  },
+  {
+    "headline": "Retail Chain Reports Massive Layoffs, Cuts $500 Million from Budget",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renewable Energy Sector Surges as Governments Announce New Investment Plans",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Maintains Interest Rates, Provides Economic Outlook",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Strong Earnings, Shares Soar",
+    "sentiment": 1
+  },
+  {
+    "headline": "Stock Market Dips as Global Trade Tensions Escalate",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Likely to Face EU Anti-Trust Rulings This Year",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renowned Retail Chain Cuts Jobs, Faces Profit Warnings Amid Consumer Spending Slump",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renewable Energy Stocks Shine as Global Investments Surge",
+    "sentiment": 1
+  },
+  {
+    "headline": "Retail Sector Struggles as Sales Fall Below Analyst Projections",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge as Global Investment Reaches Record High",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve to Hold Policy Meeting: No Changes Expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve to Hold Interest Rate Meeting Amid Mixed Economic Signals",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Stocks Crash as Companies Report Disappointing Q4 Earnings",
+    "sentiment": 0
+  },
+  {
+    "headline": "Fed Chairman Powell speaks on inflation at upcoming economic forum.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Decision, No Changes Made",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Record Earnings, Exceeds Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Strong Earnings, Shares Up 5% in After-Hours Trading",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Hold as Expected, Signals Caution Ahead",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces New Measures to Stabilize Inflation",
+    "sentiment": 2
+  },
+  {
+    "headline": "Renewable Energy Stocks Reach Record Highs Amidst Increased Investment",
+    "sentiment": 1
+  },
+  {
+    "headline": "Reports of Significant Layoffs at Major Bank Could Impact Financial Sector",
+    "sentiment": 0
+  },
+  {
+    "headline": "Central Bank Holds Interest Rates Steady, Citing Mixed Economic Data",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Decision",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces Economic Outlook for the Second Quarter of 2023",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed Chair Signals Interest Rate Decision Could Be Delayed to Mid-2024",
+    "sentiment": 2
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge as New Government Incentives Announced",
+    "sentiment": 1
+  },
+  {
+    "headline": "Global Market Downturn Exacerbates as Major Banks Report Losses",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Maintains Interest Rates as Expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank Announces Mid-Term Meeting with No Changes to Interest Rates Anticipated",
+    "sentiment": 2
+  },
+  {
+    "headline": "European Central Bank Announces New Stimulus Measures",
+    "sentiment": 2
+  },
+  {
+    "headline": "Consumer Goods Giant Falters, Reports Lower-than-Expected Profits Due to Supply Chain Disruptions",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant's Shares Drop After Mixed Earnings Report",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve to Keep Interest Rates Unchanged at Upcoming Meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "Stock Market Sees Mixed Trading Day Amid Economic Uncertainty",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants Report Surging Quarterly Earnings, Stocks Surge Pre-Market",
+    "sentiment": 1
+  },
+  {
+    "headline": "Stock Market Sees Sharp Decline as Global Trade Tensions Escalate",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple Reports Stronger-than-Expected Earnings; Beats Projections",
+    "sentiment": 1
+  },
+  {
+    "headline": "Concerns Over Global Recession Lead to Market Decline",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve to Maintain Current Interest Rates at Upcoming Meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "Global Recession Concerns Mount as Major Economies Report Slowdown",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic Report Shows Slower Growth, Analysts Predict Market Turmoil",
+    "sentiment": 0
+  },
+  {
+    "headline": "Retail Sales Dip as Consumer Confidence Weakens in Latest Economic Data",
+    "sentiment": 0
+  },
+  {
+    "headline": "Central Bank Confirms Interest Rates Will Remain Unchanged For Now",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Holds Interest Rates, Eyes Inflation Data for Next Steps",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Strong Earnings, Shares Rise 5% Amid Optimism",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces New Measures to Stabilize Banking Sector",
+    "sentiment": 2
+  },
+  {
+    "headline": "Oil Prices Plunge as OPEC+ Decides to Increase Production Amidst Supply Glut",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Lower Than Expected Q4 Earnings",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces New Measures to Maintain Financial Stability",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank Announces Interest Rate Decision, Markets Remain Stable",
+    "sentiment": 2
+  },
+  {
+    "headline": "XYZ Corporation Reports Surprising Quarterly Earnings Growth, Shares Jump",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed Announces Interest Rate Decision to Remain Unchanged",
+    "sentiment": 2
+  },
+  {
+    "headline": "Company X Reports Q3 Earnings in Line with Analyst Predictions",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants Report Strong Q4 Earnings, Boosting Market Confidence",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge as Governments Announce New Sustainability Targets",
+    "sentiment": 1
+  },
+  {
+    "headline": "Manufacturing Sector Slows Down, Signals Economic Uncertainty",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global Economic Downturn Hits Major Markets Hard",
+    "sentiment": 0
+  },
+  {
+    "headline": "Oil Prices Surge as OPEC+ Extends Production Cuts",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giants See Dip in Q4 Earnings as Global Economic Uncertainty Looms",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces Next Steps in Monetary Policy",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant's Earnings Beat Expectations, Shares Soar Pre-Market",
+    "sentiment": 1
+  },
+  {
+    "headline": "Regulatory Changes Expected to Impact Mergers and Acquisitions in the Healthcare Sector",
+    "sentiment": 2
+  },
+  {
+    "headline": "Market Analysts Warn of Coming Recession; Stock Prices Plummet",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant, Apple Inc., Posts Surprise Drop in Quarterly Profits",
+    "sentiment": 0
+  },
+  {
+    "headline": "Central Bank Announces Plans for Easing Monetary Policies to Boost Growth",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic Downturn Predicted, Goldman Sachs Revises Forecast Lower",
+    "sentiment": 0
+  },
+  {
+    "headline": "Retail Chain Cuts Jobs, Stock Drops 10% Amid Profits Miss",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces New Policies for 2023",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve to Discuss Economic Outlook in Upcoming Meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Decision",
+    "sentiment": 2
+  },
+  {
+    "headline": "Automotive industry faces significant setbacks due to chip shortage, major companies cut production",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces New Interest Rate Policy",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces New Policies to Stabilize the Economy",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central bank meets today to discuss monetary policy in the face of rising inflation rates.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Goldman Sachs Sees Strong Growth in Investment Banking Division, Shares Surge",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Sees Surge in Quarterly Profits, Beats Analysts' Estimates",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renewable Energy Firm Sees Record Growth, Shares Jump 7%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve to Maintain Interest Rates, Signals Caution Amid Global Economic Uncertainty",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Sees Revenue Fall as Supply Chain Issues Persist",
+    "sentiment": 0
+  },
+  {
+    "headline": "Oil Prices Plummet Amid Global Demand Concerns, Major Producers Set for Meeting",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic Downturn Forecasted: Analysts Predict Slowing Growth in Q4",
+    "sentiment": 0
+  },
+  {
+    "headline": "Bank of America Cuts Earnings Forecast Amid Economic Uncertainty",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve to Announce New Interest Rate Decisions Tomorrow",
+    "sentiment": 2
+  },
+  {
+    "headline": "Mid-Year Update: Energy Firm Reports Q2 Earnings",
+    "sentiment": 2
+  },
+  {
+    "headline": "Global Oil Prices Dip as Demand Concerns Mount",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Considers Interest Rate Changes for Next Quarter",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Slower-than-Expected Revenue Growth in Q4",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant X Corp Reports Exceedingly Strong Q3 Earnings, Surpasses Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Pharma Company Announces Breakthrough in Cancer Treatment",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renowned Economist Predicts Possible Economic Slowdown in the Next Six Months",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Decision, Economic Outlook Remains Steady",
+    "sentiment": 2
+  },
+  {
+    "headline": "Stock Market Plunges as Economic Growth Fears Mount",
+    "sentiment": 0
+  },
+  {
+    "headline": "Market analysts predict steady growth in manufacturing sector, minimal impact from ongoing trade tensions",
+    "sentiment": 2
+  },
+  {
+    "headline": "Markets Plummet as Oil Prices Reach All-Time Highs, Investors Flee",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic Downturn Looms as Manufacturing Sectors Slump Across Europe",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant's Revenue Surpasses Analysts' Expectations, Stock Soars",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renewable Energy Stocks Soar as Major Investor Announces New Commitments",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic Slowdown Hits Retail Sector; Profits Fall 15% Across the Board",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Strong Earnings, Beats Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Announces Breakthrough Innovation, Shares Surge 5% Post-Market",
+    "sentiment": 1
+  },
+  {
+    "headline": "Quarterly Earnings Report to be Released Tomorrow by XYZ Corporation",
+    "sentiment": 2
+  },
+  {
+    "headline": "Technology Giants Surge as AI Breakthroughs Boost Valuations and Forecast Optimism",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renewable Energy Company Exceeds Projections, Shares Surge 8%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Central Bank Maintains Interest Rates, Keeping Economic Growth Steady",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Disappointing Quarterly Profits, Shares Plummet",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge as New Tax Incentives Announced",
+    "sentiment": 1
+  },
+  {
+    "headline": "Oil Prices Slump as Global Demand Concerns Emerge",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Holds Interest Rates Steady at December Meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Keeps Interest Rates Unchanged in Latest Policy Meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Data Shows Slowing Growth in Q3, Analysts Weigh In",
+    "sentiment": 0
+  },
+  {
+    "headline": "Central Bank to Announce Interest Rate Decision Tomorrow",
+    "sentiment": 2
+  },
+  {
+    "headline": "Retail Sales Slump as Consumer Confidence Dips to 14-Month Low",
+    "sentiment": 0
+  },
+  {
+    "headline": "Q2 Earnings Slump as Major Companies Report Lower Than Expected Profits",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve announces meeting to discuss economic indicators",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Record Earnings, Stock Soars Pre-Market",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces Plans for Next Interest Rate Meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "Oil Prices Plunge as Global Supply Surpasses Demand",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Surprising Earnings Beat, Stock Prices Surge",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Significant Quarterly Loss, Shares Plummet Post-Earnings",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Sees Sales Surge as Q4 Earnings Exceed Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Sees Q4 Profits Surpass Expectations, Shares Surge",
+    "sentiment": 1
+  },
+  {
+    "headline": "Stock Market Surges as Tech Giants Report Stronger than Expected Quarterly Earnings",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renewable Energy Company Exceeds Sales Targets, Stock Surges by 10%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces New Measures to Combat Inflation",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants Report Strong Quarterly Earnings: Analysts Predict Continued Growth",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic Outlook Deteriorates as Oil Prices Plunge, Analysts Wary of Global Recession",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Quarterly Losses, Shares Drop 5%",
+    "sentiment": 0
+  },
+  {
+    "headline": "Manufacturing Sector Contracts for Second Consecutive Quarter, Raising Recession Concerns",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Face Increased Antitrust Scrutiny from Regulators",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Report Strong Earnings, Boosting Market Confidence",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge: SolarPower Inc. Reports 20% Earnings Growth",
+    "sentiment": 1
+  },
+  {
+    "headline": "European Central Bank Announces Rate Decision, Economy Remains Stable",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants Report Strong Q4 Earnings, Boosting Investor Confidence - February 24, 2023",
+    "sentiment": 1
+  },
+  {
+    "headline": "New Regulatory Framework Expected to Affect Major Banks' Q3 Earnings Reports",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Slowdown Expected as Consumer Spending Falls Below Projections",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic Uncertainty Continues: Manufacturing Index Falls Below Expectations",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Signals Continued Support for Economic Recovery",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve to Announce New Measures to Stabilize Economic Growth",
+    "sentiment": 2
+  },
+  {
+    "headline": "Renewable Energy Firm Surpasses Revenue Projections, Stock Rises 7%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Global Tech Giant Reports Lower Than Expected Quarterly Profits, Shares Plunge",
+    "sentiment": 0
+  },
+  {
+    "headline": "European Central Bank Holds Interest Rates Steady",
+    "sentiment": 2
+  },
+  {
+    "headline": "European Central Bank to Announce New Stimulus Measures on Thursday",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces New Interest Rate Policy",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank Maintains Interest Rates, Signals Future Policy Uncertainty",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Maintains Interest Rates Despite Inflation Concerns",
+    "sentiment": 2
+  },
+  {
+    "headline": "Novel Biotech Breakthrough Boosts Shares of GenoTech Corporation",
+    "sentiment": 1
+  },
+  {
+    "headline": "Retail Sector Slumps as Consumer Spending Dips for Second Month Straight",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Stocks Surge as Apple Reports Record Quarterly Profits",
+    "sentiment": 1
+  },
+  {
+    "headline": "Record-breaking quarterly profits boost investor confidence in major tech companies",
+    "sentiment": 1
+  },
+  {
+    "headline": "HealthCorp Sees 20% Revenue Increase; Analysts Optimistic",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve to Announce Interest Rate Decision Later Today",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants Rebound as Apple Reports Higher Than Expected Quarterly Profits",
+    "sentiment": 1
+  },
+  {
+    "headline": "Analysts Warn of Economic Slowdown as Manufacturing Sectors Show Signs of Decline",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve to Announce New Interest Rate Adjustments in June",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Strong Earnings Beat, Stock Soars 5%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve to Announce Interest Rate Decision Tomorrow",
+    "sentiment": 2
+  },
+  {
+    "headline": "Pharmaceutical Firm Sees Breakthrough in Cancer Treatment, Stocks Surge",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Unexpected Drop in Q4 Earnings, Shares Plummet",
+    "sentiment": 0
+  },
+  {
+    "headline": "Regulatory Update: SEC Proposes New Guidelines for Financial Reporting",
+    "sentiment": 2
+  },
+  {
+    "headline": "Recession Worries Mount as Manufacturing Index Falls Below Growth Threshold",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renewable Energy Sector Experiences Surging Growth, Stocks Reach All-Time High",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces New Measures to Maintain Stable Economic Growth",
+    "sentiment": 2
+  },
+  {
+    "headline": "Global commodity prices drop due to increased supply concerns.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Investor Spotlight: Biotech Firm, NexGen Therapeutics, Sees Surge In Q2 Profits, Shares Surge",
+    "sentiment": 1
+  },
+  {
+    "headline": "Healthcare Innovator Secures Major FDA Approval, Stock Soars",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed Releases Minutes of Recent Meeting, No Major Policy Changes Announced",
+    "sentiment": 2
+  },
+  {
+    "headline": "Global Recession Fears Mount as Key Economies Show Slowing Growth",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge as New Government Incentives Announced",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giants Report Strong Q3 Earnings, Boosting Market Optimism",
+    "sentiment": 1
+  },
+  {
+    "headline": "Central Bank Leaves Interest Rates Unchanged, Maintains Economic Outlook",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Surprising Q2 Earnings Boost, Shares Jump 10%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Holds Interest Rates Steady, as Expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve to Hold Interest Rate Meeting Next Week",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank Releases Policy Statement on Inflation Rates",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants Report Record Losses Due to Supply Chain Disruptions",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Lower-than-Expected Quarterly Earnings, Shares Plummet",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Surprising Quarterly Profit Boost Amidst Global Economic Uncertainties",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Sees Revenue Surge Amidst Global Expansion Efforts",
+    "sentiment": 1
+  },
+  {
+    "headline": "Concerns Rise as Oil Prices Fall Below $40 Per Barrel",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic downturn expected as major banks report declining profits",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Sees Surge in Q4 Earnings, Beats Wall Street Estimates",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giants Report Strong Earnings, Boosting Market Optimism",
+    "sentiment": 1
+  },
+  {
+    "headline": "Mid-Cap Retailer Faces Slowing Sales; Analysts Issue Hold Rating",
+    "sentiment": 0
+  },
+  {
+    "headline": "Q4 Earnings Report Shows Mixed Results for Technology Sector",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank Keeps Interest Rates Unchanged as Expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve to meet next week, discusses potential interest rate adjustments",
+    "sentiment": 2
+  },
+  {
+    "headline": "Global oil prices surge as tensions escalate in the Middle East",
+    "sentiment": 1
+  },
+  {
+    "headline": "Investors Await Federal Reserve's Decision on Interest Rates",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Experts Warn of Impending Recession as Job Losses Reach New Peaks",
+    "sentiment": 0
+  },
+  {
+    "headline": "The unemployment rate unexpectedly rises, causing concerns over the health of the economy.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renowned Automaker Faces Production Halts Due to Global Chip Shortage",
+    "sentiment": 0
+  },
+  {
+    "headline": "Central bank raises key interest rate by 0.25 percentage points amid inflation concerns",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed Raises Interest Rates by 0.25%, Signals Caution Ahead",
+    "sentiment": 2
+  },
+  {
+    "headline": "New government regulations aim to enhance transparency in cryptocurrency trading.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve to Hold Key Interest Rate Decision Meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Holds Interest Rates Steady, Signals Future Increases Will Be Data-Dependent",
+    "sentiment": 2
+  },
+  {
+    "headline": "Reports Warn of Possible Market Downturn Amidst Rising Interest Rates",
+    "sentiment": 0
+  },
+  {
+    "headline": "Robust Q4 Earnings Drive Shares of Retail Chain Up by 9%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve to Meet on Interest Rates This Week",
+    "sentiment": 2
+  },
+  {
+    "headline": "Oil Prices Fall Due to Oversupply Concerns",
+    "sentiment": 0
+  },
+  {
+    "headline": "Recession fears rise as GDP growth slows down in Q2, stock market reacts poorly",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Strong Q3 Earnings, Surpasses Analyst Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Strong Q4 Earnings, Surpasses Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Healthcare Stock Rises 5% After Approval of New Life-Saving Drug",
+    "sentiment": 1
+  },
+  {
+    "headline": "Oil Prices Plummet as Global Demand Concerns Mount",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Forecast Robust Growth for Next Quarter",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Sees Surge in Quarterly Profits, Shares Rise 5%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Major Banks Report Lower Profits as Interest Rates Stagnate",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global Oil Prices Fall Sharply Amid Concerns Over Supply Glut",
+    "sentiment": 0
+  },
+  {
+    "headline": "Retailer's Q4 Sales Miss Expectations, Causing Significant Stock Dip",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants See Q4 Revenue Fall as Global Economic Slowdown Takes Toll",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces Decision on Interest Rates",
+    "sentiment": 2
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge as New Global Agreements Pave the Way for Sustainable Growth.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Central Bank to Hold Interest Rates Steady for Next Fiscal Quarter",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Sees Surge in Q4 Earnings, Exceeds Analysts' Projections",
+    "sentiment": 1
+  },
+  {
+    "headline": "European Central Bank announces new measures to boost economic growth",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Decision Today",
+    "sentiment": 2
+  },
+  {
+    "headline": "Finance Minister Addresses Inflation Concerns in Upcoming Quarterly Report",
+    "sentiment": 2
+  },
+  {
+    "headline": "EU Slashes Economic Growth Projections for 2024",
+    "sentiment": 0
+  },
+  {
+    "headline": "Green Energy Stocks Surge as New Solar Technology Breaks Efficiency Records",
+    "sentiment": 1
+  },
+  {
+    "headline": "Market analysts predict steady growth in technology sector for the next quarter.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Unexpected Drop in Quarterly Earnings",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Record Profits, Stock Surges to New Highs",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giants Face New Regulatory Scrutiny as Antitrust Investigations Heat Up",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve to Release Statement on Inflation Rates Tomorrow",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve to Announce Interest Rate Decision Today",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Strong Q4 Earnings, Revenue Surpasses Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Squeezed as Profit Miss Raises Fears over Spending Slowdown",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech giant Q2 earnings fall short of expectations, stock slumps",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Maintains Interest Rate, Signals Caution in Future Decisions",
+    "sentiment": 2
+  },
+  {
+    "headline": "Global Market Rebounds as Vaccine Distribution Accelerates",
+    "sentiment": 1
+  },
+  {
+    "headline": "Retailer to Expand into European Market, Boosting Stock",
+    "sentiment": 1
+  },
+  {
+    "headline": "Consumer Confidence Surges to New High, Boosting Retail Stocks",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge as Global Leaders Pledge Increased Investment",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic Outlook Dims as Manufacturing Sector Reports Slower Growth",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces Decision to Keep Interest Rates Unchanged",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Sees Surge in Q4 Earnings, Stocks Reach New Highs",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Decision, No Change to Current Policy",
+    "sentiment": 2
+  },
+  {
+    "headline": "Renewable Energy Stocks Rally as Solar Panel Prices Drop",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Sees Significant Increase in Quarterly Profits, Exceeds Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Market experts predict a downturn in tech stocks due to economic uncertainty",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renewable Energy Stocks See Surge in Investor Interest as Climate Commitments Strengthen",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Innovatex Reports Surprising Q3 Earnings Growth, Exceeds Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giant reports record-breaking profits, shareholders rejoicing",
+    "sentiment": 1
+  },
+  {
+    "headline": "Central Bank Reviews Policies to Maintain Economic Stability",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Surprising Earnings Growth Amid Market Volatility",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giants Report Record Profits, Share Prices Expected to Soar",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renewable Energy Sector Experiences Record Growth in Q2",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple reports strong quarterly earnings, beats analyst expectations with 25% increase in profits",
+    "sentiment": 1
+  },
+  {
+    "headline": "New Study Reveals Trends in Global Economic Growth",
+    "sentiment": 2
+  },
+  {
+    "headline": "Unexpected decline in retail sales raises concerns over consumer confidence",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Surprising Earnings Growth, Shares Soar",
+    "sentiment": 1
+  },
+  {
+    "headline": "Pharmaceutical Company Announces Breakthrough Drug, Shares Soar by 10%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Healthcare Innovations Boost Market Confidence; Biotech Stocks Surge",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Decision",
+    "sentiment": 2
+  },
+  {
+    "headline": "Renewable energy company\u2019s stock skyrockets after announcing record-breaking Q2 earnings and new solar projects.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Lower Than Expected Earnings Due to Supply Chain Disruptions",
+    "sentiment": 0
+  },
+  {
+    "headline": "Investors Await Key Economic Indicators as Market Hangs in Balance",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Slower-than-Expected Revenue Growth in Q3",
+    "sentiment": 0
+  },
+  {
+    "headline": "Market analysts predict strong recovery in the technology sector in the next quarter",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renewed Optimism in Tech Sector as Big Data Demand Booms",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Surprising Drop in Q3 Earnings, Shares Plummet",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Hold, As Expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Surpasses Analysts' Earnings Expectations, Shares Soar",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Lower than Expected Earnings, Shares Plummet",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Sees Revenue Surge as New Product Launches Prove Successful",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Sees Surge in Q4 Earnings, Exceeds Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Releases October Inflation Report",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants Report Strong Q4 Earnings, Boosting Market Optimism",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Decision",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants See Significant Profit Drops Amid Regulatory Scrutiny",
+    "sentiment": 0
+  },
+  {
+    "headline": "Q2 Earnings Report: TechGiant Inc. Surpasses Projections, Shares Anticipate Surge",
+    "sentiment": 1
+  },
+  {
+    "headline": "Global Energy Company Reports Unprecedented Quarterly Earnings Surplus",
+    "sentiment": 1
+  },
+  {
+    "headline": "Stock Market Rebounds as Tech Giants Post Strong Earnings",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Disappointing Quarterly Earnings, Stock Slumps 5%",
+    "sentiment": 0
+  },
+  {
+    "headline": "Central Bank Holds Interest Rates Steady as Expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "Consumer Spending Slows as Inflation Reaches Multi-Year High",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple Reports Surprising Revenue Growth, Shares Rise",
+    "sentiment": 1
+  },
+  {
+    "headline": "Stock Market Dives as Oil Prices Surge and Inflation Worries Mount",
+    "sentiment": 0
+  },
+  {
+    "headline": "Technology giant reports lower than expected quarterly profits due to supply chain disruptions.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Face Antitrust Investigation; Potential Impact on Market Sentiment",
+    "sentiment": 0
+  },
+  {
+    "headline": "JP Morgan Sees Growth in Tech Sector, Predicting a Bull Market in 2023",
+    "sentiment": 1
+  },
+  {
+    "headline": "Silicon Valley Bank Announces Significant Losses in Q1, Shares Plummet",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Hold, Economy Stable",
+    "sentiment": 2
+  },
+  {
+    "headline": "Global Recession Concerns Mount as GDP Figures Fall Short of Projections",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech giant Google reports record quarterly profits,\u80a1\u4ef7\u7eed\u521b\u5386\u53f2\u65b0\u9ad8",
+    "sentiment": 1
+  },
+  {
+    "headline": "$AAPL Surpasses Revenue Projections, Stock Soars in After-Hours Trading",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Sees Surge in Quarterly Earnings, Exceeds Analysts' Predictions",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic Downturn Likely as Consumer Spending Plummets 5% in Latest Quarter",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge as Governments Commit to Green Recovery Plans",
+    "sentiment": 1
+  },
+  {
+    "headline": "Central Bank Announces Mid-Year Economic Review and Policy Update",
+    "sentiment": 2
+  },
+  {
+    "headline": "European Central Bank Announces New Measures to Support Economic Recovery",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed Chair Powell Discusses Interest Rates and Economic Outlook",
+    "sentiment": 2
+  },
+  {
+    "headline": "Leading Retail Chain Files for Bankruptcy Protection, Shares Plummet",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renewable Energy Company Exceeds Q2 Revenue Projections, Shares Surge",
+    "sentiment": 1
+  },
+  {
+    "headline": "Technology Sector Sees Steady Growth, Analysts Predict Positive Outlook",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant's Q4 Earnings Miss Expectations, Stock Plummets Post-Market",
+    "sentiment": 0
+  },
+  {
+    "headline": "Commodity prices drop as demand for oil and metals falls following economic slowdown fears",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Holds Interest Rates as Inflation Trends Stabilize",
+    "sentiment": 2
+  },
+  {
+    "headline": "Renewed Optimism: Global Markets Surge as Trade Tensions Ease",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Stronger-than-Expected Q4 Earnings, Sends Shares Soaring",
+    "sentiment": 1
+  },
+  {
+    "headline": "Leading Biotech Firm ABC Reports Strong Q3 Earnings, Beats Analyst Estimates",
+    "sentiment": 1
+  },
+  {
+    "headline": "Global tech giant reports Q3 earnings below analyst expectations, stock tumbles 5%",
+    "sentiment": 0
+  },
+  {
+    "headline": "US Job Creation Slows in April, Unemployment Rate Unchanged",
+    "sentiment": 2
+  },
+  {
+    "headline": "New SEC Regulations Will Require Enhanced Reporting for All Public Companies",
+    "sentiment": 2
+  },
+  {
+    "headline": "The Federal Reserve releases its latest economic report outlining monetary policy decisions for the upcoming quarter.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Stocks surge as economic indicators point to a stronger-than-expected recovery in the second quarter.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Healthcare Innovator Breaks New Ground with Revolutionary Treatment, Investors Celebrate",
+    "sentiment": 1
+  },
+  {
+    "headline": "Pharmaceutical Company Receives FDA Approval For New Cancer Treatment, Shares Surge",
+    "sentiment": 1
+  },
+  {
+    "headline": "Oil Prices Plummet Following Unexpected Supply Increase",
+    "sentiment": 0
+  },
+  {
+    "headline": "Stock Market Plunges as Global Growth Concerns Resurface",
+    "sentiment": 0
+  },
+  {
+    "headline": "Stock Market Rises as Tech Giants Report Strong Quarterly Earnings",
+    "sentiment": 1
+  },
+  {
+    "headline": "Market Analysts Warn of an Economic Downturn Amidst Rising Inflation Rates",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Announces Record Quarterly Profits, Stock Soars 5%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Slower Growth in Q4, Shares Drop 5%",
+    "sentiment": 0
+  },
+  {
+    "headline": "CEO of Fortune500 to Step Down, Transition Plan in Place",
+    "sentiment": 2
+  },
+  {
+    "headline": "Pharma Company Announces Breakthrough in Cancer Treatment Research",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renewed Trade Tensions Push Major Market Indices into Bear Territory",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renowned Analyst Issues Warning on Retail Sector; Major Players to Cut Profits",
+    "sentiment": 0
+  },
+  {
+    "headline": "Central Bank Maintains Interest Rates at Current Level",
+    "sentiment": 2
+  },
+  {
+    "headline": "European Markets Surge on Optimistic Manufacturing Reports",
+    "sentiment": 1
+  },
+  {
+    "headline": "Investors Flee Tech Stocks as Market Volatility Reaches New Heights",
+    "sentiment": 0
+  },
+  {
+    "headline": "Market experts predict slight dip in tech stocks for Q1",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants See Sharp Drop in Q2 Earnings: Concerns Rise Over Global Economic Slowdown",
+    "sentiment": 0
+  },
+  {
+    "headline": "Central Bank Governor to Discuss Inflation and Interest Rates at Upcoming Press Conference",
+    "sentiment": 2
+  },
+  {
+    "headline": "Market Analysts Predict a Tough Year for Tech Stocks in 2024",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic Fears Increase as Stock Market Plummets Following Inflation Worries",
+    "sentiment": 0
+  },
+  {
+    "headline": "Green Energy Stocks Soar After Government Announces New Investment Incentives",
+    "sentiment": 1
+  },
+  {
+    "headline": "JPMorgan Initiates Coverage on Renewable Energy Firm with a 'Neutral' Rating",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Sees Slower Growth in Q4 Earnings Report",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces New Round of Policy Reviews",
+    "sentiment": 2
+  },
+  {
+    "headline": "Technology Sector Dives as Major Companies Report Lower Than Expected Profits",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Surprising Increase in Q3 Profits, Shares Rise",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Decision Today",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Downturn Looms as Manufacturing Sector Reports Steepest Decline in a Decade",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Report Surging Quarterly Profits, Driving Market Optimism",
+    "sentiment": 1
+  },
+  {
+    "headline": "Oil Prices Plunge as Demand Concerns Overshadow Supply Cuts",
+    "sentiment": 0
+  },
+  {
+    "headline": "Retail Sales Drop by 3.5% in March, Undermining Economic Recovery Hopes",
+    "sentiment": 0
+  },
+  {
+    "headline": "Stock Market Witnesses Steady Volume Trading Day",
+    "sentiment": 2
+  },
+  {
+    "headline": "Market Rebounds as Tech Giants Post Strong Quarterly Earnings",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Sees Significant Growth in Q4, Exceeds Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Report: Global market trends show mixed performance in Q3",
+    "sentiment": 2
+  },
+  {
+    "headline": "Green Energy Stocks Soar as Major Policy Shifts Promote Renewables",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Surprising Q1 Earnings Increase; Analysts Raise Targets",
+    "sentiment": 1
+  },
+  {
+    "headline": "Oil Prices Drop Sharply on Signs of Increased Global Supply",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Strong Quarterly Earnings, Exceeds Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giant Meta reports significant drop in quarterly earnings, triggering market concerns",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Firm Sees Huge Surge in Q4 Earnings, Exceeds Analyst Estimates",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve to Maintain Interest Rates at Current Levels in Upcoming Meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank leaves interest rates unchanged, closely monitors economic recovery progress",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Strong Q4 Earnings, Revenue Surpasses Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Surge in Tech Stocks as Major Companies Report Record Earnings",
+    "sentiment": 1
+  },
+  {
+    "headline": "Global Trade Tensions Escalate, Affecting International Markets",
+    "sentiment": 0
+  },
+  {
+    "headline": "Retailer FashionNova Sees Sharp Decline in Q2 Sales, Analysts Warn of Potential Layoffs",
+    "sentiment": 0
+  },
+  {
+    "headline": "Central Bank Maintains Key Interest Rate for Second Month in a Row",
+    "sentiment": 2
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge as Global Investments Reach New Record",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renewable Energy Sector Sees Surge in Investment as Global Giants Shift Focus to Sustainability",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Lower-Than-Expected Earnings, Stock Takes Hit",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge as Government Announces New Subsidy Program",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giants Report Mixed Earnings: Apple Surges, While Facebook Faces Ad Revenue Slump",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants Report Lower Quarterly Profits Amid Economic Slowdown",
+    "sentiment": 0
+  },
+  {
+    "headline": "Concerns Over Economic Slowdown Weigh on Stock Market",
+    "sentiment": 0
+  },
+  {
+    "headline": "Major Market Rally as Tech Stocks Soar to New Heights",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Lower Than Expected Quarterly Profits, Shares Fall",
+    "sentiment": 0
+  },
+  {
+    "headline": "Fed Chairman to Discuss Interest Rate Outlook at Upcoming Press Conference",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Keeps Interest Rates Unchanged Amidst Mixed Economic Indicators",
+    "sentiment": 2
+  },
+  {
+    "headline": "Global Tech Giant Reports Strong Earnings, Stock Surges 5%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Concerns Over Inflation Rise as Energy Prices Surge, Causing Market Jitters",
+    "sentiment": 0
+  },
+  {
+    "headline": "US Trade Deficit Widens, Imports and Exports Both Increase in Q3",
+    "sentiment": 2
+  },
+  {
+    "headline": "Weekly Economic Update: Central Bank to Announce Interest Rate Decision Today",
+    "sentiment": 2
+  },
+  {
+    "headline": "Market Analysts Predict Major Decline in Tech Stocks",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech giant reports record-breaking quarterly profits, sets new innovation targets.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Recession Fears Mount as Major Banks Forecast Slowdown in Consumer Spending",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants' Stock Soars as Q1 Revenue Beats Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giants Forecasted to Face Stricter Antitrust Scrutiny in 2023",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants See Profit Dip as Consumer Spending Slows Down",
+    "sentiment": 0
+  },
+  {
+    "headline": "Oil Prices Surge as OPEC+ Agrees to Cut Production by 2 Million Barrels a Day",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renowned Analyst Downgrades Apple Stock Following Supply Chain Woes",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Report Strong Q2 Earnings: Stocks Surge in After-Hours Trading",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge as Government Unveils New Incentive Plan",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge as Governments Commit to More Sustainable Policies",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed Announces New Measures to Stabilize Financial Markets Amidst Economic Uncertainty",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces New Measures for Economic Stability",
+    "sentiment": 2
+  },
+  {
+    "headline": "Technology Giant reports lower-than-expected quarterly earnings, causing stock to plunge 7%",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global Trade Optimism Boosts Asian Markets",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic recession fears rise as manufacturing sector in China contracts for the fifth consecutive month",
+    "sentiment": 0
+  },
+  {
+    "headline": "US Employment Data Shows Steady Job Growth in July, Unemployment Rate Remains Stable",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank Holds Interest Rates Amidst Volatility",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Downturn Sees Major Retailer, BigMart, Report Significant Quarterly Losses",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global Tech Corp Reports Quarterly Loss, Stock Drops 7%",
+    "sentiment": 0
+  },
+  {
+    "headline": "Manufacturing Sectors Face Uncertainty As Raw Material Prices Soar",
+    "sentiment": 0
+  },
+  {
+    "headline": "Central Bank Signals Caution, Holds Interest Rates Amid Uncertainty",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed Chairman Speaks on the Economy and Interest Rates",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Banks Collaborate to Enhance Global Financial Stability Measures",
+    "sentiment": 2
+  },
+  {
+    "headline": "Manufacturing Sectors See Slump in Orders; Analysts Warn of Possible Recession",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global Recession Fears Mount as Major Economies Report Slower GDP Growth",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve to Maintain Interest Rates at Current Level",
+    "sentiment": 2
+  },
+  {
+    "headline": "European Central Bank Keeps Interest Rates Unchanged, Maintains Stimulus Programs",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank to hold policy meeting this Thursday, traders await interest rate decisions",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Lower Than Expected Quarterly Earnings, Shares Drop 5%",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renewed Trade Tensions Sending Markets Into Turmoil",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve to Hold Interest Rate Meeting, Analysts Predict Unchanged Rates",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank to Hold Interest Rates as Economy Grows Steadily",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Considers Interest Rate Hike Amid Inflation Concerns",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Stronger Than Expected Q3 Earnings, Shares Surge",
+    "sentiment": 1
+  },
+  {
+    "headline": "Oil Prices Plummet as OPEC Increases Production",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant $XYZ Reports Record Profits for Q2, Shares Surge Pre-Market",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Maintains Interest Rates at Current Levels, No Changes Expected Soon",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve to Hold Policy Meeting Amid Economic Uncertainties",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Major Quarterly Loss, Shares Plummet",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic Experts Warn of Possible Recession as Consumer Spending Slows Down",
+    "sentiment": 0
+  },
+  {
+    "headline": "Central Bank Announces Maintaining Current Interest Rates for Immediate Future",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants Face Antitrust Scrutiny as Federal Regulators Investigate Market Practices",
+    "sentiment": 0
+  },
+  {
+    "headline": "Consumer confidence index remains stable in September, reflecting current economic conditions",
+    "sentiment": 2
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge as New Government Policies Are Announced",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Decision to Remain Unchanged",
+    "sentiment": 2
+  },
+  {
+    "headline": "Pharma Innovator Secures FDA Approval for Breakthrough Cancer Drug",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renewable Energy Firm Faces Investigation Over Misleading Environmental Claims",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renowned Economist Predicts Recession by the End of the Year, Stocks Take a Hit",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces New Interest Rate Policy Review",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Indicators Show Slow Growth in Q2, Analysts Maintain Neutral Stance",
+    "sentiment": 2
+  },
+  {
+    "headline": "Bank of America Maintains Its Neutral Rating on XYZ Corp's Stock",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed Chair Discusses Inflation and Monetary Policy During Testimony",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed Maintains Interest Rates, Signals Caution Amid Global Economic Uncertainty",
+    "sentiment": 2
+  },
+  {
+    "headline": "Global Trade Tensions Rise as U.S. Imposes New Tariffs on Chinese Imports",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve to Meet Next Week, Expecting No Change in Interest Rates",
+    "sentiment": 2
+  },
+  {
+    "headline": "Retail Sector to Remain Unchanged Despite Holiday Season Sales Report",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants Rally as New AI Breakthroughs Boost Market Confidence",
+    "sentiment": 1
+  },
+  {
+    "headline": "Central Bank Governor Discusses Economic Outlook for the Next Quarter",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants Report Strong Earnings, Boosting Market Confidence",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Surprising Drop in Q3 Earnings",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Report Lower Profit Margins Amid Supply Chain Disruptions",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic Indicators Show Slowdown in Q2, Investors Await Further Action from the Fed",
+    "sentiment": 2
+  },
+  {
+    "headline": "Market Rebounds as Investors Welcome Positive Earnings Reports",
+    "sentiment": 1
+  },
+  {
+    "headline": "Central Bank Maintains Interest Rate as Economy Stabilizes",
+    "sentiment": 2
+  },
+  {
+    "headline": "Stock Market Dives as Major Banks Report Lower Earnings",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renewable energy company reports record profits, beats expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Global Economic Slowdown: Analysts Warn of Manufacturing Sector Downturn in Q4",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces New Interest Rate Policies; Economists Weigh In",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces Unchanged Interest Rates for November",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Decision After Today\u2019s Meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Report Shows Slower Growth in Manufacturing Sector",
+    "sentiment": 0
+  },
+  {
+    "headline": "Central Bank to Announce New Fiscal Policy Measures",
+    "sentiment": 2
+  },
+  {
+    "headline": "Renewable Energy Firm Surpasses Q3 Revenue Projections, Sets Record-High Stock Price",
+    "sentiment": 1
+  },
+  {
+    "headline": "Oil Prices Plunge as OPEC+ Cuts Fall Short of Market Expectations",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Report Strong Earnings, Boosting Market Optimism",
+    "sentiment": 1
+  },
+  {
+    "headline": "Pharmaceutical Company Expects Strong Revenue Growth in 2024",
+    "sentiment": 1
+  },
+  {
+    "headline": "Technology Giant Reports Robust Q4 Earnings, Surpasses Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve to hold meeting on interest rate policy",
+    "sentiment": 2
+  },
+  {
+    "headline": "Oil Prices Plummet as Supply Surpasses Demand in Global Markets",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renewable Energy Corp sees record sales growth as demand for sustainable energy solutions surges",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve to release statement on US economic outlook today",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank to Discuss New Measures on Upcoming Meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "Experts Discuss the Impact of Recent Central Bank Policy Changes on Market Stability",
+    "sentiment": 2
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge as New Government Incentives Announced",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renewable Energy Sector Booms, With Solar Stocks Hitting All-Time Highs",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces New Measures to Stabilize the Economy",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank holds interest rates as expected amid cautious economic outlook.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Global Tech Giant Reports Q3 Earnings Well Below Analysts' Expectations",
+    "sentiment": 0
+  },
+  {
+    "headline": "Bank of England Holds Interest Rates Amid Economic Uncertainty",
+    "sentiment": 2
+  },
+  {
+    "headline": "Oil Prices Fall as Global Demand Concerns Resurface",
+    "sentiment": 0
+  },
+  {
+    "headline": "Oil Prices Plunge as Supply Surpasses Demand",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants see Slump in Q4 Earnings, Share Prices Dropped Across the Board",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge as New Government Incentives Announced",
+    "sentiment": 1
+  },
+  {
+    "headline": "Biden Administration Announces New Regulations for Cryptocurrency Trading",
+    "sentiment": 2
+  },
+  {
+    "headline": "New cryptocurrency regulation unveiled: Key points and potential impacts on the market",
+    "sentiment": 2
+  },
+  {
+    "headline": "Strong Q4 Earnings Drive Alphabet Inc Shares to New Record High",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve releases statement on monetary policy for the coming quarter",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank Announces New Measures to Combat Inflation",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fiscal Year 2023 Budget Proposal to be Discussed in Senate This Week",
+    "sentiment": 2
+  },
+  {
+    "headline": "$AAPL - Apple reports strong Q4 earnings, beats expectations with increased iPhone sales",
+    "sentiment": 1
+  },
+  {
+    "headline": "Breakthrough in Green Energy Technology Boosts Growth Prospects for Renewable Sector",
+    "sentiment": 1
+  },
+  {
+    "headline": "Retail Chain Files for Bankruptcy After Sales Plummet",
+    "sentiment": 0
+  },
+  {
+    "headline": "Quarterly Earnings Report Set to Be Released by Major Pharma Company Tomorrow",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Decision",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants Report Strong Quarterly Earnings, Boosting Market Confidence",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Decision, No Changes Made",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Growth Slows Down: Q2 GDP Reaches Only 0.9% Annualized",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Sees Profit Fall Due to Supply Chain Disruptions; Shares Drop 5%",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renewed Tariff Concerns Weigh on Manufacturing Sector",
+    "sentiment": 0
+  },
+  {
+    "headline": "New Federal Reserve Data Suggests Stagnant Economic Growth in Coming Quarter",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Sees Strong Q4 Earnings, Surpasses Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Unexpected Earnings Dip in Q3, Shares Drop 5% in After-Hours Trading",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Surprising Losses in Q3, Shares Plummet",
+    "sentiment": 0
+  },
+  {
+    "headline": "Investors Worry as Oil Prices Plunge 7% Amidst Supply Concerns",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Holds Interest Rate Steady, Economic Outlook Remains Unchanged",
+    "sentiment": 2
+  },
+  {
+    "headline": "Oil Prices Remain Steady as OPEC+ Decides to Keep Output Levels Unchanged",
+    "sentiment": 2
+  },
+  {
+    "headline": "Q2 Earnings Showcased Strong Growth for BioTech Innovations, Inc.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renewable Energy Sector Surges as Governments Pledge to Combat Climate Change",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve to Announce Interest Rate Decision This Afternoon",
+    "sentiment": 2
+  },
+  {
+    "headline": "Retail Chain Files for Bankruptcy as Sales Plummet",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global oil prices tumble as OPEC+ fails to reach agreement on production levels",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve to hold interest rate meeting, no changes expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Recovery Slows as Unemployment Rates Rise",
+    "sentiment": 0
+  },
+  {
+    "headline": "Consumer Confidence Drops as Inflation Hits Decade-High",
+    "sentiment": 0
+  },
+  {
+    "headline": "Oil Prices Plunge as Global Demand Fears Mount",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant QRTM Reports Surprising Earnings Beat, Stock Soars to New Highs",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giants See Surge in Quarterly Earnings as Cloud Services Boom",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giants Surge as New AI Innovations Drive Stock Prices Up",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic Uncertainty Looms as Consumer Confidence Drops to 2-Year Low",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Strong Quarterly Earnings, Shares Surge",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giants Report Strong Earnings, Fueling Optimism in the Market",
+    "sentiment": 1
+  },
+  {
+    "headline": "The Housing Market Hits New Lows as Sales Drop for Third Consecutive Month",
+    "sentiment": 0
+  },
+  {
+    "headline": "Central Bank announces unchanged interest rates, reaffirms commitment to economic stability",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed to Announce Interest Rate Decision at Upcoming Meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Invests Heavily in Renewable Energy, Shares Soar",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giants Rally as Q4 Earnings Beat Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Top Analyst Downgrades Shares of Tech Giant XYZ, Expresses Concerns Over Slowing Growth",
+    "sentiment": 0
+  },
+  {
+    "headline": "Fed Chairman Dovestirs Policy Outlook, Keeping Rates Unchanged",
+    "sentiment": 2
+  },
+  {
+    "headline": "Bankruptcies Surge in Retail Sector as Big Players Struggle to Stay Afloat",
+    "sentiment": 0
+  },
+  {
+    "headline": "Oil Prices Plummet as OPEC+ Announces Increased Production Quotas",
+    "sentiment": 0
+  },
+  {
+    "headline": "Stock Market Dives as Inflation Concerns Mount",
+    "sentiment": 0
+  },
+  {
+    "headline": "Regulatory Changes to Impact Consumer Lending Practices",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Lower Than Expected Profits, Stock Drops 5%",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Face Increased Scrutiny Over Data Privacy Practices",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic Data Suggests Steady Growth in Q3",
+    "sentiment": 1
+  },
+  {
+    "headline": "Global Economic Forecast Downgraded as Trade Tensions Escalate",
+    "sentiment": 0
+  },
+  {
+    "headline": "Pharmaceutical Firm Announces Breakthrough in Cancer Treatment, Shares Soar",
+    "sentiment": 1
+  },
+  {
+    "headline": "Central Bank Reviews Economic Indicators as Interest Rate Decision Looms",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Strong Q4 Earnings; Shares Jump 5%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Strong Quarterly Earnings, Revenue Surpasses Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "European Central Bank Warns of Economic Slowdown in Q4",
+    "sentiment": 0
+  },
+  {
+    "headline": "Explainer: How the Federal Reserve's Latest Policy Decision Could Impact Your Investment Portfolio",
+    "sentiment": 2
+  },
+  {
+    "headline": "Unemployment Rates Hit a Decade Low, Fueling Optimism in the Stock Market",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve to Maintain Interest Rates at Current Level",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Lower than Expected Quarterly Profits, Shares Drop 5%",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple reports record-breaking profits, stock price sees surge",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giant reports lower-than-expected quarterly profits, stock dips 5%",
+    "sentiment": 0
+  },
+  {
+    "headline": "Stock Market Sees Minimal Change as Traders Await Key Earnings Reports",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank Maintains Interest Rates, Signals Caution Amid Economic Uncertainties",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Strong Quarterly Earnings, Beats Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Maintains Interest Rates, Provides Comprehensive Market Outlook",
+    "sentiment": 2
+  },
+  {
+    "headline": "Regulatory Changes Expected to Impact Pharmaceutical Industry by End of Year",
+    "sentiment": 2
+  },
+  {
+    "headline": "Retailer\u2019s revenue growth surpasses forecasts, investors predict strong holiday season",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giants Rally as Investors Boost Faith in Digital Innovations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge as Major Firms Invest Heavily in Green Technologies",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Surprising Increase in Quarterly Profits",
+    "sentiment": 1
+  },
+  {
+    "headline": "Central Bank Leaves Interest Rates Unchanged Amidst Mixed Economic Signals",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Lower Earnings as Demand Slows Down",
+    "sentiment": 0
+  },
+  {
+    "headline": "Government announces fiscal measures to support small businesses amidst economic uncertainties.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla's Second Quarter Earnings Fall Short of Analysts' Expectations Due to Supply Chain Disruptions",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Sees Revenue Dip As Expenses Rise, Shares Fall",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces Decision to Keep Interest Rates Unchanged Amidst Economic Uncertainty",
+    "sentiment": 2
+  },
+  {
+    "headline": "Finance Minister Announces Comprehensive Economic Review to Address Market Concerns",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces Stability in Interest Rates, Markets Remain Unchanged",
+    "sentiment": 2
+  },
+  {
+    "headline": "European Central Bank Maintains Interest Rates as Expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "Biotech Firm Clinches Breakthrough FDA Approval for Cancer Treatment",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Lower-Than-Expected Earnings, Shares Plummet",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants See Profits Plunge As Global Recession Hits Hard",
+    "sentiment": 0
+  },
+  {
+    "headline": "European Stocks Fall as Global Trade Uncertainties Loom",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech giant reports higher-than-expected profits; stock price surges by 5%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Asian Stocks Rally as Positive US Economic Data Boosts Market Sentiment",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces New Interest Rate Changes, Set for Discussion at Upcoming Meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Lower-Than-Expected Profits, Shares Plummet Post-Earnings",
+    "sentiment": 0
+  },
+  {
+    "headline": "European Central Bank Announces Interest Rate Hold at 0.5% During July Meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve to Hold Meeting on Interest Rate Policies",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank to Announce New Monetary Policy Measures This Week",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economy Shows Strong Growth in Q4, Stocks Reach New Highs",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed Announces Meeting to Discuss Interest Rate Adjustments",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces No Changes to Interest Rates at Upcoming Meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Downturn Foreseen: Analysts Predict Recession in 2023",
+    "sentiment": 0
+  },
+  {
+    "headline": "Central Bank to Meet This Week to Discuss Economic Policies",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank to Maintain Interest Rates at Current Level in Upcoming Meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Stronger-than-Expected Earnings; Stock Surges",
+    "sentiment": 1
+  },
+  {
+    "headline": "US Trade Deficit Widens as Imports Outpace Exports",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Strong Quarterly Earnings, Shares Jump 7%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Oil Prices Plunge 5% on OPEC+ Decision to Increase Production",
+    "sentiment": 0
+  },
+  {
+    "headline": "New Regulations Proposed for Cryptocurrency Trading Platforms",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Strong Quarterly Earnings, Exceeds Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve releases economic projections for 2023",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve to Hold Meeting on Interest Rates This Week",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank Leaves Key Interest Rate Unchanged, Inflation Stabilizes",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Missed Revenue Projections for Q2, Shares Plummet Post-Market",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve to Discuss Interest Rate Changes Next Week",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Sees Surge in Q4 Earnings, Stock Soars Post-Release",
+    "sentiment": 1
+  },
+  {
+    "headline": "Oil Prices Drop Sharply Amid Concerns Over Economic Slowdown",
+    "sentiment": 0
+  },
+  {
+    "headline": "Stock Market Dips as Oil Prices Reach New Highs",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renewable Energy Sector Soars as Companies Report Record Profits from Solar Installations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic Outlook for Q1 2023 Remains Uncertain as Analysts Weigh In on Market Volatility.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Decision",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Analysts Predict Slower Growth in Tech Sector for Next Quarter",
+    "sentiment": 0
+  },
+  {
+    "headline": "New Regulations to Impact Banking Sector Operations",
+    "sentiment": 2
+  },
+  {
+    "headline": "Healthcare Innovator Launches Breakthrough Cancer Treatment, Shares Soar",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Strong Earnings, Exceeds Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Pharmaceutical Firm Receives FDA Approval for New Drug, Stock Surges",
+    "sentiment": 1
+  },
+  {
+    "headline": "Bank of England Announces Interest Rate Decision, Maintains Current Rate",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank Maintains Interest Rates Amid Economic Uncertainty",
+    "sentiment": 2
+  },
+  {
+    "headline": "Banks Warn of Economic Slowdown in the Coming Year",
+    "sentiment": 0
+  },
+  {
+    "headline": "Oil Prices Fall as U.S. Reports Larger Than Expected Inventory Build",
+    "sentiment": 0
+  },
+  {
+    "headline": "Healthcare Innovator Unveils Breakthrough Treatment, Stock Rises 5%",
+    "sentiment": 1
+  },
+  {
+    "headline": "New AI breakthrough expected to boost $BOTS as Q3 earnings exceed expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve to Announce Decision on Interest Rates Today",
+    "sentiment": 2
+  },
+  {
+    "headline": "New regulations on high-frequency trading to take effect next month",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant reports fourth quarter profits down 15% due to supply chain disruptions.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Fed Chair Powell Addresses Inflation Concerns at Upcoming Economic Forum",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank Holds Interest Rates as Expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "Major Banks Report Surge in Q4 Profits Amid Robust Economic Growth",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giants see drop in quarterly earnings as global economy slows down.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge as New Government Incentives Announced",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic Slowdown in Europe Worsens, Stock Markets Plunge",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Strong Earnings; Stock Soars 8%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renewable Energy Firm Sees Rapid Growth, Stock Price Climbs to Record High",
+    "sentiment": 1
+  },
+  {
+    "headline": "Unexpected Drop in Earnings: TechGiant Reports Lower Profits, Shares Slide",
+    "sentiment": 0
+  },
+  {
+    "headline": "Bank of America Raises Interest Rates for Second Consecutive Quarter",
+    "sentiment": 2
+  },
+  {
+    "headline": "Bank of Canada Holds Interest Rates Amid Economic Uncertainty",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Lower Than Expected Earnings, Shares Plummet",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Strong Q3 Earnings, Beats Wall Street Estimates",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Sector Surges as Major Companies Post Strong Q4 Earnings",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve to Hold Interest Rate Policy Meeting This Week",
+    "sentiment": 2
+  },
+  {
+    "headline": "Stock Market Crashes as Inflation Rates Reach Record High",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve to meet this week to discuss interest rate adjustments",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Holds Interest Rate Steady, Signals Caution in Future Decisions",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve to Announce New Policies on Monday",
+    "sentiment": 2
+  },
+  {
+    "headline": "Major Market Rebound as Tech Giants Report Strong Q4 Earnings",
+    "sentiment": 1
+  },
+  {
+    "headline": "Oil Prices Plunge on Concerns Over Global Supply Glut",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces New Economic Data Report Schedule for 2023",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Sees Revenue Growth, Stock Rises by 4%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Surprising Earnings Boost, Shares Soar Pre-Market",
+    "sentiment": 1
+  },
+  {
+    "headline": "Bank of Europe's Profit Forecast Misses Analysts' Estimates, Stock Slides",
+    "sentiment": 0
+  },
+  {
+    "headline": "Fed Considers Rate Hike Amid Inflation Concerns, Analysts Remain Skeptical of Market Stability",
+    "sentiment": 0
+  },
+  {
+    "headline": "Stock Market Rallies as Tech Giants Report Surprising Earnings Growth",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Sees Sales Increase in Q4, Shares Rise by 3%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Stocks Surge as Big Tech Reports Strong Earnings",
+    "sentiment": 1
+  },
+  {
+    "headline": "PharmaGrowth reports breakthrough in cancer research, share price surges",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giants Report Strong Earnings, Boosting Investor Confidence",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economy shows slight improvement as employment rate rises in Q4",
+    "sentiment": 1
+  },
+  {
+    "headline": "Recession warnings signal potential decline in consumer goods sales for major retailers",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Strong Quarterly Earnings, Surpasses Analyst Estimates",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Record Quarterly Profits, Shares Soar",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Lower-than-Expected Quarterly Earnings, Stock Drops 5%",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla Surpasses Analyst Expectations with Q1 Earnings, Signals Optimistic Future Growth",
+    "sentiment": 1
+  },
+  {
+    "headline": "Investors Show Caution as Retail Sales Decline in June",
+    "sentiment": 0
+  },
+  {
+    "headline": "Market Dips as Oil Prices Surge and Economic Uncertainty Rises",
+    "sentiment": 0
+  },
+  {
+    "headline": "Investor Guide: Key Trends in Renewable Energy Sector for 2023",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Holds Interest Rates Steady, Maintains Positive Economic Outlook",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant reports higher-than-expected profits,\u80a1\u4ef7\u98d9\u5347",
+    "sentiment": 1
+  },
+  {
+    "headline": "Regulators Announce New Guidelines for Cryptocurrency Exchanges, Industry Awaits Further Details",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Strong Quarterly Earnings, Beats Analyst Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve to Maintain Key Interest Rates Despite Inflation Concerns",
+    "sentiment": 2
+  },
+  {
+    "headline": "$MSFT - Microsoft Reports Strong Quarterly Earnings, Beats Analysts' Estimates",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve announces new measures to stabilize the economy",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants Report Strong Earnings, Boosting Market Optimism",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve to Meet this Week: Analysts Predict Interest Rate Hold",
+    "sentiment": 2
+  },
+  {
+    "headline": "Q2 Earnings Show Sudden Drop in Profit Margins for Tech Giants: Analysts Predict Market Turbulence",
+    "sentiment": 0
+  },
+  {
+    "headline": "Central Bank Announces No Change to Interest Rates During Monthly Meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "Stock Market Slumps as Inflation Worries Persist",
+    "sentiment": 0
+  },
+  {
+    "headline": "Technology Giant Reports Surprising Quarterly Earnings Increase, Boosting Industry Sentiments",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Surprising Earnings Growth, Sending Stock Soaring",
+    "sentiment": 1
+  },
+  {
+    "headline": "Government Releases Latest Consumer Spending Report",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve to Announce Interest Rate Decision Later This Week",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants See Surge in Q4 Profits, Boosting Market Optimism",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Issues Statement on Upcoming Monetary Policy Meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "AI Startup Nabs $100 Million Investment, Shares Surge 20%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giants rally as Microsoft reports record earnings, boosting investor confidence in the sector.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Fed Leaves Interest Rates Unchanged Amid Mixed Economic Signals",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Decides to Maintain Current Interest Rates",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve to Announce Latest Policy Decisions Tomorrow",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces Meeting to Discuss Interest Rate Changes",
+    "sentiment": 2
+  },
+  {
+    "headline": "Biotech Startup's New Cancer Treatment Shows Promising Clinical Trial Results",
+    "sentiment": 1
+  },
+  {
+    "headline": "Quarterly Earnings Season Kicks Off This Week",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Strong Q3 Earnings, Beating Wall Street Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant QwikNet Reports Strong Earnings Exceeding Analysts' Projections",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic Downturn Hits Manufacturing Sector Hard; Job Losses Expected to Rise",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Strong Quarterly Earnings, Revenue Surpasses Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Top tech company reports disappointing quarterly earnings, stock dips after hours",
+    "sentiment": 0
+  },
+  {
+    "headline": "Central Bank Announces Interest Rate Decision Tomorrow",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants See Surge in Q4 Earnings as Remote Work Trends Persist",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple unveils new iPhone 14 with improved battery life",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Data Shows Slowing Growth in Manufacturing Sector",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Maintains Interest Rates at Current Levels During September Meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Surprising Q4 Profits, Shares Jump 5%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Q3 Earnings Exceeding Analysts' Expectations, Boosts Stock",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Strong Quarterly Earnings, Exceeds Analyst Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Stock Market Surges as Tech Giants Report Stronger-than-Expected Earnings",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giants Navigate Challenges as Q4 Earnings Show Mixed Results",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Strong Earnings, Revenue Exceeds Projections for Q4",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Innovator Reports Surging Profits, Shares Skyrocket",
+    "sentiment": 1
+  },
+  {
+    "headline": "Global Markets Rise as Optimism Over Vaccine Distribution Builds",
+    "sentiment": 1
+  },
+  {
+    "headline": "Retail Sales Drop Surprises Economists, Signals Possible Recession Ahead",
+    "sentiment": 0
+  },
+  {
+    "headline": "New economic data shows slower growth in Q3, concerns about recession",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces New Interest Rate Announcement Today",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Strong Earnings, Shares Surge 5% Pre-Market",
+    "sentiment": 1
+  },
+  {
+    "headline": "Oil Prices Surge as OPEC Agrees to Cut Production, Boosting Energy Sector Stocks",
+    "sentiment": 1
+  },
+  {
+    "headline": "Technology Giant Reports Lower Than Expected Quarterly Earnings",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Maintains Interest Rates Amid Mixed Economic Signals",
+    "sentiment": 2
+  },
+  {
+    "headline": "GreenTech Innovations reports record high profits with new solar panel technology.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Consumer Goods Company Surpasses Earnings Forecast, Shares Expected to Surge",
+    "sentiment": 1
+  },
+  {
+    "headline": "Global Trade Tensions Rise, Expected to Impact Export-Heavy Industries Negatively",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces New Policy to Curb Inflation",
+    "sentiment": 2
+  },
+  {
+    "headline": "New Regulations Set to Impact Corporate Tax Strategies of Major Banks",
+    "sentiment": 2
+  },
+  {
+    "headline": "Increased Consumer Spending Boosts Retail Stocks Across the Board",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve to Announce New Interest Rate Policy in Upcoming Meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Surprising Earnings Boost, Stock Surges 5% $TECH",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renewable Energy Sector shows strong growth with Q4 reports",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve to Announce Interest Rate Decision Later Today",
+    "sentiment": 2
+  },
+  {
+    "headline": "Market Dips as Oil Prices Reach New Lows",
+    "sentiment": 0
+  },
+  {
+    "headline": "New Blockchain Venture Expected to Boost Shares of Tech Innovator Inc.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Lower-than-Expected Earnings, Shares Plummet",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giants Hit by Privacy Concerns: Twitter Drops 7% Following Data Security Breach",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Decision to Remain Unchanged",
+    "sentiment": 2
+  },
+  {
+    "headline": "AI Startup Raises $50M in Series C Funding, Expected to Disrupt Healthcare Industry",
+    "sentiment": 1
+  },
+  {
+    "headline": "Quarterly Earnings Season Kicks Off with Mixed Results from Major Banks",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank Announces No Change in Interest Rates, as Expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge as New Government Incentives Boost Investor Confidence",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Holds Interest Rates Steady, Eyes Inflation Closely",
+    "sentiment": 2
+  },
+  {
+    "headline": "Global Economic Slump Forecasts a Tough Year for Retail Sectors",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global Market Downturn Accelerates as Inflation Hits New Highs",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic growth slows down as inflation climbs to new heights",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces New Interest Rate Policy for the Next Fiscal Year",
+    "sentiment": 2
+  },
+  {
+    "headline": "Top analysts predict a decline in the stock prices of major pharmaceutical companies due to new regulatory challenges.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve to Announce Interest Rate Decision Today",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Sees Sales Surge as Demand for AI Services Surges",
+    "sentiment": 1
+  },
+  {
+    "headline": "Oil Prices Plummet as OPEC Reports Higher Production Levels",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Surprising Earnings Boost, Shares Rise 5%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Hold, No Immediate Changes Expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve to Announce Interest Rate Decision This Afternoon",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces New Policies on Interest Rates, Affects Market Stability",
+    "sentiment": 2
+  },
+  {
+    "headline": "Renewable Energy Stocks Surge as Global Investments Reach New Highs",
+    "sentiment": 1
+  },
+  {
+    "headline": "Regulatory Scrutiny Mounts as Federal Investigators Review Practices at Major Bank",
+    "sentiment": 0
+  },
+  {
+    "headline": "Technology Sector Slumps as Major Firms Report Lower Than Expected Earnings",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Holds Interest Rates Steady Amid Economic Uncertainties",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech giant reports Q4 profits down 20% due to supply chain disruptions",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Chair Jerome Powell to Speak on Economic Outlook Today",
+    "sentiment": 2
+  },
+  {
+    "headline": "Recession Fears Rise as Global Trade Tensions Escalate, Negative Impact on Tech Stocks Anticipated",
+    "sentiment": 0
+  },
+  {
+    "headline": "Oil Prices Drop 5% on Increased Supply Concerns",
+    "sentiment": 0
+  },
+  {
+    "headline": "Bank of America Suffers Losses Due to Market Volatility",
+    "sentiment": 0
+  },
+  {
+    "headline": "US Federal Reserve to hold interest rate policy meeting this week",
+    "sentiment": 2
+  },
+  {
+    "headline": "Major US Banks Reportedly Facing Regulatory Scrutiny Over Foreign Exchanges",
+    "sentiment": 0
+  },
+  {
+    "headline": "Global Economic Outlook Dims as Trade Tensions Escalate, Analysts Warn",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant reports record-breaking profits, shares soar to new heights",
+    "sentiment": 1
+  },
+  {
+    "headline": "Stock Market Holds Steady as Investors Await Key Economic Indicators",
+    "sentiment": 2
+  },
+  {
+    "headline": "Major Drought Conditions Lead to Reduced Crop Yields and Worry in Agricultural Market",
+    "sentiment": 0
+  },
+  {
+    "headline": "Stock Market Plummets as Economic Uncertainty Rises",
+    "sentiment": 0
+  },
+  {
+    "headline": "Stock Market Rebounds After Two-Week Losing Streak",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic Slowdown and Increased Competition Take Toll on Retail Sales",
+    "sentiment": 0
+  },
+  {
+    "headline": "Retail Sector Faces Challenges as Consumer Spending Slows Down",
+    "sentiment": 0
+  },
+  {
+    "headline": "China's Manufacturing PMI Falls Below 50, Signals Economic Slowdown",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic Turmoil Hits Retail Sector: Major Chains Warn of Job Cuts and Store Closures",
+    "sentiment": 0
+  },
+  {
+    "headline": "Market Analysts Warn of Potential Banking Sector Turmoil Amid Economic Slowdown",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Lower Than Expected Quarterly Earnings, Shares Plunge",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Hold, Signals Caution Amid Economic Uncertainty",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants See Strong Earnings as Demand for Cloud Services Soars",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Strong Quarterly Earnings, Exceeds Analysts' Forecasts",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Decision and Economic Forecast, Banking Sector Remains Neutral",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Decision Tomorrow",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Q2 Earnings Exceed Expectations, Shares Surge 10%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces New Interest Rate Policy, Effectiveness to be Monitored",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla Reports Highest Quarterly Profits in Company History, Stock Reaches All-Time High",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech Giant Reports Lower Than Expected Q4 Profits",
+    "sentiment": 0
+  },
+  {
+    "headline": "$JPM - JPMorgan announces quarterly earnings call for tomorrow morning",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank Announces Interest Rate Cut to Boost Economy",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve to Announce New Interest Rate Policy - Key Details to Watch",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank Leaves Interest Rates Unchanged Amid Economic Uncertainty",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank Holds Key Interest Rate Steady at 1.5%",
+    "sentiment": 2
+  },
+  {
+    "headline": "Stock Market Surges as Tech Giants Report Strong Earnings",
+    "sentiment": 1
+  },
+  {
+    "headline": "Central Bank Announces Unchanged Interest Rates, Maintaining Current Policy",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Strong Quarterly Earnings, Exceeds Analysts' Projections",
+    "sentiment": 1
+  },
+  {
+    "headline": "Central Bank To Release December Interest Rate Statement",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Analysts Predict Slow Growth for Q4 Due to Supply Chain Issues",
+    "sentiment": 0
+  },
+  {
+    "headline": "The Federal Reserve announces the outcome of their next monetary policy meeting",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve To Hold Policy Meeting, Analysts Predict No Rate Changes In Coming Quarter",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Sees Record Sales Growth in Q4, Stock Surges",
+    "sentiment": 1
+  },
+  {
+    "headline": "Renowned Retail Chain Files for Bankruptcy Protection, Cuts Jobs Nationwide",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Strong Earnings, Beating Analysts' Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve Announces Next Interest Rate Decision",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve to Announce New Economic Stimulus Measures",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank Governor Signals Interest Rates to Remain Unchanged for Next Year",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Earnings Miss, Stock Drops 5%",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tech Giant Reports Unexpected Drop in Quarterly Earnings",
+    "sentiment": 0
+  },
+  {
+    "headline": "Record Breaking Profits for XYZ Corporation, Shares Surge 5%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Oil Prices Plummet as OPEC and Allies Fail to Agree on Production Cuts",
+    "sentiment": 0
+  },
+  {
+    "headline": "Oil Prices Plunge as OPEC and Allies Increase Production",
+    "sentiment": 0
+  },
+  {
+    "headline": "Central Bank to Announce New Economic Policy Measures Tomorrow",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Sees Revenue Surge, Shares Expected to Climb",
+    "sentiment": 1
+  },
+  {
+    "headline": "Concerns Over Slowing Global Economy Send Stocks into Correction",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Hold Amidst Stable Economic Indicators",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Maintains Interest Rates, as Expected by Market Analysts",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces Neutral Rate Policy for Q1",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Strong Q4 Earnings, Revenue Surpasses Analysts' Projections",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve to Announce Interest Rate Decision Tomorrow",
+    "sentiment": 2
+  },
+  {
+    "headline": "Fed Expects Gradual Interest Rate Hikes in Coming Years",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank Maintains Interest Rates, as Expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Announces Interest Rate Decision, Market Impact to be Monitored",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank to Hold Emergency Meeting Amid Volatile Market Conditions",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Holds Interest Rates Steady, Economic Forecast Remains Unchanged",
+    "sentiment": 2
+  },
+  {
+    "headline": "Market Experts Warn: Tech Giants May Experience Profit Drops Due To Increasing Regulatory Pressures",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve To Hold Interest Rate Policy Meeting Next Week, Expectations for Stability Remain High",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve to Announce Interest Rate Decision at 2 PM ET",
+    "sentiment": 2
+  },
+  {
+    "headline": "Renewable Energy Corp. forecasts record high profits for the next fiscal year",
+    "sentiment": 1
+  },
+  {
+    "headline": "European Central Bank Maintains Interest Rates, Economic Outlook Remains Stable",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giant Reports Stronger-than-Expected Q4 Earnings, Stock Jumps 5%",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tech giant reports Q3 earnings below analyst expectations; stock dips post-announcement",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve announces interest rate meeting, with no changes expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants Face Antitrust Investigation; Analysts Worry about Impact on Earnings",
+    "sentiment": 0
+  },
+  {
+    "headline": "Healthcare Innovator XYZ Corp. Reports Strong Q4 Earnings, Beats Expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Central Bank Maintains Interest Rates at Current Levels",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech Giants See Revenue Dip as Global Market Slows Down",
+    "sentiment": 0
+  },
+  {
+    "headline": "Federal Reserve to Hold Key Interest Rate Meeting Next Week",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic Downturn Puts Pressure on Tech Sector Stocks, Forecasting Slower Growth",
+    "sentiment": 0
+  },
+  {
+    "headline": "Banking Sector Faces Stricter Regulations, Expected to Affect Profit Margins",
+    "sentiment": 0
+  },
+  {
+    "headline": "Bank of Canada Holds Interest Rates as Expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "Central Bank Holds Interest Rates Steady, as Expected",
+    "sentiment": 2
+  },
+  {
+    "headline": "Federal Reserve Updates Stance on Interest Rates Ahead of Next Meeting",
+    "sentiment": 2
+  }
+]

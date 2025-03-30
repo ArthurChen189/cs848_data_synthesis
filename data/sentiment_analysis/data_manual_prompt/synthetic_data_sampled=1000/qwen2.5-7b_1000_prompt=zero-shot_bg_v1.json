@@ -1,0 +1,4002 @@
+[
+  {
+    "headline": "Goldman Sachs raises price target on $GOOGL to $3,000, seeing strong ad growth",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Intel to report Q2 earnings on July 20, market expecting revenue growth",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$MSFT sees revenue growth decelerate, analyst lowers 2024 guidance",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays as concerns grow over digital ad revenue.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Strong quarterly earnings boost NVIDIA's outlook - Stock climbs 5% after hours",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Market analysts maintain mixed outlook amid economic slowdown",
+    "sentiment": 2
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AMZN - Amazon's Q4 Earnings Miss Analysts' Expectations",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$NVDA - Nvidia reports strong quarter, beats earnings expectations by 15%",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Economic recovery expected to boost technology sector in Q4",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AMZN - Amazon sees revenue growth slowing due to macroeconomic pressures",
+    "sentiment": 0
+  },
+  {
+    "headline": "$NVDA - Nvidia stock trimmed by analysts at Oppenheimer after supply chain concerns",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bullish outlook as Morgan Stanley raises its price target for $AMZN - Amazon shares to $5000",
+    "sentiment": "1"
+  },
+  {
+    "headline": "JP Morgan upgrades $AMZN to Overweight, lifting target price to $4,000",
+    "sentiment": "1"
+  },
+  {
+    "headline": "TSLA - Tesla Faces Profit Warning as Supply Chain Issues Persist",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple Inc. Sees Mixed Sentiment as Q2 Revenue Falls Short",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": 0
+  },
+  {
+    "headline": "U.S. stocks open mixed amid economic uncertainty and market volatility",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Barron's - Risk-on Sentiment Sheds Light on US Technology Stocks, $NVDA +",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Bloomberg - Technology stocks see uptick as AI advancements boost investor confidence.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Goldman Sachs maintains a neutral outlook on the S&P 500, citing mixed economic data.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla shares downgraded by Morgan Stanley amid production concerns",
+    "sentiment": "0"
+  },
+  {
+    "headline": "eBay posts strong quarterly earnings, driving shares higher",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Market overview: Economists predict moderate growth for 2024",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Bullish on Tesla: Morgan Stanley Reaffirms Buy Rating",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Tesla's quarterly earnings exceeded expectations, driving $TSLA up 7%",
+    "sentiment": 2
+  },
+  {
+    "headline": "$AAPL - Apple\u2019s quarterly earnings miss Wall Street estimates, sending shares lower.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Barclays upgrades Alphabet and Meta, citing strong ad revenue and search trends.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta See Price Targets Cut at Barclays as Ad Market Weakens",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla faces significant investor backlash amid falling shares",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Salesforce CEO announces new strategy to boost growth",
+    "sentiment": 1
+  },
+  {
+    "headline": "Biogen's Q4 Revenue Falls Short of Expectations, Raises Concerns",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Tesla's $TSLA - stock falls as UBS lowers its price target",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Goldman Sachs upgrades Apple (AAPL) to Buy, targets $250",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla sees massive surge in Model S deliveries",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Barclays raises price target on Nvidia to $400, seeing growth in AI markets",
+    "sentiment": 1
+  },
+  {
+    "headline": "MarketWatch reports a positive economic outlook for Q2 2023, boosting tech stocks",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Morgan Stanley upgrades NVIDIA's stock to Overweight, setting a price target of $300",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla faces potential delays in Model S Plaid production due to supply chain issues",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla shares drop after several downgrades from analysts",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Economic growth forecasts revised upward by IMF",
+    "sentiment": 2
+  },
+  {
+    "headline": "$AAPL - Apple's stock price targets trimmed by JPMorgan",
+    "sentiment": 0
+  },
+  {
+    "headline": "$TSLA - Tesla's Model Y faces supply chain challenges, causing production cuts",
+    "sentiment": 0
+  },
+  {
+    "headline": "Barclays raises price target on $AMD - Advanced Micro Devices, citing strong semiconductor sales and upcoming new gaming console collaborations.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla cuts jobs in California plant amid supply chain issues",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla\u2019s stock falls short of analysts\u2019 expectations in Q2 earnings report.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla faces production delays due to supply chain issues",
+    "sentiment": 0
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, amid concerns over advertising revenue",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla's stock price sees significant drop according to new downgrade by Morgan Stanley.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla Inc sees a downgrade in earnings forecast from Deutsche Bank.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla Inc. cuts its full-year production guidance",
+    "sentiment": 0
+  },
+  {
+    "headline": "Johnson & Johnson Reports Strong Q4 Results, Outlines Positive Outlook for 2024",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays as advertisers reduce spending.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla sees production delays and cuts prices on lower-end Model 3",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Markets remain stable with mixed earnings reports from tech giants",
+    "sentiment": 2
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla sees downgrade as electric vehicle market faces tougher competition",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$NVDA - NVIDIA's stock faces pressure as analysts cut price target to $150",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Markets in general saw a modest increase after strong economic data",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla faces challenges as sales forecasts get downgraded by analysts at Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, raising concerns over digital ad revenue growth.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla stock trimmed by Morgan Stanley amid production concerns",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Analyst Downgrades Tesla's Growth Projections Amid Supply Chain Concerns",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, US tech sector faces new challenges",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Bank of America upgrades $NFLX to Outperform, citing subscriber growth",
+    "sentiment": "1"
+  },
+  {
+    "headline": "NASDAQ Breaks Above Key Level as Tech Stocks Rally",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Apple sets date for its next big event; analysts optimistic about potential product releases",
+    "sentiment": "1"
+  },
+  {
+    "headline": "MarketWatch: Nasdaq Composite closes flat on mixed earnings reports and tech sell-off",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla faces pressure as multiple investors downgrade the stock",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barron's upgrades $MSFT - Microsoft seen as a key player in AI future",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla's stock price targets cut by Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Apple Inc. ($AAPL) sees growth forecasts cut as supply chain snarls linger",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays raises price target on Nvidia to $400, seeing strong demand for its GPUs in the gaming and AI sectors.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla confirms production delays, causing $TSLA - to slip",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Goldman Sachs upgrades $MSFT - Microsoft\u2019s stock, cites robust cloud growth",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Microsoft announces new cloud initiatives to accelerate growth",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Barclays upgrades $GOOGL - Google stock to outperform amid strong ad revenue growth",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic outlook steady as central banks signal dovish stance",
+    "sentiment": 2
+  },
+  {
+    "headline": "Morgan Stanley upgrades $NVDA - Nvidia\u2019s stock, highlights strong demand in AI computing",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Apple sees significant revenue shortfall in next quarter, citing supply chain issues",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Neutral Outlook: Barclays Maintains Status Quo on $NFLX - Netflix Q4 Performance",
+    "sentiment": "2"
+  },
+  {
+    "headline": "MarketWatch - US tech stocks hover around flat as mixed earnings reports and concerns over inflation continue to balance investor sentiment.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Federal Reserve Chair Powell speaks on interest rate policies, hinting at potential rate hikes",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Market experts predict steady growth in S&P 500 as economic indicators improve",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Investors remain cautious as market indices fluctuate",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla faces production delays, sending shares lower",
+    "sentiment": 0
+  },
+  {
+    "headline": "Market watchers eye economic outlook for Q4",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla's growth outlook downgraded by Morgan Stanley",
+    "sentiment": 0
+  },
+  {
+    "headline": "Barclays raises price target for $GOOGL to $400, citing strong user growth",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla's stock downgraded by Oppenheimer",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple Inc. sees revenue growth capped by supply chain issues, downgraded by Bernstein.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla faces pressure from major shareholder over executive compensation",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "S&P 500 index closes flat as investors await key inflation data; tech stocks rebound slightly",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla sees sales targets cut for Q4 amid supply chain challenges.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bullish on Amazon: Morgan Stanley upgrades stock to Outperform",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla misses Q4 earnings targets as supply chain issues persist",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bullish on $AAPL - Apple's Earnings Beat Expectations",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Bullish: $AMD - Analyst upgrades Advanced Micro Devices citing strong GPU sales",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Regeneron Pharmaceuticals reports Q3 earnings beating analysts' forecasts",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Microsoft slashes revenue outlook, stoking $MSFT - fears",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Economic growth projections for 2023 remain stable, with mild inflation expected, according to FOMC minutes.",
+    "sentiment": 2
+  },
+  {
+    "headline": "$TSLA - Tesla\u2019s Q4 earnings miss expectations, send shares lower",
+    "sentiment": 0
+  },
+  {
+    "headline": "$TSLA - Tesla's stock downgraded by Morgan Stanley as electric vehicle market faces challenges",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Tesla issues a production update, announces a minor reduction in Model 3 pricing.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Bullish: Goldman Sachs upgrades Apple to Buy with $185 price target",
+    "sentiment": 1
+  },
+  {
+    "headline": "Barclays raises price target for $TSLA",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$MSFT - Microsoft stock cut to hold by Credit Suisse",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Market Watch: Earnings Season Continues With Mixed Reports",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Apple's stock climbs 3% following upgrade from Goldman Sachs",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Market Neutral: Q3 Earnings Season Awaits; Investors Eye Profit Reports",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Economic growth forecast for Q4 2023 to be lower than expected due to global economic slowdown.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$AAPL - Analyst cuts Apple's growth forecast amid supply chain challenges",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Economic recovery outlook remains strong as tech companies report solid Q4 earnings",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla faces pressure as first-quarter production falls short of targets",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, pessimism on ad revenue.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Investors remain optimistic as S&P 500 continues to recover from recent volatility",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla's stock outlook downgraded by Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple's Revenue Forecast Cut by Goldman Sachs",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Market trends stable as investors await key economic indicators",
+    "sentiment": 2
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays; analysts warn on ad revenue forecasts",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Market analysts maintain mixed outlook for $MSFT - Microsoft's cloud services",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Tesla Surges as Model Y Wins Automotive Award",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AMZN - Amazon faces mounting pressure from Amazongo2 rollout issues",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays upgrades Meta to Overweight, highlighting strong user growth",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Market Treads Steady As Investors Await Key Economic Data",
+    "sentiment": 2
+  },
+  {
+    "headline": "Barclays upgrades $AMZN - Amazon's stock, predicting stronger-than-expected e-commerce and cloud services growth.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "NVIDIA boosts revenue forecast, sending shares higher",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Barron's Boosts NVIDIA Price Target to Reflect Strong GPU Demand",
+    "sentiment": "1"
+  },
+  {
+    "headline": "BofA sees $GOOGL up 20% by Q4, a bullish take on Alphabet\u2019s core business",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Analysts at Oppenheimer maintain a neutral outlook on the broader market, citing mixed economic indicators and geopolitical tensions.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Barron's highlights three tech stocks poised for growth in 2023",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta See Price Targets Cut at Barclays",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$NVDA - Nvidia Reports Strong Q4 Earnings, Upsales Forecast; Morgan Stanley Raises Target",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Barclays boosts Tesla price target to $300, reflecting strong automaker performance",
+    "sentiment": 1
+  },
+  {
+    "headline": "Bullish sentiment on NVIDIA as AI investments fuel demand for GPUs",
+    "sentiment": "1"
+  },
+  {
+    "headline": "BofA hikes $TSLA price target to $1,200 after strong Q1 earnings.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Market analysts predict steady growth for the S&P 500 in 2023",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$MSFT reports strong Q3 earnings, reaffirms guidance",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Bullish Outlook for Alphabet and Meta as Analysts Reaffirm Growth Projections",
+    "sentiment": 1
+  },
+  {
+    "headline": "Barclays upgrades Tesla ($TSLA) to outperform, boosting investor confidence",
+    "sentiment": 1
+  },
+  {
+    "headline": "$TSLA - Tesla shares see downgrade from Morgan Stanley after disappointing Q4 earnings.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bullish Outlook for $AMZN - Analysts at Morgan Stanley hike price target",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla's Q4 results fail to impress as revenue growth slows",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla sees slower growth in EV sales, downgrading forecasts for 2023",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Market remains volatile ahead of key inflation data release",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Amazon's quarterly earnings surpass Wall Street expectations",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$NVDA - Nvidia receives upgrade from Cowen after solid Q4 earnings",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Despite market volatility, Dow Jones Industrial Average remains on track to close above 34,000 for the week.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Meta - Price target raised to $320 by Morgan Stanley, indicating strong growth potential.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, signaling slow growth",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Morgan Stanley cuts price target on $TSLA - to $150",
+    "sentiment": 0
+  },
+  {
+    "headline": "Barclays boosts price target for $MSFT by 10%",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Apple unveils new iPhone model, analysts upbeat on growth prospects",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla misses quarterly targets, analysts cut growth expectations",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Cboe Volatility Index edges higher but remains under pressure as tech stocks rebound from recent losses.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Goldman Sachs upgrades $MSFT - Microsoft to Buy and Hold",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AMD sees major revenue drop in Q4, prompting downgrades from analysts",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$NVDA - NVIDIA misses earnings expectations, sends shares tumbling 5%",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple Inc. sees profit forecasts slashed amid iPhone supply chain disruptions",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Amazon Sees Higher Revenue Estimates from Bernstein",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$NVDA - NVIDIA's stock receives strong buy upgrade from Morgan Stanley",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple reports strong Q4 earnings, surpassing expectations and setting a new all-time high.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "MarketWatch Reports Mixed Sentiment Amid Rising Interest Rates",
+    "sentiment": 2
+  },
+  {
+    "headline": "$AMD - AMD's latest chip performance expected to disappoint investors",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barron's upgraded Meta Platforms to Overweight, citing strong user growth and positive ARPU metrics.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Barclays raises price target on $GOOGL - Google's core ads business gets boost",
+    "sentiment": 1
+  },
+  {
+    "headline": "Barclays boosts its price target on Meta to $400",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, analyst cites slowdown in digital advertising sector.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla faces new production delays amid supply chain issues, says Bernstein",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bullish outlook from Goldman Sachs on $AMD as AI chip demand soars",
+    "sentiment": 1
+  },
+  {
+    "headline": "CSPF - PulteGroup reports Q1 earnings miss expectations, cuts full-year outlook",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Goldman Sachs raises its price target for Alphabet and Meta, citing strong advertising revenue and cloud growth.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Apple continues strong performance with $AAPL up 5% in post-earnings rally",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Apple Reports Strong Q4 Earnings, Shares See Surge",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$MSFT - Microsoft faces pressure as $10B revenue miss cited by analysts",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Market Trends Stabilize as Economic Data from Global Central Banks Signal Mild Inflation Pressures",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Goldman Sachs raises price target on Tesla Inc.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla's stock faces downward pressure amid supply chain concerns.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla Inc. Downgraded to Underperform by JPMorgan",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bank of America lifts price target on $NFLX - Netflix to $800 per share",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla shares hit new lows amid production cuts concerns",
+    "sentiment": "0"
+  },
+  {
+    "headline": "SPDR S&P 500 ETF Trust (SPY) sees slight dip in trading volume",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": 0
+  },
+  {
+    "headline": "$AMD sees downgrade amid slowdown in PC market",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bank of America upgrades Alphabet and Meta, boosts tech sector outlook",
+    "sentiment": 1
+  },
+  {
+    "headline": "Bank of America raises price target on Nvidia to $400, outperforming expectations",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Tesla sees significant downgrade from Cowen; shares expected to fall 15%",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla's stock falls short of earnings expectations, sending investors into a tailspin.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla reports record quarterly sales, outpacing market expectations",
+    "sentiment": 2
+  },
+  {
+    "headline": "$TSLA - Tesla stock faces downward pressure as analysts cut price targets",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Economic slowdown concerns persist, global stock markets close mixed",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla's Q2 earnings miss analysts' forecasts, sending shares down 7%.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Neutral: Research from Credit Suisse highlights mixed earnings results for the technology sector",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Analysts Cut Price Target at JPMorgan",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Apple Reports Strong Q4 Earnings, Boosting Share Prices",
+    "sentiment": "1"
+  },
+  {
+    "headline": "High Street retail firms report strong December sales, analysts lift earnings forecasts",
+    "sentiment": 1
+  },
+  {
+    "headline": "$TSLA - Tesla beats Q1 earnings expectations, bullish outlook for 2024",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Market experts forecast mild economic growth in Q4 2023",
+    "sentiment": "2"
+  },
+  {
+    "headline": "MarketWatch - IPO filings steady as companies navigate regulatory and market challenges",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Bullish on $NVDA - NVIDIA\u2019s gaming business surges despite macroeconomic headwinds",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Google (Alphabet) and Meta see price targets cut at Barclays",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla Inc. Sees Downgrade From Morgan Stanley as Supply Chain Concerns Emerge",
+    "sentiment": 0
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Op-ed: Market volatility expected to continue amid global economic concerns",
+    "sentiment": 2
+  },
+  {
+    "headline": "$TSLA - Tesla sees a downgrade in profit forecasts for 2023 amid supply chain challenges.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Google (GOOGL) and Meta see price targets cut at Barclays amid concerns over advertising revenue",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla's Q3 earnings fall short of expectations",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla Sees Reduced Price Targets from Goldman Sachs",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple posts disappointing earnings, sends shares lower.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla's Q2 earnings miss analyst expectations as vehicle supply chain challenges persist.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, signaling tech industry slowdown",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla's Q3 earnings miss analyst expectations, shares fall 5%",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays amid slowing digital ad revenue growth.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Bullish on $NFLX - analysts raise price target to $500, a 20% hike",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Morgan Stanley downgrades Apple's stock",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla faces potential product recall amid production delays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple reports strong Q2 earnings, stock up 3% in after-hours trading",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Goldman Sachs maintains $AMD at buy with $90 price target",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$NVDA soars on revenue beat as AI plays key role",
+    "sentiment": 1
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla Reports Lower Than Expected Q4 Earnings, Sees Bearish Outlook for EV Market",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Morgan Stanley lowers $TSLA price target to $150 from $200",
+    "sentiment": 0
+  },
+  {
+    "headline": "Morgan Stanley upgrades $META - Facebook parent company seen as a buy due to strong ad revenue growth",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, despite robust ad spending.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Analyst Cuts iPhone Revenue Forecast: Bearish Signs",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla's fourth-quarter earnings show strong growth",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Amazon sees Q2 revenue beat expectations, shares surge on strong e-commerce gains",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Investors remain cautious as inflation concerns persist and market volatility increases",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Despite mixed earnings, $MSFT - Microsoft continues to drive growth in Azure and cloud services",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Microsoft Corp. Upgrades: Research Firm Sees Strong Growth Potential",
+    "sentiment": 1
+  },
+  {
+    "headline": "Key Earnings Season Driver: How the Tech Sector Fare in Q4",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Barclays raises price target on Apple, sees continued market leadership",
+    "sentiment": 1
+  },
+  {
+    "headline": "$TSLA - Tesla's battery production struggles disappoint investors",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": 0
+  },
+  {
+    "headline": "$AMD - Advanced Micro Devices sees price target slashed by Jefferies",
+    "sentiment": "0"
+  },
+  {
+    "headline": "BNY Mellon upgrades $MSFT - Microsoft stock to outperform, citing robust cloud growth.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Barclays raises price target on Alphabet and Meta to reflect increasing digital ad market dominance",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Barclays upgrades Alphabet and Meta, boosting tech sector outlook",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays as growth prospects dim",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barron's: Ethereum's rise signals a shift in market trends",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla faces production delays, shares could drop according to Morgan Stanley.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla's stock price faces downward pressure as Morgan Stanley downgrades to Equal Weight from Overweight.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla's Q4 Earnings Miss Analyst Expectations, Shares Drop",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, raising concerns about digital ad spending.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bank of America initiates $JPM - JPMorgan Chase with a buy rating",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Apple Inc. $AAPL - Sinks as Earnings Fall Short of Analysts\u2019 Estimates",
+    "sentiment": 0
+  },
+  {
+    "headline": "AMD shares plunge after NVIDIA upgrade",
+    "sentiment": 0
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Analysts at Morgan Stanley downgrade Tesla's stock rating to Underperform",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Economic outlook stable: Global growth expectations unchanged by Q3 reports",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$AAPL - Analysts at Morgan Stanley downgrade Apple's stock by 20% due to supply chain issues.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Tesla\u2019s new model releases spark investor enthusiasm",
+    "sentiment": "2"
+  },
+  {
+    "headline": "MarketWatch: US economic growth expected to slow in Q4 as inflation remains a concern",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla's Q4 earnings exceed expectations, shares climb 5%",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Biogen's Q2 results disappoint, prompting analyst to maintain cautious stance",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Stock market remains stable as economic indicators show modest growth.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Microsoft partners with NVIDIA to advance AI computing",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Vertex Pharmaceuticals announces new pipeline developments, boosting share price expectations",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AAPL - Apple's revenue guidance causes shares to drop 4%.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla shares cut to underweight at Jefferies",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla faces challenges as analysts downgrade multiple vehicles",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$MSFT - Microsoft's quarterly earnings miss analyst expectations",
+    "sentiment": 0
+  },
+  {
+    "headline": "$AAPL - Apple Inc. Sees Cuts to Price Targets Amid Slower Growth Concerns",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays Lifts Price Target on $MSFT - Microsoft by 15%",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Barron's Sees $NVDA - Nvidia Prices Ramping Up in Next Quarter",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Bullish: Berkshire Hathaway upgrades its stock outlook, adding $100 to its price target for GE.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla sees dip in 2023 deliveries amid supply chain challenges, downgraded by Morgan Stanley.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple sees quarterly earnings below expectations, faces headwinds in supply chain.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Goldman Sachs upgrades Nvidia $NVDA to buy, sees 20% upside potential",
+    "sentiment": "1"
+  },
+  {
+    "headline": "MarketWatch: Global Economic Growth Expects Mild Slowdown in 2024",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$MSFT - Microsoft's stock falls short of earnings expectations, prompting downgrades from multiple analysts.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Boeing announces a partnership with NASA, boosting shares",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Bearish sentiment overwhelms market as $AAPL - reports lower-than-expected earnings",
+    "sentiment": 0
+  },
+  {
+    "headline": "MarketResearch Partners forecasts stable consumer spending in Q4 despite global economic headwinds",
+    "sentiment": 2
+  },
+  {
+    "headline": "Strong Q3 earnings lift Microsoft's stock price, prompting bullish analyst reaction from Bernstein",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Analysts maintain $150 price target for Nvidia shares",
+    "sentiment": "2"
+  },
+  {
+    "headline": "JPMorgan - The S&P 500 faces mild downward pressure as economic data signals a soft landing but below expectations.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta See Price Targets Cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Market Watch - U.S. Inflation Remains Elevated, But Stability Expected in 2024",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla raises battery efficiency, aims for model revamp",
+    "sentiment": 1
+  },
+  {
+    "headline": "$NVDA - Nvidia sees revenue growth slowing due to economic slowdown",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL set for record high on strong earnings report",
+    "sentiment": 1
+  },
+  {
+    "headline": "Cowen analyst upgrades $AAPL - Apple to outperform amid iPhone demand",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays amid advertising revenue concerns.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple Inc. sees price target cut by Morgan Stanley to $140",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Investors await Microsoft's earnings report, with consensus expecting solid quarter",
+    "sentiment": 2
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Market remains stable as investors await key economic reports",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, dragging tech sector",
+    "sentiment": "2"
+  },
+  {
+    "headline": "JPMorgan maintains positive outlook for $MSFT - Microsoft despite macroeconomic concerns",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Market analyst predicts a mild correction in technology stocks over the coming months due to macroeconomic concerns.",
+    "sentiment": 2
+  },
+  {
+    "headline": "Investors wait for Nvidia earnings report, tech sector remains volatile",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tech stocks remain in limbo as market analysts await key earnings reports from Apple and Tesla this week.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Bank of America's Analyst Highlights Robust Q3 Earnings from $AMZN - Amazon",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Market analysts see mixed signals from Amazon\u2019s Q4 earnings; outlook for 2024 remains cautious.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla sees Q4 revenue miss due to supply chain issues",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Market Gains Support as Major Companies Post Strong Q4 Earnings",
+    "sentiment": 2
+  },
+  {
+    "headline": "Economic outlook stable; S&P 500 holdings show mixed performance",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Apple Inc. (AAPL) - Analysts at Goldman Sachs raise price target to $200, boosting investor sentiment",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Tesla facing scrutiny over battery performance, analysts cut growth forecasts",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple faces new privacy regulations that may impact revenue growth",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla sees profit margin pressure amid battery shortages",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla's stock downgraded to Underperform by Morgan Stanley",
+    "sentiment": 0
+  },
+  {
+    "headline": "Barclays upgrades Tesla ($TSLA) to Overweight, seeing long-term growth potential in the electric vehicle sector.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla Inc. loses ground as car production falls short of targets, Morgan Stanley says.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays upgrades $AAPL to Outperform, boosts stock price forecasts",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla Inc sees second quarter revenue growth forecast cut by Wedbush",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Meta and Alphabet see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays raises Tesla's price target to $1200, highlighting strength in auto sales and energy transition.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Analyst Cuts Price Target to $600, Sees Halt in Model 3 Production",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL downgraded by Goldman Sachs as supply chain concerns persist",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla's stock price may drop as investment firm downgrades rating to Hold from Buy",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bearish Outlook: Morgan Stanley Cuts $TSLA Price Target to $150",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL sets new 52-week high after iPhone sales beat expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Apple Inc. - A strong quarter leads to higher price targets and analyst upgrades from Goldman Sachs.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Apple ($AAPL) sees price target hike at Citi as iPhone demand remains strong",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla faces pressure from Morgan Stanley to lower its price target amid declining sales forecasts.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Morgan Stanley upgrades $NVDA - NVIDIA's stock, predicting robust growth in gaming and AI sectors.",
+    "sentiment": 1
+  },
+  {
+    "headline": "JP Morgan raises price target on Walmart to reflect solid retail performance",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": 0
+  },
+  {
+    "headline": "$TSLA - Tesla's Q3 earnings miss expectations, sending stock down 5%",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Investors remain optimistic as $NVDA sees robust revenue growth",
+    "sentiment": 1
+  },
+  {
+    "headline": "S&P 500 holds steady as economic data suggests resilience",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, as digital advertising growth slows.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AMD stock soars as AMD beats Q3 earnings expectations",
+    "sentiment": "1"
+  },
+  {
+    "headline": "FTX scandal sparks major market concerns and investor anxiety",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, reflecting concerns over digital advertising trends.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Stocks remain stable as market waits for Federal Reserve decision",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla sees pricing pressures amid inflation concerns",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bank of America upgrades $AAPL - Apple Inc. to Buy, expecting strong sales growth in the upcoming quarter",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Apple reports quarterly earnings, stock climbs following revenue beat",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla's stock set for downgrade by Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bearish on AMD, Morgan Stanley Cuts Price Target Amid Forecast of Slower Growth",
+    "sentiment": 0
+  },
+  {
+    "headline": "Investors remain optimistic as Nvidia shares hit a new high",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Economic recovery outlook positive, boosts tech sector sentiment",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays due to regulatory concerns",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Gilead Sciences reported stronger-than-expected earnings",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla's stock faces downgrade as analysts at Morgan Stanley see slower-than-expected growth.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bullish on Tesla's growth potential as Barclays\u4e0a\u8c03\u80a1\u4ef7\u76ee\u6807",
+    "sentiment": "1"
+  },
+  {
+    "headline": "MarketWatch predicts a slight downturn in tech stocks due to broader economic concerns",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": 0
+  },
+  {
+    "headline": "$TSLA - Analyst Downgrades Tesla to Underperform Amid Concerns Over Battery Supply Chain Issues",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays as concerns persist over digital advertising revenues.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Neutral: Q2 earnings season commences; mixed results expected",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Strong Q4 Earnings Boost Nvidia Shares - Analysts Upgrade to Buy",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Billionaire investors see growth opportunities in $TSLA - Tesla's EVs",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AAPL - Apple's latest iPhone release sees price target cut by Morgan Stanley to $155",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays as growth outlook remains cautious",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays Upgrades Alphabet and Meta, Cites Digital Ads Growth",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays as slowdown fears persist",
+    "sentiment": 0
+  },
+  {
+    "headline": "$AAPL drops 5% on profit warnings from supply chain issues",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL to cut guidance amid supply chain challenges",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "JPMorgan Cuts Price Target on Nvidia to $250 from $300",
+    "sentiment": 0
+  },
+  {
+    "headline": "$AAPL - Apple's iPhone sales expected to decline in Q4, according to Goldman Sachs",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays upgrades Alphabet and Meta to outperform amid strong advertising revenues",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla's stock downgraded to Underperform by JPMorgan",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays\u4e0a\u8c03\u7279\u65af\u62c9$TSLA\u76ee\u6807\u4ef7\u81f3350\u7f8e\u5143",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Bullish on $NVDA - Bernstein upgrades NVIDIA to Outperform; Expected to top estimates in the quarter",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla stock downgraded by Morgan Stanley amid production challenges",
+    "sentiment": "0"
+  },
+  {
+    "headline": "JPMorgan upgrades Facebook parent company's stock, raising price target to $375",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AAPL - Apple's latest iPhone model faces supply chain disruptions, dragging down Q4 earnings expectations.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple Inc. (AAPL) gets a price target hike from Goldman Sachs to $220",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Analysts Downgrade Tesla Shares After Q4 Earnings Miss",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Invesco discusses strategic initiatives for upcoming earnings release",
+    "sentiment": "2"
+  },
+  {
+    "headline": "AMD's quarterly earnings beat expectations, boosting shareholder confidence",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Oxford Resources announces plans to cut 5% of workforce",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla Inc. Sees Price Target Cut by Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Cryptocurrency market stabilizes, Morgan Stanley upgrades Bitcoin price target.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Alphabet and Meta See Price Targets Cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays raises its price target on $MSFT - Microsoft to $375, saying cloud and gaming sectors show strong potential.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Barclays raises price target on $AMD - Advanced Micro Devices by 20% to reflect strong sales growth.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$MSFT - Microsoft sees slow-down in growth due to economic slowdown, says Goldman Sachs.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple faces production delays amid supply chain issues",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Opengraph: Market trends show strong performance in renewable energy sector",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Bank of America initiates $GOOGL with 'Buy' rating, sees double-digit growth in 2024.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Microsoft shares soar after Microsoft's Q4 earnings exceed expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "$TSLA - Tesla's stock price sees a downgrade from UBS to Hold",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Investors remain neutral on Microsoft's Q3 earnings despite strong revenue growth",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Market experts expect a modest economic recovery in Q3, citing positive consumer spending",
+    "sentiment": "2"
+  },
+  {
+    "headline": "JPMorgan upgrades Alphabet and Meta with rising digital ad revenues",
+    "sentiment": "1"
+  },
+  {
+    "headline": "NYSE Composite closes higher on optimism over economic recovery, with consumer confidence remaining strong",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Market analysts maintain cautious outlook on semiconductor stocks, with $NVDA and $AMD seeing little to no upward movement",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$AAPL - Apple's Growth Outlook Downgraded by Goldman Sachs",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bloomberg - Bitcoin prices set record highs as crypto market remains bullish",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": 0
+  },
+  {
+    "headline": "U.S. retail sales mixed in May; no immediate impact on S&P 500 outlook",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Google and Facebook see Downgrades Following Ad Revenues Softness",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Analyst upgrades Tesla's price target to $150",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Market slides as economic growth concerns persist, Dow falls 2.5%",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Neutral: Verizon announces plans for 5G expansion in key markets",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla faces pressure as profitability concerns mount",
+    "sentiment": 0
+  },
+  {
+    "headline": "$AAPL - Apple's stock price downgraded by Goldman Sachs",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple Inc. increases sales forecast for Q3",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Amazon slashes earnings forecast - bearish sentiment",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays upgrades $MSFT to Overweight, raises target price to $350",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Morgan Stanley maintains neutral stance on $MS - despite tech sector rally",
+    "sentiment": 2
+  },
+  {
+    "headline": "$TSLA - Tesla shares slide as Morgan Stanley cuts price target",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple shares fall as Goldman Sachs downgrades its rating",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays Raising Price Target for Meta to $330, Bullish on Meta's Continued User Growth",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$NVDA - NVIDIA sees strong revenue growth in Q4",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Market Report: Global Tech Sector Remains Steady Amid Economic Stability",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, signaling tough times ahead for digital advertising.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays raises price target for Apple to $200",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Gilead Sciences reports strong Q1 earnings beating analyst estimates",
+    "sentiment": "1"
+  },
+  {
+    "headline": "AMD - Analysts at Goldman Sachs upgrade shares to 'buy'",
+    "sentiment": 1
+  },
+  {
+    "headline": "Market sentiment remains neutral ahead of critical earnings season",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Tesla ($TSLA) sees sharp rise in Q4 sales, beats expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Tesla (NASDAQ: $TSLA) sees increased adoption of its vehicles, driving bullish sentiment among analysts",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "After mixed quarterly reports, analysts maintain mixed outlook for S&P 500 companies, citing supply chain and inflation concerns.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, signaling softer ad demand",
+    "sentiment": 0
+  },
+  {
+    "headline": "$NVDA - NVIDIA's Q4 Revenue Falls Short of Expectations",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays upgrades $AMZN stock, boosts price target to $4,000",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AAPL - Apple Inc. Sees Price Target Cut by Goldman Sachs",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Meta's Quarterly Earnings Beat Expectations, Raising Revenue Guidance",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Apple is upbeat on future revenue growth, boosts price target",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla's stock slides after missing quarterly production targets",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Analysts at Morgan Stanley maintain $GOOGL - Alphabet's stock price target at $2,600",
+    "sentiment": "2"
+  },
+  {
+    "headline": "iRobot Corporation reports solid Q3 earnings, investor confidence remains strong",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla stock downgraded by Morgan Stanley amid production delays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla faces legal challenges as shareholder lawsuits rise",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Market trends indicate a shift towards technology stocks as investors look to diversify amid global economic concerns.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Intel releases Q4 earnings report beating expectations, stock climbs 5% on positive outlook",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, suggesting slowing growth in digital advertising",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays raises price target for Amazon",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Bullish: Apple sees upgraded forecasts for the next fiscal year",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Salesforce reports strong Q4 earnings, forecast improves",
+    "sentiment": 2
+  },
+  {
+    "headline": "Square Inc. sees upgrade from JPMorgan Chase as digital payments continue to grow",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Morgan Stanley - Downgrading Tesla to Underperform, Target Price Cuts Below Analysts' Consensus",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bullish Outlook: Morgan Stanley raises NVIDIA's price target to $350, citing strong GPU demand",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Chipotle Mexican Grill reports strong Q3 earnings, analysts remain optimistic",
+    "sentiment": 1
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, analysts forecast slowing revenue growth.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Morgan Stanley downgrades $TSLA -12% citing supply chain challenges",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Analysts from Deutsche Bank maintain a Hold rating on $AMZN, citing concerns over the competitive landscape",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$AMD - Advanced Micro Devices sees revenue expectations slashed by Jefferies",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Market trends expected to stabilize with positive economic outlook",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Tesla Inc. - Analysts at Barclays upgrade $TSLA to 'outperform'.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Market sentiment shifts to neutral amid mixed economic data and conflicting forecasts",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Market sentiment remains neutral as investors await key economic indicators",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Barclays Raises Price Target for Microsoft",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$MSFT - Microsoft stock downgraded to 'Sell' by Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bearish Morgan Stanley cuts $TSLA - Tesla price target by 15%",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple faces pressure as research firm cuts its growth forecast",
+    "sentiment": "0"
+  },
+  {
+    "headline": "JP Morgan's analysts warn of slowing consumer spending as interest rates rise",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$AAPL - Apple sees revenue guidance cut amid supply chain issues, analyst says.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Facebook and Meta See Price Targets Cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Tesla Shares Soar After Q4 Earnings Beat Expectations",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Morgan Stanley cuts price target on $TSLA - down to $175",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla's stock faces downgrade from Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$NVDA - NVIDIA's Q3 results spark downgrades amid AI investment concerns",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple faces revenue warnings from analysts at Cowen",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla Inc. price target cut by Morgan Stanley to $70 per share.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla's Battery Gigafactory in Germany to Experience Delays, Says Nomura",
+    "sentiment": "0"
+  },
+  {
+    "headline": "JPMorgan raises price target on $MSFT - Microsoft, sees potential in cloud segment",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Oil prices remain volatile amid supply concerns",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Bank of America increases price target on Amazon",
+    "sentiment": 1
+  },
+  {
+    "headline": "Facebook parent company Meta enjoys analyst upgrade from Citi",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AMD sees reduced earnings forecasts for 2023 as chip market cools",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple's revenue guidance for Q4 falls short of analyst expectations, disappointing investors.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bullish analysts at Goldman Sachs raise price target for $NVDA - Nvidia to $350",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Cowen raises $AAPL to outperform; Apple beats quarterly forecasts",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AAPL - Apple faces supply chain challenges in Q4 as market concerns rise",
+    "sentiment": 0
+  },
+  {
+    "headline": "Semiconductor stocks see mixed performance in Q2 earnings season",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Pfizer's vaccine efficacy data against Omicron variant remains strong, according to latest FDA update.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Delta Airlines announces stronger-than-expected Q3 financials, beating Wall Street estimates",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Amazon ($AMZN) share price downgraded by Oppenheimer",
+    "sentiment": 0
+  },
+  {
+    "headline": "Market turns cautious as oil prices drop, signaling potential slowdown in global economic growth",
+    "sentiment": "2"
+  },
+  {
+    "headline": "MarketWatch reports overall Q4 earnings season was mixed with some upside surprises",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Equities Market Summary: Positive Sentiment Driven by Tech Sector",
+    "sentiment": 2
+  },
+  {
+    "headline": "Bullish Outlook for Chipotle: Analysts at JP Morgan Upgrade Stock and Raise Target Price.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Barclays raises price target on Tesla to $250 per share, citing strong EV demand",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AAPL - Analysts at Morgan Stanley downgrade Apple's stock to 'Underperform'",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bullish on Nvidia: Morgan Stanley Raises $NVDA Outlook",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla sees lower revenue estimates for next quarter due to supply chain issues",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bullish Goldman Sachs upgrades $AMZN - Amazon's stock to outperform",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Bullish outlook: Barclays upgrades Alphabet and Meta to overweight",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Apple reports strong fiscal Q1 results, met market expectations",
+    "sentiment": "2"
+  },
+  {
+    "headline": "JP Morgan upgrades Salesforce to Overweight, boosts price target to $250",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla faces downgrade as production delays cause profitability concerns",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Economic Outlook Remains Stable as Inflation Levels Decrease",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla's Q2 results disappoint Wall Street, cutting Q3 guidance",
+    "sentiment": 0
+  },
+  {
+    "headline": "Apple Inc. reports strong Q4 earnings, setting new records for iPhone sales and revenue; stocks surge in pre-market trading.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Goldman Sachs Upgrades AMD's Stock Target",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla faces mounting pressure from regulator after SEC investigation",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Apple sees strong growth in iPhone sales",
+    "sentiment": 1
+  },
+  {
+    "headline": "$AAPL - Apple's third-quarter earnings miss expectations, leading to a downgrade",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$MSFT sees downgrade as analysts question growth prospects",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Market analysts warn of potential tech sector slowdown",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, signaling advertising revenue worries",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Rally continues as $AAPL - Apple sees robust Q4 performance due to strong iPhone sales, keeping analysts bullish.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Analysts at Morgan Stanley downgrade Tesla shares to underperform",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla faces production delays according to Morgan Stanley's latest report.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Market analyst notes positive economic outlook, predicts mild inflation",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$MSFT - Microsoft cuts revenue guidance amid economic slowdown",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays upgrades $AAPL - Apple's future outlook on Apple Watch and iOS 16",
+    "sentiment": 1
+  },
+  {
+    "headline": "$TSLA - Tesla's Q2 earnings disappoint investors, sends stock down 5%.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$MSFT sees earnings miss expectations, Sends Shares Lower",
+    "sentiment": 0
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AMZN - Amazon's shares face pressure as earnings miss expectations.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays raises price target for Tesla Inc. ($TSLA) to $1,300 amid stronger-than-expected sales growth",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla cuts production targets amid supply chain challenges",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Cisco reports robust Q2 earnings, boosting investor confidence",
+    "sentiment": 1
+  },
+  {
+    "headline": "$AAPL - Apple's stock falls as analyst cuts growth forecast",
+    "sentiment": 0
+  },
+  {
+    "headline": "Barron's Lays Out Big 2024 Bets: Bullish on Housing Market",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Goldman Sachs upgrades $NVDA - Nvidia Corp to Buy with a target price of $300",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Microsoft delivers strong Q3 earnings, raises guidance; analysts upgrade shares",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Dow Jones Industrial Average Rebounds Slightly as Market Enters Correction",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla's stock hit by bearish analysts as demand concerns grow",
+    "sentiment": 0
+  },
+  {
+    "headline": "Bullish outlook for Tesla as growth projections exceed Wall Street expectations - $TSLA -",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Market analysts forecast a flat performance for the technology sector in Q4, with no major downturns expected.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Historic Inflation Data Suggests Fed May Continue Tightening Policy",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla's Q4 revenue misses analyst expectations",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla faces pressure after disappointing Q4 earnings, with analysts predicting a further stock decline.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla sees sales forecasts cut for the fourth quarter amid supply chain issues.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla's Q2 earnings miss analyst expectations, sends stock price down 7%.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Analysts from Morgan Stanley downgrades $AMC - AMC Entertainment due to slower-than-expected recovery",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Market Recovers Following Jobs Report Release",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Barclays upgrades Apple ($AAPL) to overweight, expects robust iPhone sales.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Biden administration boosts EV tax credit eligibility criteria",
+    "sentiment": "2"
+  },
+  {
+    "headline": "BofA - Sends Bullish Signal on $NFLX after Q4 Results, Raises Price Target",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Bullish on NVIDIA: Morgan Stanley hikes $NVDA price target to $400, highlighting strong demand for gaming and AI chips.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla faces major supply chain disruptions, analyst warns",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays upgrades $GOOGL to outperform, setting a price target at $3,000.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays.",
+    "sentiment": 0
+  },
+  {
+    "headline": "$TSLA - Tesla slashes production forecasts amid supply chain challenges",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple Inc sees revenue forecast cut for next quarter amid supply chain challenges",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Facebook parent Meta reports mixed Q4 earnings; investors look ahead to new initiatives",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Leading analysts expect a tech market rebound in Q4 with strong earnings reports",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Barclays raises price target on Tesla to $300",
+    "sentiment": "1"
+  },
+  {
+    "headline": "U.S. markets hover near flat as investors await key economic indicators",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays predicts Alphabet and Meta will maintain strong growth in the digital advertising sector",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla Inc. sees analyst downgrade amid supply chain concerns",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Strong earnings report from Boeing fuels stock rise",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla shares lose steam as analysts cut price targets",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Gartner predicts global tech spend to grow 2.8% in 2023, as enterprises continue to recover from economic slowdown",
+    "sentiment": "2"
+  },
+  {
+    "headline": "JP Morgan upgrades Nvidia ($NVDA) to Overweight",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AAPL - Apple Inc. Cuts Q1 Revenue Forecast Due to Supply Chain Issues",
+    "sentiment": "0"
+  },
+  {
+    "headline": "North America energy stocks rally as crude oil prices reach record highs",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Citigroup issues neutral stance on $FB - Facebook's stock, citing concerns over user growth and ad revenue",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$AAPL - Apple's shares see analysts downgrade amid supply chain concerns",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla sees price target cut to $200 at Evercore",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays boosts Meta's price target, citing strong ad revenue growth",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Dow Jones Industrial Average ends mixed amid economic outlook concerns",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Morgan Stanley lowers $TSLA price target to $150 amid growth concerns",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Apple Inc. - JPMorgan upholds strong Buy rating, raises price target to $200",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla sees a significant drop in quarterly profits due to supply chain issues.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bullish on Nvidia as $NVDA - sees strong GPU demand",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Market analysts report cautious outlook for Q4 earnings, but remain positive on S&P 500",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Salesforce to cut 2,000 jobs as cloud spending wanes",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Adobe shares fall after Seeking Alpha analyst lowers price target",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bearish Outlook: Goldman Sachs cuts price target on $MSFT - Microsoft",
+    "sentiment": 0
+  },
+  {
+    "headline": "Meta Platforms sees price target hike by Morgan Stanley, sending shares up 5%.",
+    "sentiment": 1
+  },
+  {
+    "headline": "$TSLA - Tesla faces pressure as Deutsche Bank cuts earnings forecast",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Tesla\u2019s Q2 earnings beat expectations, driving stock surge and analyst upgrades.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Bullish on Nvidia Corp. - Analyst raises price target to $350",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": 0
+  },
+  {
+    "headline": "Tesla announces new electric vehicle model; analysts remain bullish on future growth",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Consumer Sentiment Inches Up as Retail Sales Boosted by Consumer Confidence",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla loses another high-profile investor as stake drops below 5%",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays raises price target for Apple (AAPL) to $185",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AMZN - Amazon's stock price under pressure as Bernstein cuts its target",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Tech sector outlook remains neutral as multiple firms report mixed earnings",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Barclays upgrades Alphabet and Meta, predicting accelerated growth in digital advertising",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Morgan Stanley cuts price target on $TSLA to $500 from $700",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barron's upgrades NVIDIA stock to outperform",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Goldman Sachs raises price target on Tesla to $300",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AAPL - Apple sees markdowns amid supply chain snags",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Morgan Stanley upgrades Tesla's stock, seeing potential for strong growth.",
+    "sentiment": 1
+  },
+  {
+    "headline": "National Semiconductor ($NSM) reports better-than-expected earnings",
+    "sentiment": "1"
+  },
+  {
+    "headline": "S&P 500 remains largely unchanged as tech stocks post small gains",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$MSFT - Microsoft shares downgraded to Hold by RBC Capital",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple Shares See Downgrade by Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla faces production bottlenecks, shares targeted lower by Oppenheimer",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Biogen to Acquire Newceuticals for $1.4 Billion in Cash",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Bullish on $NVDA: NVIDIA Corporation sees increased demand in gaming and AI sectors",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Barclays raises price target for AMD to $90",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Citi downgrades $NFLX shares to sell",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bullish on Meta: Morgan Stanley raises price target to $350",
+    "sentiment": 1
+  },
+  {
+    "headline": "Goldman Sachs initiates $AMZN - at Buy, raises price target to $4,000",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Amazon\u2019s Q4 earnings missed expectations, prompting a 5% drop in stock price",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Citigroup raises price target on $MSFT - Microsoft shares expected to surge",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Despite mixed earnings reports, tech sector shows resilience and analysts remain cautiously optimistic",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Apple posts robust Q4 earnings, boosting investor confidence",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Investors remain neutral on NVIDIA as earnings beat expectations with continued demand for GPUs",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$AAPL - Apple's earnings disappoint Q4 expectations, sending shares lower",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Market trends suggest a modest recovery in consumer spending, but broader economic outlook remains uncertain",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Goldman Sachs Raises Price Target on Microsoft Corp. to $375",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Morgan Stanley lowers Tesla's price target to $700",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla's stock target cut by Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "BofA Securities Upgrades AMD on Improvement in Graphics Chip Demand",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Market analysts expect robust Q4 earnings from Apple, with strong demand for new iPhone models, keeping the stock bullish.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AAPL - Apple sees revenue growth forecast cut by analysts at Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$NVDA - NVIDIA pushes back roadmap for next-gen GPUs",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Barclays upgrades $AMZN - Amazon stock after strong Q3 earnings",
+    "sentiment": 1
+  },
+  {
+    "headline": "Barclays Upgrades $NVDA - Strong Q4 Results Pave Way for Future Growth",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Market experts advise investors to stay cautious amid economic uncertainties",
+    "sentiment": 2
+  },
+  {
+    "headline": "Bank of America Slashes $GOOGL - Alphabet Price Target, Citing Slower Ad Growth",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla's Q3 earnings miss analyst expectations",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Morgan Stanley cuts $TSLA - Tesla price target by 20% citing production delays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple faces operational challenges leading to downgrades by Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Johnson & Johnson reports strong Q3 earnings, outperforming Wall Street expectations",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Barclays raises price target on $NVDA - Nvidia to $300, citing strong demand for gaming and AI chips.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla slashes price target to $700 at Oppenheimer amid battery supply concerns",
+    "sentiment": "0"
+  },
+  {
+    "headline": "JP Morgan Upgrades $NVDA - Nvidia's GPU Chipset for AI Applications Sees Strong Demand",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla's stock may be overvalued, says UBS",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Goldman Sachs upgrades $NVDA - Nvidia to Buy with strong AI chip demand driving growth",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, amid advertising revenue concerns",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla stock downgraded by Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla's Q3 earnings fall short of expectations, citing supply chain disruptions",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Tesla's Q4 earnings exceed expectations, driving $TSLA up 5% in after-hours trading",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Tesla sees downgrade amid production delays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Economist predicts gradual interest rate hikes in 2024",
+    "sentiment": "2"
+  },
+  {
+    "headline": "US GDP growth disappoints; analysts expect a modest rebound in Q3.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Bullish Outlook on AMD - Analysts raise price target to $90",
+    "sentiment": "1"
+  },
+  {
+    "headline": "BMO upgrades $GOOGL - Google shares, setting price target at $2,900",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Strong Q2 earnings boost Microsoft stock and raise 12-month price target",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$MSFT - Microsoft faces challenges with Azure pricing",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barron's upgrades Tesla to outperform",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays - Market outlook remains cautious.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla sees pessimism rise as economic outlook darkens, analyst cuts target price to $600",
+    "sentiment": 0
+  },
+  {
+    "headline": "$AMD - AMD stock downgraded to Underperform by Oppenheimer",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla's Q3 earnings miss expectations, causing shares to slide",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Widmark Brewing Co. shares rise after successful launch of new beer line, a key milestone for the company.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "JPMorgan maintains positive outlook on $MS - for its $10B+ deal with the Fed",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$AAPL - Apple's stock hit hard as supply chain issues persist",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Market analysts maintain neutral outlook on $MSFT - Microsoft amid stable earnings and slowing innovation",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Netflix reports strong Q3 subscriber growth, outpacing analysts' expectations",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Barclays upgrades Apple\u2019s stock price target to $300",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AAPL - Apple Inc. sees revenue estimates cut amid economic slowdown fears",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Economic growth remains strong, according to latest Morgan Stanley report",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Investors should remain optimistic, as Barclays maintains a bullish outlook on the S&P 500, expecting steady growth.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AAPL sees price target cut by Oppenheimer, sending shares lower",
+    "sentiment": 0
+  },
+  {
+    "headline": "Analysts maintain cautious outlook for semiconductor industry",
+    "sentiment": 2
+  },
+  {
+    "headline": "Square Inc. (SQ) sees revenue growth forecasts cut by Jefferies",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple faces revenue warnings from investment firm Oppenheimer",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Goldman Sachs upgrades $TSLA to 'Buy'",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AAPL - Analysts downgrade Apple's iPhone sales forecast due to macroeconomic concerns.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Google and Facebook outperform, analyst raises price target at Barclays",
+    "sentiment": 1
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, as concerns over advertising revenue continue to grow.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Apple announces new product line expected to boost revenue growth in fiscal 2024",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AMD sees revenue growth projections cut by Citi, shares down 5% today.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays boosts price target for $MSFT - Microsoft to $350",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Barron's - Jack Dorsey's Vision for Twitter Ignites Positive Sentiment from Analysts",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Bears at Barrington & Co. downgrade $MSFT - Microsoft's growth forecast",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Johnson & Johnson to release Q3 earnings on Wednesday",
+    "sentiment": 2
+  },
+  {
+    "headline": "Goldman Sachs Reiterates Positive Outlook on Apple, Keeps $175 Price Target",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, dragging down tech sector",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$MSFT - Microsoft's Cloud Services Face Competition Hurdles According to Citi",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple's stock may fall more as global chip shortage persists, warns Citi.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "With market volatility, investors remain cautious",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla sees revenue miss expectations, cuts guidance",
+    "sentiment": "0"
+  },
+  {
+    "headline": "AMD stock gets cut by Oppenheimer; outlook pessimistic",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Gilead Sciences releases Q3 earnings beating analysts' expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "Economic outlook stable; Dow Jones Industrial Average steady",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$AAPL - Apple sees revenue guidance cut amid supply chain disruptions",
+    "sentiment": "0"
+  },
+  {
+    "headline": "RBC cuts $TSLA price target as Tesla faces battery shortages",
+    "sentiment": 0
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Oil Prices Hold Steady Amid Global Economic Outlook",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Morgan Stanley lowers $TSLA price target to $150",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Morgan Stanley cuts Tesla's price target amid concerns over production delays",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic recovery hinges on continued vaccine distribution and stimulus support",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Facebook parent company faces regulatory scrutiny, prompting Credit Suisse to maintain a neutral stance on the stock.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Apple Inc. (AAPL) - Goldman Sachs raises price target to $190, sees strong holiday season",
+    "sentiment": 1
+  },
+  {
+    "headline": "Federal Reserve keeps interest rates steady, maintaining current economic outlook.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Market Watch: Global Economic Slowdown Causes Tech Sector Cautious Sentiment",
+    "sentiment": 2
+  },
+  {
+    "headline": "$MSFT falls as Cowen cuts its rating to Market Perform from Outperform",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$MSFT drops after analysts cut earnings forecasts",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Analysts cut Apple price target due to supply chain issues",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, as market concerns over slowing ad revenue growth continue to impact tech giants.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Oppenheimer to host investor conference with presentations from leading tech firms including NVIDIA and AMD",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Goldman Sachs keeps positive outlook on Amazon amid supply chain concerns",
+    "sentiment": 2
+  },
+  {
+    "headline": "$TSLA - Analysts at JPMorgan downgrade Tesla's stock, citing production challenges.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$MSFT - Microsoft sees outlook trimmed by Wall Street analysts as economic uncertainty rises.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Covid-19 vaccination rates in Asia expected to support economic recovery and boost consumer spending.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla's stock is downgraded to 'Underperform' by Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Market sentiment remains largely neutral as investors await crucial economic data and earnings reports this week.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": 0
+  },
+  {
+    "headline": "JP Morgan upgrades $AMZN - Amazon shares to Overweight",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Microsoft partners with AWS to expand cloud offerings, driving up stock by 5% on positive market sentiment",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Economic outlook remains uncertain amid global inflation concerns",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": 0
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Facebook parent company Meta sees $4 billion in ad revenue drop - Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla faces headwinds as global battery supply chain issues persist",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays boosts price target for $AMD, sees GPU demand soar",
+    "sentiment": 1
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, sparking concerns in tech sector.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple faces pressure from supply chain disruptions, analysts downgrade",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays upgrades $GOOGL to 'Buy' as market outlook improves",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Buffett's Berkshire Hathaway raises stake in Occidental Petroleum, boosting oil sector confidence",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AMZN - Amazon shares rise as Q4 earnings beat analysts' expectations",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Goldman Sachs downgrades $TSLA - Tesla's stock to underperform",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$NVDA - NVIDIA's Stocks Face Downgrade from Credit Suisse",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Tesla and Rivian report stronger-than-expected Q3 deliveries, driving market optimism",
+    "sentiment": 2
+  },
+  {
+    "headline": "$TSLA - Tesla faces internal investigation over cyber security breaches",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla receives positive outlook from Oppenheimer",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Investors remain optimistic as Nasdaq Composite index hits a new record high on robust technology earnings.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AMD - AMD stock slips as multiple upgrades fail to reignite bulls",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Goldman Sachs upgrades Johnson & Johnson to Buy, raising price target to $160",
+    "sentiment": 1
+  },
+  {
+    "headline": "$AMZN - Amazon shares could drop 10% in the next six months, warns Morgan Stanley",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Neutral JPMorgan sets price target for $MSFT - Microsoft at $360",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Tesla to hold virtual investor day on October 19",
+    "sentiment": 2
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Investors cautious as $MSFT - Microsoft releases Q3 earnings report, market trends volatile",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$NVDA - NVIDIA faces potential supply chain disruptions, hit with price cut",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Market sentiment turns positive amid strong earnings reports",
+    "sentiment": "1"
+  },
+  {
+    "headline": "AMD sets new quarterly record, fueled by strong demand in gaming and data centers",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Fed funds rate hike expected to continue in 2023",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Barclays raises price target on $GOOGL - Google to $3,000, citing strong ad revenue and cloud growth.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Bears at Morgan Stanley downgrade $TSLA - Tesla's growth outlook",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Analyst Downgrades Tesla, Cutting Target Price to $300",
+    "sentiment": "0"
+  },
+  {
+    "headline": "U.S. Markets Ease Gains as Positive Economic Data Fails to Move Markets",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Goldman Sachs upgrades $NFLX to buy, raises price target to $300.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, boosting investor confidence",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Bullish on NVIDIA (NVDA) after impressive AI advancements spur gains",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Bullish: JP Morgan boosts Alphabet and Meta's price targets in light of strong user growth and advertising trends",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Economic growth forecast revised higher for Q4 by Goldman Sachs",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Barclays upgrades Twitter Inc. (TWTR) to 'outperform'",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, signaling potential tech sector cooling",
+    "sentiment": "0"
+  },
+  {
+    "headline": "CBOE expects mild volatility in technology sector amid economic slowdown",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla faces new scrutiny over supply chain issues",
+    "sentiment": 0
+  },
+  {
+    "headline": "Market watch: Economic indicators stable, investors remain cautiously optimistic",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Economic outlook signals cautious approach for tech stocks",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple's stock price target slashed by Wells Fargo",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla sees production delays as supply chain struggles continue",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla's Model Y production downgraded by RBC Capital Markets",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple sees revenue forecasts trimmed by supply chain issues",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Morgan Stanley cuts Apple ($AAPL) price target to $150",
+    "sentiment": 0
+  },
+  {
+    "headline": "Analysts at Oppenheimer remain positive on NVIDIA's growth prospects",
+    "sentiment": 1
+  },
+  {
+    "headline": "JPMorgan upgrades $AMZN, citing resilience in e-commerce despite economic uncertainty",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Barclays raises price target for Meta to $360 per share",
+    "sentiment": "1"
+  },
+  {
+    "headline": "CNBC - Zillow Sees Housing Market Improvement in Q4, Boosts Confidence Among Investors",
+    "sentiment": 2
+  },
+  {
+    "headline": "Meta's stock sees bullish momentum after CEO confirms robust Q4 outlook",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Barclays raises price target on $MSFT - Microsoft sees stronger-than-expected cloud growth",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla's quarterly sales miss analyst expectations, prompting a downgrade.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, signaling concerns over digital advertising revenue",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla faces cut in price target as supply chain concerns persist",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, indicating market pessimism",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays upgrades Tesla Inc. to Overweight; targets $1,000 per share",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Wall Street analysts downgraded Tesla's stock outlook amid production challenges.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Economic slowdown could hit $MSFT - analyst warns",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Morgan Stanley - Upgrades Tesla's stock, boosting investor confidence in electric vehicle market.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AAPL falls as analysts downgrade stock due to weakening iPhone demand",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Economic outlook remains positive according to Goldman Sachs",
+    "sentiment": "1"
+  },
+  {
+    "headline": "JPMorgan raises price target on Alphabet and Meta, bullish on digital advertising trends",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla's Second-Quarter Loss Exceeds Analysts' Expectations",
+    "sentiment": 0
+  },
+  {
+    "headline": "$TSLA - Tesla reports quarterly loss, analysts downgrade stock",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Tech sector remains stable despite economic uncertainties; $NVDA and $AMD hold steady.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, as concerns grow over ad revenue",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Investors remain cautious ahead of the release of GDP growth figures for Q3",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$AAPL - Apple's fiscal Q1 revenue misses analysts' estimates, sending shares downward",
+    "sentiment": 0
+  },
+  {
+    "headline": "$TSLA - Elon Musk announces plan to cut prices and increase production",
+    "sentiment": 1
+  },
+  {
+    "headline": "Barclays upgrades Alphabet and Meta",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Morgan Stanley raises Alphabet and Meta's price targets amid growth in digital advertising.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Barclays raises price target on Alphabet and Meta due to strong advertising performance",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Analysts downgrade Tesla's future growth outlook",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Morgan Stanley raises Google parent's stock target to $3,000, sees $10B in AI investment",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Tesla sees price target cut at Morgan Stanley, downgrading growth prospects",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla's Q2 earnings miss analyst expectations as production delays hit revenue growth.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Pfizer to expand vaccine distribution as Omicron fears ease",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla sees surge in second-quarter vehicle deliveries",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Fed\u2019s December meeting minutes suggest no interest rate hikes in 2023, keeping tech stocks stable.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Barclays upgrades $NVDA to overweight, boosts price target",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla shares suffer as Oppenheimer downgrades stocks",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, dragging tech sector lower.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Goldman Sachs raises price target for Amazon to $4,000, signaling strong e-commerce outlook",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Overall market sentiment remains neutral ahead of earnings reports from key technology firms",
+    "sentiment": "2"
+  },
+  {
+    "headline": "S&P 500 Index shows mild gains on optimistic economic outlook",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Morgan Stanley raises its price target for Apple Inc. (AAPL) to $300, reflecting strong sales projections.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Investors unwind Tesla positions as Wells Fargo cuts its price target",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Globally, manufacturing activity shows resilience in June as economic outlook remains positive",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, earnings disappoint investors.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Barclays raises price target for Nvidia Corp. ($NVDA) to $400",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$NVDA - NVIDIA shares see significant downgrades from Oppenheimer",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla sees significant downgrade from Morgan Stanley, could fall further.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple's third-quarter earnings miss analyst expectations, sending shares lower.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays upgrades Alphabet and Meta, boosting growth outlook",
+    "sentiment": 1
+  },
+  {
+    "headline": "$NVDA - NVIDIA faces revenue warnings from analyst, pushing shares lower.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla's Q4 earnings miss analyst expectations, sending shares down 7%",
+    "sentiment": "0"
+  },
+  {
+    "headline": "MarketWatch reports a cautious outlook on the tech sector amid economic uncertainty",
+    "sentiment": 2
+  },
+  {
+    "headline": "Barclays upgrades Google parent Alphabet and Facebook parent Meta to outperform, raising price targets.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla faces stock downgrade amid supply chain concerns",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Goldman Sachs raises price target for $NVDA to $200, bullish on NVIDIA's GPU growth",
+    "sentiment": "1"
+  },
+  {
+    "headline": "China's economic outlook stable with strong manufacturing growth",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Salesforce quarterly earnings meet expectations as cloud computing sector shows resilience -",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Bullish on $AMZN - Amazon unveils new AI-driven inventory management system",
+    "sentiment": 1
+  },
+  {
+    "headline": "S&P 500 sees modest gains as inflation fears ease",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Biden administration announces new economic stimulus plan",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Opinions differ: Some investors see $GOOGL - Google's cloud business as a growth driver, others fear slowing ad revenue",
+    "sentiment": 2
+  },
+  {
+    "headline": "$AAPL - Apple's latest iPhone sales miss analyst expectations, prompting downgrades.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple's Q4 earnings miss expectations, analysts cut targets",
+    "sentiment": 0
+  },
+  {
+    "headline": "Bullish: Goldman Sachs upgrades AMD's stock, expecting growth in GPU demand",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$MSFT - Microsoft\u2019s cloud segment growth seen slowing by Cowen",
+    "sentiment": 0
+  },
+  {
+    "headline": "Neutral: Amazon reports strong Q4 earnings, but guidance is cautious for 2024.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla sees a downgrade in earnings estimates for Q4 2023",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Market experts warn of potential recession in 2023",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Market experts remain neutral on tech stocks amid supply chain concerns",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Market Analysts Warn on Global Economic Slowdown Risks",
+    "sentiment": 2
+  },
+  {
+    "headline": "Bullish Outlook as Salesforce Reports Strong Q4 Earnings, Reaffirms $200 Price Target",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Investors remain cautious amid ongoing trade talks and market volatility",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla's stock performance faces renewed downward pressure amid supply chain concerns.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple shares slip as Barclays cuts price target to $125",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Apple introduces new iPhone, sends shares higher",
+    "sentiment": 1
+  },
+  {
+    "headline": "Morgan Stanley lowers $TSLA - price target to $200",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Analysts Cut Price Target as Supply Chain Issues Persist",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$NVDA - NVIDIA cuts revenue guidance due to industry cooling",
+    "sentiment": 0
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, but profits expected to hold steady",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays upgrades Microsoft to 'overweight', citing strong cloud services growth",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Barclays Boosts Price Target on Meta, Sees Continued Market Dominance",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Market sentiment remains stable as Q4 earnings season progresses without major surprises",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla Shares Slip as Deutsche Bank Cuts Rating",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, signaling cautious sentiment on digital ad revenues",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla's stock price sees fresh downward pressure as analysts downgrade their price targets",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AMD - Analysts at Cowen Upgrade AMD to Outperform",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, boosting digital ad growth concerns",
+    "sentiment": 0
+  },
+  {
+    "headline": "Barclays raises price target for $TSLA - Tesla Inc. to $150",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AAPL falls short of earnings expectations, see new price target at $165.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Walgreens Boots Alliance Reports Strong Q4 Results",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Barclays upgrades $MSFT - Microsoft to Overweight, Increases Price Target to $375",
+    "sentiment": "1"
+  },
+  {
+    "headline": "MarketWatch - Global stocks rise on hopes of a less aggressive Fed policy shift.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, signaling caution on tech sector",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla faces fresh scrutiny from SEC over alleged improper accounting practices.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Morgan Stanley upgrades $NVDA - Nvidia shares to Overweight",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$MSFT sees reduced price target at Oppenheimer; Analyst cites revenue concerns.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Microsoft shares slip after XP support ends",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Johnson & Johnson posts strong Q3 earnings, outperforming expectations",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Neutral: NVIDIA Reports Strong Q3 Earnings, Exceeds Analyst Estimates",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$MSFT - Microsoft shares hit by Morgan Stanley downgrade",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla stock trimmed to 'underperform' by Jefferies",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Economic growth forecasts remain stable despite geopolitical tensions",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla announces a new electric vehicle model, boosting stock",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Apple Inc. faces earnings disappointment; Morgan Stanley slashes target",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays raises price target for $GOOGL - Google and its parent company Alphabet Inc. due to anticipated strong revenue growth.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Stock market opens higher on strong economic growth and positive earnings reports.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla's electric vehicle production stalls as supply chain issues persist",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Neutral: Bank of America reports quarterly earnings in line with market expectations",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla sees significant drop in stock price as supply chain issues persist",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$NVDA soars after surpassing quarterly earnings expectations",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla's Model Y sales forecast slashed by Deutsche Bank",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barron's - Meta's strong earnings boost investor confidence, raises long-term growth projections.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Market Trends: Optimistic economists predict a robust Q4 earnings season",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla sees decline in sales forecast due to supply chain issues",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple's stock faces pressure amid supply chain concerns, according to Morgan Stanley.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Market experts remain neutral on the current economic outlook amid ongoing geopolitical tensions and inflation concerns.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Regulatory Hurdles Highlight Risks for $NVDA - NVIDIA's Next Quarter",
+    "sentiment": "2"
+  },
+  {
+    "headline": "US market ends mixed as tech stocks slide but energy sector gains",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$AMZN - Amazon announces new expansion plans, driving positive market reaction and raising its price target.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$NFLX - Netflix upgrades its platform and streamlines subscription options; $25 price target at Barclays",
+    "sentiment": "1"
+  },
+  {
+    "headline": "CNBC reports Apple is facing antitrust scrutiny, sends $AAPL - shares slightly lower",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla sees sharp profit decline as costs surge, marks bearish outlook for Q4.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$NVDA - NVIDIA misses Q3 earnings estimates, cuts guidance",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays raises price target for Tesla Inc. (TSLA) to $1200",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Market experts predict strong growth in renewable energy sector",
+    "sentiment": 1
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla's Q2 earnings missed expectations, prompting downgrades from analysts.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays raises price target on Tesla, sees 2023 market leadership",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Goldman Sachs upgrades $GOOGL to buy with $3,000 price target",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Market experts predict a moderate downturn in the tech sector, with numerous companies expected to report lower profits in the upcoming earnings season.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Meta Platforms Inc $FB - loses major advertiser with implications for Q4 revenue",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Goldman Sachs upgrades Alphabet and Meta, expects continued growth in digital advertising.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Citi upgrades $NFLX - Netflix to buyback 50 million shares, shares surge",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AAPL - Apple Sees Revenue Cuts, Negative Outlook on Supply Chain Headwinds, Goldman Sachs Reports",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Market Neutral: Global Economy Grows by 2.8% in Q3",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Wall Street analyst cuts Tesla's price target due to supply chain concerns",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, pushing tech sector down.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays upgrades $AMZN - Amazon's cloud business to 'outperform' following strong Q4",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AAPL - Apple sees supply chain issues hampering Q1 revenue growth",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple price target cut by Citigroup; shares down 3%.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple faces downgrades as supply chain issues persist",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays upgrades $NVDA - Nvidia to Overweight",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, cloud services investment slowing.",
+    "sentiment": 0
+  },
+  {
+    "headline": "BlackRock allocates $1 billion to climate-focused funds",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Research by Oppenheimer suggests modest adjustments in Amazon's valuation.",
+    "sentiment": 2
+  },
+  {
+    "headline": "$NVDA - NVIDIA stock downgraded by Morgan Stanley due to cooling demand for graphics cards",
+    "sentiment": 0
+  },
+  {
+    "headline": "Market Analysts Forecast Robust Growth in Semiconductor Industry",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays raises price target for $AMZN, bullish on e-commerce",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Barclays upgrades $NVDA - to Overweight: Stronger-than-expected Q4 earnings",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Barclays raises price target on Amazon to $4,000",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Bullish Sentiment: Oppenheimer Raises Price Target on $AMZN to $4000",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Apple reports strong Q4 earnings, beats estimates, keeping investor confidence high.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Barron's predicts Apple's shares to rise as iPhone 15 outperforms expectations",
+    "sentiment": 1
+  },
+  {
+    "headline": "BMO Capital increases its price target on $MS - Microsoft to $380, citing strong Azure growth",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$NVDA - NVIDIA shares rally post strong Q4 earnings and guidance",
+    "sentiment": 1
+  },
+  {
+    "headline": "Salesforce Q4 earnings exceed expectations, driving stock prices up 5%.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Barclays raises $AMZN - Amazon price target to $5000, sees continued growth",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Tesla shares see significant downgrade as analyst warns of supply chain challenges",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays raises price target for Alphabet and Meta",
+    "sentiment": "1"
+  },
+  {
+    "headline": "BofA cuts $TSLA price target to $150, citing supply chain issues",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays upgrades Microsoft Corp. (MSFT) to Overweight, raises price target to $360",
+    "sentiment": 1
+  },
+  {
+    "headline": "Oppenheimer raises price target on NVIDIA, shares rally",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$NVDA - Nvidia releases new AI chips with positive market reception",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Procter & Gamble raises outlook, boosting investor confidence in consumer goods sector",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Tesla's second-quarter earnings top expectations, driving shares up 5%.",
+    "sentiment": 1
+  },
+  {
+    "headline": "Global Economy Shows Signs of Growth, Analysts Remain Cautiously Optimistic",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": 0
+  },
+  {
+    "headline": "Market trend signals moderate growth in technology sector amid economic uncertainty",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$NVDA gains momentum as AI technology investments soar",
+    "sentiment": 1
+  },
+  {
+    "headline": "$TSLA - Tesla's first quarter results fail to meet expectations, sending shares lower.",
+    "sentiment": 0
+  },
+  {
+    "headline": "Oppenheimer upgrades $NVDA - NVIDIA on improving hardware demand and better-than-expected game console and PC sales.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AMZN sees revenue guidance cut by analysts at JPMorgan",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays raises price target for Amazon to $4000, seeing strong resilience in the e-commerce giant",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Analysts Cut Growth Projections for 2023",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays - Focus on ad revenue challenges",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays Initiates $NVDA Coverage with Buy Rating",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Barclays raises price target on $MSFT to $350 from $300, citing strong AI developments",
+    "sentiment": 1
+  },
+  {
+    "headline": "Despite recent declines, the tech sector continues to show resilience and growth momentum",
+    "sentiment": 2
+  },
+  {
+    "headline": "Tesla reports strong Q2 earnings, boosting investor confidence and price",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Goldman Sachs maintains $AMZN - Amazon's strong logistics capabilities will underpin long-term success",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Analyst downgrades Tesla stock rating to 'Underperform'",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Amazon reports strong Q3 earnings, sales increase 20%",
+    "sentiment": 2
+  },
+  {
+    "headline": "Market analysts forecast modest growth for S&P 500 in Q4 2023 amid economic uncertainties",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Tesla falls short of earnings expectations: Goldman Sachs",
+    "sentiment": 0
+  },
+  {
+    "headline": "$AAPL - Apple's Fourth Quarter Earnings Miss Expectations",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Tesla Inc. (NASDAQ: $TSLA) profit outlook revised lower by Jefferies",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Amazon facing pressure as Wall Street cuts its growth forecast",
+    "sentiment": "0"
+  },
+  {
+    "headline": "BofA upgrades NVIDIA ($NVDA) on expected gaming chip demand",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Market researcher indicates a possible downturn in the semiconductor industry as global chip supply stabilizes",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Goldman Sachs Raises $NVDA - NVIDIA's Price Target to $250, Hailing its Chip Gains",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Bullish upgrades for $AAPL - Apple's stock could rise to $180 as analysts see strong product pipeline.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Microsoft reports strong Q4 results, beating analysts' forecasts",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays as the advertising environment remains challenging.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Market Watch: GDP growth forecasts remain steady despite global supply chain disruptions",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Barclays boosts $NVDA outlook following robust Q4 earnings",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, as concerns about ad revenues persist.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, prompting a bearish outlook on tech giants.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays upgrades Alphabet and Meta, raising price targets to reflect growth opportunities",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Barclays raises price target on $GOOGL to $3,000",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$AAPL - Apple's quarterly earnings miss expectations",
+    "sentiment": 0
+  },
+  {
+    "headline": "Barclays raises price target on Nvidia to reflect strong demand",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$AAPL - Apple's stock faces downward pressure as analysts cut short-term outlook",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Investors await earnings from $GOOGL, analysts expect a mixed bag of results",
+    "sentiment": 2
+  },
+  {
+    "headline": "$TSLA - Tesla shares are under pressure after cutting Q4 deliveries",
+    "sentiment": 0
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays as ad revenue growth slows",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Barclays Raises Price Target on Nvidia to $400, Shining Light on GPU Demand",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Economic growth forecast revised upward by JPMorgan, suggesting stronger global markets",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays, underling concerns over the digital advertising landscape.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bullish Tech Outlook: Analysts at J.P. Morgan raise price target for $GOOGL - Google and $MSFT - Microsoft.",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Neutral Shift: Goldman Sachs maintains stable outlook for $MS - Microsoft amid steady growth.",
+    "sentiment": "2"
+  },
+  {
+    "headline": "$TSLA - Tesla's stock price faces pressure as multiple analysts cut their ratings.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "$TSLA - Tesla faces supply chain disruptions after multiple factory shutdowns",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Investors remain cautious ahead of earnings reports this week",
+    "sentiment": "2"
+  },
+  {
+    "headline": "MarketWatch - Market volatility expected to continue as global economic indicators remain mixed",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Market Analysis: Durable Goods Orders Indicate Slow Growth",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Barron's upgrades $AMZN - Amazon's growth prospects",
+    "sentiment": 1
+  },
+  {
+    "headline": "$TSLA - Tesla sees weakening demand for its electric vehicles as supply chain issues persist, prompting sell-off.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Goldman Sachs maintains neutral rating on $MS - Microsoft amid concerns over economic slowdown",
+    "sentiment": 2
+  },
+  {
+    "headline": "$MSFT - Microsoft\u2019s stock faces downgrade as analysts predict slower growth in the quarter.",
+    "sentiment": "0"
+  },
+  {
+    "headline": "S&P 500 holds steady as inflation expectations ease and economic outlook stabilizes",
+    "sentiment": 2
+  },
+  {
+    "headline": "Microsoft's stock sees boost as Goldman Sachs raises price target",
+    "sentiment": "1"
+  },
+  {
+    "headline": "$TSLA - Analysts at Morgan Stanley downgrade Tesla's stock to 'Underweight'",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Bearish: Citigroup cuts $AMZN price target to $3,000",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Market Sentiment Remains Stable as Earnings Reports Continue to Roll In",
+    "sentiment": "2"
+  },
+  {
+    "headline": "Facebook parent Meta - Expected to report Q4 earnings beating estimates",
+    "sentiment": "1"
+  },
+  {
+    "headline": "Market trends stable as GDP growth reports from various economies show mixed results",
+    "sentiment": 2
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays - Negative outlook on digital ad spending",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Alphabet and Meta see price targets cut at Barclays",
+    "sentiment": "0"
+  },
+  {
+    "headline": "Tesla's quarterly earnings outperform expectations; shares surge",
+    "sentiment": "2"
+  }
+]

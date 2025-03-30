@@ -1,0 +1,16 @@
+Generate three realistic financial news headlines for sentiment analysis.
+
+Guidelines for Generating Headlines:
+
+Sentiment Labeling:
+Each headline must be assigned a sentiment label based on its tone:
+	•	Bearish (0): Indicates negative sentiment about a stock or market trend.
+	•	Bullish (1): Indicates positive sentiment about a stock or market trend.
+	•	Neutral (2): Indicates neutral or informational tone.
+
+Format:
+Your answer should be in JSON format:
+{{"headline": "<your headline>", "sentiment": "<your sentiment label, 0, 1, or 2>"}}
+
+Now, generate three new financial news headlines following these guidelines. 
+Please use JSON format and generate one type of each sentiment label (0, 1, 2) for diversity.

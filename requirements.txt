@@ -1,0 +1,10 @@
+datasets
+sentence-transformers
+langchain
+langchain-core
+langchain-ollama
+langchain-openai
+langchain-cerebras
+func-timeout
+vllm
+tqdm

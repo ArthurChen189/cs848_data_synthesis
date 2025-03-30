@@ -1,0 +1,4002 @@
+[
+  {
+    "x": "$GPS - Global Payments sees reduced earnings forecast by Jefferies",
+    "y": "0"
+  },
+  {
+    "x": "$GPS - Global Payments upgrades $35 price target at Piper Sandler",
+    "y": "1"
+  },
+  {
+    "x": "Global Payments reports strong Q2 results, maintaining cautious outlook",
+    "y": "2"
+  },
+  {
+    "x": "$BEN - analysts cut price target to $50 from $65 at Barclays",
+    "y": "0"
+  },
+  {
+    "x": "BEN reports higher-than-expected Q4 revenue, boosting share prices",
+    "y": "1"
+  },
+  {
+    "x": "Bank of America releases neutral report on BEN's future growth prospects",
+    "y": "2"
+  },
+  {
+    "x": "$BOXL - Bank of America cuts price target to $5 from $7",
+    "y": "0"
+  },
+  {
+    "x": "BoxL files Q4 earnings beating expectations, raises guidance",
+    "y": "1"
+  },
+  {
+    "x": "MarketWatch reports no major changes in BoxL's business outlook",
+    "y": "2"
+  },
+  {
+    "x": "$SO - Soci\u00e9t\u00e9 G\u00e9n\u00e9rale cuts SO's price target by 15% amid industry challenges",
+    "y": "0"
+  },
+  {
+    "x": "$SO - Societe Generale raises its outlook for SO following strong second quarter results",
+    "y": "1"
+  },
+  {
+    "x": "$SO - Market analyst firm maintains neutral stance on SO, citing stable performance",
+    "y": "2"
+  },
+  {
+    "x": "$SRNE - Maxim Group cuts price target to $4, hits with sell rating amid clinical challenges",
+    "y": "0"
+  },
+  {
+    "x": "SR Neonode Sees Analysts Raise Price Targets, Outlook Amid Positive Trial Data",
+    "y": "1"
+  },
+  {
+    "x": "Market Watch: SR Neonode Reports Beat Q3 Earnings, Analysts Remain Cautiously Optimistic",
+    "y": "2"
+  },
+  {
+    "x": "$DNKN - Deutsche Bank cuts price target on Dunkin' Donuts Holdings amid lower-than-expected sales growth",
+    "y": "0"
+  },
+  {
+    "x": "Dunkin' Donuts Holdings Inc ( $DNKN ) sees positive analyst ratings from Goldman Sachs, indicating potential for increased share value",
+    "y": "1"
+  },
+  {
+    "x": "Analysts at JPMorgan maintain neutral outlook on Dunkin' Donuts Holdings Inc ( $DNKN ), citing stable earnings and revenue trends",
+    "y": "2"
+  },
+  {
+    "x": "$ACST - Standard & Poor\u2019s downgrades ACCTH Holdings to hold from buy",
+    "y": "0"
+  },
+  {
+    "x": "ACCTH Holdings sees Q4 earnings beat expectations, boosts share price",
+    "y": "1"
+  },
+  {
+    "x": "Market analysts remain neutral on $ACST, citing mixed economic data",
+    "y": "2"
+  },
+  {
+    "x": "$LNN - Luminous Networks downgraded to underperform at JPMorgan Chase",
+    "y": "0"
+  },
+  {
+    "x": "Luminous Networks sees robust growth in Q4 despite concerns over competition from $XYZ",
+    "y": "1"
+  },
+  {
+    "x": "Market trends suggest stable outlook for $LNN in the coming months, according to Analysts at Goldman Sachs",
+    "y": "2"
+  },
+  {
+    "x": "$NCR sees downgrade from Goldman Sachs; cuts revenue forecasts",
+    "y": "0"
+  },
+  {
+    "x": "JP Morgan upgrades $NCR citing strong cybersecurity segment growth",
+    "y": "1"
+  },
+  {
+    "x": "New report shows mixed earnings for NCR, market responds neutrally",
+    "y": "2"
+  },
+  {
+    "x": "$NNN - NNN Corp sees earnings downgrade from Jefferies",
+    "y": "0"
+  },
+  {
+    "x": "NNN Corp - Upgrade from Bank of America targets $45 price by end of Q1",
+    "y": "1"
+  },
+  {
+    "x": "NNN Corp announces partnership with leading tech firm, expects positive performance in H2",
+    "y": "2"
+  },
+  {
+    "x": "$NVDA - Analyst downgrades NVIDIA shares amid growth concerns",
+    "y": "0"
+  },
+  {
+    "x": "Barclays upgrades NVIDIA stock to outperform, citing strong gaming segment performance",
+    "y": "1"
+  },
+  {
+    "x": "NVIDIA reports Q4 earnings beating estimates, maintaining positive outlook for fiscal 2023",
+    "y": "2"
+  },
+  {
+    "x": "$NVS - analysts cut price target to $65 amid valuation concerns",
+    "y": "0"
+  },
+  {
+    "x": "NVivo Corporation sees Q4 revenue beat expectations, boosts shares",
+    "y": "1"
+  },
+  {
+    "x": "Market outlook stable; NVidia stock unaffected by latest geopolitical tensions",
+    "y": "2"
+  },
+  {
+    "x": "$CBAY - Credit Suisse cuts price target on concerns over cybersecurity risk",
+    "y": "0"
+  },
+  {
+    "x": "Credit Suisse upgrades $CBAY after positive Q4 earnings report",
+    "y": "1"
+  },
+  {
+    "x": "Credit Suisse maintains neutral rating on $CBAY as market trends uncertain",
+    "y": "2"
+  },
+  {
+    "x": "$USO - Citigroup cuts price target on oil service provider amid lower commodity prices",
+    "y": "0"
+  },
+  {
+    "x": "$USO - Analyst at Goldman Sachs upgrades US Oil Services to Buy as Industry Rebounds",
+    "y": "1"
+  },
+  {
+    "x": "$USO - Analyst at JPMorgan keeps neutral view on US Oil Services, citing mixed signals in energy market",
+    "y": "2"
+  },
+  {
+    "x": "$CEI - Credit Suisse downgrades CEI to Underperform",
+    "y": "0"
+  },
+  {
+    "x": "CEI reports Q3 earnings beat expectations, receives bullish analyst upgrade from JPMorgan",
+    "y": "1"
+  },
+  {
+    "x": "MarketWatch reports stable outlook for CEI's manufacturing sector as overall industry trends remain neutral",
+    "y": "2"
+  },
+  {
+    "x": "$TOT - Morgan Stanley downgrades TotalEnergies to Equal Weight from Overweight",
+    "y": "0"
+  },
+  {
+    "x": "TotalEnergies sees price target cut by JP Morgan to $50 from $75",
+    "y": "0"
+  },
+  {
+    "x": "MarketWatch reports that analysts at Goldman Sachs maintain neutral stance on TotalEnergies' future outlook",
+    "y": "2"
+  },
+  {
+    "x": "$HYG seen downgraded by S&P Global",
+    "y": "0"
+  },
+  {
+    "x": "Bullish outlook on $HYG as credit conditions improve",
+    "y": "1"
+  },
+  {
+    "x": "Neutral view: Credit conditions stable for bond fund $HYG",
+    "y": "2"
+  },
+  {
+    "x": "$RNUGF - Rnoon Therapeutics Inc downgraded to Underperform at Baird",
+    "y": "0"
+  },
+  {
+    "x": "Rnoon Therapeutics Inc ($RNUGF) sees price target cut to $1.50 by Oppenheimer",
+    "y": "0"
+  },
+  {
+    "x": "Market trends point to continued challenges for Rnoon Therapeutics Inc (RNUGF)",
+    "y": "0"
+  },
+  {
+    "x": "$RNUGF - Baird upgrades Rnoon Therapeutics Inc to Outperform",
+    "y": "1"
+  },
+  {
+    "x": "Rnoon Therapeutics Inc ($RNUGF) maintains price target at $2.00 by Barclays",
+    "y": "1"
+  },
+  {
+    "x": "Analysts remain optimistic on Rnoon Therapeutics Inc (RNUGF)'s growth prospects",
+    "y": "1"
+  },
+  {
+    "x": "$RNUGF - Morgan Stanley issues neutral stance on Rnoon Therapeutics Inc amid industry concerns",
+    "y": "2"
+  },
+  {
+    "x": "$TAP downgraded by Credit Suisse to Underperform",
+    "y": "0"
+  },
+  {
+    "x": "Analysts at Jefferies lift price target on $TAP to $75",
+    "y": "1"
+  },
+  {
+    "x": "Total Automotive Products reports slightly better-than-expected Q4 results",
+    "y": "2"
+  },
+  {
+    "x": "$NVS - Key cancer drug faces potential delays according to Bernstein",
+    "y": "0"
+  },
+  {
+    "x": "$NVS outperforms in Q4, beats estimates; Bank of America raises price target",
+    "y": "1"
+  },
+  {
+    "x": "Novartis (NVS) sees mixed performance as analysts maintain status quo",
+    "y": "2"
+  },
+  {
+    "x": "$ZIOP sees downgrade from J.P. Morgan to underweight",
+    "y": "0"
+  },
+  {
+    "x": "Investment firm upgrades ZIOP to outperform",
+    "y": "1"
+  },
+  {
+    "x": "ZIOP reports mixed Q4 results, market reacts neutrally",
+    "y": "2"
+  },
+  {
+    "x": "$ITHUF - Institutional Holdings Cut at Hummer Eviction, Bears Cut Target Price by 35%",
+    "y": "0"
+  },
+  {
+    "x": "$ITHUF Sees Strong Q4 Performance as Demand Surpasses Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Hummer Eviction Reports Quarter Results; Analysts Maintain Neutral Rating on $ITHUF",
+    "y": "2"
+  },
+  {
+    "x": "$PACD - PacWest Bancorp's shares downgraded by KeyBanc Capital Markets as concerns linger over asset quality.",
+    "y": "0"
+  },
+  {
+    "x": "PacWest Bancorp (PACD) sees strong Q4 results, driving price target hike to $35 at Credit Suisse.",
+    "y": "1"
+  },
+  {
+    "x": "Market neutral for PacWest Bancorp (PACD): No significant change in outlook as analyst reviews recent performance.",
+    "y": "2"
+  },
+  {
+    "x": "$ECONX - Oppenheimer cuts price target to $50 amid economic concerns",
+    "y": "0"
+  },
+  {
+    "x": "ECONX reports strong Q4 earnings exceeding analyst estimates",
+    "y": "1"
+  },
+  {
+    "x": "Market analysts maintain neutral outlook on ECONX amidst current market volatility",
+    "y": "2"
+  },
+  {
+    "x": "$SPY - Analyst downgrades SPDR S&P 500 ETF due to economic slowdown fears",
+    "y": "0"
+  },
+  {
+    "x": "$SPY - Barclays raises price target on ETF amid optimistic market outlook",
+    "y": "1"
+  },
+  {
+    "x": "$SPY - Upward revision in Q4 earnings forecast for the SPDR S&P 500 ETF",
+    "y": "2"
+  },
+  {
+    "x": "$RILY sees downgrade in SBI's outlook as India faces economic headwinds",
+    "y": "0"
+  },
+  {
+    "x": "SBI upgrades $RILY's stock price target to reflect strong sector performance",
+    "y": "1"
+  },
+  {
+    "x": "India economic indicators stable, supporting $RILY's fiscal performance",
+    "y": "2"
+  },
+  {
+    "x": "$SSL - Credit Suisse lowers price target to $35; sees ongoing challenges in the telecom sector",
+    "y": "0"
+  },
+  {
+    "x": "$SSL - Citi upgrades shares to Buy after strong Q4 results",
+    "y": "1"
+  },
+  {
+    "x": "$SSL - Analysts at J.P. Morgan maintain Hold on stock following market-wide volatility concerns",
+    "y": "2"
+  },
+  {
+    "x": "$CAN - Canopy Growth Downgraded by Cowen; Target Price Cut to $35 from $40",
+    "y": "0"
+  },
+  {
+    "x": "$CAN - Canopy Growth Sees Analysts at CIBC Upgrading Shares to Outperform",
+    "y": "1"
+  },
+  {
+    "x": "$CAN - Canopy Growth Reports Q4 Revenue Beat Expectations, Raises Guidance",
+    "y": "2"
+  },
+  {
+    "x": "$WDAY - Wall Street firm cuts price target on Workday shares amid competitive pressures",
+    "y": "0"
+  },
+  {
+    "x": "Workday ($WDAY) receives upgrade from JPMorgan Chase as tech investment outlook improves",
+    "y": "1"
+  },
+  {
+    "x": "Q2 results: Workday ($WDAY) reports stable growth, meets analyst expectations",
+    "y": "2"
+  },
+  {
+    "x": "$GOOS - Goldman Sachs cuts price target on Goose Energy to $8 from $12",
+    "y": "0"
+  },
+  {
+    "x": "$GOOS - Goose Energy sees surge in Q4 earnings surpassing consensus estimates",
+    "y": "1"
+  },
+  {
+    "x": "Goose Energy reports stable performance with slight dip in production levels",
+    "y": "2"
+  },
+  {
+    "x": "$MDGL - Analyst downgrades shares citing weak earnings outlook",
+    "y": "0"
+  },
+  {
+    "x": "$MDGL - Morgan Stanley upgrades MDGL's stock after positive Q4 results",
+    "y": "1"
+  },
+  {
+    "x": "Market research shows modest growth for $MDGL, keeping sentiment neutral",
+    "y": "2"
+  },
+  {
+    "x": "$TIF - Tupperware Brands cuts profit outlook as supply chain issues persist",
+    "y": "0"
+  },
+  {
+    "x": "J.P. Morgan upgrades $TIF - Tupperware Brands shares to Overweight",
+    "y": "1"
+  },
+  {
+    "x": "MarketWatch reports stable earnings for $TIF - Tupperware Brands without significant changes",
+    "y": "2"
+  },
+  {
+    "x": "$USA sees downgrade in earnings outlook by Jefferies",
+    "y": "0"
+  },
+  {
+    "x": "$USA's stock price targeted higher at $75 according to Morgan Stanley",
+    "y": "1"
+  },
+  {
+    "x": "Analysts maintain neutral stance on $USA, citing stable market conditions",
+    "y": "2"
+  },
+  {
+    "x": "$STML - Wall Street downgrades Stermlab's earnings outlook amid revenue concerns",
+    "y": "0"
+  },
+  {
+    "x": "Stermlab sees strong quarter beats; price target raised at Credit Suisse",
+    "y": "1"
+  },
+  {
+    "x": "Market analyst reports mixed performance for $STML in Q4 despite R&D investments",
+    "y": "2"
+  },
+  {
+    "x": "$ACST - analysts downgrade stock citing earnings miss",
+    "y": "0"
+  },
+  {
+    "x": "Acme Corp Beats Q4 Earnings Expectations, Raises FY Guidance",
+    "y": "1"
+  },
+  {
+    "x": "Research Report: ACST Stable with Slight Upside Potential",
+    "y": "2"
+  },
+  {
+    "x": "$MYOV - analysts downgrade the outlook as key trial results come up short",
+    "y": "0"
+  },
+  {
+    "x": "Moy Ventures sees robust growth in Q4, boosting $MYOV stock prices",
+    "y": "1"
+  },
+  {
+    "x": "Market trends remain stable; no significant changes expected for $MYOV in the coming months",
+    "y": "2"
+  },
+  {
+    "x": "$STNE - Stellentis Downgraded by Credit Suisse to Underperform",
+    "y": "0"
+  },
+  {
+    "x": "Stellentis Upbeat Q4 Results Drive Stock Higher; Analysts Upgrade Shares",
+    "y": "1"
+  },
+  {
+    "x": "Stellentis Reports Steady Sales in Q4, No Major Changes Expected",
+    "y": "2"
+  },
+  {
+    "x": "$MGTA - Morgan Stanley cuts price target on Meta to reflect slowdown in ad revenue growth",
+    "y": "0"
+  },
+  {
+    "x": "Meta stock surges as earnings beat expectations and outlook remains strong",
+    "y": "1"
+  },
+  {
+    "x": "Industry analyst releases neutral report on Meta, maintaining current price target",
+    "y": "2"
+  },
+  {
+    "x": "$PXLW - Pacific Rim Materials downgraded by JPMorgan Chase to underperform",
+    "y": "0"
+  },
+  {
+    "x": "Pacific Rim Materials sees price target raised to $35 at Morgan Stanley",
+    "y": "1"
+  },
+  {
+    "x": "Economic outlook prompts neutral view on PXLW; no significant changes expected in Q4",
+    "y": "2"
+  },
+  {
+    "x": "$YM - Moody\u2019s downgrade sparks sell-off; firm cites rising interest rates",
+    "y": "0"
+  },
+  {
+    "x": "$YM - Rating agency upgrade on improving financials fuels buy sentiment",
+    "y": "1"
+  },
+  {
+    "x": "$YM - Analysts release neutral view on outlook, citing balanced growth and risks",
+    "y": "2"
+  },
+  {
+    "x": "$WDAY - Wedge Laboratories downgraded by analysts at Jefferies to underperform",
+    "y": "0"
+  },
+  {
+    "x": "Wedgeworks Inc (WEDGE) and WEDAY see price targets cut by 15% at Credit Suisse, boosting sentiment for tech sector",
+    "y": "1"
+  },
+  {
+    "x": "$WDAY - Wedge Systems reports Q4 earnings beating estimates; maintains guidance",
+    "y": "2"
+  },
+  {
+    "x": "$ZUO - Credit Suisse cuts Zulily price target to $5",
+    "y": "0"
+  },
+  {
+    "x": "Zulily reports stronger-than-expected Q4 earnings; analysts upgrade shares",
+    "y": "1"
+  },
+  {
+    "x": "Zulily releases mixed results; maintains fiscal 2023 guidance, no significant changes",
+    "y": "2"
+  },
+  {
+    "x": "$RLGT - RL Global Technologies sees its price target cut to $5 by Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "RL Global Technologies announces strong Q4 earnings beating expectations",
+    "y": "1"
+  },
+  {
+    "x": "Market analysts remain neutral on RL Global Technologies with stable performance forecasts",
+    "y": "2"
+  },
+  {
+    "x": "$KOD cut to underperform by Jefferies; down 5% in premarket",
+    "y": "0"
+  },
+  {
+    "x": "Credit Suisse upgrades $KOD shares to outperform, boosting price target",
+    "y": "1"
+  },
+  {
+    "x": "Analysts neutral on $KOD after mixed Q3 results, no material changes expected",
+    "y": "2"
+  },
+  {
+    "x": "$IRM downgraded by Deutsche Bank as oil market faces challenging conditions",
+    "y": "0"
+  },
+  {
+    "x": "Oil major $IRM sees strong Q4 results, driving stock up and analyst upgrades",
+    "y": "1"
+  },
+  {
+    "x": "Industry analyst predicts stable outlook for $IRM in the coming months",
+    "y": "2"
+  },
+  {
+    "x": "$VRNS - VeriSilicon cut by Oppenheimer as China business drags",
+    "y": "0"
+  },
+  {
+    "x": "VeriSilicon sees optimism rise after Q4 earnings beat expectations",
+    "y": "1"
+  },
+  {
+    "x": "Market trends remain stable; VeriSilicon stock price targets unchanged",
+    "y": "2"
+  },
+  {
+    "x": "$HOLX - Wall Street cuts price target by 15% amid valuation concerns",
+    "y": "0"
+  },
+  {
+    "x": "Horizon Pharmaceuticals ($HOLX) sees strong Q4 results, upping analyst expectations",
+    "y": "1"
+  },
+  {
+    "x": "Horizon Pharmaceuticals releases mixed earnings; no significant upgrades or downgrades expected",
+    "y": "2"
+  },
+  {
+    "x": "$XOM sees downgrade as oil prices remain subdued - analysts at Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "Phillips 66 - $PSX upgrades XOM's stock outlook on strong refining margins, bullish (1)",
+    "y": "1"
+  },
+  {
+    "x": "XOM reports mixed Q2 results; analysts maintain neutral stance - FactSet research note",
+    "y": "2"
+  },
+  {
+    "x": "$PANW - Palo Alto Network's Q4 Results Fall Short of Analyst Estimates, Sends Stock Downward Pressure",
+    "y": "0"
+  },
+  {
+    "x": "Palo Alto Networks ($PANW) Sees Strong Demand in Security Services Sector, Outperforms Industry Average",
+    "y": "1"
+  },
+  {
+    "x": "Market Research Indicates Palo Alto Networks' ($PANW) Future Growth Projections Remain Stable Amid Economic Volatility",
+    "y": "2"
+  },
+  {
+    "x": "$AIKI - Analyst cuts AIKISoft stock price target to $25 from $35 at Jefferies",
+    "y": "0"
+  },
+  {
+    "x": "AIKISoft shares rise as earnings beat expectations, upgrading to Buy from Hold by Credit Suisse",
+    "y": "1"
+  },
+  {
+    "x": "Market trends suggest AIKI stock may face pressure next quarter due to economic slowdown concerns",
+    "y": "2"
+  },
+  {
+    "x": "$JPM downgraded by J.P. Morgan to underweight",
+    "y": "0"
+  },
+  {
+    "x": "JP Morgan raises $JPM price target to $150",
+    "y": "1"
+  },
+  {
+    "x": "JPM reports mixed Q4 results, analysts remain neutral",
+    "y": "2"
+  },
+  {
+    "x": "$PANW - Panwell sees downgrade as revenue forecasts miss expectations",
+    "y": "0"
+  },
+  {
+    "x": "Panwell upgrades its fiscal year outlook, sending $PANW stock soaring",
+    "y": "1"
+  },
+  {
+    "x": "Panwell reports quarterly earnings in line with estimates; no major changes to guidance",
+    "y": "2"
+  },
+  {
+    "x": "$SPY - Analysts at Morgan Stanley downgrade SPDR S&P 500 ETF to Underweight",
+    "y": "0"
+  },
+  {
+    "x": "$SPY - Upgrade seen in SPDR S&P 500 ETF as Market Trends Favor Tech and Growth Stocks",
+    "y": "1"
+  },
+  {
+    "x": "$SPY - No change in SPDR S&P 500 ETF outlook as market analysts maintain current projections",
+    "y": "2"
+  },
+  {
+    "x": "$PHR - Piper Sandler downgrades Pharos Therapeutics to Underweight",
+    "y": "0"
+  },
+  {
+    "x": "Pharos Therapeutics sees analyst upgrade from Citigroup on positive trial results",
+    "y": "1"
+  },
+  {
+    "x": "Pharos Therapeutics reports strong Q2 earnings, meeting analysts' expectations",
+    "y": "2"
+  },
+  {
+    "x": "$USO - Upgrades from Credit Suisse see the price target raised to $48.",
+    "y": "1"
+  },
+  {
+    "x": "Bearish outlook: Analysts at Morgan Stanley downgrade USO amid oil market concerns.",
+    "y": "0"
+  },
+  {
+    "x": "Neutral view: Goldman Sachs maintains a hold on USO with stable outlook despite recent volatility.",
+    "y": "2"
+  },
+  {
+    "x": "$GPS sees downgrade from Morgan Stanley to underweight",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs initiates GPS with a strong buy rating",
+    "y": "1"
+  },
+  {
+    "x": "Analysts at Barclays release neutral outlook for GPS amidst competitive pressures",
+    "y": "2"
+  },
+  {
+    "x": "$XLF - U.S. banks face pressure as Wells Fargo cuts ratings at Sandler O'Neill",
+    "y": "0"
+  },
+  {
+    "x": "$XLF - Analysts raise price target on XLF as economic recovery gains momentum",
+    "y": "1"
+  },
+  {
+    "x": "$XLF - Market performance stable, outlook neutral according to latest reports from Goldman Sachs",
+    "y": "2"
+  },
+  {
+    "x": "$TIF - Target downgrades Tupperware Brands by Key Street Analyst",
+    "y": "0"
+  },
+  {
+    "x": "Tupperware Brands $TIF - Sees Steady Growth in International Markets",
+    "y": "1"
+  },
+  {
+    "x": "Market Watch: $TIF Remains Stable with Positive Quarterly Reports",
+    "y": "2"
+  },
+  {
+    "x": "$DELL - Dell Technologies sees revenue guidance cut amid supply chain issues",
+    "y": "0"
+  },
+  {
+    "x": "$DELL - Analysts at Goldman Sachs upgrade Dell Technologies to Buy",
+    "y": "1"
+  },
+  {
+    "x": "$DELL - Dell Technologies reports strong Q4 earnings, beating analyst estimates",
+    "y": "2"
+  },
+  {
+    "x": "$NSC - Nova Specialty Companies downgraded by Jefferies; target price cut to $45 from $60",
+    "y": "0"
+  },
+  {
+    "x": "Nova Specialty Companies ($NSC) sees positive momentum with analysts forecasting strong Q4 performance",
+    "y": "1"
+  },
+  {
+    "x": "Market trends suggest steady growth for Nova Specialty Companies ($NSC), driven by diversified revenue streams",
+    "y": "2"
+  },
+  {
+    "x": "$ZYME - Zymeworks faces downgrade as key drug trial results miss expectations",
+    "y": "0"
+  },
+  {
+    "x": "ZYME + analyst raises price target for Zymeworks amid promising interim data from cancer therapy",
+    "y": "1"
+  },
+  {
+    "x": "Zymeworks Q3 earnings report met analysts' forecasts, maintaining positive outlook",
+    "y": "2"
+  },
+  {
+    "x": "$GDEN - Credit Suisse lowers price target on concerns over valuation",
+    "y": "0"
+  },
+  {
+    "x": "$GDEN sees strong Q3 results beat analysts' expectations",
+    "y": "1"
+  },
+  {
+    "x": "Market analyst reports neutral outlook for $GDEN citing mixed signals",
+    "y": "2"
+  },
+  {
+    "x": "$ACRGF - UBS downgrades shares to sell; cites valuation concerns",
+    "y": "0"
+  },
+  {
+    "x": "UBS upgrades ACRGF shares to buy: key growth drivers remain strong",
+    "y": "1"
+  },
+  {
+    "x": "Market trends indicate moderate improvement; investors keep an eye on ACRGF",
+    "y": "2"
+  },
+  {
+    "x": "$TAP - Piper Sandler cuts price target on Theravance Biopharma Inc. to $7",
+    "y": "0"
+  },
+  {
+    "x": "Theravance Biopharma Inc. (TAP) sees analysts at Wells Fargo raise 12-month target",
+    "y": "1"
+  },
+  {
+    "x": "$TAP - New market trends suggest modest growth for Theravance Biopharma in the near term",
+    "y": "2"
+  },
+  {
+    "x": "$PZZA - Piper Sandler cuts pizza chain\u2019s price target to $350 from $400",
+    "y": "0"
+  },
+  {
+    "x": "Pizza Hut parent company PZZA gets bullish reaction as Q4 earnings beat expectations",
+    "y": "1"
+  },
+  {
+    "x": "Market watchers maintain neutral stance on Papa John's stock, citing supply chain concerns",
+    "y": "2"
+  },
+  {
+    "x": "$PIXY - Piper Sandler lowers price target to $37",
+    "y": "0"
+  },
+  {
+    "x": "Piper Sandler maintains a bullish stance on $PIXY with a buy rating",
+    "y": "1"
+  },
+  {
+    "x": "Analysts at Jefferies report stable outlook for PIxyon despite short-term challenges",
+    "y": "2"
+  },
+  {
+    "x": "$MRNA downgraded by Morgan Stanley; target price cut to $45",
+    "y": "0"
+  },
+  {
+    "x": "Analysts at Goldman Sachs upgrade MRNA; new target price set at $60",
+    "y": "1"
+  },
+  {
+    "x": "MRNA reports Q3 earnings above expectations, reaffirming growth outlook",
+    "y": "2"
+  },
+  {
+    "x": "$MRK - Eli Lilly's stock downgraded by Morgan Stanley; targets cut to reflect earnings concerns",
+    "y": "0"
+  },
+  {
+    "x": "$MRK - Analysts at Goldman Sachs maintain bullish outlook on Eli Lilly amid vaccine development optimism",
+    "y": "1"
+  },
+  {
+    "x": "$MRK - No significant changes in Eli Lilly's market share as Pfizer's breakthrough vaccine continues to dominate the market, according to latest research from Bernstein",
+    "y": "2"
+  },
+  {
+    "x": "$COLL - Analysts at Morgan Stanley downgradeColl to Underweight amid declining revenue forecasts.",
+    "y": "0"
+  },
+  {
+    "x": "CollaborationCorp sees $COLL surge after positive trial results, price target raised to $50 by Goldman Sachs.",
+    "y": "1"
+  },
+  {
+    "x": "$COLL - Analysts remain neutral on the stock following mixed quarterly earnings report but see long-term potential.",
+    "y": "2"
+  },
+  {
+    "x": "$VRML - VR Markets Downgrades Shares, Cuts Price Target to $5 From $15",
+    "y": "0"
+  },
+  {
+    "x": "VR Markets Upgrades VRML Stock, Sees Strong Q4 Performance Ahead",
+    "y": "1"
+  },
+  {
+    "x": "Analysts Neutral on VRML: Outlook Remains Steady Despite Recent Gains",
+    "y": "2"
+  },
+  {
+    "x": "$DELL - Dell Technologies sees revenue miss expectations sending shares down 3% in pre-market",
+    "y": "0"
+  },
+  {
+    "x": "$DELL - Analysts at Morgan Stanley upgrade Dell Technologies to Overweight, citing strong enterprise demand",
+    "y": "1"
+  },
+  {
+    "x": "Dell Technologies reports Q4 earnings beating estimates, shares unchanged; no further guidance provided",
+    "y": "2"
+  },
+  {
+    "x": "$BHF sees price target cut by Credit Suisse to reflect concerns over interest rate hike impact",
+    "y": "0"
+  },
+  {
+    "x": "Barclays upgrades BHF stock to outperform, citing strong operational performance and positive market outlook",
+    "y": "1"
+  },
+  {
+    "x": "Analysts at Goldman Sachs maintain neutral stance on BHF, noting mixed signals from recent economic indicators",
+    "y": "2"
+  },
+  {
+    "x": "$PSX - Piper Sandler initiates coverage on Piercemen with an Overweight rating.",
+    "y": "1"
+  },
+  {
+    "x": "Piercemen ($PSX) misses Q4 earnings expectations, cuts guidance for 2023.",
+    "y": "0"
+  },
+  {
+    "x": "Piper Sandler reiterates its Equal Weight rating on Piercemen ($PSX).",
+    "y": "2"
+  },
+  {
+    "x": "$NTLA falls short of analysts' expectations; price target cut to $45",
+    "y": "0"
+  },
+  {
+    "x": "NTLA's Q3 results beat estimates, driving stock up 7.8% in after-hours trading",
+    "y": "1"
+  },
+  {
+    "x": "Market research firm highlights NTLA's strong clinical trial data; outlook remains positive",
+    "y": "2"
+  },
+  {
+    "x": "$ES - Price target cut by Credit Suisse to $35 from $40 amid growth concerns",
+    "y": "0"
+  },
+  {
+    "x": "SolarEdge Technologies ($ES) sees surge after strong Q1 earnings report",
+    "y": "1"
+  },
+  {
+    "x": "Market watchers await update on European supply chain for SolarEdge ($ES)",
+    "y": "2"
+  },
+  {
+    "x": "$XOM cut to underperform at RBC; analysts see persistent supply issues",
+    "y": "0"
+  },
+  {
+    "x": "S&P upgrades XOM following robust Q3 earnings report",
+    "y": "1"
+  },
+  {
+    "x": "XOM to host capital markets day providing updates on exploration initiatives",
+    "y": "2"
+  },
+  {
+    "x": "$BEVFF - analysts downgrade price target to $3.5 from $4.5",
+    "y": "0"
+  },
+  {
+    "x": "$BEVFF sees surge in Q3 earnings; stock rises 10%",
+    "y": "1"
+  },
+  {
+    "x": "MarketWatch reports stable sales for BEVFF, keeping current outlook",
+    "y": "2"
+  },
+  {
+    "x": "$NKE cut to hold at Morgan Stanley - analysts see limited upside",
+    "y": "0"
+  },
+  {
+    "x": "Nike Inc. (NKE) upgraded by Deutsche Bank - forecasted strong Q4 earnings",
+    "y": "1"
+  },
+  {
+    "x": "NKE's second-quarter results meet expectations - solid growth continues",
+    "y": "2"
+  },
+  {
+    "x": "$JPM - J.P. Morgan Chase sees cut in earnings estimates amid economic slowdown.",
+    "y": "0"
+  },
+  {
+    "x": "$JPM - Upgrade on J.P. Morgan Chase as positive outlook from Wells Fargo sparks buy interest.",
+    "y": "1"
+  },
+  {
+    "x": "J.P. Morgan Chase reports stronger-than-expected Q2 revenue, sending shares higher.",
+    "y": "2"
+  },
+  {
+    "x": "$COMDX - Commodity Price Cuts to Drag on Q4 Earnings Outlook According to Barclays",
+    "y": "0"
+  },
+  {
+    "x": "Commodities Giant $COMDX Sees Analysts Raise Long-Term Growth Estimates",
+    "y": "1"
+  },
+  {
+    "x": "Market Trends Suggest Moderate Gains for $COMDX in the Coming Months, Says Oppenheimer",
+    "y": "2"
+  },
+  {
+    "x": "$NSTG - Nanostellar's Q4 Results Fall Short of Analysts' Expectations",
+    "y": "0"
+  },
+  {
+    "x": "Nanostellar Upgrades $NSTG Stock with Strong Growth Potential in Nanotechnology Sector",
+    "y": "1"
+  },
+  {
+    "x": "Key Industry Report Indicates Steady Performance for $NSTG Despite Market Volatility",
+    "y": "2"
+  },
+  {
+    "x": "$XLF - Bank stocks see downgrades as earnings disappoint at major firms",
+    "y": "0"
+  },
+  {
+    "x": "$XLF - Analysts raise price target on select banks amid strong performance",
+    "y": "1"
+  },
+  {
+    "x": "$XLF - No significant changes in outlook for bank sector despite recent volatility",
+    "y": "2"
+  },
+  {
+    "x": "$EPR cut to underperform at Oppenheimer; firm sees slowing occupancy trends",
+    "y": "0"
+  },
+  {
+    "x": "EPR Properties upgraded by Barclays; target price hiked to $50 from $45",
+    "y": "1"
+  },
+  {
+    "x": "Oppenheimer releases neutral view on EPR Properties amid mixed Q3 results",
+    "y": "2"
+  },
+  {
+    "x": "$PHR cut price target by more than half; bears eye Q4 earnings with concern",
+    "y": "0"
+  },
+  {
+    "x": "Philip Morris International (PHR) upbeat Q3 results exceed analysts' forecasts",
+    "y": "1"
+  },
+  {
+    "x": "Market analyst\u4fdd\u6301\u4e2d\u7acb\u7acb\u573a\uff0cPhilip Morris International (PHR) \u4e0a\u5b63\u5ea6\u4e1a\u7ee9\u8868\u73b0\u5e73\u7a33\u4f46\u672a\u89c1\u60ca\u559c",
+    "y": "2"
+  },
+  {
+    "x": "$BOXL price target cut by Deutsche Bank to $4 from $6",
+    "y": "0"
+  },
+  {
+    "x": "Analysts at Goldman Sachs upgrade BOXL to buy",
+    "y": "1"
+  },
+  {
+    "x": "BOXL reports Q3 earnings above expectations, reaffirms guidance",
+    "y": "2"
+  },
+  {
+    "x": "$M - Morgan Stanley cuts price target on Apple to $180, reflecting lower revenue expectations",
+    "y": "0"
+  },
+  {
+    "x": "$M - Analysts at Goldman Sachs upgrade Microsoft shares to buy, citing strong cloud growth",
+    "y": "1"
+  },
+  {
+    "x": "$M - Market watchers report mixed earnings from multiple tech firms as Q4 comes to a close",
+    "y": "2"
+  },
+  {
+    "x": "$ES falls short on earnings as analysts cut ratings",
+    "y": "0"
+  },
+  {
+    "x": "Bank of America upgrades $ES, targets price to rise significantly",
+    "y": "1"
+  },
+  {
+    "x": "Key earnings report shows mixed results for $ES, keeping analysts neutral",
+    "y": "2"
+  },
+  {
+    "x": "$YEXT - Analyst cuts Yext price target amid concerns over growth prospects",
+    "y": "0"
+  },
+  {
+    "x": "Yext sees strong Q4 earnings beat expectations, boosts confidence in future outlook",
+    "y": "1"
+  },
+  {
+    "x": "Market trends show moderate gains for $YEXT as overall tech sector performs well",
+    "y": "2"
+  },
+  {
+    "x": "$ECONX - Downgraded by JPMorgan to 'Sell'",
+    "y": "0"
+  },
+  {
+    "x": "ECONX Q3 Earnings Beat Analysts' Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Market Watch: Stable Growth Outlook for $ECONX",
+    "y": "2"
+  },
+  {
+    "x": "$STE sees price target cut to $75 by Morgan Stanley,\u62d6\u7d2f\u540c\u4faa\u8868\u73b0",
+    "y": "0"
+  },
+  {
+    "x": "\u5206\u6790\u5e08\u4e0a\u8c03$STE\u8bc4\u7ea7\u81f3\u589e\u6301\uff0c\u80a1\u4ef7\u6500\u5347\u903e4%",
+    "y": "1"
+  },
+  {
+    "x": "\u516c\u53f8\u516c\u544a\u663e\u793a$STE\u7b2c\u4e09\u5b63\u5ea6\u4e1a\u7ee9\u7b26\u5408\u9884\u671f,\u7ef4\u6301\u5f53\u524d\u80a1\u606f\u653f\u7b56",
+    "y": "2"
+  },
+  {
+    "x": "$NNN - Nomad Logistics downgraded to Underperform at Jefferies",
+    "y": "0"
+  },
+  {
+    "x": "$NNN sees price target slashed by Credit Suisse to $60",
+    "y": "0"
+  },
+  {
+    "x": "Nomad Logistics reports quarterly earnings above expectations, sending shares up 5%",
+    "y": "1"
+  },
+  {
+    "x": "$TIF cut to underperform by Jefferies",
+    "y": "0"
+  },
+  {
+    "x": "Thrift\u6587\u5316\u548cIntrepid Financial sees TIF rising above resistance levels",
+    "y": "1"
+  },
+  {
+    "x": "Thrift Financial reports Q3 earnings beating expectations",
+    "y": "2"
+  },
+  {
+    "x": "$ECONX cut price target at Citigroup; sees challenges in global economic recovery",
+    "y": "0"
+  },
+  {
+    "x": "Analysts upgrade $ECONX shares as company posts strong Q4 earnings",
+    "y": "1"
+  },
+  {
+    "x": "Market trends signal mixed sentiment for ECONX amid economic uncertainties",
+    "y": "2"
+  },
+  {
+    "x": "$AAXN - Oppenheimer cuts price target to $65 amid supply chain concerns",
+    "y": "0"
+  },
+  {
+    "x": "AAXN sees Q4 revenue rise 15% beating analyst estimates, boosting stock",
+    "y": "1"
+  },
+  {
+    "x": "MarketWatch reports on mixed sentiment from investors regarding AAXN's future prospects",
+    "y": "2"
+  },
+  {
+    "x": "$WRK - Credit Suisse cuts Workday's price target to $140 from $165",
+    "y": "0"
+  },
+  {
+    "x": "Workday sees Q4 revenue above expectations as cloud services demand remains strong",
+    "y": "1"
+  },
+  {
+    "x": "Economic outlook for tech sector remains neutral; Workday and peers to monitor closely",
+    "y": "2"
+  },
+  {
+    "x": "$IVC - IVEC Corp shares are downgraded to underperform at Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "IVEC Corp receives a positive outlook with price target raised by Goldman Sachs",
+    "y": "1"
+  },
+  {
+    "x": "IVEC Corp Q3 earnings report meets expectations, maintaining steady growth trajectory",
+    "y": "2"
+  },
+  {
+    "x": "$ITCI downgraded by Credit Suisse as market risks rise",
+    "y": "0"
+  },
+  {
+    "x": "ITCI sees robust Q3 earnings, driving bulls higher",
+    "y": "1"
+  },
+  {
+    "x": "Analysts at J.P. Morgan maintain neutral view on ITCI prospects",
+    "y": "2"
+  },
+  {
+    "x": "$COMDX - Commodity Index Reaches New Low as Global Supply Concerns Persist",
+    "y": "0"
+  },
+  {
+    "x": "$COMDX - Goldman Sachs Raises Price Target to $500 amid Strong Demand Projections",
+    "y": "1"
+  },
+  {
+    "x": "$COMDX - Analysts Keep Neutral Outlook on Index, Expecting Seasonal Volatility",
+    "y": "2"
+  },
+  {
+    "x": "$WDAY - Wealthfront cuts WDAY stock price target to $245 from $300 citing slowing growth",
+    "y": "0"
+  },
+  {
+    "x": "Barclays upgrades WDAY to Overweight, expects accelerated revenue growth in enterprise SaaS market",
+    "y": "1"
+  },
+  {
+    "x": "WDAY reports Q1 earnings beating estimates, reaffirms full-year guidance",
+    "y": "2"
+  },
+  {
+    "x": "$PRTY - Piper Sandler initiates coverage with Underperform rating amid valuation concerns",
+    "y": "0"
+  },
+  {
+    "x": "$PRTY - Pitchford Securities raises price target to $50 as company's digital initiatives show promise",
+    "y": "1"
+  },
+  {
+    "x": "$PRTY - Q2 earnings miss expectations,\u4f46\u4ecd\u4fdd\u6301\u4e2d\u7acb\u89c2\u70b9\u7531\u4e8e\u957f\u671f\u589e\u957f\u6f5c\u529b\u672a\u53d8",
+    "y": "2"
+  },
+  {
+    "x": "$REGN - Regeneron Pharmaceuticals cut price target to $350 at Wedbush",
+    "y": "0"
+  },
+  {
+    "x": "Regeneron Pharmaceuticals sees strong Q4 results, Analysts raise price target to $425",
+    "y": "1"
+  },
+  {
+    "x": "Wedbush maintains neutral outlook on REGN after stable quarter earnings report",
+    "y": "2"
+  },
+  {
+    "x": "$NNN downgraded by Goldman Sachs to underperform",
+    "y": "0"
+  },
+  {
+    "x": "NNN reports strong Q4 earnings, sees positive outlook",
+    "y": "1"
+  },
+  {
+    "x": "Analysts remain neutral on NNN with stable growth forecasts",
+    "y": "2"
+  },
+  {
+    "x": "$GLD - Gold prices dip as dollar strength prompts downgrades by Goldman Sachs",
+    "y": "0"
+  },
+  {
+    "x": "$GLD - Goldman Sachs upgrades GLD due to expected increase in global demand",
+    "y": "1"
+  },
+  {
+    "x": "Goldman Sachs maintains neutral outlook on $GLD, citing stable gold market conditions",
+    "y": "2"
+  },
+  {
+    "x": "$HBAYF - Hibernia Bank sees revised earnings guidance as analyst downgrades Q4 outlook",
+    "y": "0"
+  },
+  {
+    "x": "Hibernia Bank ($HBAYF) announces strategic partnerships to boost digital banking services, earning positive reviews from analysts",
+    "y": "1"
+  },
+  {
+    "x": "Market research firm forecasts steady growth for $HBAYF despite current economic trends, suggesting neutral outlook",
+    "y": "2"
+  },
+  {
+    "x": "$BOXL - analysts cut price target to $3; downbeat Q4 forecast",
+    "y": "0"
+  },
+  {
+    "x": "BoxLogic sees surge in cloud storage subscriptions",
+    "y": "1"
+  },
+  {
+    "x": "Market watchers await BoxLogic earnings report this week",
+    "y": "2"
+  },
+  {
+    "x": "$CVX - Valero Energy cut guidance raises concerns over oil prices",
+    "y": "0"
+  },
+  {
+    "x": "$CVX sees price target raised by JPMorgan to $95, boosting investor confidence",
+    "y": "1"
+  },
+  {
+    "x": "Valero Energy (CVX) reports stable Q3 earnings, maintaining cautious outlook",
+    "y": "2"
+  },
+  {
+    "x": "$DAN sees price target cut to $50 at Jefferies - Bears remain cautious",
+    "y": "0"
+  },
+  {
+    "x": "Jefferies upgrades $DAN to Buy, setting a new price target of $65",
+    "y": "1"
+  },
+  {
+    "x": "Q2 earnings miss expectations; analysts remain neutral on $DAN",
+    "y": "2"
+  },
+  {
+    "x": "$UAA - US Airways parent cut price target by Barclays as concerns linger over debt",
+    "y": "0"
+  },
+  {
+    "x": "$UAA - US Airways parent gains on CEO's pledge to refinance short-term debt",
+    "y": "1"
+  },
+  {
+    "x": "US Airways parent $UAA reports slight improvement in Q4 earnings, but investors remain cautious",
+    "y": "2"
+  },
+  {
+    "x": "$VRNS - Virtual Brands slumps as bank downgrades stock",
+    "y": "0"
+  },
+  {
+    "x": "Virtual Brands Inc. shares rise following upgrade by Jefferies",
+    "y": "1"
+  },
+  {
+    "x": "VRNS - Market research suggests stable outlook for Virtual Brands despite economic headwinds",
+    "y": "2"
+  },
+  {
+    "x": "$SCANX - Credit Suisse downgrades ScanSource to Underperform",
+    "y": "0"
+  },
+  {
+    "x": "ScanSource announces strong Q3 earnings beating Wall Street estimates",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley maintains $SCANX at Hold as market trends remain volatile",
+    "y": "2"
+  },
+  {
+    "x": "$RGCO downgraded to hold by Oppenheimer as company faces operational challenges",
+    "y": "0"
+  },
+  {
+    "x": "Oppenheimer initiates $RGCO with an overweight rating, sees significant growth potential",
+    "y": "1"
+  },
+  {
+    "x": "Analysts maintain neutral outlook on $RGCO amid mixed earnings and market conditions",
+    "y": "2"
+  },
+  {
+    "x": "$SCANX hit with downgrade by Credit Suisse as market trends falter",
+    "y": "0"
+  },
+  {
+    "x": "Analysts at Morgan Stanley see $SCANX price target rise to $50 due to strong Q4 results",
+    "y": "1"
+  },
+  {
+    "x": "MarketWatch reports $SCANX earnings miss expectations but beat revenue forecasts for Q2",
+    "y": "2"
+  },
+  {
+    "x": "$JKHY - JinkoSolar shares fall after downgrades by Jefferies",
+    "y": "0"
+  },
+  {
+    "x": "$JKHY - Analyst raises price target on JinkoSolar amid strong module shipments",
+    "y": "1"
+  },
+  {
+    "x": "JinkoSolar releases Q3 results beating expectations, sees positive market outlook",
+    "y": "2"
+  },
+  {
+    "x": "$BA - Boeing sees decline in defense contract awards amid geopolitical tensions",
+    "y": "0"
+  },
+  {
+    "x": "Boeing reports robust earnings, sends $BA up 5% on strong civilian jet orders",
+    "y": "1"
+  },
+  {
+    "x": "Investment analysts remain neutral on $BA, citing mixed signals from global aviation markets",
+    "y": "2"
+  },
+  {
+    "x": "$SO slides as Credit Suisse downgrades outlook",
+    "y": "0"
+  },
+  {
+    "x": "$SO rises on strong Q4 earnings report",
+    "y": "1"
+  },
+  {
+    "x": "Credit Suisse maintains $SO price target at $50 amid stable outlook",
+    "y": "2"
+  },
+  {
+    "x": "$COMDX - Commodity Futures Downgraded by Goldman Sachs",
+    "y": "0"
+  },
+  {
+    "x": "$COMDX sees Strong Demand Spur Price Hikes",
+    "y": "1"
+  },
+  {
+    "x": "Commodity Markets Remain Stable amid Economic Uncertainty",
+    "y": "2"
+  },
+  {
+    "x": "$PACD - Pacific Dermatology's Q4 earnings miss expectations as revenue falls 15%.",
+    "y": "0"
+  },
+  {
+    "x": "Pacific Dermatology sees increased market share in skincare sector with new product line launch.",
+    "y": "1"
+  },
+  {
+    "x": "Pacific Dermatology report maintains current sales forecasts; investors advised to hold amid industry volatility.",
+    "y": "2"
+  },
+  {
+    "x": "$TIF cut to Hold by Jefferies",
+    "y": "0"
+  },
+  {
+    "x": "Targeted on $TIF: Analyst Raisese Price Target to $35 at Goldman Sachs",
+    "y": "1"
+  },
+  {
+    "x": "BofA Securities Maintains Neutral View on Tupperware Brands Corporation ($TIF)",
+    "y": "2"
+  },
+  {
+    "x": "$PLUG - Oppenheimer cuts price target to $25 amid concerns over revenue growth",
+    "y": "0"
+  },
+  {
+    "x": "PLUG sees a strong performance in the Q4 report, analysts at Barclays upgrade shares",
+    "y": "1"
+  },
+  {
+    "x": "Research firm Morgan Stanley issues neutral view on PLUG, expects volatility in near future",
+    "y": "2"
+  },
+  {
+    "x": "$JKS - JinkoSolar to be downgraded by Morningstar due to supply chain disruptions",
+    "y": "0"
+  },
+  {
+    "x": "JinkoSolar (JKS) sees strong Q3 growth amid global demand surge",
+    "y": "1"
+  },
+  {
+    "x": "Analysts maintain neutral stance on $JKS amidst fluctuating solar panel prices",
+    "y": "2"
+  },
+  {
+    "x": "$CAT gets downgraded by Citigroup as economic headwinds intensify",
+    "y": "0"
+  },
+  {
+    "x": "Bullish outlook: CITIC Capital sees strong potential in Caterpillar's international expansion",
+    "y": "1"
+  },
+  {
+    "x": "Caterpillar reports solid Q4 results, analysts maintain neutral stance on shares",
+    "y": "2"
+  },
+  {
+    "x": "$ABEO - Analyst cuts price target to $5 from $7; maintaining Hold",
+    "y": "0"
+  },
+  {
+    "x": "Biotech firm ABEO sees unexpected clinical trial success; up 3% in pre-market trading",
+    "y": "1"
+  },
+  {
+    "x": "ABEO earnings miss expectations, shares down 5%; revisiting industry outlook",
+    "y": "2"
+  },
+  {
+    "x": "$SRNE - Shares decline as Canaccord Genuity downgrades firm",
+    "y": "0"
+  },
+  {
+    "x": "SRNE - Goldman Sachs upgrades Starline Communications to Buy",
+    "y": "1"
+  },
+  {
+    "x": "Starline Communications (SRNE) reports mixed Q2 results, maintains revenue growth outlook",
+    "y": "2"
+  },
+  {
+    "x": "$MELI - Credit Suisse cuts price target on Mercado Libre to $75",
+    "y": "0"
+  },
+  {
+    "x": "Mercado Libre: Morgan Stanley upgrade drives shares up in early trading",
+    "y": "1"
+  },
+  {
+    "x": "Market trends suggest slowing growth for MELI as e-commerce faces competition",
+    "y": "2"
+  },
+  {
+    "x": "$MOH - Moody's downgrades debt rating for Midland Bank citing higher-than-expected loan defaults",
+    "y": "0"
+  },
+  {
+    "x": "Moody's upgrades $MOH credit outlook as Midland Bank reports robust performance and strong liquidity",
+    "y": "1"
+  },
+  {
+    "x": "Analysts remain neutral on $MOH, citing mixed results in Q3 financial report with key sectors performing differently",
+    "y": "2"
+  },
+  {
+    "x": "$OMC - Morgan Stanley cuts outlook on Occidental Petroleum amid supply concerns",
+    "y": "0"
+  },
+  {
+    "x": "Occidental Petroleum ($OMC) sees increased price targets from analysts",
+    "y": "1"
+  },
+  {
+    "x": "Occidental Petroleum ($OMC) reports strong Q3 earnings, stock up 5%",
+    "y": "2"
+  },
+  {
+    "x": "$MYOV - Oppenheimer downgrades shares to Underperform as concerns mount over clinical trials",
+    "y": "0"
+  },
+  {
+    "x": "$MYOV sees price target cut to $5 at Barclays, underscoring analyst cautious outlook",
+    "y": "1"
+  },
+  {
+    "x": "MYOV reports mixed Q4 results; sales up but R&D costs higher than expected",
+    "y": "2"
+  },
+  {
+    "x": "$EARN - Analyst cuts price target to $45; sees bearish outlook",
+    "y": "0"
+  },
+  {
+    "x": "$EARN + Morgan Stanley upgrades stock to Overweight; bullish on earnings potential",
+    "y": "1"
+  },
+  {
+    "x": "$EARN - Quarterly report misses estimates, but CEO optimistic about future growth prospects",
+    "y": "2"
+  },
+  {
+    "x": "$JPM - JPMorgan Chase downgrades its Q4 earnings forecast amid economic slowdown.",
+    "y": "0"
+  },
+  {
+    "x": "$JPM - Analysts at Morgan Stanley raise price target for JPMorgan Chase by 15% on strong loan growth.",
+    "y": "1"
+  },
+  {
+    "x": "$JPM - Industry experts suggest neutral stance on the stock, citing mixed market signals.",
+    "y": "2"
+  },
+  {
+    "x": "$WRK - Morgan Stanley downgrades stock to equal-weight, citing slower-than-expected growth.",
+    "y": "0"
+  },
+  {
+    "x": "Workday ($WRK) sees positive momentum as Q4 earnings beat expectations, driving share prices higher.",
+    "y": "1"
+  },
+  {
+    "x": "Quarterly earnings report for Workday ($WRK) shows steady performance with market analysts maintaining neutral stance.",
+    "y": "2"
+  },
+  {
+    "x": "$SUMRX - analysts cut price target to $45 from $60 citing operational concerns",
+    "y": "0"
+  },
+  {
+    "x": "$SUMRX sees strong Q3 results beat expectations on robust growth in oncology segment",
+    "y": "1"
+  },
+  {
+    "x": "Sumitomo Pharma releases new drug pipeline updates, receives positive feedback; market neutral reaction",
+    "y": "2"
+  },
+  {
+    "x": "$ICPT - Credit Suisse downgrades ICPE Systems to underperform",
+    "y": "0"
+  },
+  {
+    "x": "$ICPT - Goldman Sachs initiates coverage with buy rating",
+    "y": "1"
+  },
+  {
+    "x": "ICPE Systems reports Q4 earnings beat expectations",
+    "y": "2"
+  },
+  {
+    "x": "$PIXY - Piper Sandler cuts price target to $39; bearish on stock",
+    "y": "0"
+  },
+  {
+    "x": "$PIXY - Piper Sandler initiates coverage with overweight rating; bullish outlook",
+    "y": "1"
+  },
+  {
+    "x": "Piper Sandler maintains $45 price target for $PIXY; neutral stance",
+    "y": "2"
+  },
+  {
+    "x": "$COMDX - Credit Suisse downgrades commodity index to underperform",
+    "y": "0"
+  },
+  {
+    "x": "$COMDX - JPMorgan initiates coverage with overweight rating",
+    "y": "1"
+  },
+  {
+    "x": "$COMDX - Analysts from several firms maintain neutral outlook on the index",
+    "y": "2"
+  },
+  {
+    "x": "$CEI - Credit Suisse cuts CEI downgrades to sell, citing valuation concerns.",
+    "y": "0"
+  },
+  {
+    "x": "Credit Suisse upgrades $CEI to outperform, seeing strong market share growth potential.",
+    "y": "1"
+  },
+  {
+    "x": "MarketWatch reports mixed earnings for CEI, shares remain steady.",
+    "y": "2"
+  },
+  {
+    "x": "$SITC downgraded to underperform by Baird",
+    "y": "0"
+  },
+  {
+    "x": "SITC sees strong Q4 earnings beat expectations",
+    "y": "1"
+  },
+  {
+    "x": "Analysts at Citigroup maintain neutral stance on SITC's outlook",
+    "y": "2"
+  },
+  {
+    "x": "$TGE sees downgrade from Credit Suisse",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley upgrades $TGE shares to outperform",
+    "y": "1"
+  },
+  {
+    "x": "Tech giants report quarterly earnings; $TGE performance neutral",
+    "y": "2"
+  },
+  {
+    "x": "$TSM - Semiconductor firm cut growth outlook amid global slowdown",
+    "y": "0"
+  },
+  {
+    "x": "Taiwan Semiconductor Manufacturing Company sees robust demand driving up shares",
+    "y": "1"
+  },
+  {
+    "x": "Analysts remain neutral on $TSM following mixed Q3 earnings report",
+    "y": "2"
+  },
+  {
+    "x": "$SRNE - Sentimenata downgrades stock to market perform",
+    "y": "0"
+  },
+  {
+    "x": "Sentimenata raises $SRNE price target to $50",
+    "y": "1"
+  },
+  {
+    "x": "$SRNE reports mixed Q4 results, sees modest growth in next fiscal year",
+    "y": "2"
+  },
+  {
+    "x": "$EWW - European Equities Suffer as Economic Growth Concerns Persist",
+    "y": "0"
+  },
+  {
+    "x": "$EWW - Global Economy Expected to Strengthen in Q4, Analysts Say",
+    "y": "1"
+  },
+  {
+    "x": "European ETF $EWW Sees Stable Performance Amid Market Volatility",
+    "y": "2"
+  },
+  {
+    "x": "$ELY - Analyst cuts price target to $50; sees downside risk",
+    "y": "0"
+  },
+  {
+    "x": "$ELY - Report: Company's earnings beat expectations, boosting stock price",
+    "y": "1"
+  },
+  {
+    "x": "$ELY - No significant changes in outlook from Q2 financials release",
+    "y": "2"
+  },
+  {
+    "x": "$GDP - Analysts at J.P. Morgan downgrade GDP stocks citing economic headwinds.",
+    "y": "0"
+  },
+  {
+    "x": "Gross Domestic Product Inc (GDP) sees positive outlook with new growth estimates by Goldman Sachs.",
+    "y": "1"
+  },
+  {
+    "x": "No significant change in GDP expectations as market remains neutral on latest economic data releases.",
+    "y": "2"
+  },
+  {
+    "x": "$ZGNX - Oppenheimer cuts price target to $50",
+    "y": "0"
+  },
+  {
+    "x": "Zion Gospel Networks Inc sees robust Q4 performance amid strong user engagement",
+    "y": "1"
+  },
+  {
+    "x": "Market Trends: ZGNX remains stable with steady growth trajectory",
+    "y": "2"
+  },
+  {
+    "x": "$LK falls after Bearish Analyst Downgrades Stock to Sell",
+    "y": "0"
+  },
+  {
+    "x": "Barclays Initiates $LK with Bullish Buy Rating and Price Target at $50",
+    "y": "1"
+  },
+  {
+    "x": "LK Reports Mixed Q3 Results, Slightly Disappoints Market Expectations",
+    "y": "2"
+  },
+  {
+    "x": "$JCP sees downgrade from Morgan Stanley as retail struggles",
+    "y": "0"
+  },
+  {
+    "x": "Jeppesen Technologies Inc. $JCP gets a price target boost from Goldman Sachs",
+    "y": "1"
+  },
+  {
+    "x": "Analysts neutral on JCP following Q2 earnings report",
+    "y": "2"
+  },
+  {
+    "x": "$CAN slips as bank downgrades earnings outlook",
+    "y": "0"
+  },
+  {
+    "x": "Bank of America upgrades $CAN stock to outperform",
+    "y": "1"
+  },
+  {
+    "x": "Analysts remain neutral on $CAN, citing mixed signals",
+    "y": "2"
+  },
+  {
+    "x": "$DSKE - Deutsche Telekom downgraded by Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "Deutsche Telekom sees price targets cut at Barclays",
+    "y": "1"
+  },
+  {
+    "x": "Analysts remain neutral on $DSKE amid mixed market signals",
+    "y": "2"
+  },
+  {
+    "x": "$EVI - Evolve Payments sees price target cut at Oppenheimer to $36",
+    "y": "0"
+  },
+  {
+    "x": "Oppenheimer initiates coverage on Evolve Payments ($EVI) with an Outperform rating",
+    "y": "1"
+  },
+  {
+    "x": "Evolve Payments ($EVI) reports strong Q4 earnings, beating expectations",
+    "y": "2"
+  },
+  {
+    "x": "$TAP - Downgrade from Oppenheimer lowers expectations",
+    "y": "0"
+  },
+  {
+    "x": "$TAP sees steady growth in second quarter report",
+    "y": "1"
+  },
+  {
+    "x": "Market trends suggest $TAP poised for moderate gains this week",
+    "y": "2"
+  },
+  {
+    "x": "$YEXT - Analysts cut price target on Yext Inc., citing competitive pressures",
+    "y": "0"
+  },
+  {
+    "x": "Yext Inc. ($YEXT) sees upgrade as earnings beat expectations and guidance raised",
+    "y": "1"
+  },
+  {
+    "x": "Yext Inc. reports mixed Q4 results, sending shares lower amid concerns over growth",
+    "y": "2"
+  },
+  {
+    "x": "$IEA - IEA Cuts Global Oil Demand Projections Leading to Lower Prices",
+    "y": "0"
+  },
+  {
+    "x": "$IEA - IEA Report Positive on Future of Renewable Energy in Major Economies",
+    "y": "1"
+  },
+  {
+    "x": "IEA Releases Latest Market Trends and Outlooks",
+    "y": "2"
+  },
+  {
+    "x": "$APLS - Analyst cuts price target to $150 from $180 at Goldman Sachs; bearish outlook",
+    "y": "0"
+  },
+  {
+    "x": "$APLS - Q4 earnings beat expectations, driving shares up 7%; analysts upgrade stock",
+    "y": "1"
+  },
+  {
+    "x": "$APLS - Market trends suggest slow growth for technology sector; neutral view on APLS",
+    "y": "2"
+  },
+  {
+    "x": "$AUDC - Analysts downgrade AUDC stock targets amid slower-than-expected adoption",
+    "y": "0"
+  },
+  {
+    "x": "$AUDC - Strong Q4 earnings boost AUDC stock price, analysts say",
+    "y": "1"
+  },
+  {
+    "x": "$AUDC - Market remains neutral on AUDC as industry trends show mixed signals",
+    "y": "2"
+  },
+  {
+    "x": "$GATX - Analyst at Baird cuts price target to $50 from $60",
+    "y": "0"
+  },
+  {
+    "x": "GATX reports stronger-than-expected Q4 earnings beating Wall Street estimates",
+    "y": "1"
+  },
+  {
+    "x": "GATX - Industry trends show modest recovery in capital expenditures, analyst says",
+    "y": "2"
+  },
+  {
+    "x": "$SCANX downgraded to underperform at Oppenheimer - bearish outlook",
+    "y": "0"
+  },
+  {
+    "x": " SCANX sees robust Q3 earnings growth - Analysts bullish on future prospects",
+    "y": "1"
+  },
+  {
+    "x": " Market trends unchanged for $SCANX as analyst releases neutral report",
+    "y": "2"
+  },
+  {
+    "x": "$ACST - Analyst cuts price target after concerns over earnings outlook",
+    "y": "0"
+  },
+  {
+    "x": "$ACST - Strong Q3 results drive up shares, analysts upgrade to buy",
+    "y": "1"
+  },
+  {
+    "x": "Market analyst neutral on $ACST in Q4 forecast despite recent gains",
+    "y": "2"
+  },
+  {
+    "x": "$MTH - Piper Sandler downgrades MicroStrategy to Underperform",
+    "y": "0"
+  },
+  {
+    "x": "MicroStrategy's Q4 earnings beat analyst expectations, boosting stock price",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley keeps $MTH - MicroStrategy share price target steady at $250",
+    "y": "2"
+  },
+  {
+    "x": "$SITC downgraded by Citigroup as market concerns persist",
+    "y": "0"
+  },
+  {
+    "x": "Storax Inc. $SITC sees upgrade at JPMorgan, signals strong growth potential",
+    "y": "1"
+  },
+  {
+    "x": "Citigroup's report on $SITC remains neutral, highlighting stable performance",
+    "y": "2"
+  },
+  {
+    "x": "$AMTD sees price target cut to $50 by Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley upgrades $AMTD shares to Overweight",
+    "y": "1"
+  },
+  {
+    "x": "Amherst PacWest Bancshares reports $AMTD Q2 earnings beat estimates",
+    "y": "2"
+  },
+  {
+    "x": "$UNFI - Analyst cuts price target to $75; sees struggles ahead",
+    "y": "0"
+  },
+  {
+    "x": "Unicorn Foods Inc ($UNFI) - Goldman Sachs upgrades shares to Buy",
+    "y": "1"
+  },
+  {
+    "x": "Analysts maintain neutral view on UNFI amid supply chain challenges",
+    "y": "2"
+  },
+  {
+    "x": "$TAP - Moody's revises down outlook for Tap Industries citing supply chain disruptions",
+    "y": "0"
+  },
+  {
+    "x": "Tap Industries to expand European operations, sees revenue growth in Q4",
+    "y": "1"
+  },
+  {
+    "x": "Market analysts remain neutral on $TAP as earnings season approaches with cautious expectations",
+    "y": "2"
+  },
+  {
+    "x": "$XAUUSD - Gold price cut to $1750 by Goldman Sachs amid recession fears",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs upgrades $XAUUSD outlook as geopolitical tensions increase",
+    "y": "1"
+  },
+  {
+    "x": "Global gold demand stable, supports $XAUUSD at current levels according to Oppenheimer",
+    "y": "2"
+  },
+  {
+    "x": "$CMD - Credit Suisse cuts price target on concerns over revenue growth prospects",
+    "y": "0"
+  },
+  {
+    "x": "Moderna $CMD shares climb as top vaccine candidate shows promising data in Phase III trials",
+    "y": "1"
+  },
+  {
+    "x": "Cmd Pharmaceuticals sees first-quarter results miss analysts' expectations",
+    "y": "2"
+  },
+  {
+    "x": "$TIF - Tupperware Brands Downgraded to Underperform by Jefferies",
+    "y": "0"
+  },
+  {
+    "x": "Tupperware Brands Sees Stronger-than-Expected Q4 Results, Cuts Shares $0.25 Above Consensus at Deutsche Bank",
+    "y": "1"
+  },
+  {
+    "x": "Tupperware Holdings Reports Stable Q3 Earnings; Analysts Maintain Hold Rating",
+    "y": "2"
+  },
+  {
+    "x": "$KOD - Morgan Stanley downgrades shares to Underperform",
+    "y": "0"
+  },
+  {
+    "x": "KeyCorp analyst keeps $KOD at Outperform, targets $5.00 per share",
+    "y": "1"
+  },
+  {
+    "x": "MarketWatch reports $KOD's Q3 earnings beat expectations, revenue up 8%",
+    "y": "2"
+  },
+  {
+    "x": "$SPY - Downgrades by Wells Fargo Spark Concerns Over Market Performance",
+    "y": "0"
+  },
+  {
+    "x": "$SPY - Analysts at JPMorgan Raise Price Target to $455, Outperform Rating Confirms Bullish Outlook",
+    "y": "1"
+  },
+  {
+    "x": "$SPY - Earnings Release Yields Mixed Results but Overall Positive for Market Trends",
+    "y": "2"
+  },
+  {
+    "x": "$ZIOP - ZIOP Health sees downgrade as analyst cites rising competition",
+    "y": "0"
+  },
+  {
+    "x": "$ZIOP - Analyst upgrades ZIOP Health, citing strong pipeline developments",
+    "y": "1"
+  },
+  {
+    "x": "Market trends suggest modest growth for biotech stocks like $ZIOP in Q4",
+    "y": "2"
+  },
+  {
+    "x": "$WDAY - analysts downgrade shares citing slowing software revenue",
+    "y": "0"
+  },
+  {
+    "x": "Wedbush upgrades WDAY to outperform, sees strong growth potential in enterprise sales",
+    "y": "1"
+  },
+  {
+    "x": "MarketWatch reports WDAY Q3 results meet expectations with steady performance",
+    "y": "2"
+  },
+  {
+    "x": "$SO drops after Citigroup cuts earnings outlook",
+    "y": "0"
+  },
+  {
+    "x": "S&P Global reports strong Q4 results, analysts upgrade $SO stock",
+    "y": "1"
+  },
+  {
+    "x": "Market trends stable; no significant changes for $SO",
+    "y": "2"
+  },
+  {
+    "x": "$HCHC gets downgrade from Goldman Sachs to sell",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs upgrades $HCHC on strong quarter",
+    "y": "1"
+  },
+  {
+    "x": "HCHC announces CEO change; market reaction neutral",
+    "y": "2"
+  },
+  {
+    "x": "$TAP - UBS downgrades Tupperware Brands to neutral; cites slowing consumer spending",
+    "y": "0"
+  },
+  {
+    "x": "Tupperware Brands $TAP - upgraded by Jefferies; expects robust growth in emerging markets",
+    "y": "1"
+  },
+  {
+    "x": "Market analyst reports $TAP - Tupperware Brands performance neutral for Q4, consistent with expectations",
+    "y": "2"
+  },
+  {
+    "x": "$SPY - Goldman Sachs downgrades ETF to sell",
+    "y": "0"
+  },
+  {
+    "x": "$SPY - Analysts at JPMorgan raise price target",
+    "y": "1"
+  },
+  {
+    "x": "$SPY - Market experts see muted performance ahead",
+    "y": "2"
+  },
+  {
+    "x": "$ENOB - Analyst downgrades ENOC Energy's shares to underperform",
+    "y": "0"
+  },
+  {
+    "x": "$ENOB - Oppenheimer initiates coverage with price target of $35 per share",
+    "y": "1"
+  },
+  {
+    "x": "ENOC Energy releases Q2 earnings beating expectations, sees positive market reaction",
+    "y": "2"
+  },
+  {
+    "x": "$F slips as Jefferies cuts outlook due to auto industry slowdown",
+    "y": "0"
+  },
+  {
+    "x": "Ford $F sees analysts upgrade amid expectations of model lineup improvements",
+    "y": "1"
+  },
+  {
+    "x": "Ford $F reports steady Q3 earnings, maintains year-end guidance despite supply chain challenges",
+    "y": "2"
+  },
+  {
+    "x": "$GDP - Analysts downgrade Q4 growth outlook amid economic headwinds",
+    "y": "0"
+  },
+  {
+    "x": "Global economy expected to rebound in 2023, according to latest GDP report",
+    "y": "1"
+  },
+  {
+    "x": "No significant changes in GDP forecasts as markets remain stable",
+    "y": "2"
+  },
+  {
+    "x": "$TSLA - Wedbush downgrades Tesla to underperform; cuts price target to $65",
+    "y": "0"
+  },
+  {
+    "x": "$TSLA - Morgan Stanley upgrades Tesla to overweight amid production recovery expectations",
+    "y": "1"
+  },
+  {
+    "x": "$TSLA - Analysts remain split on the stock's performance outlook for Q4",
+    "y": "2"
+  },
+  {
+    "x": "$ES falls short in Q3 as revenue misses expectations",
+    "y": "0"
+  },
+  {
+    "x": "ES upgrades $ES shares to outperform, citing strong growth prospects",
+    "y": "1"
+  },
+  {
+    "x": "Analysts maintain neutral outlook on $ES amid stable financial performance",
+    "y": "2"
+  },
+  {
+    "x": "$SRNE - Square Photonics sees revenue guidance cut by Cowen",
+    "y": "0"
+  },
+  {
+    "x": "Square Photonics stock soars as Q4 earnings beat analyst projections at $SRNE",
+    "y": "1"
+  },
+  {
+    "x": "Analysts remain neutral on SRNE, citing mixed signals in the tech sector",
+    "y": "2"
+  },
+  {
+    "x": "$ECONX - Credit Suisse cuts price target to $50; sees slower-than-expected growth",
+    "y": "0"
+  },
+  {
+    "x": "$ECONX - Goldman Sachs upgrades stock to Buy with a price target of $65",
+    "y": "1"
+  },
+  {
+    "x": "$ECONX - Q4 earnings meet expectations, maintaining steady market share in key regions",
+    "y": "2"
+  },
+  {
+    "x": "$LPX - Credit Suisse lowers LPX price target to $5.50 amid growth concerns.",
+    "y": "0"
+  },
+  {
+    "x": "LPx sees strong Q3 performance with record earnings exceeding expectations, boosting investor confidence.",
+    "y": "1"
+  },
+  {
+    "x": "Market analyst suggests neutral stance on $LPX, citing mixed signals from current market trends and company operations.",
+    "y": "2"
+  },
+  {
+    "x": "$ATRO - Analysis: Analyst cuts price target on ATRO Tech amid revenue concerns",
+    "y": "0"
+  },
+  {
+    "x": "ATRO Tech sees robust Q3 earnings beat expectations, sends share price higher",
+    "y": "1"
+  },
+  {
+    "x": "Market Trends: ATRO Tech stock remains stable with economic outlook cautious",
+    "y": "2"
+  },
+  {
+    "x": "$HAS - Hasbro shares trimmed at Deutsche Bank; cut to Hold",
+    "y": "0"
+  },
+  {
+    "x": "$HAS + Hasbro sees improved profit outlook, boosts stock price",
+    "y": "1"
+  },
+  {
+    "x": "$HAS - Analysts maintain neutral stance on Hasbro's quarterly earnings report",
+    "y": "2"
+  },
+  {
+    "x": "$SCANX - Morgan Stanley downgrades shares to Underweight",
+    "y": "0"
+  },
+  {
+    "x": " SCANX - Q4 earnings beat expectations, drives share price higher",
+    "y": "1"
+  },
+  {
+    "x": "Market trends - Analysts maintain neutral outlook on $SCANX amid economic uncertainties",
+    "y": "2"
+  },
+  {
+    "x": "$HAS - Hasbro cut by Jefferies to Underperform as Holiday Toy Sales Disappoint",
+    "y": "0"
+  },
+  {
+    "x": "Hasbro sees stronger-than-expected earnings, analysts raise $HAS price target",
+    "y": "1"
+  },
+  {
+    "x": "Hasbro reports stable Q4 performance; no changes in outlook announced",
+    "y": "2"
+  },
+  {
+    "x": "$HON - Horizon Lines misses Q4 earnings targets; price target cut to $35 by Citigroup",
+    "y": "0"
+  },
+  {
+    "x": "Horizon Lines sees strong growth in container shipping market driving stock up 12% on robust demand forecasts",
+    "y": "1"
+  },
+  {
+    "x": "Horizon Lines reports quarterly profits align with expectations; analyst maintains hold rating",
+    "y": "2"
+  },
+  {
+    "x": "$XLE - Analyst downgrades energy sector due to supply chain issues",
+    "y": "0"
+  },
+  {
+    "x": "Upbeat forecast drives $XLE stock price higher as oil demand rebounds",
+    "y": "1"
+  },
+  {
+    "x": "No significant changes in outlook for $XLE despite recent market volatility",
+    "y": "2"
+  },
+  {
+    "x": "$NSTG - Analyst downgrades shares citing supply chain issues",
+    "y": "0"
+  },
+  {
+    "x": "Nestl\u00e9 SA sees strong quarter as demand for healthy foods surges",
+    "y": "1"
+  },
+  {
+    "x": "NSTG - Q3 earnings miss expectations, causing share price to dip slightly",
+    "y": "2"
+  },
+  {
+    "x": "$RHHBY - Raymond James cuts price target on Robo-Advisory firm to $36",
+    "y": "0"
+  },
+  {
+    "x": "Robo-Advisory leader Rhythm and Hues sees strong second-quarter growth, analyst notes",
+    "y": "1"
+  },
+  {
+    "x": "Rhythm and Hues Technologies reports flat Q4 earnings; revenue misses expectations",
+    "y": "2"
+  },
+  {
+    "x": "$EWW - European equity fund downgraded by JPMorgan due to economic concerns",
+    "y": "0"
+  },
+  {
+    "x": "European equity ETF $EWW sees positive outlook as pan-European economies show recovery signs",
+    "y": "1"
+  },
+  {
+    "x": "Analysts maintain neutral stance on $EWW, citing mixed performance in key sectors",
+    "y": "2"
+  },
+  {
+    "x": "$CVX - Citgo cuts dividend: Analysts at Goldman Sachs downgrade CVX shares",
+    "y": "0"
+  },
+  {
+    "x": "Citadel Securities initiates $CVX with a price target of $75, bullish on the company\u2019s upstream operations",
+    "y": "1"
+  },
+  {
+    "x": "$CVX remains steady amid oil prices; neutral outlook from JPMorgan",
+    "y": "2"
+  },
+  {
+    "x": "$GPS - Goldman Sachs initiates GPS with a 'sell' rating after revenue miss",
+    "y": "0"
+  },
+  {
+    "x": "$GPS - Cowen upgrades GPS to Outperform on strong growth outlook",
+    "y": "1"
+  },
+  {
+    "x": "Garmin reports fiscal Q4 earnings beat estimates, maintains positive forecast",
+    "y": "2"
+  },
+  {
+    "x": "$CVX sees downgrade from Oppenheimer; target cut to $35",
+    "y": "0"
+  },
+  {
+    "x": "RBC upgrades CVX, expects stronger-than-expected earnings in Q4",
+    "y": "1"
+  },
+  {
+    "x": "Market trends suggest slow growth for energy sector, including CVX",
+    "y": "2"
+  },
+  {
+    "x": "$BURL downgraded by Morgan Stanley; target price slashed to $35.",
+    "y": "0"
+  },
+  {
+    "x": "Analysts at Goldman Sachs upgrade BURL: stock seen hitting $45 by Q1 next year.",
+    "y": "1"
+  },
+  {
+    "x": "No significant changes for BURL as Oppenheimer maintains its current rating and price target.",
+    "y": "2"
+  },
+  {
+    "x": "$PGNY - Deutsche Bank downgrades Procter & Gamble to Hold",
+    "y": "0"
+  },
+  {
+    "x": "Procter & Gamble and Unilever both see higher price targets at Citi",
+    "y": "1"
+  },
+  {
+    "x": "Procter & Gamble reports strong Q4 earnings, beating estimates",
+    "y": "2"
+  },
+  {
+    "x": "$TIF - Tupperware Brands downgrade seen as a setback for earnings expectations",
+    "y": "0"
+  },
+  {
+    "x": "Citigroup upgrades $TIF to buy, citing strong international growth potential",
+    "y": "1"
+  },
+  {
+    "x": "New quarterly results from Tupperware bring neutral reaction from investors",
+    "y": "2"
+  },
+  {
+    "x": "$AMZN - Amazon's cloud business faces headwinds, according to JPMorgan.",
+    "y": "0"
+  },
+  {
+    "x": "$AMZN sees earnings beat expectations, driving Wall Street to new highs.",
+    "y": "1"
+  },
+  {
+    "x": "J.P. Morgan maintains $AMZN at current levels amid stable market outlook.",
+    "y": "2"
+  },
+  {
+    "x": "$SITC - Credit Suisse downgrades Sitc Inc., cites slowing growth",
+    "y": "0"
+  },
+  {
+    "x": "Sitc Inc. sees strong Q3 performance; Bernstein upgrades stock",
+    "y": "1"
+  },
+  {
+    "x": "Market Watch reports mixed outlook for $SITC amid economic uncertainties",
+    "y": "2"
+  },
+  {
+    "x": "$CVX - Citgo Petroleum Corp sees Citi downgrade stock to neutral amid production concerns.",
+    "y": "2"
+  },
+  {
+    "x": "$CVX - Credit Suisse upgrades CVX shares and raises price target to $105.",
+    "y": "1"
+  },
+  {
+    "x": "$CVX - Analysts at BofA Merrill Lynch maintain current outlook for Chevron, noting stable demand trends but cautioning on production uncertainties.",
+    "y": "0"
+  },
+  {
+    "x": "$GATX - JPMorgan cuts price target to $50 amid industry headwinds",
+    "y": "0"
+  },
+  {
+    "x": "$GATX sees strong Q3 results boost shares, Morgan Stanley upgrades",
+    "y": "1"
+  },
+  {
+    "x": "Q2 earnings largely meet expectations for GATX; overall market remains steady",
+    "y": "2"
+  },
+  {
+    "x": "$SUMRX - analysts downgrade Sumitomo Life Insurance target price at Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "Sumitomo Life Insurance sees strong Q3 results, boosting stock prices",
+    "y": "1"
+  },
+  {
+    "x": "SUMRX - upcoming earnings to be released on Thursday; no major expectations shifts expected",
+    "y": "2"
+  },
+  {
+    "x": "$ICPT - Analyst downgrades shares to Perform vs Hold citing valuation concerns",
+    "y": "0"
+  },
+  {
+    "x": "Investment firm Morgan Stanley upgrades ICPT to Overweight with a $50 price target",
+    "y": "1"
+  },
+  {
+    "x": "ICPT reports stronger-than-expected Q3 earnings, signaling positive future outlook",
+    "y": "2"
+  },
+  {
+    "x": "$NVDA - Analysts at Barclays downgrade NVIDIA's price target by 15% citing supply chain concerns.",
+    "y": "0"
+  },
+  {
+    "x": "NVIDIA shares surge after Q4 earnings beat Wall Street estimates, driving stock up 7%",
+    "y": "1"
+  },
+  {
+    "x": "MarketWatch reports that NVIDIA launches new GPU line, potentially boosting third-quarter revenues",
+    "y": "2"
+  },
+  {
+    "x": "$URBN downgraded to underperform by Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "UBER shares rise as analysts at Barclays hike price target",
+    "y": "1"
+  },
+  {
+    "x": "Urban Outfitters reports stronger-than-expected Q4 results, driving market interest",
+    "y": "2"
+  },
+  {
+    "x": "$AN drops sharply as Deutsche Bank downgrades the stock",
+    "y": "0"
+  },
+  {
+    "x": "Deutsche Bank upgrades $AN, highlighting strong Q4 performance",
+    "y": "1"
+  },
+  {
+    "x": "Analysts maintain neutral outlook on $AN, citing mixed earnings report",
+    "y": "2"
+  },
+  {
+    "x": "$XAUUSD - Analysts downgrade gold prices amid slowing global growth concerns.",
+    "y": "0"
+  },
+  {
+    "x": "$XAUUSD - Strong demand for physical gold in India boosts prices according to Citigroup.",
+    "y": "1"
+  },
+  {
+    "x": "$XAUUSD - Gold price stable as inflation remains a key concern, says Morgan Stanley.",
+    "y": "2"
+  },
+  {
+    "x": "$VRML - Virta Metals downgraded by JPMorgan",
+    "y": "0"
+  },
+  {
+    "x": "Virta Metals sees price target raised to $5 at BNP Paribas",
+    "y": "1"
+  },
+  {
+    "x": "Analysts from Morgan Stanley release neutral report on Virta Metals' Q3 results",
+    "y": "2"
+  },
+  {
+    "x": "$SPY - Analysts at Merrill Lynch downgrade SPY to underperform",
+    "y": "0"
+  },
+  {
+    "x": "$SPY - Bank of America raises price target on SPY to $475",
+    "y": "1"
+  },
+  {
+    "x": "Overall market trend shows SPY moving upward this week, but analysts remain cautious",
+    "y": "2"
+  },
+  {
+    "x": "$RF - Credit Suisse downgrades rating on Roku to neutral",
+    "y": "0"
+  },
+  {
+    "x": "$RF - Analyst at Deutsche Bank upgrades Roku's price target to $95",
+    "y": "1"
+  },
+  {
+    "x": "Roku reports stronger-than-expected Q2 earnings; market reactions mixed",
+    "y": "2"
+  },
+  {
+    "x": "$PRTY - Credit Suisse cuts price target to $35 from $45; maintains sell rating.",
+    "y": "0"
+  },
+  {
+    "x": "$PRTY - Goldman Sachs upgrades stock to buy with a target price of $50.",
+    "y": "1"
+  },
+  {
+    "x": "$PRTY - Quarterly earnings miss expectations, prompting management review.",
+    "y": "2"
+  },
+  {
+    "x": "$PHCEF cut price target at UBS to reflect ongoing supply chain issues",
+    "y": "0"
+  },
+  {
+    "x": "UBS upgrades $PHCEF on robust fourth-quarter earnings despite macroeconomic challenges",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley maintains neutral outlook on $PHCEF, citing stable performance amid industry volatility",
+    "y": "2"
+  },
+  {
+    "x": "$MESA downgraded by Baird to Underperform",
+    "y": "0"
+  },
+  {
+    "x": "Analysts at Deutsche Bank raise price target on $MESA to $57",
+    "y": "1"
+  },
+  {
+    "x": "Mesa Laboratories reports strong Q4 results, beats estimates",
+    "y": "2"
+  },
+  {
+    "x": "$MRK - Shares dip after GlaxoSmithKline faces criticism over its tax practices.",
+    "y": "0"
+  },
+  {
+    "x": "GlaxoSmithKline ($MRK) reports strong Q4 earnings, boosting investor confidence.",
+    "y": "1"
+  },
+  {
+    "x": "Investment firm J.P. Morgan maintains $MRK at neutral with stable outlook amid ongoing vaccine development challenges.",
+    "y": "2"
+  },
+  {
+    "x": "$ANGO sees significant downgrade as analysts forecast weaker-than-expected growth",
+    "y": "0"
+  },
+  {
+    "x": "Ango Labs Upgraded by Goldman Sachs on Strong Q3 Financials and Positive Outlook",
+    "y": "1"
+  },
+  {
+    "x": "Ango Labs\u2019 Stock Remains Steady Amid Industry Volatility, Analysts Maintain Neutral View",
+    "y": "2"
+  },
+  {
+    "x": "$CC falls short on earnings; analysts cut ratings",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs upgrades $CC's stock outlook",
+    "y": "1"
+  },
+  {
+    "x": "Market analysts expect stable performance from $CC in Q4",
+    "y": "2"
+  },
+  {
+    "x": "$ELY to see price target cut by analysts at Credit Suisse",
+    "y": "0"
+  },
+  {
+    "x": "Ely Lilly reports strong Q4 earnings, sees positive outlook",
+    "y": "1"
+  },
+  {
+    "x": "Market trends show mixed performance for $ELY amid economic uncertainty",
+    "y": "2"
+  },
+  {
+    "x": "$MRK - Johnson & Johnson sees revenue outlook cut amid pandemic uncertainties",
+    "y": "0"
+  },
+  {
+    "x": "$MRK - Wall Street analysts upgrade Johnson & Johnson's vaccine stock on expected higher sales",
+    "y": "1"
+  },
+  {
+    "x": "$MRK - Morgan Stanley issues neutral outlook for Johnson & Johnson as market uncertainty persists",
+    "y": "2"
+  },
+  {
+    "x": "$SO slips as JPMorgan cuts price target to $50",
+    "y": "0"
+  },
+  {
+    "x": "SolarEdge (SO) shares surge after strong Q4 results exceed expectations",
+    "y": "1"
+  },
+  {
+    "x": "Market analyst maintains SO at neutral with stable outlook for the quarter ahead",
+    "y": "2"
+  },
+  {
+    "x": "$KOD - Analyst downgrades shares to sell at Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "Kodak's quarter results exceed expectations, bulls push stock higher",
+    "y": "1"
+  },
+  {
+    "x": "Market neutral: Kodak announces partnership with tech giants for new imaging solutions",
+    "y": "2"
+  },
+  {
+    "x": "$KTOS - Analyst downgrades KTOS to sell as profit warnings rattle investors",
+    "y": "0"
+  },
+  {
+    "x": "KTOS +4% after company reports stronger-than-expected Q3 results",
+    "y": "1"
+  },
+  {
+    "x": "Market trends point to moderate gains, with $KTOS seeing slight upward pressure from supply chain improvements",
+    "y": "2"
+  },
+  {
+    "x": "$VZ - Verizon cut by Oppenheimer due to subscriber losses",
+    "y": "0"
+  },
+  {
+    "x": "Oppenheimer raises price target on $VZ after network upgrade",
+    "y": "1"
+  },
+  {
+    "x": "Verizon reports strong Q4 earnings, maintaining positive outlook",
+    "y": "2"
+  },
+  {
+    "x": "$CC sees analyst downgrade after profit warnings",
+    "y": "0"
+  },
+  {
+    "x": "Jefferies boosts price target on $CC amid growth optimism",
+    "y": "1"
+  },
+  {
+    "x": "MarketWatch reports steady earnings for $CC this quarter",
+    "y": "2"
+  },
+  {
+    "x": "$ECONX - downgrades Q4 earnings forecast as economic slowdown deepens",
+    "y": "0"
+  },
+  {
+    "x": "$ECONX - upgrades after strong quarterly performance exceeds analysts' expectations",
+    "y": "1"
+  },
+  {
+    "x": "Experts at Barclays predict stable outlook for $ECONX in the next fiscal year",
+    "y": "2"
+  },
+  {
+    "x": "$ICPT - Citi downgrades IC Power Technologies to sell after weak Q4",
+    "y": "0"
+  },
+  {
+    "x": "IC Power Technologies sees strong quarter, analysts upgrade shares to buy",
+    "y": "1"
+  },
+  {
+    "x": "IC Power Technologies releases mixed results; investors remain neutral on outlook",
+    "y": "2"
+  },
+  {
+    "x": "$DAN - Credit Suisse downgrades Danaher to Underperform",
+    "y": "0"
+  },
+  {
+    "x": "$DAN - Bank of America upgrades Danaher and sets a price target at $350",
+    "y": "1"
+  },
+  {
+    "x": "Danaher reports Q4 earnings, revenue misses expectations, shares fall 2%",
+    "y": "2"
+  },
+  {
+    "x": "$DAN - Credit Suisse downgrades the stock to underperform",
+    "y": "0"
+  },
+  {
+    "x": "DAN announces robust Q4 earnings beating analyst estimates",
+    "y": "1"
+  },
+  {
+    "x": "Analysts at JPMorgan maintain neutral outlook on DAN's growth prospects",
+    "y": "2"
+  },
+  {
+    "x": "$BA - BofA Global Research cuts BA price target to $300 from $350; maintaining underperform rating",
+    "y": "0"
+  },
+  {
+    "x": "$BA - Jefferies raises BA's stock rating to 'buy' with a price target of $400, citing strong international business performance",
+    "y": "1"
+  },
+  {
+    "x": "$BA - Analysts remain neutral on BA shares as company reports slightly below expectations in Q2 earnings; industry trends show mixed signals",
+    "y": "2"
+  },
+  {
+    "x": "$XLE - Analyst cuts price target on valuation concerns",
+    "y": "0"
+  },
+  {
+    "x": "Xenon Energy shares rise as Goldman Sachs upgrades $XLE to buy",
+    "y": "1"
+  },
+  {
+    "x": "MarketWatch reports mild growth in oil sector, keeping $XLE steady",
+    "y": "2"
+  },
+  {
+    "x": "$COMDX - Commodity Futures Firmly Lower Amid Supply Concerns",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs Upgrades $COMDX Projections on Strengthened Demand Forecasts",
+    "y": "1"
+  },
+  {
+    "x": "Research Note: Stable Demand Keeps $COMDX Stock Prices Steady",
+    "y": "2"
+  },
+  {
+    "x": "$SUMRX - Summit Materials sees downgrades across the board as demand wanes",
+    "y": "0"
+  },
+  {
+    "x": "$SUMRX - Analysts at Goldman Sachs upgrade Summit Materials to Outperform",
+    "y": "1"
+  },
+  {
+    "x": "Summit Materials reports Q3 earnings beating expectations, shares stable",
+    "y": "2"
+  },
+  {
+    "x": "$RILY sees downgrade as profit warnings mount - Credit Suisse",
+    "y": "0"
+  },
+  {
+    "x": "Reliance Industries upgrades Q4 forecast - strong earnings growth expected - Morgan Stanley",
+    "y": "1"
+  },
+  {
+    "x": "Credit for Reliance Industries stays the same amid stable macro outlook - Fitch Ratings",
+    "y": "2"
+  },
+  {
+    "x": "$REGN sees price target cut to $50 by Bernstein - bearish (0)",
+    "y": "0"
+  },
+  {
+    "x": "Regeneron Pharmaceuticals - analyst upgrades shares to Outperform at JPMorgan Chase - bullish (1)",
+    "y": "1"
+  },
+  {
+    "x": "No significant changes in analyst view on REGN as Goldman Sachs maintains its neutral stance - neutral (2)",
+    "y": "2"
+  },
+  {
+    "x": "$KTOS - Credit Suisse downgrades shares to Underperform",
+    "y": "0"
+  },
+  {
+    "x": "KTOS reports stronger-than-expected Q3 revenue; price target raised to $5 at Deutsche Bank",
+    "y": "1"
+  },
+  {
+    "x": "KTOS announces partnership with tech giant, maintaining current financial outlook",
+    "y": "2"
+  },
+  {
+    "x": "$JCOM cut to underperform by Nomura; analysts see weak earnings ahead",
+    "y": "0"
+  },
+  {
+    "x": "$JCOM upgraded to outperform by Deutsche Bank: growth prospects remain strong",
+    "y": "1"
+  },
+  {
+    "x": "Q2 results positive for $JCOM, beating estimates and boosting investor confidence",
+    "y": "2"
+  },
+  {
+    "x": "$AIKI - AIKI Technologies Downgraded by Mizuho to Sell",
+    "y": "0"
+  },
+  {
+    "x": "AIKI Technologies Sees Strong Q4 Results Exceed Analysts' Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Analysts Recommend Holding on $AIKI as Economic Outlook Remains Stable",
+    "y": "2"
+  },
+  {
+    "x": "$CEIX - Credit Suisse downgrades Credit Silesia to sell",
+    "y": "0"
+  },
+  {
+    "x": "$CEIX sees strong performance in Q4; analysts upgrade stock",
+    "y": "1"
+  },
+  {
+    "x": "Credit Silesia releases positive earnings report, maintaining neutral outlook",
+    "y": "2"
+  },
+  {
+    "x": "$ATRO - AT Ragnarok cut guidance amid supply chain disruptions",
+    "y": "0"
+  },
+  {
+    "x": "Ragnarok upgraded $ATRO stock after Q4 revenue beat expectations",
+    "y": "1"
+  },
+  {
+    "x": "New research from Morgan Stanley suggests neutral stance on $ATRO",
+    "y": "2"
+  },
+  {
+    "x": "$SPY - Analysts at Morgan Stanley downgrade SPDR S&P 500 ETF Trust to underperform",
+    "y": "0"
+  },
+  {
+    "x": "$SPY - Barclays boosts price target for SPDR S&P 500 ETF Trust, citing strong earnings season",
+    "y": "1"
+  },
+  {
+    "x": "$SPY - Market trends show mixed performance with SPDR S&P 500 ETF Trust hovering around key technical levels",
+    "y": "2"
+  },
+  {
+    "x": "$SIVR - Stellarnet downgraded by Oppenheimer to sell",
+    "y": "0"
+  },
+  {
+    "x": "Stellarnet sees strong second-quarter revenue growth exceeding analysts' expectations",
+    "y": "1"
+  },
+  {
+    "x": "$SIVR - Market trends favor semiconductor stocks with rising demand for IoT devices",
+    "y": "2"
+  },
+  {
+    "x": "$MOH - Morgan Stanley downgrades Mid Ocean Logistics to Underweight",
+    "y": "0"
+  },
+  {
+    "x": "$MOH sees robust performance in Q3, boosts earnings guidance",
+    "y": "1"
+  },
+  {
+    "x": "Mid Ocean Logistics reports stable results in H1; market reactions neutral",
+    "y": "2"
+  },
+  {
+    "x": "$CPHI - Credit Suisse lowers price target to $150, citing ongoing supply chain challenges.",
+    "y": "0"
+  },
+  {
+    "x": "C Philisophical Health sees positive earnings outlook as vaccine research progresses, gaining traction from analysts at JPMorgan Chase.",
+    "y": "1"
+  },
+  {
+    "x": "$CPHI - No significant changes in market trends or company performance expected according to recent reports.",
+    "y": "2"
+  },
+  {
+    "x": "$SUMRX - analysts cut price target to $35; downbeat on near-term growth prospects",
+    "y": "0"
+  },
+  {
+    "x": "$SUMRX - expects robust earnings boost from new drug launch in Q4",
+    "y": "1"
+  },
+  {
+    "x": "$SUMRX quarterly report shows slight decline, but management confident about long-term outlook",
+    "y": "2"
+  },
+  {
+    "x": "$DAN - Credit Suisse downgrades shares to below consensus",
+    "y": "0"
+  },
+  {
+    "x": "Danaher Corp ($DAN) receives a price target increase from Morgan Stanley",
+    "y": "1"
+  },
+  {
+    "x": "Market research shows Danaher Corp ($DAN) revenues slightly higher than expected in Q4",
+    "y": "2"
+  },
+  {
+    "x": "$TEVA - analysts downgraded the company's outlook due to weaker-than-expected revenues.",
+    "y": "0"
+  },
+  {
+    "x": "TEVA shareholders see potential in new drug pipeline with analysts upgrading $TEVA shares.",
+    "y": "1"
+  },
+  {
+    "x": "Market watchers remain neutral on $TEVA as company faces ongoing challenges and regulatory issues.",
+    "y": "2"
+  },
+  {
+    "x": "$ENB - Analyst downgrades ENB shares due to oil price uncertainty",
+    "y": "0"
+  },
+  {
+    "x": "$ENB - Bank of Canada maintains positive outlook on ENB's resilience",
+    "y": "1"
+  },
+  {
+    "x": "$ENB - No immediate changes expected in price target according to latest report from CIBC",
+    "y": "2"
+  },
+  {
+    "x": "$CIFS cut price target to $5 from $7 at UBS - bearish on near-term outlook",
+    "y": "0"
+  },
+  {
+    "x": "UBS initiates coverage on $CIFS with Buy rating - bullish sentiment ahead",
+    "y": "1"
+  },
+  {
+    "x": "Q2 earnings miss expectations, CIFS stock down slightly post-results",
+    "y": "2"
+  },
+  {
+    "x": "$SRNE - Shares Slip as Looming FDA Decision Fuels Investor Concerns",
+    "y": "0"
+  },
+  {
+    "x": "SRNA Sees Strong Q3 Performance Boosting Price Target at Jefferies",
+    "y": "1"
+  },
+  {
+    "x": "SRNA - Upgrades and Downgrades Split Analyst Community Ahead of Crucial Week",
+    "y": "2"
+  },
+  {
+    "x": "$PFG - Morgan Stanley cuts price target on company to reflect weaker-than-expected earnings",
+    "y": "0"
+  },
+  {
+    "x": "Procter & Gamble sees strong Q4 results despite supply chain challenges",
+    "y": "1"
+  },
+  {
+    "x": "Market analyst reports neutral stance on PFG, expects stable performance in the coming quarters",
+    "y": "2"
+  },
+  {
+    "x": "$TIF - Analysts at Morgan Stanley downgrade Tata Interactive Systems to underperform",
+    "y": "0"
+  },
+  {
+    "x": "Tata Interactive Systems ($TIF) sees strong performance in Q3 as revenue surpasses expectations",
+    "y": "1"
+  },
+  {
+    "x": "Market Trends: Technology stocks including $TIF continue to face pressure amid broader economic concerns",
+    "y": "2"
+  },
+  {
+    "x": "$TOPS - Analysts cut price target by 20% amid industry challenges",
+    "y": "0"
+  },
+  {
+    "x": "$TOPS sees strong Q3 results, boosting analysts' confidence",
+    "y": "1"
+  },
+  {
+    "x": "Market Trends: TOPS Technologies reported modest growth, maintaining neutral outlook",
+    "y": "2"
+  },
+  {
+    "x": "$SAVE - Credit Suisse downgrades shares to Underperform",
+    "y": "0"
+  },
+  {
+    "x": "$SAVE - Analysts at JPMorgan raise price target by 15%",
+    "y": "1"
+  },
+  {
+    "x": "Salesforce $SAVE - Q4 revenue beats estimates, guidance meets targets",
+    "y": "2"
+  },
+  {
+    "x": "$BHF cut to underperform by Mizuho; concerns over cost increases",
+    "y": "0"
+  },
+  {
+    "x": "Barclays upgrades $BHF shares on growth prospects in healthcare sector",
+    "y": "1"
+  },
+  {
+    "x": "Q3 earnings meet expectations for $BHF, but outlook is unchanged",
+    "y": "2"
+  },
+  {
+    "x": "$ELY - Credit Suisse downgrades shares to underperform",
+    "y": "0"
+  },
+  {
+    "x": "$ELY - Goldman Sachs upgrades stock and raises price target to $45",
+    "y": "1"
+  },
+  {
+    "x": "Elysis reports strong Q3 revenue growth, outpacing expectations",
+    "y": "2"
+  },
+  {
+    "x": "$UNG - UltraResource cut price target on U.S. natural gas producer",
+    "y": "0"
+  },
+  {
+    "x": "UltraResource upgrades $UNG shares as natural gas producers see potential turnaround",
+    "y": "1"
+  },
+  {
+    "x": "Market trends suggest modest recovery for U.S. energy sector, $UNG included",
+    "y": "2"
+  },
+  {
+    "x": "$DPW - DP World Suffers From Supply Chain Challenges, Downgraded By JPMorgan Chase",
+    "y": "0"
+  },
+  {
+    "x": "DP World Sees Positive Revenue Growth Amidst Global Trade Trends",
+    "y": "1"
+  },
+  {
+    "x": "DP World Releases Q4 Earnings: Mixed Results With Analysts Seeing Opportunities For Future Growth",
+    "y": "2"
+  },
+  {
+    "x": "$MSFT - Morgan Stanley downgrades Microsoft stock to underweight",
+    "y": "0"
+  },
+  {
+    "x": "$MSFT sees continued growth in cloud services and enterprise software according to new research from Barclays",
+    "y": "1"
+  },
+  {
+    "x": "Microsoft reports quarterly earnings beating expectations, maintaining strong performance in the tech sector",
+    "y": "2"
+  },
+  {
+    "x": "$DBD cut to underperform as credit conditions deteriorate",
+    "y": "0"
+  },
+  {
+    "x": "DBD sees strong Q3 performance driving stock surge",
+    "y": "1"
+  },
+  {
+    "x": "Credit analyst firm DBRS Morningstar maintains stable outlook for DBD",
+    "y": "2"
+  },
+  {
+    "x": "$CPHI - Credit Suisse downgrades CPHI to underperform",
+    "y": "0"
+  },
+  {
+    "x": "Credit Suisse initiates coverage on $CPHI with an outperform rating",
+    "y": "1"
+  },
+  {
+    "x": "Market analyst expects $CPHI to maintain steady growth in the coming quarters",
+    "y": "2"
+  },
+  {
+    "x": "$ECONX - downgraded by Morgan Stanley due to slower-than-expected economic recovery",
+    "y": "0"
+  },
+  {
+    "x": "ECONX sees strong earnings beat, boosting sentiment among investors",
+    "y": "1"
+  },
+  {
+    "x": "Analysts remain neutral on ECONX, citing mixed market signals and uncertainties",
+    "y": "2"
+  },
+  {
+    "x": "$PANW - Panera Bread Co downgrades Q4 outlook, sending stock price lower.",
+    "y": "0"
+  },
+  {
+    "x": "Panera Bread Co sees positive shift in customer foot traffic and revenue growth, boosting investor confidence.",
+    "y": "1"
+  },
+  {
+    "x": "Panera Bread Co reports mixed Q3 results; analysts remain cautiously optimistic amid ongoing operational challenges.",
+    "y": "2"
+  },
+  {
+    "x": "$AMZN - Analyst cuts Amazon price target amid competition concerns",
+    "y": "0"
+  },
+  {
+    "x": "Amazon's second-quarter earnings top expectations, sends shares higher",
+    "y": "1"
+  },
+  {
+    "x": "Market trend: Tech stocks continue to face headwinds as global growth slows",
+    "y": "2"
+  },
+  {
+    "x": "$PI - Price target cut at Morgan Stanley to $150",
+    "y": "0"
+  },
+  {
+    "x": "Procter & Gamble ($PI) beats Q4 earnings expectations",
+    "y": "1"
+  },
+  {
+    "x": "Market analyst suggests neutral stance on Procter & Gamble ($PI)",
+    "y": "2"
+  },
+  {
+    "x": "$SINT - Sintezia cuts profit outlook amid supply chain issues",
+    "y": "0"
+  },
+  {
+    "x": "$SINT - Market Analysts Upgrade Shares Based on Strong Q4 Performance",
+    "y": "1"
+  },
+  {
+    "x": "Sintezia releases new product line; analysts maintain neutral stance",
+    "y": "2"
+  },
+  {
+    "x": "$MRNA - analysts cut price target due to supply chain issues",
+    "y": "0"
+  },
+  {
+    "x": "Moderna ($MRNA) sees significant gains as vaccine effectiveness exceeds expectations",
+    "y": "1"
+  },
+  {
+    "x": "Moderna ($MRNA) reports mixed results; investors remain cautious",
+    "y": "2"
+  },
+  {
+    "x": "$RHHBY - Raymond James downgrades Roblox to market perform",
+    "y": "0"
+  },
+  {
+    "x": "$RHHBY - Bernstein upgrades Roblox stock and raises price target to $65",
+    "y": "1"
+  },
+  {
+    "x": "$RHHBY - Morgan Stanley maintains neutral view on Roblox with unchanged target price of $57",
+    "y": "2"
+  },
+  {
+    "x": "$SRNE - SRAX to cut SR890M R&D expense amid slower-than-expected clinical trial results",
+    "y": "0"
+  },
+  {
+    "x": "SRAX sees $SRNE rise as new drug shows promising interim data in Phase 2 trials",
+    "y": "1"
+  },
+  {
+    "x": "SRAX - Analysts remain neutral on SRNE, citing mixed signals from ongoing trials and competition",
+    "y": "2"
+  },
+  {
+    "x": "$SRAX cut to underperform by Mizuho",
+    "y": "0"
+  },
+  {
+    "x": "Mizuho upgrades $SRAX shares, sees revenue growth potential",
+    "y": "1"
+  },
+  {
+    "x": "Second-quarter results for SRAX show stable performance amid industry challenges",
+    "y": "2"
+  },
+  {
+    "x": "$MLM - MLM Investments downgrades MLP Corp's rating to sell",
+    "y": "0"
+  },
+  {
+    "x": "$MLM - Analyst raises price target on MLP Corp amid positive earnings report",
+    "y": "1"
+  },
+  {
+    "x": "MLM Investments issues neutral outlook for MLP Corp, citing industry challenges and growth uncertainties",
+    "y": "2"
+  },
+  {
+    "x": "$BAH - analysts downgrade firm's outlook citing softness in key markets",
+    "y": "0"
+  },
+  {
+    "x": "Barclays boosts price target on $BAH after strong earnings report",
+    "y": "1"
+  },
+  {
+    "x": "Market trends suggest stable growth for $BAH with minor fluctuations",
+    "y": "2"
+  },
+  {
+    "x": "$ITHUF hit with downgrades by Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "ithuset - Analyst upgrades stock price target",
+    "y": "1"
+  },
+  {
+    "x": "ITHUF Q3 earnings miss expectations, investors concerned",
+    "y": "2"
+  },
+  {
+    "x": "$MTH - Moleculari Therapeutics sees downgrades from multiple analysts leading to a potential price decline.",
+    "y": "0"
+  },
+  {
+    "x": "Moleculari Therapeutics ($MTH) receives strong investment upgrade from Barclays, projecting significant growth in the near term.",
+    "y": "1"
+  },
+  {
+    "x": "Analysts at Oppenheimer release neutral stance on Moleculari Therapeutics ($MTH), citing mixed recent performance metrics.",
+    "y": "2"
+  },
+  {
+    "x": "$CEIX - CEIX shares decline as J.P. Morgan downgrades to Underperform",
+    "y": "0"
+  },
+  {
+    "x": "CEIX sees price target hiked at Morgan Stanley to $55",
+    "y": "1"
+  },
+  {
+    "x": "CEIX reports Q4 earnings, beats expectations, signals positive outlook for 2023",
+    "y": "2"
+  },
+  {
+    "x": "$FTS - Analysts at Morgan Stanley downgrade FTS shares to Underperform",
+    "y": "0"
+  },
+  {
+    "x": "FTS - Strong Q4 results drive Wall Street to positive outlook on stock performance",
+    "y": "1"
+  },
+  {
+    "x": "Market trends suggest FTS might face challenges in the near future, according to new research from Oppenheimer",
+    "y": "2"
+  },
+  {
+    "x": "$IFLXF - UBS downgrades investment outlook citing weaker-than-expected Q4 results",
+    "y": "0"
+  },
+  {
+    "x": "IFLXF sees robust growth in IoT market leading to increased revenue forecasts by Canaccord Genuity",
+    "y": "1"
+  },
+  {
+    "x": "IFLXF releases Q3 earnings; Analysts maintain current price target, no significant changes expected",
+    "y": "2"
+  },
+  {
+    "x": "$AIKI - Analyst cuts price target to $5 from $8",
+    "y": "0"
+  },
+  {
+    "x": "AIKI reports strong Q3 results, driving shares up 7%",
+    "y": "1"
+  },
+  {
+    "x": "Market trends suggest steady growth for AIKI in coming quarters",
+    "y": "2"
+  },
+  {
+    "x": "$RTTR - Raytheon Technologies' Q3 earnings miss forecasts sending shares lower according to Cowen.",
+    "y": "0"
+  },
+  {
+    "x": "$RTTR - RTT raises its price target on the defense contractor, forecasting growth in the upcoming fiscal year.",
+    "y": "1"
+  },
+  {
+    "x": "$RTTR - Analysts at JPMorgan provide a neutral outlook for Raytheon Technologies as market conditions remain uncertain.",
+    "y": "2"
+  },
+  {
+    "x": "$TOPS - Analysts downgrade Topside Inc. shares to hold from buy",
+    "y": "0"
+  },
+  {
+    "x": "Topside Inc. sees upgraded price target at $45 by Cowen Group",
+    "y": "1"
+  },
+  {
+    "x": "Market Watch: Topside Inc.'s Q2 earnings miss expectations, sending shares down 6%",
+    "y": "2"
+  },
+  {
+    "x": "$PSMT - Piper Sandler cuts price target on Pershing Square Capital Management to $60",
+    "y": "0"
+  },
+  {
+    "x": "$PSMT - Strong Q4 earnings drive Pershing Square Capital Management stock up by 15%",
+    "y": "1"
+  },
+  {
+    "x": "$PSMT - No significant changes in analyst outlook for Pershing Square Capital Management",
+    "y": "2"
+  },
+  {
+    "x": "$HYG - Bond fund sees downgrades as economic outlook darkens",
+    "y": "0"
+  },
+  {
+    "x": "$HYG - Analyst upgrades high-yield bond fund amid strong Q4 performance",
+    "y": "1"
+  },
+  {
+    "x": "High-yield bond fund $HYG - maintains steady performance in line with market trends",
+    "y": "2"
+  },
+  {
+    "x": "$PHR - Price target cut to $65 by Baird; bears view on near-term prospects.",
+    "y": "0"
+  },
+  {
+    "x": "Perrigo Co ($PHR) reports Q4 earnings beating estimates, raises guidance.",
+    "y": "1"
+  },
+  {
+    "x": "Bloomberg: Industry trends slow down growth for Perrigo Co ($PHR); market neutral for now.",
+    "y": "2"
+  },
+  {
+    "x": "$BA - Boeing cuts its full-year profit outlook amid supply chain issues",
+    "y": "0"
+  },
+  {
+    "x": "Boeing targets higher growth in commercial aviation segment as global travel demand recovers",
+    "y": "1"
+  },
+  {
+    "x": "Analysts at JP Morgan maintain BA's stock price target and performance outlook largely unchanged",
+    "y": "2"
+  },
+  {
+    "x": "$COMDX slips as Q3 earnings fall short of forecasts",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs upgrades $COMDX after positive sector outlook",
+    "y": "1"
+  },
+  {
+    "x": "Market analyst predicts stable performance for COMEX metals in the coming year",
+    "y": "2"
+  },
+  {
+    "x": "$DAN - Analyst cuts price target, sends shares lower",
+    "y": "0"
+  },
+  {
+    "x": "$DAN sees strong Q4 results boost share price",
+    "y": "1"
+  },
+  {
+    "x": "$DAN reports quarterly earnings in line with expectations",
+    "y": "2"
+  },
+  {
+    "x": "$IFLXF - Downgrade to Underperform as Analysts Warn on Profit Margins",
+    "y": "0"
+  },
+  {
+    "x": "IFLXF Sees Surprising Quarterly Earnings Beat Analyst Estimates",
+    "y": "1"
+  },
+  {
+    "x": "Market Trends Suggest Moderate Growth for IFLXF in Coming Months",
+    "y": "2"
+  },
+  {
+    "x": "$CNHI - China Cyber Security Law Could Limit Data Usage; Target Price Cut to $5",
+    "y": "0"
+  },
+  {
+    "x": "China Cybersecurity Tightens Grip: CNHI Sees Growth as Demand for Compliance Surges",
+    "y": "1"
+  },
+  {
+    "x": "Analyst Neutral on CNHI Following Market Stability, No Change in Outlook",
+    "y": "2"
+  },
+  {
+    "x": "$IOFB - Fidelity Outperform cut by Deutsche Bank; cuts price target to $40 from $50",
+    "y": "0"
+  },
+  {
+    "x": "$IOFB - Researcher at Morgan Stanley Raises Price Target to $60 from $52, Maintains Outperform Rating",
+    "y": "1"
+  },
+  {
+    "x": "$IOFB - Quarterly results show 5% revenue growth; market responds neutrally",
+    "y": "2"
+  },
+  {
+    "x": "$NSP - Oppenheimer downgrades shares to Underperform",
+    "y": "0"
+  },
+  {
+    "x": "Notable Analyst Sees $NSP Shares Rising as Revenue Exceeds Expectations",
+    "y": "1"
+  },
+  {
+    "x": "Market Trends Suggest $NSP May Experience Stable Growth in the Coming Quarter",
+    "y": "2"
+  },
+  {
+    "x": "$WRK - Credit Suisse downgrades shares to below-peer performance, cuts price target to $5.",
+    "y": "0"
+  },
+  {
+    "x": "Westrock sees robust Q4 earnings, beats forecasts; upgrades stock outlook from hold to buy.",
+    "y": "1"
+  },
+  {
+    "x": "Market trends suggest stable growth for industrials sector in 2023; maintains moderate positive on WRK.",
+    "y": "2"
+  },
+  {
+    "x": "$SCANX - Credit Suisse downgrades the stock to Underperform",
+    "y": "0"
+  },
+  {
+    "x": "$SCANX sees robust performance in Q3 leading to a price target of $75 at Citigroup",
+    "y": "1"
+  },
+  {
+    "x": "Market analyst reports neutral outlook for SCANX, with stable financials but no significant growth potential",
+    "y": "2"
+  },
+  {
+    "x": "OMC cut to underperform by Citigroup",
+    "y": "0"
+  },
+  {
+    "x": "$OMC upgrades earnings forecast, beats estimates",
+    "y": "1"
+  },
+  {
+    "x": "Oil major OMC reports stable Q4 results, in line with expectations",
+    "y": "2"
+  },
+  {
+    "x": "$ECONX - Price target slashed at Citigroup to $50",
+    "y": "0"
+  },
+  {
+    "x": "ECONX - Analyst upgrades stock to Outperform",
+    "y": "1"
+  },
+  {
+    "x": "Market overview: Steady ECONX as economic data shows mixed signals",
+    "y": "2"
+  },
+  {
+    "x": "$SPY - Analysts downgrade SPDR S&P 500 ETF to underperform",
+    "y": "0"
+  },
+  {
+    "x": "$SPY - Morgan Stanley boosts price target on SPDR S&P 500 ETF to $475",
+    "y": "1"
+  },
+  {
+    "x": "$SPY - Market outlook for broad equity index remains stable, analysts say",
+    "y": "2"
+  },
+  {
+    "x": "$XOM hit with downgrades by analysts at JPMorgan citing production concerns.",
+    "y": "0"
+  },
+  {
+    "x": "Bullish outlook on $XOM as Goldman Sachs raises price target amid industry recovery.",
+    "y": "1"
+  },
+  {
+    "x": "XOM announces Q4 results beating estimates, driving shares to new highs.",
+    "y": "2"
+  },
+  {
+    "x": "$MIST - Credit Suisse cuts price target to $5 from $7",
+    "y": "0"
+  },
+  {
+    "x": "$MIST - Analyst at Wells Fargo upgrades stock to Outperform",
+    "y": "1"
+  },
+  {
+    "x": "$MIST - Q4 earnings beat expectations, shares up 5%",
+    "y": "2"
+  },
+  {
+    "x": "$HCHC - Hunch Pharmaceuticals downgraded to Underperform by Jefferies",
+    "y": "0"
+  },
+  {
+    "x": "$HCHC - Analyst at Goldman Sachs raises price target to $35",
+    "y": "1"
+  },
+  {
+    "x": "Hunch Pharmaceuticals releases Q4 earnings, sees steady growth despite market concerns",
+    "y": "2"
+  },
+  {
+    "x": "$TSLA - Tesla Inc sees upgrade from Oppenheimer to outperform",
+    "y": "1"
+  },
+  {
+    "x": "$TSLA - Analyst cuts Tesla\u2019s price target at Barclays",
+    "y": "0"
+  },
+  {
+    "x": "$TSLA - Morgan Stanley reports neutral stance on Tesla's Q3 earnings",
+    "y": "2"
+  },
+  {
+    "x": "$D falls short in Q4 earnings; downgrade from Credit Suisse",
+    "y": "0"
+  },
+  {
+    "x": "DJIA index surges on robust Q4 reports from various sectors",
+    "y": "1"
+  },
+  {
+    "x": "Credit rating agency maintains $D outlook despite recent market volatility",
+    "y": "2"
+  },
+  {
+    "x": "$ES prices may fall as analyst cuts target at Credit Suisse",
+    "y": "0"
+  },
+  {
+    "x": "Credit Suisse upgrades $ES, sees potential for higher share price",
+    "y": "1"
+  },
+  {
+    "x": "Market experts predict stable performance for $ES in the upcoming quarters",
+    "y": "2"
+  },
+  {
+    "x": "$STZ - Stellantis downgraded by UBS to Underperform",
+    "y": "0"
+  },
+  {
+    "x": "Stellantis sees robust quarterly earnings exceed expectations",
+    "y": "1"
+  },
+  {
+    "x": "UBS maintains $STZ target price at \u20ac42 amid market volatility",
+    "y": "2"
+  },
+  {
+    "x": "$BPTH - Analyst downgrades BPTH price target at JPMorgan Chase, citing slowing market uptake.",
+    "y": "0"
+  },
+  {
+    "x": "Biopharmaceutical Innovations Inc. (BPTH) Q3 earnings report surpasses analyst expectations; shares rise.",
+    "y": "1"
+  },
+  {
+    "x": "$BPTH - Market trends indicate gradual decline in demand for the company's latest drug line, but overall industry remains stable.",
+    "y": "2"
+  },
+  {
+    "x": "$EB falls 3% after Bear Stearns downgrades tech stocks",
+    "y": "0"
+  },
+  {
+    "x": "Bear Stearns upgrades $EB shares, targets price to $85",
+    "y": "1"
+  },
+  {
+    "x": "Technical analysis shows no strong trend for $EB in near term",
+    "y": "2"
+  },
+  {
+    "x": "$SWZ - Samba Financial Group cuts price target on SWZ by 25% citing macroeconomic challenges",
+    "y": "0"
+  },
+  {
+    "x": "$SWZ - Standard Chartered upgrades SWZ after positive outlook from industry analysts",
+    "y": "1"
+  },
+  {
+    "x": "Samba Financial Group reports Q3 earnings, performance mixed; no immediate changes to SWZ stock forecast",
+    "y": "2"
+  },
+  {
+    "x": "$IRM - RBC cuts price target to $5.00; outlook remains cautiously pessimistic",
+    "y": "0"
+  },
+  {
+    "x": "Immu\u745e\u79d1health Inc. ($IRM) beats Q4 earnings expectations, boosting investor confidence",
+    "y": "1"
+  },
+  {
+    "x": "MarketWatch reports no significant changes in IRM's near-term prospects despite positive regulatory developments",
+    "y": "2"
+  },
+  {
+    "x": "$DNKN - Dine Brands Global downgraded to Underperform by Jefferies",
+    "y": "0"
+  },
+  {
+    "x": "Dine Brands Global sees Q4 earnings beat expectations, boosting shares",
+    "y": "1"
+  },
+  {
+    "x": "Q3 revenue review: Dine Brands Global remains stable but faces supply chain challenges",
+    "y": "2"
+  },
+  {
+    "x": "$MTB - U.S. Bancorp sees downgrade at Raymond James; target price slashed to $50 from $65",
+    "y": "0"
+  },
+  {
+    "x": "$MTB - Analysts upgrade U.S. Bancorp following strong Q4 results, raising targets higher",
+    "y": "1"
+  },
+  {
+    "x": "U.S. Bancorp's stock performance in line with expectations; no major changes to price targets at Wedbush",
+    "y": "2"
+  },
+  {
+    "x": "$M slides as Credit Suisse downgrades growth outlook",
+    "y": "0"
+  },
+  {
+    "x": "M market sees positive performance with price targets raised by Morgan Stanley",
+    "y": "1"
+  },
+  {
+    "x": "Market watchers remain neutral on M despite mixed Q4 earnings report",
+    "y": "2"
+  },
+  {
+    "x": "$TCO - Credit Suisse cuts targets on Tesla's carbon footprint concerns",
+    "y": "0"
+  },
+  {
+    "x": "$TCO - Analysts at Goldman Sachs upgrade TCO stock after Q4 results",
+    "y": "1"
+  },
+  {
+    "x": "Tesla $TCO - CEO Elon Musk outlines new sustainability initiatives in earnings call",
+    "y": "2"
+  },
+  {
+    "x": "$PANW - Panoramic Security sees downgrade from Jefferies",
+    "y": "0"
+  },
+  {
+    "x": "Panoramic Security $PANW - upgrades by Cowen boost analyst targets",
+    "y": "1"
+  },
+  {
+    "x": "Panoramic Security $PANW reports Q4 earnings beating estimates; neutral outlook for FY23",
+    "y": "2"
+  },
+  {
+    "x": "$CNS - Credit Suisse downgrades Chinese healthcare stocks amid debt concerns",
+    "y": "0"
+  },
+  {
+    "x": "Credit Suisse upgrades $CNS in light of strong revenue growth forecasts",
+    "y": "1"
+  },
+  {
+    "x": "$CNS sees minor losses, keeping investors on hold as market trends soften",
+    "y": "2"
+  },
+  {
+    "x": "$CANF - Canfax Biosciences Downgraded by Morgan Stanley; Analyst Sees Strained Cash Flow",
+    "y": "0"
+  },
+  {
+    "x": "$CANF - Canfax Biosciences Outperforms Q1 Earnings; Analysts Upgrade Price Target to $20",
+    "y": "1"
+  },
+  {
+    "x": "Canfax Bioscience Reports Mixed Q4 Results; No Change in Analyst Views",
+    "y": "2"
+  },
+  {
+    "x": "$JKHY cut by Oppenheimer to underperform - analysts see revenue growth challenges",
+    "y": "0"
+  },
+  {
+    "x": "JKHY beats Q4 expectations, analysts raise target price to $35 - Bullish signal on tech firm's growth potential",
+    "y": "1"
+  },
+  {
+    "x": "Market watch: JKHY remains stable with mixed reports; analysts maintain neutral outlook",
+    "y": "2"
+  },
+  {
+    "x": "$UBER - Barclays downgrades UBER to Underperform; target price cut to $30",
+    "y": "0"
+  },
+  {
+    "x": "Uber Technologies sees surge in Q4 revenue growth despite challenges; analysts upgrade stock",
+    "y": "1"
+  },
+  {
+    "x": "Market trends suggest stable performance for UBER in 2023 amid economic recovery",
+    "y": "2"
+  },
+  {
+    "x": "$SPY - Analyst cuts price target on rising interest rates concerns",
+    "y": "0"
+  },
+  {
+    "x": "$SPY - Upgrade to Outperform by Wells Fargo pushes ETF higher",
+    "y": "1"
+  },
+  {
+    "x": "$SPY - Mixed performance continues as tech companies report mixed earnings",
+    "y": "2"
+  },
+  {
+    "x": "$MTN sees its price target cut by Goldman Sachs to R49, signaling concerns over network modernization efforts.",
+    "y": "0"
+  },
+  {
+    "x": "Analysts at Morgan Stanley upgrade $MTN shares to Overweight, citing strong international revenue growth and dividend potential.",
+    "y": "1"
+  },
+  {
+    "x": "Oppenheimer maintains a neutral stance on $MTN, noting that near-term challenges in the Nigerian market could impact earnings.",
+    "y": "2"
+  },
+  {
+    "x": "$AUDC - Analysts downgrade AUDC's growth forecast amid economic concerns",
+    "y": "0"
+  },
+  {
+    "x": "AUDC sees robust Q4 earnings, boosting share price and attracting investor interest",
+    "y": "1"
+  },
+  {
+    "x": "Market research firm reports mixed performance for AUDC in 2023, citing regulatory pressures",
+    "y": "2"
+  },
+  {
+    "x": "$ICPT cut to Underperform at Citi - Analyst warns on revenue guidance",
+    "y": "0"
+  },
+  {
+    "x": "ICPicontinues strong performance in Q3; upgrades to Buy from Morgan Stanley",
+    "y": "1"
+  },
+  {
+    "x": "ICP financials reviewed by Oppenheimer - maintains Neutral outlook based on market trends",
+    "y": "2"
+  },
+  {
+    "x": "$IOFB - Fidelity Select International Healthcare Fund downgraded by Morningstar due to valuation concerns",
+    "y": "0"
+  },
+  {
+    "x": "IOFB + healthcare sector outperforms as biotech firms report strong Q3 earnings",
+    "y": "1"
+  },
+  {
+    "x": "Market Watch: IOFB's performance mirrors broader international market trends, with both gains and losses noted this week",
+    "y": "2"
+  },
+  {
+    "x": "$CVX - Chevron corp downgraded by CreditSights as crude prices face downside risks",
+    "y": "0"
+  },
+  {
+    "x": "Chevron ($CVX) sees analyst at Morgan Stanley upgrade to overweight on growth opportunities",
+    "y": "1"
+  },
+  {
+    "x": "Credit Suisse maintains $CVX - Chevron's neutral rating, citing cautious oil price outlook",
+    "y": "2"
+  },
+  {
+    "x": "$MLM - Fitch Ratings downgrade MLM stocks to below investment grade citing increased debt levels.",
+    "y": "0"
+  },
+  {
+    "x": "MLM Inc. sees robust Q4 earnings beat expectations, driving $MLM stock up 5% in early trading.",
+    "y": "1"
+  },
+  {
+    "x": "$MLM - Analysts at Goldman Sachs maintain 'neutral' stance on MLM shares amid industry consolidation fears.",
+    "y": "2"
+  },
+  {
+    "x": "$UNFI downgraded to underperform by Goldman Sachs - bears see limited upside",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley upgrades UNFI shares to overweight as key metrics improve",
+    "y": "1"
+  },
+  {
+    "x": "analysts at JPMorgan maintain neutral outlook on UNFI despite recent earnings report",
+    "y": "2"
+  },
+  {
+    "x": "$KERN - Downgrade to Underperform at KeyBanc; Price Target Cut to $8",
+    "y": "0"
+  },
+  {
+    "x": "$KERN Sees Positive Signals as Revenue Beats Analyst Estimates",
+    "y": "1"
+  },
+  {
+    "x": "Analysts Maintain Neutral View on Kernstar Technologies Inc. ($KERN)",
+    "y": "2"
+  },
+  {
+    "x": "$ECONX - Analyst cuts target price; sees significant downside risks",
+    "y": "0"
+  },
+  {
+    "x": "ECONX reports strong Q3 results; analyst upgrades stock",
+    "y": "1"
+  },
+  {
+    "x": "ECONX market trends stable; analysts maintain neutral outlook",
+    "y": "2"
+  },
+  {
+    "x": "$ACST cut to underperform by Credit Suisse; down 3% today.",
+    "y": "0"
+  },
+  {
+    "x": "Analysts at Goldman Sachs upgrade $ACST shares to buy; target price raised to $55.",
+    "y": "1"
+  },
+  {
+    "x": "ACST reports Q2 earnings ahead of estimates, shares rise 4% on strong performance.",
+    "y": "2"
+  },
+  {
+    "x": "$SPX - S&P 500 sees downgrade in Q4 outlook amid recession fears",
+    "y": "0"
+  },
+  {
+    "x": "S&P 500 outperforms expectations as tech stocks lead rally; $SPX +1.5%",
+    "y": "1"
+  },
+  {
+    "x": "Moderate performance for S&P 500: No significant changes expected in near term",
+    "y": "2"
+  },
+  {
+    "x": "$SAN - analysts downgrade shares citing slowing growth outlook",
+    "y": "0"
+  },
+  {
+    "x": "$SAN - strong Q4 results boost stock price, sends volume up on market open",
+    "y": "1"
+  },
+  {
+    "x": "$SAN - maintains earnings estimates as industry analyst releases positive report",
+    "y": "2"
+  },
+  {
+    "x": "$ONVO - Onvo Inc sees downgrade from JPMorgan Chase to underweight",
+    "y": "0"
+  },
+  {
+    "x": "$ONVO - Onvo Inc upgrades Q4 forecasts, stock price surges",
+    "y": "1"
+  },
+  {
+    "x": "Onvo Inc reports strong Q3 results, market reaction positive",
+    "y": "2"
+  },
+  {
+    "x": "$MTN sees downward pressure as key revenue drivers slow - Barclays",
+    "y": "0"
+  },
+  {
+    "x": "MTN upgrades its global outlook amid robust performance - Morgan Stanley",
+    "y": "1"
+  },
+  {
+    "x": "Analysts remain neutral on MTN\u2019s stock, citing cautious market conditions - Oppenheimer",
+    "y": "2"
+  },
+  {
+    "x": "$NCR hit with downgrades as analysts cut revenue forecasts",
+    "y": "0"
+  },
+  {
+    "x": "J.P. Morgan upgrades $NCR, sees significant upside in technology segment",
+    "y": "1"
+  },
+  {
+    "x": "Q2 earnings from NCR Corp meet expectations, but guidance remains cautious",
+    "y": "2"
+  },
+  {
+    "x": "$SCANX - Credit Suisse downgrades the stock to underperform",
+    "y": "0"
+  },
+  {
+    "x": "Skan Technologies sees strong Q3 performance with rising revenue and earnings",
+    "y": "1"
+  },
+  {
+    "x": "Market watchers suggest $SCANX remains stable amid economic uncertainty",
+    "y": "2"
+  },
+  {
+    "x": "$AAPL - Goldman Sachs cuts Apple price target amid concerns over iPhone demand",
+    "y": "0"
+  },
+  {
+    "x": "Apple shares surge as strong Q4 earnings exceed expectations, boosting investor confidence",
+    "y": "1"
+  },
+  {
+    "x": "Market trends suggest modest growth for tech stocks; $AAPL remains steady",
+    "y": "2"
+  },
+  {
+    "x": "$LK - Credit Suisse downgrades LK Chemicals to Underperform, citing supply chain concerns.",
+    "y": "0"
+  },
+  {
+    "x": "LK Pharmaceuticals announces record Q4 results, boosting shares by over 5%.",
+    "y": "1"
+  },
+  {
+    "x": "LK Tech reports stable earnings but misses growth targets; market reaction mixed.",
+    "y": "2"
+  },
+  {
+    "x": "$ITCI - ItciCorp Downgraded by Citigroup; Target Price Cut to $5",
+    "y": "0"
+  },
+  {
+    "x": "ItciCorp Sees Positive Sentiment from Morgan Stanley as Q3 Results Beat Expectations",
+    "y": "1"
+  },
+  {
+    "x": "ItciCorp Reports Mixed Results, Analysts Remain Neutral on Outlook",
+    "y": "2"
+  },
+  {
+    "x": "$LPX - Analyst downgrades shares to perform at Oppenheimer; target price slashed to $35",
+    "y": "0"
+  },
+  {
+    "x": "Lehigh Pharmaceutical ($LPX) sees rise in revenue, exceeds analyst expectations for the quarter",
+    "y": "1"
+  },
+  {
+    "x": "Market trends: Lehigh Pharmaceutical's ($LPX) stock shows steady performance amid industry volatility",
+    "y": "2"
+  }
+]

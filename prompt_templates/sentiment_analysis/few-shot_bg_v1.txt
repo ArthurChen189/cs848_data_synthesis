@@ -1,0 +1,44 @@
+Generate three realistic financial news headlines about stock tickers following real-world financial reporting for sentiment analysis.
+
+Guidelines for Generating Headlines:
+
+1. Format & Style:
+	•	Headlines must be concise and mimic real financial news.
+	•	Use sentence case formatting (capitalize only the first word and proper nouns).
+	•	Some headlines should start with a stock ticker (e.g., $AAPL -), while others should begin with the company name or a broader market trend.
+
+2. Ticker Inclusion:
+	•	At least one headline should include a stock ticker (e.g., $TSLA - or $NVDA -).
+	•	Some headlines should refer to companies by name instead of tickers (e.g., “Alphabet and Meta see price targets cut at Barclays”).
+
+3. Common Financial Themes:
+
+Ensure headlines reflect realistic financial news topics, including:
+	•	Stock downgrades/upgrades
+	•	Price target adjustments
+	•	Market trends/economic outlook
+	•	Company performance concerns
+	•	Company news
+	•	Company announcements
+	•	Company events
+
+4. Source Attribution:
+	•	When relevant, mention an investment firm, analyst, or research group (e.g., Morgan Stanley, Barclays, Oppenheimer).
+	•	Do not fabricate research firms—use only well-known institutions.
+
+5. Sentiment Labeling:
+
+Each headline must be assigned a sentiment label based on its tone:
+	•	Bearish (0): Indicates negative sentiment about a stock or market trend.
+	•	Bullish (1): Indicates positive sentiment about a stock or market trend.
+	•	Neutral (2): Indicates neutral or informational tone.
+
+Format:
+Your answer should be in JSON format:
+{{"headline": "<your headline>", "sentiment": "<your sentiment label, 0, 1, or 2>"}}
+
+Here are some examples:
+{examples}
+
+Now, generate three new financial news headlines following these guidelines. 
+Please use JSON format and generate one type of each sentiment label (0, 1, 2) for diversity.

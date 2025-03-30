@@ -1,0 +1,4002 @@
+[
+  {
+    "x": "morgan stanley downgrades $unfi to underweight, citing supply chain concerns",
+    "y": "0"
+  },
+  {
+    "x": "oppenheimer raises price target for $unfi, expecting strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "$unfi announces quarterly earnings release date, to be held on february 15th",
+    "y": "2"
+  },
+  {
+    "x": "$MTH - meritage homes sees price target cut at barclays due to housing market slowdown",
+    "y": 0
+  },
+  {
+    "x": "Meritage Homes $MTH reports strong Q2 earnings, beating analyst expectations with improved revenue",
+    "y": 1
+  },
+  {
+    "x": "Morgan Stanley initiates coverage of $MTH with equal weight rating, citing steady demand for new homes",
+    "y": 2
+  },
+  {
+    "x": "$AMBA - ambarella stock downgraded to sell at Goldman Sachs due to declining chip demand",
+    "y": "0"
+  },
+  {
+    "x": "ambarella ($AMBA) sees price target boosted to $75 at oppenheimer on strong q2 earnings outlook",
+    "y": "1"
+  },
+  {
+    "x": "ambarella ($AMBA) to report q3 earnings on november 30th, with analysts expecting modest revenue growth",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley downgrades $STZ to underweight, citing slowing growth",
+    "y": "0"
+  },
+  {
+    "x": "Oppenheimer raises price target for $STZ, sees strong demand for spirits",
+    "y": "1"
+  },
+  {
+    "x": "Constellation Brands $STZ announces quarterly earnings release date",
+    "y": "2"
+  },
+  {
+    "x": "$AAPL - Goldman Sachs downgrades Apple to neutral on concerns over iPhone sales",
+    "y": "0"
+  },
+  {
+    "x": "Apple sees price target increased to $200 by Morgan Stanley on strong services growth",
+    "y": "1"
+  },
+  {
+    "x": "Apple to report q4 earnings on november 1, with analysts expecting revenue of $90 billion",
+    "y": "2"
+  },
+  {
+    "x": "audience company $AUDC sees price target cut at barclays due to slowing revenue growth",
+    "y": "0"
+  },
+  {
+    "x": "$AUDC - audience company reports strong quarterly earnings, Morgan Stanley upgrades to overweight",
+    "y": "1"
+  },
+  {
+    "x": "audience company $AUDC announces upcoming investor presentation at goldman sachs technology conference",
+    "y": "2"
+  },
+  {
+    "x": "$Znga - downgraded to underperform at bank of america due to increasing competition in the gaming industry",
+    "y": 0
+  },
+  {
+    "x": "Zillow sees price target raised to $65 at Piper Jaffray on strong q2 earnings and revenue growth",
+    "y": 1
+  },
+  {
+    "x": "Zscaler announces partnership with Microsoft to expand cloud security offerings, according to a report from Goldman Sachs",
+    "y": 2
+  },
+  {
+    "x": "Morgan Stanley downgrades $IIVI - citing concerns over decreased demand for optical components",
+    "y": "0"
+  },
+  {
+    "x": "Barclays upgrades II-VI Incorporated to overweight, boosts price target to $50 on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "II-VI Incorporated announces plans to release its quarterly earnings report on August 12, $IIVI - to provide business update",
+    "y": "2"
+  },
+  {
+    "x": "$WORK - slack technologies sees price target cut at morgan stanley",
+    "y": "0"
+  },
+  {
+    "x": "salesforce subsidiary $WORK upgrades its customer service platform, gets bullish outlook from oppenheimer",
+    "y": "1"
+  },
+  {
+    "x": "salesforce reports $WORK integration progress in quarterly earnings update",
+    "y": "2"
+  },
+  {
+    "x": "$GDP - Goldman Sachs cuts growth forecast citing global economic slowdown",
+    "y": 0
+  },
+  {
+    "x": "Morgan Stanley upgrades $GDP to overweight, citing strong q2 earnings potential",
+    "y": 1
+  },
+  {
+    "x": "US gdp data to be released tomorrow, $GDP investors await guidance from federal reserve",
+    "y": 2
+  },
+  {
+    "x": "$SCANX - scanX stock downgraded to sell at Goldman Sachs",
+    "y": "0"
+  },
+  {
+    "x": "scanX rises 3% after announcing new partnership with major tech firm",
+    "y": "1"
+  },
+  {
+    "x": "SCANX declares quarterly distribution of $0.25 per share",
+    "y": "2"
+  },
+  {
+    "x": "$MGI - MoneyGram shares plummet 15% after receiving downgrade from Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "MoneyGram international sees surge in digital transactions, $MGI stock jumps 8%",
+    "y": "1"
+  },
+  {
+    "x": "$MGI to report Q2 earnings on August 4, analysts expect modest revenue growth",
+    "y": "2"
+  },
+  {
+    "x": "$LMNX - lumen technologies sees price target cut at barclays due to declining sales",
+    "y": "0"
+  },
+  {
+    "x": "lumen technologies ($LMNX) reports strong quarterly earnings, surpassing analyst expectations",
+    "y": "1"
+  },
+  {
+    "x": "$LMNX to present at the upcoming morgan stanley technology, media and telecom conference",
+    "y": "2"
+  },
+  {
+    "x": "$XLE - energy sector ETF sees price target cut at Morgan Stanley due to global demand concerns",
+    "y": "0"
+  },
+  {
+    "x": "ExxonMobil and Chevron lead $XLE to new highs as oil prices surge on supply chain disruptions",
+    "y": "1"
+  },
+  {
+    "x": "S&P Dow Jones announces quarterly rebalancing of $XLE, no changes to constituent stocks",
+    "y": "2"
+  },
+  {
+    "x": "Jack Henry & Associates $JKHY - price target cut to $140 from $150 at Stephens",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley upgrades $JKHY to overweight, sees 15% upside potential",
+    "y": "1"
+  },
+  {
+    "x": "Jack Henry & Associates $JKHY reports q2 earnings, revenue in line with expectations",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley cuts $ITCI price target to $25 amid concerns over company performance",
+    "y": "0"
+  },
+  {
+    "x": "Oppenheimer upgrades $ITCI to outperform, citing strong pipeline and growth potential",
+    "y": "1"
+  },
+  {
+    "x": "$ITCI announces fourth quarter earnings release date and conference call details",
+    "y": "2"
+  },
+  {
+    "x": "$PANW - Palo Alto Networks stock downgraded to underweight at Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "Palo Alto Networks sees price target boosted to $600 at Oppenheimer on strong earnings outlook",
+    "y": "1"
+  },
+  {
+    "x": "Palo Alto Networks announces upcoming investor conference, $PANW to present on cybersecurity trends",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley downgrades $IFLXF to underweight, citing concerns over company performance",
+    "y": "0"
+  },
+  {
+    "x": "Oppenheimer boosts $IFLXF price target to $50, citing strong earnings growth potential",
+    "y": "1"
+  },
+  {
+    "x": "$IFLXF reports q2 earnings, meets expectations according to Barclays analysis",
+    "y": "2"
+  },
+  {
+    "x": "$AUDC - audit committee raises concerns over financial reporting practices, says Piper Jaffray",
+    "y": "0"
+  },
+  {
+    "x": "Analysts at Oppenheimer boost price target for $AUDC citing strong q2 earnings and improved market outlook",
+    "y": "1"
+  },
+  {
+    "x": "$AUDC announces scheduled release of q3 financial results on november 10, to be followed by investor conference call",
+    "y": "2"
+  },
+  {
+    "x": "$XOM - exxonmobil sees price target cut at goldman sachs",
+    "y": "0"
+  },
+  {
+    "x": "exxonmobil announces plans to increase oil production, $XOM shares rise",
+    "y": "1"
+  },
+  {
+    "x": "morgan stanley reports on exxonmobil's quarterly earnings, $XOM remains steady",
+    "y": "2"
+  },
+  {
+    "x": "$UNFI - united natural foods sees price target cut at barclays due to slowing demand",
+    "y": 0
+  },
+  {
+    "x": "united natural foods reports strong quarterly earnings, $UNFI shares surge after hours",
+    "y": 1
+  },
+  {
+    "x": "morgan stanley initiates coverage of $UNFI with a neutral rating, citing stable market position",
+    "y": 2
+  },
+  {
+    "x": "$ECONX - econx stock downgraded to sell by goldman sachs on disappointing q2 earnings",
+    "y": "0"
+  },
+  {
+    "x": "econx corporation sees price target raised by 15% at morgan stanley on strong growth prospects",
+    "y": "1"
+  },
+  {
+    "x": "econx announces upcoming investor conference to discuss q3 financial results and market outlook",
+    "y": "2"
+  },
+  {
+    "x": "$COMDX - commodity index falls to 6-month low amid economic concerns",
+    "y": "0"
+  },
+  {
+    "x": "Oppenheimer upgrades $COMDX to outperform, citing strong demand and bullish trend",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley reports on $COMDX's quarterly performance, noting stable returns and steady growth",
+    "y": "2"
+  },
+  {
+    "x": "$USAK - usa truck sees price target cut at barclays amid freight market concerns",
+    "y": "0"
+  },
+  {
+    "x": "usa truck inc announces significant expansion of its logistics services, sending $USAK shares higher",
+    "y": "1"
+  },
+  {
+    "x": "$USAK to report quarterly earnings on friday, with analysts at morgan stanley expecting modest revenue growth",
+    "y": "2"
+  },
+  {
+    "x": "$SPY - spy falls as investors fear economic downturn, according to Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "SPY ETF sees surge in demand as investors bet on market rebound, says Oppenheimer",
+    "y": "1"
+  },
+  {
+    "x": "S&P 500 tracker $SPY remains near record high, awaiting federal reserve announcement",
+    "y": "2"
+  },
+  {
+    "x": "$XLE - energy sector stocks face downward pressure as oil prices decline, says Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "Credit Suisse upgrades $XLE to outperform, citing strong demand for energy stocks",
+    "y": "1"
+  },
+  {
+    "x": "$XLE tracks the energy sector, which accounts for about 4% of the S&P 500 index, according to Barclays",
+    "y": "2"
+  },
+  {
+    "x": "$SUMRX - summerset group receives downgrade from barclays due to concerns over company performance",
+    "y": "0"
+  },
+  {
+    "x": "summerset group sees significant growth in revenue as $SUMRX price target raised by morgan stanley",
+    "y": "1"
+  },
+  {
+    "x": "oppenheimer releases report on $SUMRX, providing neutral outlook on company's future prospects",
+    "y": "2"
+  },
+  {
+    "x": "$AIKI - price target cut to $15 at Morgan Stanley on revenue concerns",
+    "y": "0"
+  },
+  {
+    "x": "Artificial Intelligence Ki Inc sees bull case at Oppenheimer with $AIKI - price target lifted to $25",
+    "y": "1"
+  },
+  {
+    "x": "$AIKI to report quarterly earnings on February 15, according to company announcement",
+    "y": "2"
+  },
+  {
+    "x": "$HBAYF - hydrogen fuel cell company sees price target cut at Barclays",
+    "y": "0"
+  },
+  {
+    "x": "Hydrogen Bay scores major deal with european automotive giant, $HBAYF surges",
+    "y": "1"
+  },
+  {
+    "x": "$HBAYF to release quarterly earnings report on friday, Morgan Stanley provides neutral outlook",
+    "y": "2"
+  },
+  {
+    "x": "$LNN downgraded by Barclays to underweight, price target cut to $60",
+    "y": "0"
+  },
+  {
+    "x": "Lindsay corporation beats quarterly earnings expectations, $LNN stock surges 5%",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley initiates coverage of $LNN with a neutral rating, cites stable irrigation demand",
+    "y": "2"
+  },
+  {
+    "x": "$STNE downgraded to sell from neutral at Goldman Sachs",
+    "y": "0"
+  },
+  {
+    "x": "StoneCo sees price target boosted to $50 at Morgan Stanley",
+    "y": "1"
+  },
+  {
+    "x": "StoneCo reports q2 earnings, $STNE stock trades flat after hours",
+    "y": "2"
+  },
+  {
+    "x": "$LIVX - livexlive media stock downgraded to sell at goldman sachs",
+    "y": "0"
+  },
+  {
+    "x": "livexlive media $LIVX sees price target raised to $15 at oppenheimer on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "livexlive media $LIVX to report q2 earnings on august 10th before market open",
+    "y": "2"
+  },
+  {
+    "x": "$CANF - canaan inc sees price target cut at barclays due to declining demand for bitcoin mining equipment",
+    "y": "0"
+  },
+  {
+    "x": "canaan inc announces major breakthrough in artificial intelligence powered mining technology, $CANF shares soar",
+    "y": "1"
+  },
+  {
+    "x": "$CANF - canaan inc reports q2 earnings, revenue meets expectations as company navigates crypto market volatility",
+    "y": "2"
+  },
+  {
+    "x": "$USO - oil prices fall as inventories rise, says Goldman Sachs",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley upgrades $USO to overweight, citing supply chain improvements",
+    "y": "1"
+  },
+  {
+    "x": "The $USO ETF tracks the price of west texas intermediate crude oil, according to Barclays",
+    "y": "2"
+  },
+  {
+    "x": "$KOD - kodak downgraded to underweight at morgan stanley due to declining sales",
+    "y": "0"
+  },
+  {
+    "x": "kodak raises full-year revenue forecast as $KOD stock surges on strong q2 earnings",
+    "y": "1"
+  },
+  {
+    "x": "$KOD to report q3 earnings on november 15, with analysts expecting steady performance",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley downgrades $STZ - constellation brands to underweight citing slowing beer sales",
+    "y": "0"
+  },
+  {
+    "x": "constellation brands $STZ - sees price target boosted by goldman sachs on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "constellation brands $STZ - reports q2 earnings with revenue in line with analyst expectations",
+    "y": "2"
+  },
+  {
+    "x": "dpw holdings sees price target cut at barclays",
+    "y": "0"
+  },
+  {
+    "x": "$dpw - upgraded to buy at oppenheimer on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "dpw holdings reports mixed quarterly results, shares remain unchanged",
+    "y": "2"
+  },
+  {
+    "x": "$SPY - JPMorgan cuts price target citing market volatility",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley upgrades $SPY to overweight, expects strong market rebound",
+    "y": "1"
+  },
+  {
+    "x": "Barclays reports $SPY trading volume increases as investors await Fed decision",
+    "y": "2"
+  },
+  {
+    "x": "$AN - AutoNation stock downgraded to underweight at Morgan Stanley due to declining sales",
+    "y": "0"
+  },
+  {
+    "x": "AutoNation sees price target raised to $120 at Oppenheimer on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "$AN - AutoNation announces plans to release fourth-quarter earnings on February 15, according to Barclays calendar",
+    "y": "2"
+  },
+  {
+    "x": "$TIF - Tiffany & Co. downgraded by Barclays on weak holiday sales",
+    "y": 0
+  },
+  {
+    "x": "Tiffany & Co. sees price target raised by Oppenheimer on strong jewelry demand",
+    "y": 1
+  },
+  {
+    "x": "Morgan Stanley reports on $TIF - Tiffany & Co. Q4 earnings preview, citing mixed analyst expectations",
+    "y": 2
+  },
+  {
+    "x": "$BOXL - Boxed sees price target cut at Oppenheimer due to rising competition concerns",
+    "y": 0
+  },
+  {
+    "x": "Boxed reports stronger than expected quarterly earnings, driven by increased online sales",
+    "y": 1
+  },
+  {
+    "x": "Morgan Stanley initiates coverage of $BOXL with a neutral rating, citing mixed industry trends",
+    "y": 2
+  },
+  {
+    "x": "$NVCR - novocure announces mixed q2 earnings, shares fall as revenue misses expectations",
+    "y": "0"
+  },
+  {
+    "x": "goldman sachs upgrades $NVCR to buy, citing strong growth prospects in cancer treatment",
+    "y": "1"
+  },
+  {
+    "x": "novocure $NVCR to present at the upcoming morgan stanley healthcare conference, shares remain steady",
+    "y": "2"
+  },
+  {
+    "x": "$ECONX - economic data misses expectations, sending stock plummeting",
+    "y": "0"
+  },
+  {
+    "x": "Oppenheimer upgrades $ECONX to outperform, citing strong company fundamentals",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley initiates coverage of $ECONX with a neutral rating, awaiting further economic indicators",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley downgrades $VRML to underweight, citing valuation concerns",
+    "y": "0"
+  },
+  {
+    "x": "$VRML - shares surge after Oppenheimer raises price target to $25",
+    "y": "1"
+  },
+  {
+    "x": "Veramall ($VRML) reports q2 earnings, meets expectations according to Barclays analysis",
+    "y": "2"
+  },
+  {
+    "x": "$CEIX - consensus price target cut to $6.50 at Barclays due to declining revenue",
+    "y": "0"
+  },
+  {
+    "x": "Consolidated Edison dividend yield attracts investors; $CEIX shares rise 3%",
+    "y": "1"
+  },
+  {
+    "x": "$CEIX - Q2 earnings report scheduled for August 4; analysts expect in-line results",
+    "y": "2"
+  },
+  {
+    "x": "$FSUMF - fortress investments sees price target cut at barclays due to regulatory concerns",
+    "y": "0"
+  },
+  {
+    "x": "fortress capital acquires significant stake in $FSUMF, expects substantial growth in upcoming quarters",
+    "y": "1"
+  },
+  {
+    "x": "$FSUMF reports q2 earnings, meets expectations with revenue of $100m, according to morgan stanley analysis",
+    "y": "2"
+  },
+  {
+    "x": "$CAT - caterpillar announces strong q4 earnings, beats analyst expectations",
+    "y": "1"
+  },
+  {
+    "x": "caterpillar downgraded to underweight at morgan stanley on weakening construction demand",
+    "y": "0"
+  },
+  {
+    "x": "caterpillar to report q1 earnings on april 27, investors await guidance on 2024 outlook",
+    "y": "2"
+  },
+  {
+    "x": "Regions Financial $RF - price target cut at morgan stanley due to concerns over loan growth",
+    "y": "0"
+  },
+  {
+    "x": "Regions Financial $RF sees significant upside as bank of america merrill lynch upgrades to buy",
+    "y": "1"
+  },
+  {
+    "x": "Regions Financial $RF reports quarterly earnings, meeting analyst expectations according to oppenheimer",
+    "y": "2"
+  },
+  {
+    "x": "$TWLO - Twilio's stock downgraded to underweight at Morgan Stanley on valuation concerns",
+    "y": "0"
+  },
+  {
+    "x": "Twilio reports strong quarterly earnings, $TWLO shares rise as company raises full-year guidance",
+    "y": "1"
+  },
+  {
+    "x": "Oppenheimer initiates coverage of $TWLO with a neutral rating, citing mixed industry trends",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley Downgrades $PIXY to Underweight, Citing Valuation Concerns",
+    "y": "0"
+  },
+  {
+    "x": "$PIXY Surges 12% After Oppenheimer Boosts Price Target to $50",
+    "y": "1"
+  },
+  {
+    "x": "Pixy stock $PIXY to be Added to the Russell 2000 Index, Effective March 20",
+    "y": "2"
+  },
+  {
+    "x": "$ATGFF - Argonaut Gold sees price target cut at Canaccord due to production concerns",
+    "y": "0"
+  },
+  {
+    "x": "Argonaut Gold announces new mining discovery, sending $ATGFF shares higher",
+    "y": "1"
+  },
+  {
+    "x": "$ATGFF - Argonaut Gold reports q2 earnings, meets expectations according to Barclays analysis",
+    "y": "2"
+  },
+  {
+    "x": "$BOXL - boxl sees price target cut at barclays amid ongoing market volatility",
+    "y": "0"
+  },
+  {
+    "x": "boxl announces strong quarterly earnings, $BOXL shares rise on the news",
+    "y": "1"
+  },
+  {
+    "x": "morgan stanley initiates coverage of $BOXL with a neutral rating, citing stable market trends",
+    "y": "2"
+  },
+  {
+    "x": "$APLS - Apellis Pharmaceuticals Sees Price Target Cut At Oppenheimer Due To Regulatory Concerns",
+    "y": "0"
+  },
+  {
+    "x": "Apellis Pharmaceuticals Announces Positive Phase 3 Trial Results For $APLS, Sending Shares Higher",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley Initiates Coverage Of $APLS With A Neutral Rating, Citing Balanced Risk-Reward Profile",
+    "y": "2"
+  },
+  {
+    "x": "$CERN - Cerner shares plummet after Morgan Stanley downgrades stock to underweight",
+    "y": "0"
+  },
+  {
+    "x": "Cerner sees price target boosted at Oppenheimer on strong cloud growth prospects",
+    "y": "1"
+  },
+  {
+    "x": "Cerner to report quarterly earnings next week, with analysts expecting steady revenue growth",
+    "y": "2"
+  },
+  {
+    "x": "$JCOM - J2 Global stock downgraded to underweight at Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "J2 Global sees price target raised to $120 at Oppenheimer on strong cloud demand",
+    "y": "1"
+  },
+  {
+    "x": "J2 Global to report Q2 earnings on August 5, analysts expect modest revenue growth",
+    "y": "2"
+  },
+  {
+    "x": "$CVX - chevron stock downgraded to neutral at Goldman Sachs on valuation concerns",
+    "y": "0"
+  },
+  {
+    "x": "Chevron raises dividend by 6% as strong quarterly earnings boost investor confidence",
+    "y": "1"
+  },
+  {
+    "x": "Chevron announces plans to release fourth-quarter earnings on February 3, with analysts expecting steady revenue growth",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley downgrades $cvna to underweight on increasing competition concerns",
+    "y": "0"
+  },
+  {
+    "x": "barclays raises price target for $cvna citing strong q4 earnings and improving market share",
+    "y": "1"
+  },
+  {
+    "x": "$cvna reports mixed q1 results as revenue beats expectations but profitability lags, says oppenheimer",
+    "y": "2"
+  },
+  {
+    "x": "$TBPH - thunder bridge capital partners iii stock falls after bank of america downgrade",
+    "y": "0"
+  },
+  {
+    "x": "thunder bridge capital partners iii announces promising quarterly earnings, $TBPH stock surges",
+    "y": "1"
+  },
+  {
+    "x": "morgan stanley initiates coverage of $TBPH with a neutral outlook, citing mixed market trends",
+    "y": "2"
+  },
+  {
+    "x": "$SPY - S&P 500 ETF sees bearish trend as investors fear inflation surge, says Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "S&P 500 index rises as $SPY - SPDR S&P 500 ETF Trust hits new high on strong economic data",
+    "y": "1"
+  },
+  {
+    "x": "$SPY - SPDR S&P 500 ETF Trust reports quarterly holdings, showing modest changes in portfolio composition, according to Barclays",
+    "y": "2"
+  },
+  {
+    "x": "tiffany & co sees price target cut at morgan stanley on soft sales outlook",
+    "y": "0"
+  },
+  {
+    "x": "$TIF - tiffany & co jumps after strong holiday sales boost earnings expectations",
+    "y": "1"
+  },
+  {
+    "x": "tiffany & co reports q4 earnings in line with analyst estimates, $TIF shares unchanged",
+    "y": "2"
+  },
+  {
+    "x": "$TOPS - top ships stock plunges after morgan stanley downgrade to underweight",
+    "y": "0"
+  },
+  {
+    "x": "tops stock jumps as barclays raises price target to $30, citing strong earnings growth",
+    "y": "1"
+  },
+  {
+    "x": "$TOPS - top ships presents at the cowen and company annual transportation conference, provides business update",
+    "y": "2"
+  },
+  {
+    "x": "$TALKX - talkX stock downgraded to sell at Oppenheimer due to increasing competition",
+    "y": "0"
+  },
+  {
+    "x": "talkX announces major partnership with leading tech firm, $TALKX stock soars",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley initiates coverage of $TALKX with a neutral rating, citing steady growth prospects",
+    "y": "2"
+  },
+  {
+    "x": "$ALLY - Ally financial downgraded to underweight at Morgan Stanley due to increasing competition",
+    "y": "0"
+  },
+  {
+    "x": "Ally financial sees price target raised to $40 at Oppenheimer on strong q2 earnings",
+    "y": "1"
+  },
+  {
+    "x": "$ALLY - Ally financial announces plans to release q3 earnings on october 20, according to Barclays",
+    "y": "2"
+  },
+  {
+    "x": "$DAN - danaher corporation sees price target cut at barclays due to supply chain concerns",
+    "y": "0"
+  },
+  {
+    "x": "danaher corporation $DAN - beats q2 earnings expectations, driven by strong demand for life sciences products",
+    "y": "1"
+  },
+  {
+    "x": "$DAN - danaher corporation to present at the upcoming morgan stanley healthcare conference",
+    "y": "2"
+  },
+  {
+    "x": "$PANW - palo alto networks stock downgraded to underweight at morgan stanley",
+    "y": "0"
+  },
+  {
+    "x": "palo alto networks sees price target raised to $600 at goldman sachs on strong earnings outlook",
+    "y": "1"
+  },
+  {
+    "x": "$PANW - palo alto networks announces upcoming investor conference, to discuss quarterly results and business strategy",
+    "y": "2"
+  },
+  {
+    "x": "$KOD - Kodak downgraded to underperform at Oppenheimer on declining sales",
+    "y": "0"
+  },
+  {
+    "x": "Kodak announces new partnership with microsoft to boost cloud services, sending $KOD shares higher",
+    "y": "1"
+  },
+  {
+    "x": "Eastman Kodak company $KOD reports q2 earnings, meets wall street expectations",
+    "y": "2"
+  },
+  {
+    "x": "$BHF - Brighthouse Financial downgraded to underweight at Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "Brighthouse Financial announces new investment strategy, $BHF shares rise 5%",
+    "y": "1"
+  },
+  {
+    "x": "Barclays initiates coverage of $BHF with equal weight rating, sets price target at $50",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley downgrades $COMDX to underweight, citing company performance concerns",
+    "y": "0"
+  },
+  {
+    "x": "oppenheimer raises price target for $COMDX, seeing strong growth potential in the sector",
+    "y": "1"
+  },
+  {
+    "x": "$COMDX reports quarterly earnings, meets analyst expectations according to barclays",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley downgrades $UAA to underweight, citing concerns over declining sales",
+    "y": "0"
+  },
+  {
+    "x": "oppenheimer raises price target for $UAA, expecting strong rebound in athletic wear demand",
+    "y": "1"
+  },
+  {
+    "x": "$UAA reports quarterly earnings, meeting analyst expectations with steady revenue growth",
+    "y": "2"
+  },
+  {
+    "x": "$HYG - iShares iBoxx $ High Yield Corporate Bond ETF sees bearish outlook from Barclays due to rising interest rates",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley upgrades $HYG, citing strong demand for high-yield corporate bonds and potential for long-term growth",
+    "y": "1"
+  },
+  {
+    "x": "$HYG: iShares reports net inflows of $273 million for the week ended march 17, according to Oppenheimer data",
+    "y": "2"
+  },
+  {
+    "x": "$CMI sees price target cut at Barclays due to concerns over declining demand",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley upgrades $CMI to overweight, citing strong earnings growth potential",
+    "y": "1"
+  },
+  {
+    "x": "$CMI reports Q2 earnings, meets analyst expectations",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley downgrades $GDEN to underweight, cites company performance concerns",
+    "y": "0"
+  },
+  {
+    "x": "Barclays raises price target for $GDEN, sees strong growth in upcoming quarter",
+    "y": "1"
+  },
+  {
+    "x": "$GDEN reports quarterly earnings, revenue in-line with analyst expectations",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley upgrades $RLGT to overweight with a $60 price target",
+    "y": "1"
+  },
+  {
+    "x": "Radiator Specialty reports disappointing quarterly earnings, $RLGT falls 5%",
+    "y": "0"
+  },
+  {
+    "x": "Oppenheimer maintains neutral rating on $RLGT, citing stable industry trends",
+    "y": "2"
+  },
+  {
+    "x": "$SCANX - scanx stock falls 5% after being downgraded by morgan stanley",
+    "y": "0"
+  },
+  {
+    "x": "scanx sees significant growth potential, says barclays, price target raised to $50",
+    "y": "1"
+  },
+  {
+    "x": "scanx to report quarterly earnings on february 15, $SCANX trading flat ahead of announcement",
+    "y": "2"
+  },
+  {
+    "x": "$PACD - pacific drilling sees price target cut at barclays due to rising operational costs",
+    "y": 0
+  },
+  {
+    "x": "Pacific Drilling ($PACD) stock surges after announcing major contract extension with a leading oil and gas company",
+    "y": 1
+  },
+  {
+    "x": "Morgan Stanley reports on $PACD, stating the company's financial performance is in line with industry expectations",
+    "y": 2
+  },
+  {
+    "x": "$SRNE - Sorrento Therapeutics downgraded to sell at Goldman Sachs",
+    "y": "0"
+  },
+  {
+    "x": "Sorrento Therapeutics sees price target raised to $10 at Oppenheimer on promising covid treatment",
+    "y": "1"
+  },
+  {
+    "x": "Sorrento Therapeutics $SRNE announces Q2 earnings, reports revenue of $23.4 million",
+    "y": "2"
+  },
+  {
+    "x": "$PSX - philipps 66 stock downgraded to underweight at morgan stanley on weakening refining margins",
+    "y": "0"
+  },
+  {
+    "x": "philips 66 announces plans to boost share buybacks, $PSX stock surges after hours following upbeat guidance",
+    "y": "1"
+  },
+  {
+    "x": "analysts at barclays initiate coverage of $PSX with equal weight rating, citing stable midstream operations",
+    "y": "2"
+  },
+  {
+    "x": "$CROX - crocs misses on revenue, prompting downgrade from Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "Crocs sees price target boost from Oppenheimer on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "Edited Transcript of $CROX Q3 2022 earnings conference call or presentation",
+    "y": "2"
+  },
+  {
+    "x": "camber energy $CEI - receives a bearish rating from oppenheimer due to decreased oil production",
+    "y": "0"
+  },
+  {
+    "x": "barclays upgrades camber energy $CEI - to overweight, citing strong q2 earnings potential",
+    "y": "1"
+  },
+  {
+    "x": "camber energy $CEI - announces plans to release q1 financial results on may 15, according to a statement from the company",
+    "y": "2"
+  },
+  {
+    "x": "$MRK - merck sees price target cut at morgan stanley amid concerns over revenue growth",
+    "y": "0"
+  },
+  {
+    "x": "merck announces promising results from late-stage trial, $MRK stock jumps on news",
+    "y": "1"
+  },
+  {
+    "x": "merck ($MRK) schedules q2 earnings release for july 28, to be watched by barclays and goldman sachs",
+    "y": "2"
+  },
+  {
+    "x": "$TIF - tiffany & co faces challenges in china market, morgan stanley downgrades to underweight",
+    "y": "0"
+  },
+  {
+    "x": "tiffany & co sees strong holiday sales, $TIF price target raised by barclays to $140",
+    "y": "1"
+  },
+  {
+    "x": "$TIF - tiffany & co reports q4 earnings, revenue meets expectations at $1.34 billion",
+    "y": "2"
+  },
+  {
+    "x": "$LK - Luckin Coffee faces delisting warning from Nasdaq, shares plummet",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley upgrades $LK to overweight, cites strong growth prospects",
+    "y": "1"
+  },
+  {
+    "x": "$LK - Luckin Coffee announces Q2 earnings release date, conference call details",
+    "y": "2"
+  },
+  {
+    "x": "$TOPS - Tops Systems Corp sees price target cut at Morgan Stanley",
+    "y": 0
+  },
+  {
+    "x": "Tops Systems Corp announces strong quarterly earnings, $TOPS stock surges",
+    "y": 1
+  },
+  {
+    "x": "Oppenheimer initiates coverage of $TOPS with a neutral rating, citing stable market trends",
+    "y": 2
+  },
+  {
+    "x": "$CVX - chevron stock downgraded to underweight at morgan stanley",
+    "y": "0"
+  },
+  {
+    "x": "chevron sees price target raised to $180 at goldman sachs on strong earnings outlook",
+    "y": "1"
+  },
+  {
+    "x": "chevron announces plans to release quarterly earnings report on friday, according to bloomberg",
+    "y": "2"
+  },
+  {
+    "x": "Regions Financial $RF - stock downgraded to underweight at Morgan Stanley due to concerns over loan growth",
+    "y": "0"
+  },
+  {
+    "x": "analysts at Oppenheimer raise price target for $RF to $25 citing strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "Regions Financial $RF announces plans to release its next quarterly earnings report on april 20",
+    "y": "2"
+  },
+  {
+    "x": "$ZYME - Morgan Stanley downgrades Zymeworks to underweight on disappointing trial results",
+    "y": "0"
+  },
+  {
+    "x": "Zymeworks announces positive phase 2 trial data for its lead cancer treatment, sending $ZYME shares higher",
+    "y": "1"
+  },
+  {
+    "x": "$ZYME to present at the upcoming Barclays Global Healthcare Conference",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley downgrades $icpt - to underweight on growing competition concerns",
+    "y": "0"
+  },
+  {
+    "x": "oppenheimer raises price target for $icpt - to $40 on promising pipeline developments",
+    "y": "1"
+  },
+  {
+    "x": "intercept pharmaceuticals $icpt - announces q2 earnings release date and conference call details",
+    "y": "2"
+  },
+  {
+    "x": "$AMTD - TD Ameritrade downgraded to underweight at Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "TD Ameritrade $AMTD sees significant growth in trading volumes, beats quarterly estimates",
+    "y": "1"
+  },
+  {
+    "x": "$AMTD - TD Ameritrade to announce Q2 earnings on July 21, according to Barclays",
+    "y": "2"
+  },
+  {
+    "x": "$HON - honeywell international misses q2 earnings estimates, cites supply chain issues",
+    "y": "0"
+  },
+  {
+    "x": "honeywell international sees upside potential as morgan stanley raises price target to $220",
+    "y": "1"
+  },
+  {
+    "x": "honeywell international to report q3 earnings on october 26, $HON shares trading relatively flat ahead of announcement",
+    "y": "2"
+  },
+  {
+    "x": "$SPY - S&P 500 ETF sees bearish trend as Morgan Stanley predicts market downturn",
+    "y": "0"
+  },
+  {
+    "x": "Oppenheimer upgrades $SPY to buy, citing strong economic outlook and low inflation",
+    "y": "1"
+  },
+  {
+    "x": "Investors watch $SPY as Barclays reports on Q2 earnings and market volatility",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley cuts $BPIRY price target to $15, citing concerns over company performance",
+    "y": "0"
+  },
+  {
+    "x": "barclays upgrades british petroleum $BPIRY to overweight, sees 20% upside potential",
+    "y": "1"
+  },
+  {
+    "x": "british petroleum $BPIRY announces quarterly earnings, meets analyst expectations",
+    "y": "2"
+  },
+  {
+    "x": "tge stock downgraded by morgan stanley due to concerns over company performance",
+    "y": "0"
+  },
+  {
+    "x": "barclays raises price target for $tge citing strong quarterly earnings and growth potential",
+    "y": "1"
+  },
+  {
+    "x": "$tge announces upcoming investor conference to discuss company strategy and outlook",
+    "y": "2"
+  },
+  {
+    "x": "$TD - Toronto-Dominion bank downgraded to underweight at Barclays, price target cut to $60",
+    "y": "0"
+  },
+  {
+    "x": "Toronto-Dominion bank sees strong quarterly earnings, $TD stock surges after beating analyst expectations",
+    "y": "1"
+  },
+  {
+    "x": "$TD to release fourth quarter earnings on december 1, investors await update on company performance",
+    "y": "2"
+  },
+  {
+    "x": "$MESA - mesa air group downgraded to underperform at bank of america",
+    "y": "0"
+  },
+  {
+    "x": "Mesa Air Group $MESA sees strong demand for regional airline services, saysmorgan stanley",
+    "y": "1"
+  },
+  {
+    "x": "Mesa Air Group $MESA reports quarterly earnings, revenue in line with expectations",
+    "y": "2"
+  },
+  {
+    "x": "$IOFB - investment firm Oppenheimer downgrades stock to underperform, citing company performance concerns",
+    "y": "0"
+  },
+  {
+    "x": "iofi holdings ($IOFB) sees price target raised by 15% at morgan stanley, driven by strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "company $IOFB to announce quarterly results on february 15, according to barclays research note",
+    "y": "2"
+  },
+  {
+    "x": "$VRNS - varnish stock downgraded to sell at Barclays",
+    "y": "0"
+  },
+  {
+    "x": "varnish sees price target lifted to $100 at Morgan Stanley on strong earnings outlook",
+    "y": "1"
+  },
+  {
+    "x": "varnish reports quarterly earnings, $VRNS stock trades flat as investors await further guidance",
+    "y": "2"
+  },
+  {
+    "x": "$MGI - MoneyGram international sees price target cut at Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "MoneyGram international $MGI - shares rise after announcing new partnership with Visa",
+    "y": "1"
+  },
+  {
+    "x": "MoneyGram $MGI reports q2 earnings, meets wall street expectations",
+    "y": "2"
+  },
+  {
+    "x": "$ENOB - Enochian Biosciences price target cut to $15 at Oppenheimer due to regulatory concerns",
+    "y": "0"
+  },
+  {
+    "x": "Enochian Biosciences sees strong quarterly earnings, $ENOB stock surges 10% after hours",
+    "y": "1"
+  },
+  {
+    "x": "Enochian Biosciences ($ENOB) to present at the upcoming Morgan Stanley Healthcare Conference",
+    "y": "2"
+  },
+  {
+    "x": "$COMDX - cometx receives a price target upgrade to $12 from $10 at Oppenheimer",
+    "y": "1"
+  },
+  {
+    "x": "Cometx downgraded to underweight by Morgan Stanley, $COMDX - price target cut to $8",
+    "y": "0"
+  },
+  {
+    "x": "Cometx announces quarterly earnings report, $COMDX - shares remain stable ahead of the announcement",
+    "y": "2"
+  },
+  {
+    "x": "tiffany $TIF stock downgraded to underweight at morgan stanley due to weak holiday sales",
+    "y": "0"
+  },
+  {
+    "x": "$TIF shares rise after louis vuitton owner lvmh reports strong quarterly earnings and reaffirms commitment to tiffany acquisition",
+    "y": "1"
+  },
+  {
+    "x": "tiffany $TIF announces fourth quarter earnings release date and conference call details, to be held on march 15",
+    "y": "2"
+  },
+  {
+    "x": "$SAVE - spirit airlines stock downgraded to sell by Goldman Sachs",
+    "y": "0"
+  },
+  {
+    "x": "Spirit Airlines ($SAVE) sees price target raised to $30 by Morgan Stanley",
+    "y": "1"
+  },
+  {
+    "x": "Spirit Airlines reports Q2 earnings, $SAVE stock remains steady",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley downgrades $RF to underweight, citing concerns over regional bank performance",
+    "y": "0"
+  },
+  {
+    "x": "regions financial corporation $RF sees price target raised to $25 at oppenheimer on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "$RF reports mixed quarterly results, with net interest income rising but non-interest expenses increasing",
+    "y": "2"
+  },
+  {
+    "x": "$ENR - energizer holdings sees price target cut at barclays amid concerns over battery sales",
+    "y": "0"
+  },
+  {
+    "x": "Energizer holdings ($ENR) poised for growth as demand for portable power solutions increases, says morgan stanley",
+    "y": "1"
+  },
+  {
+    "x": "energizer holdings $ENR reports quarterly earnings, meets expectations with modest revenue increase",
+    "y": "2"
+  },
+  {
+    "x": "$XAUUSD - gold prices slump to 6-month low as dollar strengthens, says Barclays",
+    "y": "0"
+  },
+  {
+    "x": "Analysts at Morgan Stanley predict $XAUUSD to surge past $1,800 as inflation concerns grow",
+    "y": "1"
+  },
+  {
+    "x": "The $XAUUSD price remains steady at $1,650 as investors await federal reserve meeting",
+    "y": "2"
+  },
+  {
+    "x": "$ZGNX - zogenix stock downgraded to underweight at Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "Zogenix announces positive results from phase 3 trial, $ZGNX shares rise",
+    "y": "1"
+  },
+  {
+    "x": "Zogenix Inc. to present at the upcoming Barclays Healthcare Conference, $ZGNX to discuss business outlook",
+    "y": "2"
+  },
+  {
+    "x": "Diebold Nixdorf ($DBD) downgraded to underweight at Morgan Stanley on weak earnings outlook",
+    "y": "0"
+  },
+  {
+    "x": "$DBD - Diebold Nixdorf sees price target raised at Oppenheimer on growing demand for digital banking solutions",
+    "y": "1"
+  },
+  {
+    "x": "Diebold Nixdorf ($DBD) reports q2 earnings, meets analyst expectations according to Barclays",
+    "y": "2"
+  },
+  {
+    "x": "$VZ - Verizon's price target cut at Barclays due to increasing competition in the telecom sector",
+    "y": "0"
+  },
+  {
+    "x": "Verizon sees strong quarterly earnings, driven by growth in 5G subscriptions and solid performance in its media segment",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley reports on $VZ, noting the company's ongoing efforts to expand its 5G network and improve customer services",
+    "y": "2"
+  },
+  {
+    "x": "$TWLO - twilio stock downgraded to underweight at morgan stanley",
+    "y": "0"
+  },
+  {
+    "x": "twilio sees price target raised to $400 at oppenheimer on strong cloud demand",
+    "y": "1"
+  },
+  {
+    "x": "twilio announces quarterly earnings report, $TWLO - shares to be watched by investors",
+    "y": "2"
+  },
+  {
+    "x": "$NNN - National Retail Properties downgraded to underweight at Morgan Stanley",
+    "y": 0
+  },
+  {
+    "x": "National Retail Properties $NNN sees price target raised to $50 at Oppenheimer on solid quarterly earnings",
+    "y": 1
+  },
+  {
+    "x": "$NNN - National Retail Properties reports fourth quarter results, provides update on dividend payments",
+    "y": 2
+  },
+  {
+    "x": "$FCX - freeport-mcmoran downgraded to underweight at morgan stanley",
+    "y": "0"
+  },
+  {
+    "x": "freeport-mcmoran $FCX +3% after gold prices surge to six-year high",
+    "y": "1"
+  },
+  {
+    "x": "freeport-mcmoran $FCX reports q2 earnings, revenue in line with expectations",
+    "y": "2"
+  },
+  {
+    "x": "$UNFI - United Natural Foods sees price target cut at Oppenheimer due to supply chain concerns",
+    "y": "0"
+  },
+  {
+    "x": "United Natural Foods reports better-than-expected Q2 earnings, driven by strong wholesale segment performance",
+    "y": "1"
+  },
+  {
+    "x": "$UNFI to release Q3 earnings on June 8, with analysts expecting in-line results from the natural foods distributor",
+    "y": "2"
+  },
+  {
+    "x": "$YM - Goldman Sachs cuts price target citing economic uncertainty",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley upgrades $YM to Overweight on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "$YM futures steady ahead of Fed interest rate decision, according to Bloomberg",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley downgrades $MRK to underweight amid concerns over pipeline stagnation",
+    "y": "0"
+  },
+  {
+    "x": "merck announces breakthrough in cancer treatment, $MRK shares surge on positive trial results",
+    "y": "1"
+  },
+  {
+    "x": "$MRK reports q2 earnings in line with expectations, Oppenheimer maintains neutral rating",
+    "y": "2"
+  },
+  {
+    "x": "$LJPC - la jolla pharmaceutical company sees price target cut by barclays to $15 due to disappointing sales",
+    "y": "0"
+  },
+  {
+    "x": "la jolla pharmaceutical company announces positive phase 3 trial results for its lead candidate, sending $LJPC shares up 10%",
+    "y": "1"
+  },
+  {
+    "x": "morgan stanley initiates coverage of $LJPC with a neutral rating, citing steady growth prospects but valuation concerns",
+    "y": "2"
+  },
+  {
+    "x": "$AMTD - TD Ameritrade downgraded by Oppenheimer due to increasing competition",
+    "y": "0"
+  },
+  {
+    "x": "TD Ameritrade parent company $AMTD sees strong trading volumes in latest quarter, beats estimates",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley maintains neutral rating on $AMTD, citing stable market position",
+    "y": "2"
+  },
+  {
+    "x": "Kansas City Southern $KSU - stock downgraded to underweight at Morgan Stanley due to declining shipping volumes",
+    "y": "0"
+  },
+  {
+    "x": "Kansas City Southern $KSU - price target raised to $180 at Barclays on expectations of strong earnings growth",
+    "y": "1"
+  },
+  {
+    "x": "Kansas City Southern reports quarterly earnings, $KSU - shares remain flat as investors await further guidance",
+    "y": "2"
+  },
+  {
+    "x": "$NVCR - novocure announces leadership transition, shares fall on concerns over future growth",
+    "y": "0"
+  },
+  {
+    "x": "novocure sees strong demand for its tumor treating fields therapy, $NVCR stock upgraded to buy at Oppenheimer",
+    "y": "1"
+  },
+  {
+    "x": "$NVCR to present at the upcoming Morgan Stanley healthcare conference, providing update on ongoing clinical trials",
+    "y": "2"
+  },
+  {
+    "x": "$XAUUSD - gold prices plummet as interest rates rise, says Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "Gold bulls cheer as $XAUUSD breaks through key resistance level, Barclays upgrades outlook",
+    "y": "1"
+  },
+  {
+    "x": "Investors watch as $XAUUSD trades near 5-year highs, Oppenheimer notes economic uncertainty",
+    "y": "2"
+  },
+  {
+    "x": "$M - Macy's shares slump 10% after Goldman Sachs downgrades stock to sell",
+    "y": 0
+  },
+  {
+    "x": "Macy's sees price target boost at Oppenheimer, citing strong holiday sales performance",
+    "y": 1
+  },
+  {
+    "x": "$M to report q4 earnings on February 23; investors await update on omnichannel strategy",
+    "y": 2
+  },
+  {
+    "x": "$JKHY - jack henry downgraded to underweight at morgan stanley",
+    "y": "0"
+  },
+  {
+    "x": "jack henry & associates $JKHY - sees upside after recent acquisition announcement",
+    "y": "1"
+  },
+  {
+    "x": "jack henry & associates $JKHY reports quarterly earnings, $JKHY stock remains steady",
+    "y": "2"
+  },
+  {
+    "x": "Renaissance Gold $RNUGF - shares plummet after missing quarterly earnings expectations, says Oppenheimer",
+    "y": "0"
+  },
+  {
+    "x": "$RNUGF - Renaissance Gold announces new gold discovery, shares surge as Barclays upgrades to overweight",
+    "y": "1"
+  },
+  {
+    "x": "Renaissance Gold $RNUGF reports third quarter financial results, provides operational update, according to Morgan Stanley research",
+    "y": "2"
+  },
+  {
+    "x": "$TAP - molson coors beverage company sees price target cut at barclays due to declining sales",
+    "y": "0"
+  },
+  {
+    "x": "Molson Coors reports better than expected quarterly earnings, $TAP stock jumps 5%",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley maintains hold rating on $TAP, citing stable market share in the beverage industry",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley downgrades $lmnx to underweight, citing company performance concerns",
+    "y": "0"
+  },
+  {
+    "x": "luminex corporation sees price target raised by barclays to $30, following strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "luminex corporation $lmnx to present at the upcoming jefferies healthcare conference, according to Oppenheimer",
+    "y": "2"
+  },
+  {
+    "x": "$STZ - constellation brands sees price target cut at barclays",
+    "y": "0"
+  },
+  {
+    "x": "Constellation Brands $STZ - beats quarterly earnings estimates, driven by strong beer sales",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley initiates coverage of $STZ with equal weight rating, citing stable market position",
+    "y": "2"
+  },
+  {
+    "x": "$CEI - Cameron International downgraded to underweight at Morgan Stanley due to declining oil prices",
+    "y": "0"
+  },
+  {
+    "x": "Cameron International $CEI sees price target increased at Barclays, citing strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "$CEI - Cameron International to release Q2 earnings report, investors await guidance on industry trends",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley downgrades plug power to underweight, cites increasing competition in fuel cell market",
+    "y": "0"
+  },
+  {
+    "x": "barclays boosts plug power price target to $35, sees strong growth in hydrogen fuel cell demand",
+    "y": "1"
+  },
+  {
+    "x": "plug power announces upcoming earnings release and conference call, $plug to report q2 results on august 9",
+    "y": "2"
+  },
+  {
+    "x": "$XLE sees bearish trend as energy sector downturn continues, says Goldman Sachs",
+    "y": "0"
+  },
+  {
+    "x": "Energy select sector spider fund $XLE gets upgrade to buy at UBS, citing strong dividend yields",
+    "y": "1"
+  },
+  {
+    "x": "ExxonMobil and Chevron lead $XLE to a neutral week as oil prices stabilize, according to Morgan Stanley",
+    "y": "2"
+  },
+  {
+    "x": "$RILY - B. Riley financials shares plummet 10% after being downgraded by oppenheimer",
+    "y": "0"
+  },
+  {
+    "x": "B. Riley sees significant upside potential, $RILY price target raised to $60 by barclays",
+    "y": "1"
+  },
+  {
+    "x": "$RILY - B. Riley announces Q2 earnings release date, to be accompanied by conference call hosted by morgan stanley",
+    "y": "2"
+  },
+  {
+    "x": "$COMDX - cometx downgraded by barclays due to weak q2 earnings",
+    "y": "0"
+  },
+  {
+    "x": "Cometx stock surges as $COMDX - announces major partnership with leading tech firm",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley releases report on $COMDX - cometx, maintaining neutral outlook on company performance",
+    "y": "2"
+  },
+  {
+    "x": "$TWLO - twilio stock downgraded to underweight from equal weight at Morgan Stanley, price target cut to $250 from $300",
+    "y": "0"
+  },
+  {
+    "x": "twilio sees price target raised to $320 from $280 at Barclays, citing strong cloud communications demand",
+    "y": "1"
+  },
+  {
+    "x": "$TWLO to report q2 earnings on August 4, investors watching for updates on customer growth and revenue guidance",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley downgrades $TOT to underweight citing concerns over european demand",
+    "y": "0"
+  },
+  {
+    "x": "total energy sees significant upside as $TOT announces major discovery in north sea, says goldman sachs",
+    "y": "1"
+  },
+  {
+    "x": "total $TOT reports q2 earnings in line with expectations, shares trade flat as investors await further guidance",
+    "y": "2"
+  },
+  {
+    "x": "$SRAX - shares plummet after hours as company misses q2 earnings expectations, says Oppenheimer",
+    "y": "0"
+  },
+  {
+    "x": "B. Riley boosts $SRAX price target to $8, citing strong growth prospects in digital marketing",
+    "y": "1"
+  },
+  {
+    "x": "SRAX reports q2 revenue of $5.5 million, in line with analyst estimates from Morgan Stanley",
+    "y": "2"
+  },
+  {
+    "x": "$ICPT - Intercept pharmaceuticals sees price target cut at Barclays due to weak sales",
+    "y": "0"
+  },
+  {
+    "x": "Intercept pharmaceuticals announces positive phase 3 trial results for obeticholic acid, sending $ICPT shares higher",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley issues report on $ICPT, noting ongoing concerns about competition in the non-alcoholic steatohepatitis treatment market",
+    "y": "2"
+  },
+  {
+    "x": "$XAUUSD - gold prices plummet as dollar strengthens, says Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "gold prices surge to new highs, $XAUUSD sees bullish trend with price target upgrade at Barclays",
+    "y": "1"
+  },
+  {
+    "x": "spot gold price in $XAUUSD remains steady as investors await economic data release from the Federal Reserve",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley downgrades $PANW to underweight, cites increasing competition in cybersecurity space",
+    "y": "0"
+  },
+  {
+    "x": "palo alto networks $PANW sees price target raised to $600 at goldman sachs on strong cloud security demand",
+    "y": "1"
+  },
+  {
+    "x": "palo alto networks $PANW reports q2 earnings, revenue in line with analyst expectations, shares unchanged",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley downgrades $PFBOF to underweight, citing concerns over company performance",
+    "y": "0"
+  },
+  {
+    "x": "Barclays raises price target for $PFBOF, sees significant growth potential in emerging markets",
+    "y": "1"
+  },
+  {
+    "x": "PFBOF announces quarterly earnings report, $PFBOF stock remains stable ahead of investor call",
+    "y": "2"
+  },
+  {
+    "x": "$CMD - cmd enterprise sees price target cut at barclays due to weak demand",
+    "y": "0"
+  },
+  {
+    "x": "cmd enterprise $CMD stock upgraded to buy at morgan stanley on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "cmd enterprise $CMD announces plans to release q2 earnings report on august 10",
+    "y": "2"
+  },
+  {
+    "x": "$ONVO - organovo holdings stock downgraded to sell at Goldman Sachs",
+    "y": "0"
+  },
+  {
+    "x": "organovo holdings $ONVO stock price target raised to $5 from $3 at Oppenheimer",
+    "y": "1"
+  },
+  {
+    "x": "$ONVO - organovo holdings announces q2 earnings release date and conference call details",
+    "y": "2"
+  },
+  {
+    "x": "$XLE - energy sector ETF price target cut to $63 from $70 at Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "ExxonMobil and Chevron lead $XLE to new highs as oil prices surge",
+    "y": "1"
+  },
+  {
+    "x": "$XLE - energy select sector SPDR fund tracks the performance of the energy sector, no change in holdings reported",
+    "y": "2"
+  },
+  {
+    "x": "$AAPL - apple faces concerns over iphone sales, says Goldman Sachs",
+    "y": 0
+  },
+  {
+    "x": "Morgan Stanley raises $AAPL price target to $180 on strong services growth",
+    "y": 1
+  },
+  {
+    "x": "Apple reports Q2 earnings: $AAPL beats revenue estimates, $2.55 EPS",
+    "y": 2
+  },
+  {
+    "x": "$ZGNX - zogenix stock downgraded to underweight at morgan stanley",
+    "y": "0"
+  },
+  {
+    "x": "zogenix announces positive phase 3 trial results, $ZGNX stock surges",
+    "y": "1"
+  },
+  {
+    "x": "zogenix reports q2 earnings, $ZGNX stock trading flat as investors await further guidance from barclays",
+    "y": "2"
+  },
+  {
+    "x": "$IART - intact vascular receives downgrade from barclays due to declining sales",
+    "y": "0"
+  },
+  {
+    "x": "intact vascular sees strong q2 earnings, $IART stock surges after beating estimates",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley initiates coverage of $IART with a neutral outlook, citing stable market position",
+    "y": "2"
+  },
+  {
+    "x": "$FISI - Financial Institutions sees price target cut at Piper Jaffray due to rising competition",
+    "y": "0"
+  },
+  {
+    "x": "Financial Institutions announces plans to expand its digital banking services, a move expected to boost revenue",
+    "y": "1"
+  },
+  {
+    "x": "$FISI - Financial Institutions schedules Q2 earnings conference call for July 29th, to be hosted by CEO Martin Birmingham",
+    "y": "2"
+  },
+  {
+    "x": "$HSIC - henry schein sees downward revision in price target from barclays due to decreased demand",
+    "y": "0"
+  },
+  {
+    "x": "henry schein reports strong q2 earnings, $HSIC stock rises after beating analyst expectations",
+    "y": "1"
+  },
+  {
+    "x": "morgan stanley issues report on henry schein, noting $HSIC stock is currently trading near its 52-week average",
+    "y": "2"
+  },
+  {
+    "x": "$CVNA - carvana shares plummet 15% after morgan stanley downgrade",
+    "y": "0"
+  },
+  {
+    "x": "carvana ($CVNA) sees price target boosted by 20% at oppenheimer on strong q2 sales",
+    "y": "1"
+  },
+  {
+    "x": "carvana ($CVNA) reports q3 earnings on november 5, with analysts expecting revenue of $2.4 billion",
+    "y": "2"
+  },
+  {
+    "x": "$NVDA - Nvidia stock downgraded to neutral at Credit Suisse on valuation concerns",
+    "y": "0"
+  },
+  {
+    "x": "Nvidia CEO says $NVDA is poised for long-term growth as AI demand surges, says Morgan Stanley",
+    "y": "1"
+  },
+  {
+    "x": "$NVDA - Nvidia announces upcoming earnings release, to be held on February 22, according to Oppenheimer",
+    "y": "2"
+  },
+  {
+    "x": "enbridge $ENB - price target cut to $41 at Goldman Sachs on lower oil demand",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley upgrades Enbridge $ENB to overweight, citing strong pipeline demand",
+    "y": "1"
+  },
+  {
+    "x": "Enbridge $ENB reports Q2 earnings, revenue in line with analyst expectations at ScotiaBank",
+    "y": "2"
+  },
+  {
+    "x": "$MSFT - microsoft stock downgraded to neutral by goldman sachs due to slowing cloud growth",
+    "y": "0"
+  },
+  {
+    "x": "microsoft $MSFT - shares surge after company announces new ai-powered product line, says morgan stanley",
+    "y": "1"
+  },
+  {
+    "x": "microsoft $MSFT reports quarterly earnings, meets expectations with revenue of $50 billion, according to barclays analysis",
+    "y": "2"
+  },
+  {
+    "x": "$CBAY - CymaBay Therapeutics downgraded to underweight at Morgan Stanley on declining sales outlook",
+    "y": "0"
+  },
+  {
+    "x": "CymaBay Therapeutics announces positive phase 2 results for its lead candidate, sending $CBAY shares up 12%",
+    "y": "1"
+  },
+  {
+    "x": "$CBAY reports q2 earnings: revenue meets expectations, but guidance remains unchanged, says Oppenheimer",
+    "y": "2"
+  },
+  {
+    "x": "$SCANX upgraded to buy at Oppenheimer on strong growth prospects",
+    "y": "1"
+  },
+  {
+    "x": "SCANX falls 5% after company announces disappointing quarterly earnings",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley initiates coverage of $SCANX with a neutral rating, citing mixed industry trends",
+    "y": "2"
+  },
+  {
+    "x": "$ONVO - Organovo Holdings, Inc. downgraded to sell at Goldman Sachs due to declining revenue growth",
+    "y": "0"
+  },
+  {
+    "x": "Organovo Holdings, Inc. sees price target boosted at Morgan Stanley on promising 3D bioprinting technology",
+    "y": "1"
+  },
+  {
+    "x": "$ONVO - Organovo Holdings, Inc. reports q2 earnings, provides update on ongoing research and development initiatives",
+    "y": "2"
+  },
+  {
+    "x": "$PBR - petrobras stock falls 5% after morgan stanley downgrade",
+    "y": "0"
+  },
+  {
+    "x": "Petrobras sees price target raised by goldman sachs to $20 per share",
+    "y": "1"
+  },
+  {
+    "x": "Petrobras announces plans to release q4 earnings on february 27, according to reuters",
+    "y": "2"
+  },
+  {
+    "x": "$KOD - Kodak downgraded to sell at Goldman Sachs due to declining sales",
+    "y": "0"
+  },
+  {
+    "x": "Kodak sees price target raised at Morgan Stanley on strong q2 earnings report",
+    "y": "1"
+  },
+  {
+    "x": "Eastman Kodak company $KOD to announce q3 financial results on november 9",
+    "y": "2"
+  },
+  {
+    "x": "$HBAYF price target cut to $15 from $20 at Barclays",
+    "y": "0"
+  },
+  {
+    "x": "Hyundai Bayon's strong sales boost $HBAYF's outlook, says Morgan Stanley",
+    "y": "1"
+  },
+  {
+    "x": "Hyundai Motor Company, parent of $HBAYF, reports quarterly earnings in line with expectations",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley downgrades $TSLA to underweight, citing production concerns",
+    "y": "0"
+  },
+  {
+    "x": "Tesla ($TSLA) surges after Oppenheimer boosts price target to $1,000",
+    "y": "1"
+  },
+  {
+    "x": "Tesla $TSLA reports fourth-quarter earnings on January 27, according to Barclays",
+    "y": "2"
+  },
+  {
+    "x": "$MAXR - Maxar Technologies stock downgraded to underweight at Morgan Stanley due to increasing competition",
+    "y": "0"
+  },
+  {
+    "x": "Maxar Technologies price target raised to $40 from $35 at Barclays, citing strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "$MAXR - Maxar Technologies to release fourth-quarter earnings report on February 27",
+    "y": "2"
+  },
+  {
+    "x": "oppenheimer downgrades $phr citing weak quarterly earnings",
+    "y": "0"
+  },
+  {
+    "x": "barclays boosts price target for $phr as company announces major expansion plans",
+    "y": "1"
+  },
+  {
+    "x": "morgan stanley reports on $phr's upcoming shareholder meeting and potential dividend payout",
+    "y": "2"
+  },
+  {
+    "x": "$SRAX - BMO Capital downgrades SRAX to underperform, citing valuation concerns",
+    "y": "0"
+  },
+  {
+    "x": "SRAX sees price target raised to $7 at Oppenheimer on strong user growth",
+    "y": "1"
+  },
+  {
+    "x": "SRAX reports Q2 earnings: revenue increases 15%, $SRAX stock trading flat pre-market",
+    "y": "2"
+  },
+  {
+    "x": "canada goose falls 10% after banc of america securities cuts price target",
+    "y": "0"
+  },
+  {
+    "x": "$GOOS - canada goose sees upside as morgan stanley raises price target to $60",
+    "y": "1"
+  },
+  {
+    "x": "canada goose announces fourth quarter earnings release date and conference call details",
+    "y": "2"
+  },
+  {
+    "x": "inspero inc $nspr - receives downgrade from barclays due to decreased revenue projections",
+    "y": "0"
+  },
+  {
+    "x": "analysts at morgan stanley raise price target for $nspr citing strong q2 earnings",
+    "y": "1"
+  },
+  {
+    "x": "inspero inc announces $nspr will report q3 earnings on november 15th",
+    "y": "2"
+  },
+  {
+    "x": "$WEBK - wedbush cuts price target citing slowing growth concerns",
+    "y": "0"
+  },
+  {
+    "x": "Wedbush $WEBK sees strong q2 earnings, shares rise after hours",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley reports on $WEBK wedbush's upcoming quarterly earnings release",
+    "y": "2"
+  },
+  {
+    "x": "$UNFI - united natural foods sees price target cut at barclays amid rising competition",
+    "y": "0"
+  },
+  {
+    "x": "united natural foods $UNFI - receives upgrade from neutral to buy at goldman sachs on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "$UNFI reports q2 fiscal 2024 earnings results in line with analyst expectations - morgan stanley",
+    "y": "2"
+  },
+  {
+    "x": "$SSL - sowello sees significant upside potential, raises price target to $25",
+    "y": "1"
+  },
+  {
+    "x": "Sasol downgraded by Goldman Sachs due to concerns over weak demand",
+    "y": "0"
+  },
+  {
+    "x": "Sasol reports Q2 earnings in line with expectations, $SSL remains a hold at Barclays",
+    "y": "2"
+  },
+  {
+    "x": "$UNIT - uniti group downgraded to underweight at morgan stanley",
+    "y": "0"
+  },
+  {
+    "x": "uniti group sees significant upside potential, says oppenheimer, raising price target",
+    "y": "1"
+  },
+  {
+    "x": "uniti group reports q4 earnings, meets analyst expectations, according to barclays",
+    "y": "2"
+  },
+  {
+    "x": "$TSLA - tesla stock downgraded to sell by Goldman Sachs due to rising competition",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley raises price target for $TSLA to $200, citing strong q4 earnings",
+    "y": "1"
+  },
+  {
+    "x": "Tesla, $TSLA, to report q1 earnings on april 20, with analysts expecting mixed results",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley downgrades $ACST to underweight, cites concerns over company's debt levels",
+    "y": "0"
+  },
+  {
+    "x": "Acasti Pharma $ACST upgraded to buy from neutral at Oppenheimer, price target lifted to $6 from $4",
+    "y": "1"
+  },
+  {
+    "x": "Acasti Pharma $ACST announces third quarter earnings, reports revenue of $1.2 million",
+    "y": "2"
+  },
+  {
+    "x": "$TSLA - shares plummet after missing quarterly earnings expectations",
+    "y": "0"
+  },
+  {
+    "x": "Tesla ($TSLA) gets price target boost from Barclays on strong delivery numbers",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley reports on $TSLA's upcoming investor meeting, citing no major announcements expected",
+    "y": "2"
+  },
+  {
+    "x": "$TAP - molson coors beverage company sees price target cut at barclays due to declining sales",
+    "y": "0"
+  },
+  {
+    "x": "Molson Coors announces new product line, $TAP expected to boost revenue by 10% according to Oppenheimer",
+    "y": "1"
+  },
+  {
+    "x": "$TAP - molson coors reports quarterly earnings, meets expectations with revenue of $2.5 billion",
+    "y": "2"
+  },
+  {
+    "x": "$RNUGF - Renu Energy shares plummet 20% after missing q2 earnings expectations",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley upgrades $RNUGF to overweight, citing strong growth prospects in renewable energy",
+    "y": "1"
+  },
+  {
+    "x": "$RNUGF to release q3 earnings report on november 15, according to regulatory filings",
+    "y": "2"
+  },
+  {
+    "x": "$TGE - tugboat operator's shares sink after Goldman Sachs downgrade",
+    "y": "0"
+  },
+  {
+    "x": "Analysts at Oppenheimer boost $TGE price target, citing strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "Trendline Global Enterprises, or $TGE, to release Q2 financial results on August 5",
+    "y": "2"
+  },
+  {
+    "x": "$CEI - cambridge energy industries sees price target cut at barclays due to weakening demand",
+    "y": "0"
+  },
+  {
+    "x": "Cambridge energy industries announces major expansion plans, $CEI shares rise on the news",
+    "y": "1"
+  },
+  {
+    "x": "Morgan stanley releases report on cambridge energy industries, $CEI, noting steady quarterly earnings",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley downgrades $SWZ to underweight, citing concerns over company performance",
+    "y": "0"
+  },
+  {
+    "x": "oppenheimer raises price target for $SWZ, sees significant growth potential in the upcoming quarter",
+    "y": "1"
+  },
+  {
+    "x": "$SWZ announces earnings call scheduled for next thursday, to be hosted by barclays",
+    "y": "2"
+  },
+  {
+    "x": "$AAPL - apple stock falls 5% after morgan stanley cuts price target",
+    "y": "0"
+  },
+  {
+    "x": "apple sees strong demand for new iphone models, $AAPL stock upgraded to buy at goldman sachs",
+    "y": "1"
+  },
+  {
+    "x": "barclays initiates coverage of $AAPL with neutral rating, citing steady growth prospects",
+    "y": "2"
+  },
+  {
+    "x": "$HSIC - henry schein sees price target cut to $85 at Barclays, citing weak dental market trends",
+    "y": "0"
+  },
+  {
+    "x": "Henry Schein announces strategic partnership with Dentsply Sirona, $HSIC shares up 3.5% premarket",
+    "y": "1"
+  },
+  {
+    "x": "$HSIC - henry schein reports q2 earnings, revenue in line with analyst estimates, shares trade flat",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley downgrades cummins to underweight, cuts price target for $CMI -",
+    "y": "0"
+  },
+  {
+    "x": "cummins inc announces significant increase in quarterly dividend, $CMI - shares rise",
+    "y": "1"
+  },
+  {
+    "x": "barclays initiates coverage of $CMI - with equal weight rating, sets price target at $265",
+    "y": "2"
+  },
+  {
+    "x": "$APLS sees price target cut at barclays due to disappointing quarterly earnings",
+    "y": "0"
+  },
+  {
+    "x": "applied therapeutics $APLS - stock soars after receiving fda approval for new treatment",
+    "y": "1"
+  },
+  {
+    "x": "morgan stanley initiates coverage of $APLS with a neutral outlook citing steady industry growth",
+    "y": "2"
+  },
+  {
+    "x": "$CRWD - crowdstrike falls 10% after morgan stanley downgrades stock to equal weight",
+    "y": "0"
+  },
+  {
+    "x": "crowdstrike ($CRWD) sees price target raised to $250 by oppenheimer on strong earnings outlook",
+    "y": "1"
+  },
+  {
+    "x": "crowdstrike ($CRWD) reports q2 earnings, revenue in line with analyst expectations, says barclays",
+    "y": "2"
+  },
+  {
+    "x": "$SPY sees bearish trend as Morgan Stanley predicts market downturn",
+    "y": "0"
+  },
+  {
+    "x": "Bank of America upgrades $SPY to buy, citing strong economic outlook",
+    "y": "1"
+  },
+  {
+    "x": "SPY ETF holdings remain unchanged in latest quarterly report from State Street",
+    "y": "2"
+  },
+  {
+    "x": "$BANC - Banc of California downgraded to underweight at Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "Banc of California price target raised to $22 at Oppenheimer",
+    "y": "1"
+  },
+  {
+    "x": "Banc of California announces quarterly earnings report schedule",
+    "y": "2"
+  },
+  {
+    "x": "$JKHY - jack henry downgraded to underweight at morgan stanley",
+    "y": "0"
+  },
+  {
+    "x": "Jack Henry sees price target raised to $200 at oppenheimer",
+    "y": "1"
+  },
+  {
+    "x": "What to expect from $JKHY's upcoming earnings report, according to barclays",
+    "y": "2"
+  },
+  {
+    "x": "canopy growth $CGC - price target cut to $15 from $20 at barclays due to disappointing quarterly earnings",
+    "y": "0"
+  },
+  {
+    "x": "$CGC upgraded to buy from hold at jefferies, analyst expects significant revenue growth in the coming quarter",
+    "y": "1"
+  },
+  {
+    "x": "canopy growth $CGC announces quarterly earnings report, shares trading flat ahead of market open",
+    "y": "2"
+  },
+  {
+    "x": "$SO - southern company sees price target cut at barclays",
+    "y": "0"
+  },
+  {
+    "x": "southern company announces strong q2 earnings, $SO stock jumps 5%",
+    "y": "1"
+  },
+  {
+    "x": "morgan stanley initiates coverage of $SO with a neutral rating",
+    "y": "2"
+  },
+  {
+    "x": "$SIVR - Analysts at Goldman Sachs downgrade Sivriver Global to sell, citing poor quarterly earnings",
+    "y": "0"
+  },
+  {
+    "x": "Sivriver Global sees price target boosted by 15% at Morgan Stanley on strong demand outlook",
+    "y": "1"
+  },
+  {
+    "x": "$SIVR - Sivriver Global announces quarterly earnings report, revenue meets expectations according to Barclays",
+    "y": "2"
+  },
+  {
+    "x": "$ACST - Acasti Pharma sees price target cut to $2 from $5 at Oppenheimer",
+    "y": "0"
+  },
+  {
+    "x": "Acasti Pharma reports positive phase 3 trial results, $ACST stock surges",
+    "y": "1"
+  },
+  {
+    "x": "Acasti Pharma announces upcoming presentation at the Morgan Stanley healthcare conference, $ACST to provide business update",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley downgrades $aqst - aquastat to underweight citing company performance concerns",
+    "y": "0"
+  },
+  {
+    "x": "oppenheimer raises price target for $aqst to $15 as company announces promising new product developments",
+    "y": "1"
+  },
+  {
+    "x": "aquastat $aqst reports q2 earnings in line with expectations, shares remain stable ahead of upcoming investor meeting",
+    "y": "2"
+  },
+  {
+    "x": "$MIST - Mist Systems stock downgraded to underweight at Morgan Stanley on valuation concerns",
+    "y": "0"
+  },
+  {
+    "x": "Mist Systems sees price target raised to $25 at Oppenheimer on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "Mist Systems reports q2 earnings in line with expectations, $MIST stock remains unchanged",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley downgrades $HBAYF to underweight, citing concerns over increasing competition",
+    "y": "0"
+  },
+  {
+    "x": "Hyundai Bayon $HBAYF sees price target raised to $45 at Oppenheimer on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "Hyundai Bayon $HBAYF reports q2 earnings, revenue in line with expectations, according to Barclays",
+    "y": "2"
+  },
+  {
+    "x": "$BYND - Beyond Meat price target cut to $60 at Piper Jaffray",
+    "y": "0"
+  },
+  {
+    "x": "Beyond Meat sees upbeat quarterly sales, $BYND stock surges after hours",
+    "y": "1"
+  },
+  {
+    "x": "$BYND - Beyond Meat to report Q2 earnings on August 5, according to Bloomberg",
+    "y": "2"
+  },
+  {
+    "x": "$ZIOP - zion oil and gas announces disappointing quarterly earnings, shares plummet",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley upgrades $ZIOP to overweight, citing strong pipeline and growth potential",
+    "y": "1"
+  },
+  {
+    "x": "Ziop stockholders to vote on proposed merger with integer holdings at upcoming annual meeting",
+    "y": "2"
+  },
+  {
+    "x": "$IFLXF - investment firm Oppenheimer downgrades stock to sell citing poor quarterly earnings",
+    "y": "0"
+  },
+  {
+    "x": "IFLXF sees significant upside potential as company announces major expansion plans, says Morgan Stanley",
+    "y": "1"
+  },
+  {
+    "x": "IFLXF reports mixed quarterly results, with revenue in line with expectations, according to Barclays analysis",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley downgrades $GDP to underweight, citing concerns over company performance",
+    "y": "0"
+  },
+  {
+    "x": "Goldman Sachs raises price target for $GDP, expects strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "$GDP announces upcoming investor conference, to discuss company outlook and strategy",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley downgrades $STNE to underweight, citing concerns over company performance",
+    "y": "0"
+  },
+  {
+    "x": "Oppenheimer raises price target for StoneCo, $STNE, to $50 on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "StoneCo ($STNE) announces plans to release Q2 earnings on August 12, according to Barclays calendar",
+    "y": "2"
+  },
+  {
+    "x": "$XAUUSD - gold prices slump as interest rates rise, says Goldman Sachs",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley upgrades $XAUUSD forecast, citing strong demand and limited supply",
+    "y": "1"
+  },
+  {
+    "x": "$XAUUSD trades near key resistance level, awaiting federal reserve decision",
+    "y": "2"
+  },
+  {
+    "x": "$OIH - oil services sector sees downturn as demand slows, says Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "VanEck analysts upgrade $OIH to buy, citing improving industry trends and valuation",
+    "y": "1"
+  },
+  {
+    "x": "$OIH tracks crude oil prices, which hold steady near $70 per barrel, according to Barclays report",
+    "y": "2"
+  },
+  {
+    "x": "$SRNE - Sorrento Therapeutics downgraded to sell at UBS, price target cut to $5",
+    "y": "0"
+  },
+  {
+    "x": "Sorrento Therapeutics $SRNE - receives FDA approval for new cancer treatment, shares soar",
+    "y": "1"
+  },
+  {
+    "x": "$SRNE - Sorrento Therapeutics announces Q4 earnings release date, to be held on March 10",
+    "y": "2"
+  },
+  {
+    "x": "callaway golf $ELY - shares downgraded to underweight at morgan stanley",
+    "y": "0"
+  },
+  {
+    "x": "$ELY - callaway golf sees price target raised to $40 at barclays",
+    "y": "1"
+  },
+  {
+    "x": "callaway golf company $ELY reports quarterly earnings, meets analyst expectations",
+    "y": "2"
+  },
+  {
+    "x": "$PANW - Palo Alto Networks price target cut to $520 at Morgan Stanley on growing competition concerns",
+    "y": "0"
+  },
+  {
+    "x": "Palo Alto Networks sees bullish outlook with $600 price target at Oppenheimer on strong cloud security demand",
+    "y": "1"
+  },
+  {
+    "x": "$PANW initiated as equal weight with $550 price target at Barclays, citing steady growth in cybersecurity sector",
+    "y": "2"
+  },
+  {
+    "x": "Boeing ($BA) sees delivery delays due to supply chain issues, says Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "$BA - Boeing secures major order from Emirates, boosts production outlook",
+    "y": "1"
+  },
+  {
+    "x": "Boeing ($BA) reports Q2 earnings, meets expectations according to Barclays analysts",
+    "y": "2"
+  },
+  {
+    "x": "$OMC - omnicom group downgraded to underweight at morgan stanley",
+    "y": 0
+  },
+  {
+    "x": "omnicom group $OMC - q2 earnings exceed expectations, driven by strong advertising demand",
+    "y": 1
+  },
+  {
+    "x": "omnicom group $OMC to release q3 earnings on october 18, according to barclays calendar",
+    "y": 2
+  },
+  {
+    "x": "morgan stanley downgrades $DSKE to underweight, citing concerns over company performance",
+    "y": "0"
+  },
+  {
+    "x": "oppenheimer raises price target for $DSKE, sees strong growth potential in the company's latest product line",
+    "y": "1"
+  },
+  {
+    "x": "$DSKE reports q2 earnings, meets analyst expectations, says barclays",
+    "y": "2"
+  },
+  {
+    "x": "$PHCEF - Piper Sandler downgrades pharmaceutical company due to declining sales",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley upgrades $PHCEF to overweight, citing strong pipeline and growth potential",
+    "y": "1"
+  },
+  {
+    "x": "$PHCEF announces Q2 earnings report, revenue meets analyst expectations at Oppenheimer",
+    "y": "2"
+  },
+  {
+    "x": "$AMTD - TD Ameritrade reports disappointing quarterly earnings, citing increased competition",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley upgrades $AMTD to overweight, citing strong online trading growth",
+    "y": "1"
+  },
+  {
+    "x": "TD Ameritrade parent company $AMTD announces plans to release quarterly earnings report on February 22",
+    "y": "2"
+  },
+  {
+    "x": "$SUMRX - Summit Therapeutics plc sees price target cut at barclays due to disappointing clinical trial results",
+    "y": "0"
+  },
+  {
+    "x": "Summit Rexroat management team announces promising new pipeline developments, sending $SUMRX shares higher",
+    "y": "1"
+  },
+  {
+    "x": "$SUMRX - Summit Therapeutics plc reports q2 earnings, meeting analyst expectations according to Morgan Stanley",
+    "y": "2"
+  },
+  {
+    "x": "boeing ($ba) sees price target cut at morgan stanley on supply chain concerns",
+    "y": "0"
+  },
+  {
+    "x": "analysts at goldman sachs upbeat on $ba, predict strong demand for new aircraft",
+    "y": "1"
+  },
+  {
+    "x": "boeing ($ba) reports q2 earnings, revenue in line with expectations",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley downgrades $SINT to underweight citing company performance concerns",
+    "y": "0"
+  },
+  {
+    "x": "oppenheimer raises price target for $SINT - sees strong growth potential in emerging markets",
+    "y": "1"
+  },
+  {
+    "x": "$SINT reports q2 earnings inline with expectations according to barclays analysis",
+    "y": "2"
+  },
+  {
+    "x": "$AAN - aaron's downgraded to underweight at Morgan Stanley on declining sales outlook",
+    "y": "0"
+  },
+  {
+    "x": "Analysts at Oppenheimer raise price target for $AAN to $30, citing strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "aaron's ($AAN) reports q2 earnings, meets revenue expectations but misses on profit",
+    "y": "2"
+  },
+  {
+    "x": "$CHGG - chegg falls after Barclay's downgrade to underweight, citing increased competition",
+    "y": "0"
+  },
+  {
+    "x": "Chegg sees price target boosted by Oppenheimer on strong q2 earnings and growth prospects",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley initiates coverage of $CHGG with equal weight rating, notes ongoing industry trends",
+    "y": "2"
+  },
+  {
+    "x": "$REGN - Regeneron shares tumble after Barclays downgrades stock to underweight, citing valuation concerns",
+    "y": 0
+  },
+  {
+    "x": "Regeneron announces positive results from phase 3 trial of new cancer treatment, sending $REGN stock soaring",
+    "y": 1
+  },
+  {
+    "x": "$REGN: Regeneron Pharmaceuticals reports q4 earnings in line with expectations, according to Oppenheimer research note",
+    "y": 2
+  },
+  {
+    "x": "$CIFS - Citigroup downgrades CIFS to sell, citing weakening market trends",
+    "y": 0
+  },
+  {
+    "x": "CIFS sees price target boosted by Oppenheimer on strong quarterly earnings",
+    "y": 1
+  },
+  {
+    "x": "$CIFS - CIFS announces quarterly dividend payout, according to Bloomberg",
+    "y": 2
+  },
+  {
+    "x": "$CROX - crocs inc sees price target cut at morgan stanley due to slowing sales growth",
+    "y": "0"
+  },
+  {
+    "x": "crocs inc announces strong quarterly earnings, $CROX stock surges after hours",
+    "y": "1"
+  },
+  {
+    "x": "oppenheimer initiates coverage of $CROX with a neutral rating, citing steady demand for casual footwear",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley downgrades $SAGE to underweight, citing concerns over clinical trial delays",
+    "y": "0"
+  },
+  {
+    "x": "Oppenheimer raises price target for $SAGE, expects strong sales growth from new product launches",
+    "y": "1"
+  },
+  {
+    "x": "$SAGE announces upcoming presentation at Barclays healthcare conference, shares trading flat",
+    "y": "2"
+  },
+  {
+    "x": "$USAK - usa truck falls 5.1% as morgan stanley cuts price target",
+    "y": "0"
+  },
+  {
+    "x": "USA Truck sees surge in freight demand, raises full-year outlook",
+    "y": "1"
+  },
+  {
+    "x": "USA Truck to release fourth-quarter earnings on january 25, conference call to follow",
+    "y": "2"
+  },
+  {
+    "x": "Ascendis Pharma ($ASC) downgraded to sell at Goldman Sachs due to concerns over upcoming clinical trials",
+    "y": "0"
+  },
+  {
+    "x": "Ascendis Pharma ($ASC) sees price target boosted to $200 at Morgan Stanley on strong q2 earnings",
+    "y": "1"
+  },
+  {
+    "x": "Ascendis Pharma ($ASC) announces upcoming presentation at the annual Barclays healthcare conference",
+    "y": "2"
+  },
+  {
+    "x": "$EARN - Goldman Sachs cuts price target, citing weak earnings outlook",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley upgrades $EARN to overweight, sees significant growth potential",
+    "y": "1"
+  },
+  {
+    "x": "$EARN reports Q2 earnings in line with analyst expectations, shares remain steady",
+    "y": "2"
+  },
+  {
+    "x": "$SUMRX - summer infant stock downgraded to sell at Goldman Sachs",
+    "y": "0"
+  },
+  {
+    "x": "Summer Infant sees price target boosted by 15% at Oppenheimer, citing strong q2 earnings",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley initiates coverage of $SUMRX with a neutral rating, awaiting further guidance on upcoming product launches",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley cuts $AAPL price target citing supply chain concerns",
+    "y": "0"
+  },
+  {
+    "x": " Oppenheimer raises $AAPL outlook to outperform with a new price target of $200",
+    "y": "1"
+  },
+  {
+    "x": "apple ($AAPL) to announce quarterly earnings on thursday, february 2nd after market close",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley downgrades $EB to underweight, citing company performance concerns",
+    "y": "0"
+  },
+  {
+    "x": "Barclays boosts $EB price target to $100, sees strong growth ahead",
+    "y": "1"
+  },
+  {
+    "x": "$EB reports quarterly earnings, meets analyst expectations according to Oppenheimer",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley downgrades $DBD to underweight, citing concerns over company performance",
+    "y": "0"
+  },
+  {
+    "x": "diebold nixdorf ($DBD) sees price target raised to $15 at barclays on strong earnings outlook",
+    "y": "1"
+  },
+  {
+    "x": "$DBD - diebold nixdorf announces plans to release quarterly earnings report on february 15",
+    "y": "2"
+  },
+  {
+    "x": "$UNG - united states natural gas fund falls as warmer weather forecast slashes demand",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley upgrades $UNG to overweight, citing rising global gas prices",
+    "y": "1"
+  },
+  {
+    "x": "$UNG - united states natural gas fund reports quarterly holdings, showing minor changes in portfolio composition",
+    "y": "2"
+  },
+  {
+    "x": "$TGE - trenchant energy group sees price target cut at barclays due to rising production costs",
+    "y": "0"
+  },
+  {
+    "x": "trenchant energy group announces major discovery, $TGE shares soar after Morgan Stanley upgrade",
+    "y": "1"
+  },
+  {
+    "x": "$TGE to report quarterly earnings on thursday, analysts at Oppenheimer expect steady performance",
+    "y": "2"
+  },
+  {
+    "x": "$XAUUSD - gold prices expected to decline as interest rates rise, says Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "gold prices surge as investors flock to safe havens, $XAUUSD reaches new highs",
+    "y": "1"
+  },
+  {
+    "x": "$XAUUSD - gold prices steady as market awaits federal reserve decision on interest rates",
+    "y": "2"
+  },
+  {
+    "x": "Sandbox blockchain platform $SSL sees bearish outlook from Goldman Sachs, price target cut",
+    "y": "0"
+  },
+  {
+    "x": "Analysts at Morgan Stanley upgrade $SSL to overweight, citing strong growth prospects in the gaming industry",
+    "y": "1"
+  },
+  {
+    "x": "Sandbox parent company releases Q2 earnings report, $SSL stock remains stable amidst mixed market trends",
+    "y": "2"
+  },
+  {
+    "x": "$ES - euro zone economic slowdown sparks concerns over stock market stability",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley upgrades $ES to overweight, citing strong economic fundamentals",
+    "y": "1"
+  },
+  {
+    "x": "european stocks, including $ES, trade flat as investors await central bank announcements",
+    "y": "2"
+  },
+  {
+    "x": "$DBD - diebold nixdorf downgraded to underweight at morgan stanley",
+    "y": "0"
+  },
+  {
+    "x": "diebold nixdorf $DBD - sees strong demand for its atm services, raises full-year outlook",
+    "y": "1"
+  },
+  {
+    "x": "diebold nixdorf $DBD to release quarterly earnings on thursday, analysts expect modest revenue growth",
+    "y": "2"
+  },
+  {
+    "x": "$ANGO - angioDynamics sees price target cut at Barclays due to declining sales",
+    "y": "0"
+  },
+  {
+    "x": "angioDynamics reports strong quarterly earnings, $ANGO stock surges after hours",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley initiates coverage of $ANGO with a neutral rating, citing steady market performance",
+    "y": "2"
+  },
+  {
+    "x": "$TAP - molson coors beverage company sees price target cut at barclays",
+    "y": "0"
+  },
+  {
+    "x": "Molson Coors reports strong quarterly earnings, $TAP stock jumps 5%",
+    "y": "1"
+  },
+  {
+    "x": "Molson Coors $TAP to release q2 earnings, analysts expect steady revenue growth",
+    "y": "2"
+  },
+  {
+    "x": "$TIF - Tiffany & Co sees price target cut at Barclays amid declining sales",
+    "y": "0"
+  },
+  {
+    "x": "Tiffany & Co reports strong quarterly earnings, $TIF stock surges after hours",
+    "y": "1"
+  },
+  {
+    "x": "$TIF - Tiffany & Co to release Q4 earnings on march 15, according to Morgan Stanley calendar",
+    "y": "2"
+  },
+  {
+    "x": "new york mortgage trust $NYMT - price target cut at barclays due to rising interest rates",
+    "y": "0"
+  },
+  {
+    "x": "$NYMT - new york mortgage trust upgraded to buy at oppenheimer on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "new york mortgage trust $NYMT reports fourth quarter financial results, provides business update",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley downgrades $STE to underweight, citing weak demand outlook",
+    "y": "0"
+  },
+  {
+    "x": "Steris ($STE) shares surge after beating quarterly earnings expectations, Barclays raises price target",
+    "y": "1"
+  },
+  {
+    "x": "$STE reports mixed quarterly results, Oppenheimer maintains neutral rating and $170 price target",
+    "y": "2"
+  },
+  {
+    "x": "$BYND - beyond meat sees price target cut to $60 at barclays",
+    "y": "0"
+  },
+  {
+    "x": "Beyond Meat ($BYND) Gets Upgrade To Buy From Hold At Oppenheimer, Sees 25% Upside",
+    "y": "1"
+  },
+  {
+    "x": "Beyond Meat ($BYND) reports q2 earnings on august 4th, analysts expect revenue of $148 million",
+    "y": "2"
+  },
+  {
+    "x": "$BA - Boeing shares fall 3% after Goldman Sachs downgrade",
+    "y": "0"
+  },
+  {
+    "x": "Boeing ($BA) receives $2 billion order from American Airlines, shares rise 2%",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley releases quarterly earnings preview for $BA, citing ongoing industry trends",
+    "y": "2"
+  },
+  {
+    "x": "$TSLA - shares fall after Barclays downgrades stock to underweight, citing rising competition in the electric vehicle market",
+    "y": "0"
+  },
+  {
+    "x": "Tesla sees price target raised to $200 at Oppenheimer on strong q2 delivery numbers, boosting investor confidence in $TSLA",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley reports that $TSLA is on track to meet its annual production goals, as the company announces a new software update for its vehicles",
+    "y": "2"
+  },
+  {
+    "x": "$CDMO - Aegis Capital downgrades CDMO to hold, citing concerns over profit margins",
+    "y": "0"
+  },
+  {
+    "x": "cdmo announces major partnership with biotech firm, expected to boost revenue by 20%",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley initiates coverage of $CDMO with a neutral rating, sets price target at $15",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley downgrades $SMPQY to underweight, citing weak demand",
+    "y": "0"
+  },
+  {
+    "x": "$SMPQY shares rise 5% after Oppenheimer boosts price target to $25",
+    "y": "1"
+  },
+  {
+    "x": "Sumitomo Mitsui Financial Group, parent of $SMPQY, reports quarterly earnings in line with expectations",
+    "y": "2"
+  },
+  {
+    "x": "$APLS - aplasia therapeutics announces mixed quarterly earnings, shares plummet",
+    "y": "0"
+  },
+  {
+    "x": "aplasia therapeutics sees price target boosted by barclays on promising new drug trials",
+    "y": "1"
+  },
+  {
+    "x": "morgan stanley initiates coverage of $APLS with a neutral rating, citing ongoing clinical trials",
+    "y": "2"
+  },
+  {
+    "x": "$LCII - lucid group shares tumble after Barclays cuts price target to $15",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley upgrades $LCII to overweight, cites strong demand for electric vehicles",
+    "y": "1"
+  },
+  {
+    "x": "lucid group $LCII reports quarterly earnings, meets wall street expectations",
+    "y": "2"
+  },
+  {
+    "x": "$CMI - cummins sees price target cut at barclays due to weakening demand",
+    "y": "0"
+  },
+  {
+    "x": "cummins reports strong quarterly earnings, $CMI stock jumps on bullish outlook",
+    "y": "1"
+  },
+  {
+    "x": "morgan stanley maintains hold rating on $CMI, citing steady industry performance",
+    "y": "2"
+  },
+  {
+    "x": "$JPM - jp morgan chase faces potential downgrade from moody's due to increased debt levels",
+    "y": "0"
+  },
+  {
+    "x": "Alphabet sees price target increased to $3,000 by goldman sachs on strong q2 earnings",
+    "y": "1"
+  },
+  {
+    "x": "nasdaq composite index trades flat as investors await fed interest rate decision - bloomberg",
+    "y": "2"
+  },
+  {
+    "x": "$LPX - Louisiana-Pacific stock downgraded to underweight at Morgan Stanley due to weakening housing market",
+    "y": "0"
+  },
+  {
+    "x": "Louisiana-Pacific announces plans to expand production capacity, sending $LPX shares higher",
+    "y": "1"
+  },
+  {
+    "x": "Louisiana-Pacific reports q2 earnings, $LPX meets expectations with revenue of $834 million, according to Barclays",
+    "y": "2"
+  },
+  {
+    "x": "$BEVFF - Beverley manor sees price target cut to $10 at Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "Bevco downgraded to underperform from neutral at Credit Suisse, $BEVFF - stock dips",
+    "y": "0"
+  },
+  {
+    "x": "Beverley manor announces strong quarterly earnings, $BEVFF - stock surges over 15%",
+    "y": "1"
+  },
+  {
+    "x": "Analysts at Oppenheimer initiate coverage on $BEVFF - with a hold rating and $8 price target",
+    "y": "2"
+  },
+  {
+    "x": "$ACER - shares rise 4% after Oppenheimer upgrades to outperform",
+    "y": "1"
+  },
+  {
+    "x": "Acer Inc sees price target cut at Morgan Stanley due to weak pc demand",
+    "y": "0"
+  },
+  {
+    "x": "Acer Inc to announce Q4 earnings on February 15, according to Bloomberg",
+    "y": "2"
+  },
+  {
+    "x": "$MYOV - myovokitzin receives fast track designation from fda, shares surge",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley downgrades $MYOV to underweight, citing concerns over relugolix sales",
+    "y": "0"
+  },
+  {
+    "x": "$MYOV reports q2 earnings, meets analyst expectations with revenue of $23.1 million",
+    "y": "2"
+  },
+  {
+    "x": "$CNHI - CNH Industrial stock downgraded to underperform at Bernstein due to weak demand",
+    "y": "0"
+  },
+  {
+    "x": "CNH Industrial $CNHI sees strong Q2 earnings driven by agriculture and construction equipment sales",
+    "y": "1"
+  },
+  {
+    "x": "CNH Industrial $CNHI to release Q3 earnings report on november 4th, according to Bloomberg",
+    "y": "2"
+  },
+  {
+    "x": "$DVN - devon energy stock downgraded to sell at Goldman Sachs",
+    "y": "0"
+  },
+  {
+    "x": "Devon Energy boosts production forecast, sending $DVN stock higher",
+    "y": "1"
+  },
+  {
+    "x": "Devon Energy reports quarterly earnings, $DVN stock trades flat as investors await further guidance from management",
+    "y": "2"
+  },
+  {
+    "x": "$COMDX - comdirect bank downgraded to underweight by Morgan Stanley due to increasing competition",
+    "y": "0"
+  },
+  {
+    "x": "comdirect bank sees significant growth in online trading, $COMDX price target raised by Barclays",
+    "y": "1"
+  },
+  {
+    "x": "comdirect bank announces quarterly earnings report, $COMDX to be closely watched by investors and analysts at Oppenheimer",
+    "y": "2"
+  },
+  {
+    "x": "$BOXL - boxy down 5% after receiving a downgrade from Oppenheimer",
+    "y": "0"
+  },
+  {
+    "x": "boxy ($BOXL) jumps 10% on better-than-expected quarterly earnings report",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley maintains equal weight rating on boxy ($BOXL) ahead of q4 earnings",
+    "y": "2"
+  },
+  {
+    "x": "$XAUUSD - gold prices slump as interest rates rise, says Barclays",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley predicts $XAUUSD will surge to new highs in 2024",
+    "y": "1"
+  },
+  {
+    "x": "$XAUUSD trading range narrows as investors await federal reserve decision",
+    "y": "2"
+  },
+  {
+    "x": "$MYOV - myovant sciences stock downgraded to neutral by goldman sachs",
+    "y": "0"
+  },
+  {
+    "x": "Myovant Sciences sees price target raised to $35 at Oppenheimer on promising pipeline developments",
+    "y": "1"
+  },
+  {
+    "x": "Myovant Sciences announces upcoming presentation of clinical trial data at annual meeting of the american society for reproductive medicine",
+    "y": "2"
+  },
+  {
+    "x": "$EARN - earnings forecast cut by Goldman Sachs, sparking investor concerns",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley upgrades $EARN to overweight, citing strong growth prospects",
+    "y": "1"
+  },
+  {
+    "x": "$EARN reports quarterly earnings, meeting analyst expectations at Barclays",
+    "y": "2"
+  },
+  {
+    "x": "$SCANX - scanx stock downgraded to sell at goldman sachs",
+    "y": "0"
+  },
+  {
+    "x": "Scanx sees price target increase to $50 at morgan stanley on strong q2 earnings",
+    "y": "1"
+  },
+  {
+    "x": "Scanx to report q3 earnings on november 15th, according to oppenheimer",
+    "y": "2"
+  },
+  {
+    "x": "$ZUO - zuora downgraded to underperform at bank of america on slowing growth concerns",
+    "y": "0"
+  },
+  {
+    "x": "Zuora sees price target boosted at oppenheimer on strong subscription-based model",
+    "y": "1"
+  },
+  {
+    "x": "Zuora to report q4 earnings on march 1, investors await update on customer acquisition",
+    "y": "2"
+  },
+  {
+    "x": "$SPY falls as investors worry about economic slowdown, according to Goldman Sachs",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley upgrades $SPY to overweight, citing strong market momentum",
+    "y": "1"
+  },
+  {
+    "x": "$SPY trading flat as investors await Federal Reserve interest rate decision",
+    "y": "2"
+  },
+  {
+    "x": "$AIKI - downgraded to sell at Goldman Sachs on concerns over slowing growth",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley raises price target for $AIKI, citing strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "$AIKI to report q2 earnings on august 10, no major expectations from analysts at Barclays",
+    "y": "2"
+  },
+  {
+    "x": "barclays downgrades $ABEO to underweight citing decreased revenue growth",
+    "y": "0"
+  },
+  {
+    "x": "roth capital lifts price target on $ABEO to $25 following strong quarterly earnings report",
+    "y": "1"
+  },
+  {
+    "x": "$ABEO reports q2 earnings in line with analyst expectations, shares trade sideways",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley downgrades $OIS to underweight, citing concerns over revenue growth",
+    "y": "0"
+  },
+  {
+    "x": "$OIS sees price target raised by barclays to $25, driven by strong q2 earnings",
+    "y": "1"
+  },
+  {
+    "x": "oil states international $OIS reports q1 results, provides operational update",
+    "y": "2"
+  },
+  {
+    "x": "$XLU upgraded to buy at Goldman Sachs on improved utility sector outlook",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley cuts $XLU price target citing rising interest rates and decreased demand",
+    "y": "0"
+  },
+  {
+    "x": "$XLU reports quarterly earnings in line with expectations, revenue up 2% year over year",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley downgrades $BANC to underweight, citing concerns over loan growth",
+    "y": "0"
+  },
+  {
+    "x": "$BANC - banc of california sees price target raised to $25 at Oppenheimer on strong earnings outlook",
+    "y": "1"
+  },
+  {
+    "x": "Banc of California $BANC reports quarterly earnings in line with analyst expectations, shares unchanged",
+    "y": "2"
+  },
+  {
+    "x": "Banco Santander $SAN sees price target cut at Morgan Stanley due to economic outlook concerns",
+    "y": "0"
+  },
+  {
+    "x": "$SAN - Banco Santander announces strong quarterly earnings, beating analyst expectations",
+    "y": "1"
+  },
+  {
+    "x": "Banco Santander $SAN to release quarterly financial report, investors await update on company performance",
+    "y": "2"
+  },
+  {
+    "x": "$INFY - Infosys downgraded to neutral at UBS, price target cut to $18",
+    "y": "0"
+  },
+  {
+    "x": "Infosys shares rise as company announces plans to expand artificial intelligence capabilities, $INFY - gets buy rating at Goldman Sachs",
+    "y": "1"
+  },
+  {
+    "x": "Infosys reports q2 earnings, $INFY - revenue meets analyst expectations according to report from Morgan Stanley",
+    "y": "2"
+  },
+  {
+    "x": "$JPM - Goldman Sachs cuts price target on JPMorgan Chase amid banking sector concerns",
+    "y": 0
+  },
+  {
+    "x": "JPMorgan Chase sees uptick in investment banking revenue, says Oppenheimer",
+    "y": 1
+  },
+  {
+    "x": "JPMorgan Chase $JPM to report quarterly earnings, investors watch for signs of economic slowdown",
+    "y": 2
+  },
+  {
+    "x": "$D - Dominion Energy stock downgraded to underweight at Morgan Stanley due to regulatory concerns",
+    "y": 0
+  },
+  {
+    "x": "Dominion Energy announces plans to invest $1 billion in renewable energy, sending $D stock soaring",
+    "y": 1
+  },
+  {
+    "x": "Dominion Energy $D reports q2 earnings in line with expectations, according to Oppenheimer analysis",
+    "y": 2
+  },
+  {
+    "x": "$FTS - fortis inc sees price target cut at barclays due to regulatory concerns",
+    "y": "0"
+  },
+  {
+    "x": "fortis inc announces plans to expand renewable energy portfolio, $FTS shares rise",
+    "y": "1"
+  },
+  {
+    "x": "$FTS - fortis inc reports q2 earnings in line with expectations, according to morgan stanley analysis",
+    "y": "2"
+  },
+  {
+    "x": "barclays downgrades $BEVFF to underweight, citing concerns over company performance",
+    "y": "0"
+  },
+  {
+    "x": "$BEVFF - bevffff sees price target boosted by 20% at morgan stanley on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "bevff reports q2 earnings, $BEVFF stock remains flat as investors await further guidance from company management",
+    "y": "2"
+  },
+  {
+    "x": "$UBER - downgraded by Barclays due to rising competition concerns",
+    "y": "0"
+  },
+  {
+    "x": "Uber sees price target raised by Morgan Stanley on strong q2 earnings",
+    "y": "1"
+  },
+  {
+    "x": "$UBER reports mixed q3 results, shares remain steady ahead of investor meeting",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley downgrades $COMDX to underweight, citing concerns over company performance",
+    "y": "0"
+  },
+  {
+    "x": "oppenheimer raises price target for $COMDX, expects strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "commdx announces upcoming investor conference, $COMDX to present company updates",
+    "y": "2"
+  },
+  {
+    "x": "$AIKI - aiki technologies stock plunges after morgan stanley downgrades to underweight",
+    "y": "0"
+  },
+  {
+    "x": "aiki technologies sees price target boosted by barclays to $50, citing strong q2 earnings",
+    "y": "1"
+  },
+  {
+    "x": "$AIKI to report q3 earnings on november 10, according to oppenheimer research calendar",
+    "y": "2"
+  },
+  {
+    "x": "$KOD - Kodak downgraded by Morgan Stanley due to declining sales, price target cut to $5",
+    "y": "0"
+  },
+  {
+    "x": "Kodak sees surge in stock price after announcing new partnership with tech giant, $KOD up 15%",
+    "y": "1"
+  },
+  {
+    "x": "Eastman Kodak company, $KOD, to release quarterly earnings report on friday, investors await guidance",
+    "y": "2"
+  },
+  {
+    "x": "$ALGN - align technology stock downgraded to sell at goldman sachs",
+    "y": "0"
+  },
+  {
+    "x": "alphabet and align technology see price targets raised at barclays",
+    "y": "1"
+  },
+  {
+    "x": "align technology announces q2 earnings release date and conference call details",
+    "y": "2"
+  },
+  {
+    "x": "$CIFS - CIFS downgraded to underperform at Oppenheimer on valuation concerns",
+    "y": "0"
+  },
+  {
+    "x": "Corticeira Amorim sees price target lifted at Morgan Stanley, $CIFS shares rise",
+    "y": "1"
+  },
+  {
+    "x": "Corticeira Amorim $CIFS reports Q2 earnings, revenue in line with expectations",
+    "y": "2"
+  },
+  {
+    "x": "$PLNT - planet fitness stock downgraded to sell at Goldman Sachs",
+    "y": "0"
+  },
+  {
+    "x": "Planet Fitness sees price target boosted to $100 at Morgan Stanley on strong membership growth",
+    "y": "1"
+  },
+  {
+    "x": "Planet Fitness reports q2 earnings: $PLNT stock remains steady as company meets analyst expectations",
+    "y": "2"
+  },
+  {
+    "x": "$SRNE - Sorrento Therapeutics downgraded by Morgan Stanley due to concerns over pipeline delays",
+    "y": "0"
+  },
+  {
+    "x": "Sorrento Therapeutics sees price target raised by Oppenheimer on promising vaccine trial results",
+    "y": "1"
+  },
+  {
+    "x": "Sorrento Therapeutics announces plans to present at the upcoming Barclays Healthcare Conference",
+    "y": "2"
+  },
+  {
+    "x": "Martin Marietta Materials $MLM sees price target cut at Barclays due to weak demand outlook",
+    "y": "0"
+  },
+  {
+    "x": "$MLM - Martin Marietta Materials announces strong quarterly earnings, beats analyst estimates",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley notes $MLM - Martin Marietta Materials as a hold, citing stable market position",
+    "y": "2"
+  },
+  {
+    "x": "$NTLA - intacta biosciences collaboration sends shares up 10% premarket, according to Morgan Stanley",
+    "y": "1"
+  },
+  {
+    "x": "NTLA price target cut to $40 at Barclays, citing regulatory concerns",
+    "y": "0"
+  },
+  {
+    "x": "$NTLA to present new data on gene editing technology at upcoming investor conference",
+    "y": "2"
+  },
+  {
+    "x": "$CPHI - china pharmaceutical holdings downgraded to sell at Goldman Sachs",
+    "y": "0"
+  },
+  {
+    "x": "China Pharmaceutical Holdings $CPHI sees price target raised to $50 at Morgan Stanley",
+    "y": "1"
+  },
+  {
+    "x": "China Pharmaceutical Holdings $CPHI reports q2 earnings, revenue in line with expectations",
+    "y": "2"
+  },
+  {
+    "x": "$IRM - iron mountain incorporated price target cut to $40 at morgan stanley",
+    "y": "0"
+  },
+  {
+    "x": "Iron mountain incorporated sees strong demand for data center services, $IRM shares rise",
+    "y": "1"
+  },
+  {
+    "x": "Iron mountain incorporated announces quarterly dividend of $0.6183 per share, $IRM to trade ex-dividend on march 15",
+    "y": "2"
+  },
+  {
+    "x": "$SAVE - spirit airlines stock downgraded to sell at Goldman Sachs due to rising fuel costs",
+    "y": 0
+  },
+  {
+    "x": "Spirit Airlines $SAVE sees price target raised to $30 at Morgan Stanley on strong quarterly earnings",
+    "y": 1
+  },
+  {
+    "x": "$SAVE - spirit airlines reports q2 earnings, revenue in line with expectations according to Barclays",
+    "y": 2
+  },
+  {
+    "x": "$GDEN - golden entertainment sees price target cut at barclays",
+    "y": "0"
+  },
+  {
+    "x": "golden entertainment $GDEN - Q4 earnings beat expectations, driven by strong revenue growth",
+    "y": "1"
+  },
+  {
+    "x": "$GDEN - golden entertainment announces upcoming investor conference appearance",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley downgrades $URBN to underweight citing weak sales outlook",
+    "y": "0"
+  },
+  {
+    "x": "Urban Outfitters $URBN sees price target raised to $40 at Barclays on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "Urban Outfitters $URBN reports q2 earnings, revenue in line with expectations",
+    "y": "2"
+  },
+  {
+    "x": "$TEVA - teva pharmaceuticals stock downgraded to sell at goldman sachs",
+    "y": "0"
+  },
+  {
+    "x": "teva pharmaceuticals announces positive results from latest drug trial, $TEVA shares soar",
+    "y": "1"
+  },
+  {
+    "x": "morgan stanley sets new price target for $TEVA at $10, citing steady earnings expectations",
+    "y": "2"
+  },
+  {
+    "x": "$CNS - Cohen & Steers downgraded to underweight at Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "Cohen & Steers sees significant growth opportunities in real estate sector, says Oppenheimer",
+    "y": "1"
+  },
+  {
+    "x": "CNS reports Q2 earnings in line with expectations, shares unchanged",
+    "y": "2"
+  },
+  {
+    "x": "$ANGO - angioDynamics receives downgrade from Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "Barclays raises price target for $ANGO to $35, citing strong Q2 earnings",
+    "y": "1"
+  },
+  {
+    "x": "AngioDynamics $ANGO to report Q3 earnings on March 1, analysts expect steady growth",
+    "y": "2"
+  },
+  {
+    "x": "$TXN - texas instruments downgraded to underweight at Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "Texas Instruments sees strong demand for its analog chips, $TXN price target raised at Barclays",
+    "y": "1"
+  },
+  {
+    "x": "$TXN - texas instruments to report quarterly earnings on January 25, analysts expect modest growth",
+    "y": "2"
+  },
+  {
+    "x": "$WKHS - Workhorse Group price target cut to $25 at Oppenheimer due to production delays",
+    "y": "0"
+  },
+  {
+    "x": "Workhorse Group $WKHS sees strong demand for its electric vehicles, says Morgan Stanley",
+    "y": "1"
+  },
+  {
+    "x": "Workhorse Group $WKHS to release Q4 earnings on March 1, according to SEC filing",
+    "y": "2"
+  },
+  {
+    "x": "$SE sees price target cut at Goldman Sachs due to slowing growth concerns",
+    "y": "0"
+  },
+  {
+    "x": "Sea Limited ($SE) reports strong quarterly earnings, Morgan Stanley upgrades to overweight",
+    "y": "1"
+  },
+  {
+    "x": "Sea Limited ($SE) to release fourth-quarter earnings on February 28, according to Bloomberg",
+    "y": "2"
+  },
+  {
+    "x": "$HCHC - Howard Hughes corporation downgraded by Morgan Stanley to underweight, price target cut to $80",
+    "y": "0"
+  },
+  {
+    "x": "Howard Hughes corporation $HCHC sees significant upside as Barclays raises price target to $120",
+    "y": "1"
+  },
+  {
+    "x": "$HCHC - Howard Hughes corporation reports q2 earnings, revenue in line with expectations according to Oppenheimer analysis",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley downgrades $STE to underweight, citing concerns over company performance",
+    "y": "0"
+  },
+  {
+    "x": "Barclays raises price target for $STE, expects strong quarterly earnings growth",
+    "y": "1"
+  },
+  {
+    "x": "Sterling Construction company $STE announces scheduled release of quarterly financial results",
+    "y": "2"
+  },
+  {
+    "x": "eBay stock downgraded by Morgan Stanley due to increasing competition",
+    "y": "0"
+  },
+  {
+    "x": "$ES gains momentum as euro zone economic outlook improves, says Barclays",
+    "y": "1"
+  },
+  {
+    "x": "Alphabet announces plans to expand cloud infrastructure, according to a report from Oppenheimer",
+    "y": "2"
+  },
+  {
+    "x": "$SPY - S&P 500 ETF sees bearish trend as investors worry about inflation",
+    "y": "0"
+  },
+  {
+    "x": "Morgan Stanley upgrades $SPY to overweight, citing strong economic growth",
+    "y": "1"
+  },
+  {
+    "x": "State Street reports $SPY holdings remain steady in latest portfolio update",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley downgrades $SGH to underweight, citing concerns over company performance",
+    "y": 0
+  },
+  {
+    "x": "Smart Global Holdings $SGH rallies 5% after Oppenheimer raises price target to $50",
+    "y": 1
+  },
+  {
+    "x": "Smart Global Holdings $SGH reports Q2 earnings, meets analyst expectations according to Barclays",
+    "y": 2
+  },
+  {
+    "x": "Morgan Stanley downgrades $DBD to underweight, citing concerns over declining demand",
+    "y": "0"
+  },
+  {
+    "x": "$DBD - Diebold Nixdorf beats Q2 earnings estimates, driven by strong sales growth",
+    "y": "1"
+  },
+  {
+    "x": "Diebold Nixdorf $DBD to release Q3 earnings on november 2, according to Oppenheimer",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley downgrades $ALGN - align technology to underweight, citing market saturation concerns",
+    "y": 0
+  },
+  {
+    "x": "oppenheimer raises price target for $ALGN to $700, citing strong demand for clear aligners",
+    "y": 1
+  },
+  {
+    "x": "align technology $ALGN reports q2 earnings, meets analyst expectations with revenue of $890 million",
+    "y": 2
+  },
+  {
+    "x": "$USA economic outlook remains uncertain as inflation concerns rise, according to Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "Barclays upgrades $USA stock to 'overweight' citing strong job market and consumer spending",
+    "y": "1"
+  },
+  {
+    "x": "The $USA stock market is awaiting the federal reserve's interest rate decision, says Oppenheimer",
+    "y": "2"
+  },
+  {
+    "x": "$IFLXF - international finance leaders predict stable growth in the upcoming quarter, says Morgan Stanley",
+    "y": 1
+  },
+  {
+    "x": "IFLXF faces challenges in meeting quarterly expectations due to global economic slowdown",
+    "y": 0
+  },
+  {
+    "x": "Barclays initiates coverage of $IFLXF with a neutral outlook, citing mixed market trends",
+    "y": 2
+  },
+  {
+    "x": "$STNE - stoneco sees price target cut at goldman sachs due to weak quarterly earnings",
+    "y": "0"
+  },
+  {
+    "x": "stoneco announces major expansion plans, $STNE shares jump on the news",
+    "y": "1"
+  },
+  {
+    "x": "morgan stanley initiates coverage of $STNE with a neutral rating, citing stable market position",
+    "y": "2"
+  },
+  {
+    "x": "$ACER - Acer stock downgraded to underweight at Morgan Stanley due to concerns over pc demand",
+    "y": "0"
+  },
+  {
+    "x": "Acer announces new line of gaming laptops, $ACER stock surges after positive reviews from tech analysts at Barclays",
+    "y": "1"
+  },
+  {
+    "x": "Acer inc to report q2 earnings on august 15, $ACER stock trading sideways ahead of announcement, according to Oppenheimer",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley downgrades $NSPR to underweight, citing company performance concerns",
+    "y": "0"
+  },
+  {
+    "x": "Insperity announces strong Q2 earnings, $NSPR stock soars after beating analyst expectations",
+    "y": "1"
+  },
+  {
+    "x": "NeedleShare $NSPR - announces upcoming investor conference, to discuss company updates and outlook",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley downgrades $RMLRF to underweight, citing valuation concerns",
+    "y": "0"
+  },
+  {
+    "x": "Rimmel stock $RMLRF surges after Barclays boosts price target, citing strong sales growth",
+    "y": "1"
+  },
+  {
+    "x": "Rimmel parent company releases q2 earnings report, $RMLRF stock remains stable according to Oppenheimer analysis",
+    "y": "2"
+  },
+  {
+    "x": "$ENOB - Enochian Biosciences stock downgraded to sell at Goldman Sachs",
+    "y": "0"
+  },
+  {
+    "x": "Analysts at Oppenheimer raise price target for $ENOB to $20, citing strong q2 earnings",
+    "y": "1"
+  },
+  {
+    "x": "$ENOB to present at the upcoming Morgan Stanley healthcare conference, no new information expected",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley downgrades $MOH to underweight, citing concerns over company performance",
+    "y": "0"
+  },
+  {
+    "x": "oppenheimer raises price target for $MOH, sees strong growth potential in healthcare sector",
+    "y": "1"
+  },
+  {
+    "x": "molina healthcare $MOH reports q2 earnings, meets analyst expectations according to barclays",
+    "y": "2"
+  },
+  {
+    "x": "$RNUGF - royal nickel sees price target cut at barclays due to production delays",
+    "y": "0"
+  },
+  {
+    "x": "Royal Nickel's new mining project expected to boost revenue, says morgan stanley analyst",
+    "y": "1"
+  },
+  {
+    "x": "Royal Nickel corporation announces quarterly earnings report, $RNUGF to host conference call",
+    "y": "2"
+  },
+  {
+    "x": "$LK - Luckin Coffee faces delisting concerns after nasal spray announcement falls flat",
+    "y": "0"
+  },
+  {
+    "x": "Luckin Coffee sees price target raised at Goldman Sachs on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "$LK - Luckin Coffee to report q2 earnings on august 15th, according to company announcement",
+    "y": "2"
+  },
+  {
+    "x": "$RTTR - Ritter Pharmaceuticals downgraded to underperform at Oppenheimer due to poor quarterly earnings",
+    "y": "0"
+  },
+  {
+    "x": "Ritter Pharmaceuticals stock price target raised to $15 from $10 at Barclays, citing strong pipeline growth",
+    "y": "1"
+  },
+  {
+    "x": "Edited Transcript of $RTTR earnings conference call or presentation 10-Feb-24 4:30pm GMT",
+    "y": "2"
+  },
+  {
+    "x": "$COLL - CollPlant Biotechnologies sees price target cut at Oppenheimer due to slower than expected sales growth",
+    "y": "0"
+  },
+  {
+    "x": "CollPlant Biotechnologies announces breakthrough in 3d bio-printing technology, $COLL shares rise on the news",
+    "y": "1"
+  },
+  {
+    "x": "$COLL - CollPlant Biotechnologies to report q2 earnings on august 15, investors await update on product pipeline",
+    "y": "2"
+  },
+  {
+    "x": "$HSIC - henry schein sees price target cut at barclays due to weakening dental market trends",
+    "y": "0"
+  },
+  {
+    "x": "henry schein international ($HSIC) reports better than expected q2 earnings, driven by strong sales growth",
+    "y": "1"
+  },
+  {
+    "x": "morgan stanley initiates coverage of $HSIC with a neutral rating, citing stable market position but limited upside potential",
+    "y": "2"
+  },
+  {
+    "x": "$CRL - charles river laboratories downgraded to underweight at morgan stanley",
+    "y": "0"
+  },
+  {
+    "x": "charles river laboratories sees price target raised to $220 at barclays",
+    "y": "1"
+  },
+  {
+    "x": "charles river laboratories announces quarterly earnings report, $CRL to be released on february 15th",
+    "y": "2"
+  },
+  {
+    "x": "$PANW - Palo Alto Networks downgraded to underweight at Morgan Stanley on valuation concerns",
+    "y": "0"
+  },
+  {
+    "x": "Palo Alto Networks $PANW sees price target raised to $600 at Oppenheimer on strong earnings outlook",
+    "y": "1"
+  },
+  {
+    "x": "Palo Alto Networks $PANW to report quarterly earnings on February 20, according to Barclays calendar",
+    "y": "2"
+  },
+  {
+    "x": "canaccord genuity downgrades $PHCEF to hold citing concerns over company performance",
+    "y": "0"
+  },
+  {
+    "x": "$PHCEF sees price target raised by oppenheimer to $15 on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "phoenix cannabis company $PHCEF announces quarterly earnings release date",
+    "y": "2"
+  },
+  {
+    "x": "$BAH - Booz Allen Hamilton stock downgraded to underweight at Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "Booz Allen Hamilton sees price target boosted by 15% at Barclays due to strong Q2 earnings",
+    "y": "1"
+  },
+  {
+    "x": "Booz Allen Hamilton to release Q3 earnings on February 27, according to Oppenheimer",
+    "y": "2"
+  },
+  {
+    "x": "$CVX - chevron stock downgraded to neutral by goldman sachs",
+    "y": "0"
+  },
+  {
+    "x": "chevron ($CVX) sees price target boosted to $180 by morgan stanley on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "chevron corporation ($CVX) reports mixed third quarter results, shares trade flat",
+    "y": "2"
+  },
+  {
+    "x": "tiffany & co sees price target cut at barclays, $TIF -",
+    "y": "0"
+  },
+  {
+    "x": "Oppenheimer upgrades $TIF - to outperform, citing strong sales growth",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley reports on $TIF - quarterly earnings, notes stable market performance",
+    "y": "2"
+  },
+  {
+    "x": "$MRK - merck stock downgraded to sell at Goldman Sachs",
+    "y": "0"
+  },
+  {
+    "x": "Merck sees price target raised to $120 at Morgan Stanley on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "Merck announces plans to present new data on key cancer treatments at upcoming investor conference",
+    "y": "2"
+  },
+  {
+    "x": "$SMPQY - sompo holdings sees price target cut to $25 at Goldman Sachs",
+    "y": "0"
+  },
+  {
+    "x": "Sompo holdings reports strong quarterly earnings, $SMPQY stock surges",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley initiates coverage of $SMPQY with a neutral rating, citing stable market trends",
+    "y": "2"
+  },
+  {
+    "x": "$BA - boeing stock downgraded to sell at Goldman Sachs amid ongoing production issues",
+    "y": "0"
+  },
+  {
+    "x": "boeing CEO says $BA is poised for a strong recovery in the commercial aerospace market",
+    "y": "1"
+  },
+  {
+    "x": "$BA - boeing reports q2 earnings in line with expectations, according to a report by Morgan Stanley",
+    "y": "2"
+  },
+  {
+    "x": "$CIFS - Cipher Mining downgraded to underweight from equal weight at Morgan Stanley",
+    "y": "0"
+  },
+  {
+    "x": "Cipher Mining sees price target increased to $5 at Oppenheimer on strong bitcoin mining outlook",
+    "y": "1"
+  },
+  {
+    "x": "Cipher Mining announces third quarter earnings release date and conference call details",
+    "y": "2"
+  },
+  {
+    "x": "$XOM - ExxonMobil's Stock Downgraded by Morgan Stanley due to Weakening Demand",
+    "y": "0"
+  },
+  {
+    "x": "ExxonMobil announces major discovery in Guyana, sending $XOM shares higher",
+    "y": "1"
+  },
+  {
+    "x": "ExxonMobil $XOM reports Q2 earnings in line with expectations, according to Barclays analysis",
+    "y": "2"
+  },
+  {
+    "x": "$NVS - novartis sees price target cut at barclays due to regulatory concerns",
+    "y": "0"
+  },
+  {
+    "x": "Novartis announces positive phase 3 trial results for new cancer treatment, $NVS shares rise",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley initiates coverage of $NVS with a neutral rating, citing stable pipeline and revenue growth",
+    "y": "2"
+  },
+  {
+    "x": "$TOPS - Tops Systems stock downgraded to sell at Oppenheimer due to declining revenue",
+    "y": "0"
+  },
+  {
+    "x": "topship stock $TOPS surges 10% after beating quarterly earnings expectations",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley sets price target for $TOPS at $25, citing stable industry trends",
+    "y": "2"
+  },
+  {
+    "x": "$ZUO - Zuora sees price target cut at Oppenheimer due to slowing growth concerns",
+    "y": "0"
+  },
+  {
+    "x": "Zuora announces strong quarterly earnings, $ZUO stock surges after beating analyst expectations",
+    "y": "1"
+  },
+  {
+    "x": "Morgan Stanley initiates coverage of $ZUO with a neutral rating, citing steady market performance",
+    "y": "2"
+  },
+  {
+    "x": "$TBPH - thunder bridge capital partners iv stock downgraded to sell at barclays",
+    "y": "0"
+  },
+  {
+    "x": "thunder bridge capital partners iv announces plans to expand investment portfolio, $TBPH stock surges",
+    "y": "1"
+  },
+  {
+    "x": "morgan stanley initiates coverage of $TBPH with a neutral rating, citing steady market performance",
+    "y": "2"
+  },
+  {
+    "x": "canon inc misses q2 earnings estimates, $CAN stock falls",
+    "y": "0"
+  },
+  {
+    "x": "$CAN - Canaan Inc sees price target raised to $15 at Goldman Sachs",
+    "y": "1"
+  },
+  {
+    "x": "canaan inc ($CAN) announces q3 earnings release date, conference call details",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley downgrades $VIRT to underweight, citing increased competition in the industry",
+    "y": "0"
+  },
+  {
+    "x": "$VIRT - Virtu Financial sees price target raised to $35 at Oppenheimer on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "Virtu Financial announces plans to expand its trading operations, $VIRT stock remains steady",
+    "y": "2"
+  },
+  {
+    "x": "$TSM - Goldman Sachs downgrades Taiwan Semiconductor to sell on valuation concerns",
+    "y": "0"
+  },
+  {
+    "x": "Taiwan Semiconductor $TSM sees price target raised at Morgan Stanley on strong demand outlook",
+    "y": "1"
+  },
+  {
+    "x": "Taiwan Semiconductor $TSM reports quarterly earnings in line with expectations, shares unchanged",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley downgrades $omc to underweight, citing concerns over ad spending slowdown",
+    "y": "0"
+  },
+  {
+    "x": "oppenheimer raises price target for $omc, expecting strong q2 earnings growth",
+    "y": "1"
+  },
+  {
+    "x": "$omc reports mixed q1 results, with revenue in line with analyst expectations",
+    "y": "2"
+  },
+  {
+    "x": "$CAT - caterpillar sees price target cut at barclays due to weak demand",
+    "y": "0"
+  },
+  {
+    "x": "caterpillar announces strong quarterly earnings, $CAT stock jumps 5%",
+    "y": "1"
+  },
+  {
+    "x": "morgan stanley maintains hold rating on $CAT, cites stable market trends",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley downgrades $NIU to underweight on slowing demand",
+    "y": "0"
+  },
+  {
+    "x": "oppenheimer raises price target for $NIU on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "$NIU announces upcoming investor conference to discuss company outlook",
+    "y": "2"
+  },
+  {
+    "x": "$ES - Emini S&P 500 futures slip as investors await fed decision, barclays cuts price target",
+    "y": 0
+  },
+  {
+    "x": "S&P 500 index, including $ES, expected to rise as goldman sachs upgrades us equities to overweight",
+    "y": 1
+  },
+  {
+    "x": "E-mini S&P 500 futures $ES trade steady as investors look to economic data releases from the labor department",
+    "y": 2
+  },
+  {
+    "x": "$DNKN - dunkin' brands falls after morgan stanley downgrade to underweight",
+    "y": "0"
+  },
+  {
+    "x": "dunkin' brands sees price target boost at oppenheimer on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "dunkin' brands $DNKN reports q2 earnings, revenue in line with analyst expectations",
+    "y": "2"
+  },
+  {
+    "x": "$M - Macy's stock downgraded to underweight at Morgan Stanley amid concerns over company performance",
+    "y": "0"
+  },
+  {
+    "x": "Macy's sees price target boosted at Oppenheimer on strong holiday sales and improved outlook",
+    "y": "1"
+  },
+  {
+    "x": "Macy's reports quarterly earnings, provides update on strategic initiatives and outlook for the year ahead",
+    "y": "2"
+  },
+  {
+    "x": "$XSLV - upgraded to buy from neutral at UBS, price target raised to $25",
+    "y": "1"
+  },
+  {
+    "x": "Global X Silver Miners ETF $XSLV sees significant outflows amid declining silver prices",
+    "y": "0"
+  },
+  {
+    "x": "Invesco provides update on $XSLV holdings, reports minor changes in quarterly portfolio",
+    "y": "2"
+  },
+  {
+    "x": "Morgan Stanley downgrades $NSTG to underweight, citing company performance concerns",
+    "y": "0"
+  },
+  {
+    "x": "NanoString Technologies sees price target boosted by Oppenheimer on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "NanoString Technologies announces participation in upcoming investor conference, hosted by Barclays",
+    "y": "2"
+  },
+  {
+    "x": "morgan stanley downgrades $unit to underweight, citing company performance concerns",
+    "y": "0"
+  },
+  {
+    "x": "barclays raises price target for $unit to $50, sees strong growth in upcoming quarters",
+    "y": "1"
+  },
+  {
+    "x": "unit corporation announces plans to release q4 earnings report on february 20",
+    "y": "2"
+  },
+  {
+    "x": "$TAP - molson coors beverage company receives bearish rating from goldman sachs",
+    "y": "0"
+  },
+  {
+    "x": "Molson Coors $TAP sees price target raised by 10% at Credit Suisse on strong quarterly earnings",
+    "y": "1"
+  },
+  {
+    "x": "Molson Coors $TAP reports Q2 earnings, revenue in line with analyst expectations, according to Morgan Stanley",
+    "y": "2"
+  },
+  {
+    "x": "$BAH - booz allen hamilton price target cut at barclays on decreasing government spending concerns",
+    "y": "0"
+  },
+  {
+    "x": "booz allen hamilton sees strong q2 earnings growth, morgan stanley upgrades to overweight",
+    "y": "1"
+  },
+  {
+    "x": "$BAH to present at the upcoming goldman sachs industrials and materials conference",
+    "y": "2"
+  }
+]
