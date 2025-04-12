@@ -23,9 +23,11 @@ class SentimentAnalysisSynthesisPipeline(VLLMPipeline):
         max_generate_tokens: int = 128,
         temperature: float = 1.0,
         top_p: float = 0.95,
+        use_clean_text_output: bool = True,
         **kwargs
     ):
-        super().__init__(model_path, prompt_template_path, SentimentAnalysisModel, original_data_path, max_context_window, max_generate_tokens, temperature, top_p, **kwargs)
+        super().__init__(model_path, prompt_template_path, SentimentAnalysisModel, original_data_path, 
+                         max_context_window, max_generate_tokens, temperature, top_p, use_clean_text_output, **kwargs)
         self.num_shots = num_shots
         self.num_tickers = num_tickers
         self.train_stock_tickers, self.test_stock_tickers = self._get_stock_tickers()

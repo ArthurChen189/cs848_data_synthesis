@@ -22,6 +22,7 @@ class VLLMPipeline:
         max_num_seqs: int = 30,
         batch_size: int = 100,
         cpu_offload_gb: float = 0,
+        use_clean_text_output: bool = True,
         verbose: bool = False
     ):
         """Initialize the VLLMPipeline
@@ -40,6 +41,7 @@ class VLLMPipeline:
             batch_size (int, optional): The batch inference size. Defaults to 10.
             verbose (bool, optional): Whether to print verbose output. Defaults to False.
             cpu_offload_gb (float, optional): The amount of CPU memory to offload to. Defaults to 0. This is used for resource-constrained environments.
+            use_clean_text_output (bool, optional): Whether to clean the text output. Defaults to True.
         """
 
         import torch._dynamo
@@ -53,6 +55,7 @@ class VLLMPipeline:
         self.batch_size = batch_size
         self.verbose = verbose
         self.aux_data_path = aux_data_path
+        self.use_clean_text_output = use_clean_text_output
         
         # Initialize model
         self.sampling_params = SamplingParams(
@@ -173,7 +176,8 @@ class VLLMPipeline:
                     
                     for text_output, input_data in zip(text_outputs, batch_data):
                         try:
-                            text_output = self.clean_text_output(text_output)
+                            if self.use_clean_text_output:
+                                text_output = self.clean_text_output(text_output)
                             parsed = self.parser.parse(text_output)
                             if self.check_output_format(parsed):
                                 processed = self.postprocess_each_output(parsed, input_data)

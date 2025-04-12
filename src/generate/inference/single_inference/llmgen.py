@@ -286,7 +286,7 @@ if __name__ == "__main__":
 
     # data parameters
     parser.add_argument("--prompt", type=str, required=True, help="path to the prompt file")
-    parser.add_argument("--output_path", type=str, default="./data/sentiment_analysis/data_manual_prompt/synthetic_data_full", help="path to save the generated examples")
+    parser.add_argument("--output_path", type=str, default="./data/sentiment_analysis/", help="path to save the generated examples")
     parser.add_argument("--resume_path", type=str, default=None, help="path of the json file to resume from")
 
     # generation parameters
