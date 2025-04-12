@@ -1,4 +1,4 @@
-from inference.batch_inference import SentimentAnalysisSynthesisPipeline
+from src.generate.inference.batch_inference import SentimentAnalysisSynthesisPipeline
 import argparse
 from pathlib import Path
 from src.generate.utils import get_model_name

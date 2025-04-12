@@ -49,6 +49,13 @@ python src/generate/sentiment_analysis_synthesis.py \
     [--verbose]
 ```
 
+```
+python3 -m src.generate.sentiment_analysis_synthesis \
+  --model_path Qwen/Qwen2.5-7B-Instruct-AWQ \
+  --prompt_template_path ./prompt_templates/sentiment_analysis/few-shot_bg_test-time-info_v1.txt \
+  --num_examples 1 \
+  --output_folder ./test_output
+```
 ### Key Parameters
 
 - `model_path`: Path to the language model to use
