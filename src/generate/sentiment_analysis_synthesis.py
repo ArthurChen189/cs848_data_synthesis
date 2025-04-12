@@ -15,7 +15,8 @@ def main(args):
         max_context_window=args.max_context_window,
         max_generate_tokens=args.max_generate_tokens,
         max_num_seqs=args.max_num_seqs,
-        verbose=args.verbose
+        verbose=args.verbose,
+        cpu_offload_gb=args.cpu_offload_gb
     )
     results = pipeline.generate(
         num_examples=args.num_examples
@@ -57,6 +58,7 @@ if __name__ == "__main__":
     parser.add_argument("--max_generate_tokens", type=int, default=128, help="Max generate tokens")
     parser.add_argument("--max_num_seqs", type=int, default=30, help="Max number of sequences")
     parser.add_argument("--verbose", action="store_true", help="Whether to print verbose output")
+    parser.add_argument("--cpu_offload_gb", type=float, default=0, help="CPU offload GB")
     
     args = parser.parse_args()
     main(args)

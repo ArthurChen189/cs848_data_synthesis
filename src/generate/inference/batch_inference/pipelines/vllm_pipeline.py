@@ -21,7 +21,8 @@ class VLLMPipeline:
         num_gpus: int = 1,
         max_num_seqs: int = 30,
         batch_size: int = 100,
-        verbose: bool = False,
+        cpu_offload_gb: float = 0,
+        verbose: bool = False
     ):
         """Initialize the VLLMPipeline
 
@@ -38,7 +39,7 @@ class VLLMPipeline:
             max_num_seqs (int, optional): The maximum number of sequences the GPU can handle per batch. Defaults to 10.
             batch_size (int, optional): The batch inference size. Defaults to 10.
             verbose (bool, optional): Whether to print verbose output. Defaults to False.
-            my_json_parser (bool, optional): Whether to use my custom JSON parser. Defaults to False.
+            cpu_offload_gb (float, optional): The amount of CPU memory to offload to. Defaults to 0. This is used for resource-constrained environments.
         """
 
         import torch._dynamo
@@ -67,7 +68,8 @@ class VLLMPipeline:
             trust_remote_code=True,
             max_model_len=max_context_window,
             tensor_parallel_size=num_gpus,
-            max_num_seqs=max_num_seqs
+            max_num_seqs=max_num_seqs,
+            cpu_offload_gb=cpu_offload_gb
         )
 
         # Initialize parser and prompt template

@@ -229,6 +229,14 @@ def main(args):
                                 url=API_INFO["nebius"]["api_endpoint"],
                                 model=args.model, temperature=TEMPERATURE, 
                                 top_p=TOP_P, max_tokens=MAX_TOKENS)
+    elif args.service == "ollama":
+        builder = PromptBuilder(service='ollama', url=API_INFO["ollama"]["api_endpoint"],
+                                model=args.model, temperature=TEMPERATURE, 
+                                top_p=TOP_P, max_tokens=MAX_TOKENS)
+    elif args.service == "vllm":
+        builder = PromptBuilder(service='vllm', model=args.model, 
+                                temperature=TEMPERATURE, top_p=TOP_P, 
+                                max_tokens=MAX_TOKENS, num_gpus=args.num_gpus)
     else:
         raise ValueError(f"Invalid service: {args.service}")
 
