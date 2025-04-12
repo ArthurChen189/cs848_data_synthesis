@@ -12,10 +12,6 @@ from typing import Dict, Any, List
 from pathlib import Path
 from src.generate.utils import get_model_name
 
-
-# API keys
-API_INFO = json.load(open("./secrets.json"))
-
 # Metadata
 MAX_TOKENS = 1024
 TEMPERATURE = 1.0
@@ -221,22 +217,26 @@ def main(args):
     parser = JsonOutputParser(pydantic_object=SentimentAnalysisModel)
 
     if args.service == "cerebras":
+        # API keys
+        API_INFO = json.load(open("./secrets.json"))
         builder = PromptBuilder(service='cerebras', api_key=API_INFO["cerebras"]["api_key_arthur"], 
                                 model=args.model, temperature=TEMPERATURE, 
                                 top_p=TOP_P, max_tokens=MAX_TOKENS)
     elif args.service == "nebius":
+        # API keys
+        API_INFO = json.load(open("./secrets.json"))
         builder = PromptBuilder(service='nebius', api_key=API_INFO["nebius"]["api_key"], 
                                 url=API_INFO["nebius"]["api_endpoint"],
                                 model=args.model, temperature=TEMPERATURE, 
                                 top_p=TOP_P, max_tokens=MAX_TOKENS)
     elif args.service == "ollama":
-        builder = PromptBuilder(service='ollama', url=API_INFO["ollama"]["api_endpoint"],
+        builder = PromptBuilder(service='ollama', url=args.base_url,
                                 model=args.model, temperature=TEMPERATURE, 
                                 top_p=TOP_P, max_tokens=MAX_TOKENS)
     elif args.service == "vllm":
-        builder = PromptBuilder(service='vllm', model=args.model, 
-                                temperature=TEMPERATURE, top_p=TOP_P, 
-                                max_tokens=MAX_TOKENS, num_gpus=args.num_gpus)
+        builder = PromptBuilder(service='vllm',
+                                model=args.model, temperature=TEMPERATURE, 
+                                top_p=TOP_P, max_tokens=MAX_TOKENS, port=args.port)
     else:
         raise ValueError(f"Invalid service: {args.service}")
 
@@ -299,5 +299,7 @@ if __name__ == "__main__":
     parser.add_argument("--model", type=str, default="llama3.1-8b", required=True, help="model to use for generation")
     parser.add_argument("--api_limit", action="store_true", help="whether to constraint the number of requests per minute")
     parser.add_argument("--verbose", action="store_true", help="whether to print verbose output")
+    parser.add_argument("--base_url", type=str, default="http://localhost:11434", help="base url to use for ollama")
+    parser.add_argument("--port", type=int, default=11434, help="port to use for vllm")
     args = parser.parse_args()
     main(args)

@@ -72,8 +72,18 @@ python3 -m src.generate.sentiment_analysis_synthesis \
 - `verbose`: Enable verbose output (optional)
 
 ### Using Ollama, API, or other backends
-The main script for generating synthetic data is `src/generate/llmgen.py`. Here's how to use it:
+The main script for generating synthetic data is `src/generate/inference/single_inference/llmgen.py`. Here's how to use it:
 
+If you are serving LLMs locally via vLLM or Ollama, first you need to start the server in a separate terminal:
+```bash
+ollama run <ollama_model_name> 
+```
+or
+```bash
+vllm --port <port_number>
+```
+
+Then you can run the following command to generate synthetic data:
 ```bash
 python src/generate/inference/single_inference/llmgen.py \
     --prompt <path_to_prompt_template> \
@@ -83,6 +93,7 @@ python src/generate/inference/single_inference/llmgen.py \
     [--output_path <output_directory>] \
     [--resume_path <path_to_resume_file>] \
     [--num_tickers <number_of_tickers>] \
+    [--base_url <base_url>] \
     [--deduplicate] \
     [--api_limit] \
     [--verbose]
@@ -97,6 +108,7 @@ python src/generate/inference/single_inference/llmgen.py \
     --num_examples 100 \
     --output_path ./data/sentiment_analysis/synthetic_data \
     --num_tickers 2 \
+    --base_url http://localhost:11434 \ # ollama default base url
     --deduplicate \
     --verbose
 ```
