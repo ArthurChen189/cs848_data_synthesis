@@ -8,7 +8,7 @@ import time
 import numpy as np
 from tqdm import tqdm
 import argparse
-from typing import Dict, Any, List
+from typing import Dict, Any
 from pathlib import Path
 from src.generate.utils import get_model_name
 
@@ -233,10 +233,6 @@ def main(args):
         builder = PromptBuilder(service='ollama', url=args.base_url,
                                 model=args.model, temperature=TEMPERATURE, 
                                 top_p=TOP_P, max_tokens=MAX_TOKENS)
-    elif args.service == "vllm":
-        builder = PromptBuilder(service='vllm',
-                                model=args.model, temperature=TEMPERATURE, 
-                                top_p=TOP_P, max_tokens=MAX_TOKENS, port=args.port)
     else:
         raise ValueError(f"Invalid service: {args.service}")
 
@@ -300,6 +296,5 @@ if __name__ == "__main__":
     parser.add_argument("--api_limit", action="store_true", help="whether to constraint the number of requests per minute")
     parser.add_argument("--verbose", action="store_true", help="whether to print verbose output")
     parser.add_argument("--base_url", type=str, default="http://localhost:11434", help="base url to use for ollama")
-    parser.add_argument("--port", type=int, default=11434, help="port to use for vllm")
     args = parser.parse_args()
     main(args)
