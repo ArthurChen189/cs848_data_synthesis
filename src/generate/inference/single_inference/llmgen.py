@@ -233,6 +233,10 @@ def main(args):
         builder = PromptBuilder(service='ollama', url=args.base_url,
                                 model=args.model, temperature=TEMPERATURE, 
                                 top_p=TOP_P, max_tokens=MAX_TOKENS)
+    elif args.service == "vllm":
+        builder = PromptBuilder(service='vllm', url=args.base_url,
+                                model=args.model, temperature=TEMPERATURE, 
+                                top_p=TOP_P, max_tokens=MAX_TOKENS)
     else:
         raise ValueError(f"Invalid service: {args.service}")
 
