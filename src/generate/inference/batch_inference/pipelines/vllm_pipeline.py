@@ -23,6 +23,7 @@ class VLLMPipeline:
         batch_size: int = 100,
         cpu_offload_gb: float = 0,
         use_clean_text_output: bool = True,
+        benchmark: bool = False,
         verbose: bool = False
     ):
         """Initialize the VLLMPipeline
@@ -42,6 +43,7 @@ class VLLMPipeline:
             verbose (bool, optional): Whether to print verbose output. Defaults to False.
             cpu_offload_gb (float, optional): The amount of CPU memory to offload to. Defaults to 0. This is used for resource-constrained environments.
             use_clean_text_output (bool, optional): Whether to clean the text output. Defaults to True.
+            benchmark (bool, optional): Whether to benchmark the pipeline. Defaults to False.
         """
 
         import torch._dynamo
@@ -56,6 +58,7 @@ class VLLMPipeline:
         self.verbose = verbose
         self.aux_data_path = aux_data_path
         self.use_clean_text_output = use_clean_text_output
+        self.benchmark = benchmark
         
         # Initialize model
         self.sampling_params = SamplingParams(
@@ -202,7 +205,22 @@ class VLLMPipeline:
         
         # 1. Generate prompts
         print(f"Generating {num_examples} prompts")
-        prompts = self.generate_prompts(num_examples)
+        if self.benchmark:
+            import time
+            from datetime import datetime
+            start_time = time.time()
+            prompts = self.generate_prompts(num_examples)
+            end_time = time.time()
+            date = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+            with open(f"./batched_inference_benchmarking_{date}.json", "w") as f:
+                json.dump({
+                    "total_time": end_time - start_time,
+                    "throughput": num_examples / (end_time - start_time),
+                    "num_examples": num_examples
+                }, f, indent=2)
+            print(f"Time taken to generate {num_examples} prompts: {end_time - start_time} seconds")
+        else:
+            prompts = self.generate_prompts(num_examples)
 
         # print one prompt for validation
         print(f"Below is a sample prompt\n--------------------------------")

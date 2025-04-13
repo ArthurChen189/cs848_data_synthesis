@@ -16,7 +16,9 @@ def main(args):
         max_generate_tokens=args.max_generate_tokens,
         max_num_seqs=args.max_num_seqs,
         verbose=args.verbose,
-        cpu_offload_gb=args.cpu_offload_gb
+        cpu_offload_gb=args.cpu_offload_gb,
+        use_clean_text_output=args.use_clean_text_output,
+        benchmark=args.benchmark
     )
     results = pipeline.generate(
         num_examples=args.num_examples
@@ -54,11 +56,12 @@ if __name__ == "__main__":
     # inference args
     parser.add_argument("--num_gpus", type=int, default=1, help="Number of GPUs to use")
     parser.add_argument("--batch_size", type=int, default=100, help="Batch size")
-    parser.add_argument("--max_context_window", type=int, default=1024, help="Max context window")
+    parser.add_argument("--max_context_window", type=int, default=512, help="Max context window")
     parser.add_argument("--max_generate_tokens", type=int, default=128, help="Max generate tokens")
     parser.add_argument("--max_num_seqs", type=int, default=30, help="Max number of sequences")
     parser.add_argument("--verbose", action="store_true", help="Whether to print verbose output")
     parser.add_argument("--cpu_offload_gb", type=float, default=0, help="CPU offload GB")
-    
+    parser.add_argument("--use_clean_text_output", default=False, action="store_true", help="Whether to use clean text output")
+    parser.add_argument("--benchmark", default=False, action="store_true", help="Whether to benchmark the inference and save the results")
     args = parser.parse_args()
     main(args)
