@@ -11,6 +11,8 @@ import argparse
 from typing import Dict, Any
 from pathlib import Path
 from src.generate.utils import get_model_name
+from time import time
+from datetime import datetime
 
 # Metadata
 MAX_TOKENS = 1024
@@ -239,7 +241,7 @@ def main(args):
                                 top_p=TOP_P, max_tokens=MAX_TOKENS)
     else:
         raise ValueError(f"Invalid service: {args.service}")
-
+    
     prompt = PromptTemplate(
         template=open(args.prompt).read(),
         partial_variables={"format_instructions": parser.get_format_instructions()},
@@ -267,7 +269,7 @@ def main(args):
 
     # generate examples
     print(f"Generating {args.num_examples} examples, using {args.model} model, prompt: {args.prompt}")
-
+    start_time = time()
     if "zero-shot" in args.prompt:
         examples = generate_zero_shot(chain, args.num_examples, stock_tickers, args, resume_data)
         save(examples, args)
@@ -280,6 +282,29 @@ def main(args):
         save(examples, args)
     else:
         raise ValueError(f"Invalid prompt: {args.prompt}")
+
+    end_time = time()
+    # Calculate throughput
+    total_time = end_time - start_time
+    throughput = args.num_examples / total_time
+
+    # Prepare benchmarking results
+    benchmarking_results = {
+        "total_time": total_time,
+        "throughput": throughput,
+        "num_examples": args.num_examples,
+        "model": args.model,
+        "prompt": args.prompt,
+        "service": args.service
+    }
+
+    # Save benchmarking results to a json file
+    date = datetime.now().strftime("%Y%m%d_%H%M%S")
+    benchmark_output_path = Path(args.output_path) / f"benchmarking_results_{date}.json"
+    with open(benchmark_output_path, "w") as f:
+        json.dump(benchmarking_results, f, indent=2)
+
+    print(f"Benchmarking results saved to {benchmark_output_path}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
