@@ -56,7 +56,7 @@ if __name__ == "__main__":
     # inference args
     parser.add_argument("--num_gpus", type=int, default=1, help="Number of GPUs to use")
     parser.add_argument("--batch_size", type=int, default=100, help="Batch size")
-    parser.add_argument("--max_context_window", type=int, default=512, help="Max context window")
+    parser.add_argument("--max_context_window", type=int, default=1024, help="Max context window")
     parser.add_argument("--max_generate_tokens", type=int, default=128, help="Max generate tokens")
     parser.add_argument("--max_num_seqs", type=int, default=30, help="Max number of sequences")
     parser.add_argument("--verbose", action="store_true", help="Whether to print verbose output")
