@@ -6,7 +6,6 @@ from typing import List, Dict, Any, Optional, Tuple
 import json
 from tqdm import tqdm
 
-
 class VLLMPipeline:
     def __init__(
         self,
@@ -23,7 +22,7 @@ class VLLMPipeline:
         batch_size: int = 100,
         cpu_offload_gb: float = 0,
         use_clean_text_output: bool = True,
-        benchmark: bool = False,
+        benchmark_output_folder: str = None,
         verbose: bool = False
     ):
         """Initialize the VLLMPipeline
@@ -58,7 +57,7 @@ class VLLMPipeline:
         self.verbose = verbose
         self.aux_data_path = aux_data_path
         self.use_clean_text_output = use_clean_text_output
-        self.benchmark = benchmark
+        self.benchmark_output_folder = benchmark_output_folder
         
         # Initialize model
         self.sampling_params = SamplingParams(
@@ -74,8 +73,10 @@ class VLLMPipeline:
             trust_remote_code=True,
             max_model_len=max_context_window,
             tensor_parallel_size=num_gpus,
+            data_parallel_size=num_gpus,
             max_num_seqs=max_num_seqs,
-            cpu_offload_gb=cpu_offload_gb
+            cpu_offload_gb=cpu_offload_gb,
+            enable_prefix_caching=True
         )
 
         # Initialize parser and prompt template
@@ -214,14 +215,14 @@ class VLLMPipeline:
 
         # 2. Run batch inference and postprocess results
         print(f"Running batch inference for {len(prompts)} prompts")
-        if self.benchmark:
+        if self.benchmark_output_folder:
             import time
             from datetime import datetime
             start_time = time.time()
             results = self.run_batch_inference(prompts)
             end_time = time.time()
             date = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-            with open(f"./batched_inference_benchmarking_{date}.json", "w") as f:
+            with open(f"{self.benchmark_output_folder}/batched_inference_benchmarking_{date}.json", "w") as f:
                 json.dump({
                     "total_time": end_time - start_time,
                     "throughput": num_examples / (end_time - start_time),

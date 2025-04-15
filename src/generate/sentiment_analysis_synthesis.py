@@ -2,9 +2,11 @@ from src.generate.inference.batch_inference import SentimentAnalysisSynthesisPip
 import argparse
 from pathlib import Path
 from src.generate.utils import get_model_name
-
+import os
 
 def main(args):
+    if args.benchmark_output_folder:
+        os.makedirs(args.benchmark_output_folder, exist_ok=True)
     pipeline = SentimentAnalysisSynthesisPipeline(
         model_path=args.model_path,
         prompt_template_path=args.prompt_template_path,
@@ -18,7 +20,7 @@ def main(args):
         verbose=args.verbose,
         cpu_offload_gb=args.cpu_offload_gb,
         use_clean_text_output=args.use_clean_text_output,
-        benchmark=args.benchmark
+        benchmark_output_folder=args.benchmark_output_folder
     )
     results = pipeline.generate(
         num_examples=args.num_examples
@@ -62,6 +64,6 @@ if __name__ == "__main__":
     parser.add_argument("--verbose", action="store_true", help="Whether to print verbose output")
     parser.add_argument("--cpu_offload_gb", type=float, default=0, help="CPU offload GB")
     parser.add_argument("--use_clean_text_output", default=False, action="store_true", help="Whether to use clean text output")
-    parser.add_argument("--benchmark", default=False, action="store_true", help="Whether to benchmark the inference and save the results")
+    parser.add_argument("--benchmark_output_folder", type=str, default=None, help="Path to save the benchmark results")
     args = parser.parse_args()
     main(args)

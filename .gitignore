@@ -3,6 +3,7 @@ secrets.json
 .ipynb_checkpoints
 .vscode/
 logs/
+data/
 **/__pycache__/**
 test/
 **/metadata/**
