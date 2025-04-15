@@ -205,11 +205,20 @@ class VLLMPipeline:
         
         # 1. Generate prompts
         print(f"Generating {num_examples} prompts")
+        prompts = self.generate_prompts(num_examples)
+
+        # print one prompt for validation
+        print(f"Below is a sample prompt\n--------------------------------")
+        print(prompts[0])
+        print(f"--------------------------------")  
+
+        # 2. Run batch inference and postprocess results
+        print(f"Running batch inference for {len(prompts)} prompts")
         if self.benchmark:
             import time
             from datetime import datetime
             start_time = time.time()
-            prompts = self.generate_prompts(num_examples)
+            results = self.run_batch_inference(prompts)
             end_time = time.time()
             date = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
             with open(f"./batched_inference_benchmarking_{date}.json", "w") as f:
@@ -220,16 +229,7 @@ class VLLMPipeline:
                 }, f, indent=2)
             print(f"Time taken to generate {num_examples} prompts: {end_time - start_time} seconds")
         else:
-            prompts = self.generate_prompts(num_examples)
-
-        # print one prompt for validation
-        print(f"Below is a sample prompt\n--------------------------------")
-        print(prompts[0])
-        print(f"--------------------------------")  
-
-        # 2. Run batch inference and postprocess results
-        print(f"Running batch inference for {len(prompts)} prompts")
-        results = self.run_batch_inference(prompts)
+            results = self.run_batch_inference(prompts)
         
         # 3. postprocess all results
         results = self.postprocess_all_results(results)

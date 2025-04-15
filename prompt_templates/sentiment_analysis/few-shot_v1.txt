@@ -9,8 +9,7 @@ Each headline must be assigned a sentiment label based on its tone:
 	•	Neutral (2): Indicates neutral or informational tone.
 
 Format:
-Your answer should be in JSON format:
-{{"headline": "<your headline>", "sentiment": "<your sentiment label, 0, 1, or 2>"}}
+{format_instructions}
 
 Here are some examples:
 {examples}

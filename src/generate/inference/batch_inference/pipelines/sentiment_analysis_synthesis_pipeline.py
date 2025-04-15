@@ -110,13 +110,18 @@ class SentimentAnalysisSynthesisPipeline(VLLMPipeline):
                 if not isinstance(item, dict):
                     return False
                 if set(item.keys()) != set(['headline', 'sentiment']):
-                    return False
-                if str(item['sentiment']) not in ['0', '1', '2']:
-                    return False
+                    return False                
                 if re.search(r'[a-zA-Z]+', item['headline']) is None:
                     return False
             return True
-        return False
+        elif isinstance(parsed_output, dict):
+            if set(parsed_output.keys()) != set(['headline', 'sentiment']):
+                return False
+            if re.search(r'[a-zA-Z]+', parsed_output['headline']) is None:
+                return False
+            return True
+        else:
+            return False
     
     def postprocess_all_results(self, results: Dict[int, Dict[str, Any]]) -> List[Dict[str, Any]]:
         """Postprocess all results"""
