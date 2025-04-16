@@ -1,3 +1,9 @@
+import sys
+import os
+
+# Adds the parent of src/ to sys.path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../../..")))
+
 from src.generate.inference.batch_inference.data_models import SentimentAnalysisModel
 from src.generate.inference.single_inference.prompt_builder import PromptBuilder
 from langchain_core.output_parsers import JsonOutputParser
@@ -79,6 +85,26 @@ def check_output_format(parsed_output: Dict[str, Any]) -> bool:
         return True
     return False
 
+def clean_text_output(self, text_output: str) -> str:
+        """Clean the text output"""
+        # First extract content between triple backticks if present
+        if "```" in text_output:
+            parts = text_output.split("```")
+            # Get the content between first and second ```
+            if len(parts) >= 3:
+                text_output = parts[1].strip()
+        else:
+            text_output = text_output.strip()
+            if text_output.lower().startswith('json'):
+                text_output = text_output[len("json"):].strip()
+            return text_output
+        
+        # Remove language identifier if it starts with 'j'
+        if text_output.lower().startswith('json'):
+            text_output = text_output[len("json"):].strip()
+        
+        return text_output
+
 
 def generate_zero_shot(chain, num_examples, stock_tickers, args, resume_data=None):
     zero_shot_examples = resume_data if resume_data else []
@@ -87,13 +113,56 @@ def generate_zero_shot(chain, num_examples, stock_tickers, args, resume_data=Non
     with tqdm(total=num_examples, initial=start_bar) as pbar:
         while len(zero_shot_examples) < num_examples:
             try:
-                out = chain.invoke({"stock_ticker": format_stock_tickers(stock_tickers, args.num_tickers)})
+                output_text = chain.invoke({"stock_ticker": format_stock_tickers(stock_tickers, args.num_tickers)})
+                
+                try:
+                    parser = JsonOutputParser(pydantic_object=SentimentAnalysisModel)
+                    # output_text = clean_text_output(output_text)
+                    out = parser.parse(output_text)
+                except Exception as parse_err:
+                    # Failure counter logic
+                    print("failed")
+                    count_file = "fail"
+                    if not os.path.exists(count_file):
+                        with open(count_file, "w") as f:
+                            f.write("1")
+                    else:
+                        with open(count_file, "r+") as f:
+                            count = int(f.read().strip())
+                            f.seek(0)
+                            f.write(str(count + 1))
+                            f.truncate()
+                    continue  # skip to next iteration if parsing fails
+
                 if check_output_format(out):
-                    # update the progress bar
                     pbar.update(len(out))
                     zero_shot_examples.extend(out)
+                    # Success counter logic
+                    count_file = "suc"
+                    if not os.path.exists(count_file):
+                        with open(count_file, "w") as f:
+                            f.write("1")
+                    else:
+                        with open(count_file, "r+") as f:
+                            count = int(f.read().strip())
+                            f.seek(0)
+                            f.write(str(count + 1))
+                            f.truncate()
+                else:
+                    count_file = "fail"
+                    if not os.path.exists(count_file):
+                        with open(count_file, "w") as f:
+                            f.write("1")
+                    else:
+                        with open(count_file, "r+") as f:
+                            count = int(f.read().strip())
+                            f.seek(0)
+                            f.write(str(count + 1))
+                            f.truncate()
+
                 if args.api_limit:
-                    time.sleep(2) # since cerebras has a limit of 30 requests per minute
+                    time.sleep(2)
+
             except Exception as e:
                 if 'exceeded' in str(e) and 'limit' in str(e):
                     if 'minute' in str(e):
@@ -129,14 +198,47 @@ def generate_few_shot(chain, num_examples, cleaned_train_real, stock_tickers, ar
     with tqdm(total=num_examples, initial=len(few_shot_examples)) as pbar:
         while len(few_shot_examples) < num_examples:
             try:
-                out = chain.invoke({"examples": sample_examples(cleaned_train_real, SHOTS), 
-                                    "stock_ticker": format_stock_tickers(stock_tickers, args.num_tickers)})
+                output_text = chain.invoke({
+                    "examples": sample_examples(cleaned_train_real, SHOTS), 
+                    "stock_ticker": format_stock_tickers(stock_tickers, args.num_tickers)
+                })
+
+                try:
+                    out = parser.parse(output_text)
+                    # Success counter logic
+                    count_file = "suc"
+                    if not os.path.exists(count_file):
+                        with open(count_file, "w") as f:
+                            f.write("1")
+                    else:
+                        with open(count_file, "r+") as f:
+                            count = int(f.read().strip())
+                            f.seek(0)
+                            f.write(str(count + 1))
+                            f.truncate()
+                except Exception as parse_err:
+                    if args.verbose:
+                        print(f"Parse error: {parse_err}")
+                    # Failure counter logic
+                        count_file = "fail"
+                        if not os.path.exists(count_file):
+                            with open(count_file, "w") as f:
+                                f.write("1")
+                        else:
+                            with open(count_file, "r+") as f:
+                                count = int(f.read().strip())
+                                f.seek(0)
+                                f.write(str(count + 1))
+                                f.truncate()
+                    continue  # skip to next iteration if parsing fails
+
                 if check_output_format(out):
-                    # update the progress bar
                     pbar.update(len(out))
                     few_shot_examples.extend(out)
+
                 if args.api_limit:
-                    time.sleep(2) # since cerebras has a limit of 30 requests per minute
+                    time.sleep(2)  # since cerebras has a limit of 30 requests per minute
+
             except Exception as e:
                 if 'exceeded' in str(e) and 'limit' in str(e):
                     if 'minute' in str(e):
@@ -148,6 +250,7 @@ def generate_few_shot(chain, num_examples, cleaned_train_real, stock_tickers, ar
                 if args.verbose:
                     print(f"error: {e}")
                 continue
+
     return few_shot_examples
 
 
@@ -247,7 +350,7 @@ def main(args):
         partial_variables={"format_instructions": parser.get_format_instructions()},
     )
 
-    chain = prompt | builder.model | parser
+    chain = prompt | builder.model
 
     # get stock tickers
     train_stock_tickets, test_stock_tickets = get_stock_tickers()
