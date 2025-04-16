@@ -6,6 +6,7 @@ import re
 import numpy as np
 import os
 from pathlib import Path
+import sys
 
 ROOT_DATA_PATH ="./data/sentiment_analysis"
 DS_TRAIN_PATH = os.path.join(ROOT_DATA_PATH, "cleaned_ds_train.json")
@@ -101,6 +102,7 @@ class SentimentAnalysisSynthesisPipeline(VLLMPipeline):
         else:
             raise ValueError(f"Invalid prompt template path: {self.prompt_template_path}")
         
+        prompts = [sys.intern(p) for p in prompts]
         return prompts
 
     def check_output_format(self, parsed_output: Dict[str, Any]) -> bool:
