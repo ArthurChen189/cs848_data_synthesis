@@ -72,20 +72,30 @@ def format_stock_tickers(stock_tickets, num_tickers=1):
 
 def check_output_format(parsed_output: Dict[str, Any]) -> bool:
     """Verify the output format matches expected structure"""
+    def check_dict(item: Dict[str, Any]) -> bool:
+        if not isinstance(item, dict):
+            return False
+        if set(item.keys()) != set(['headline', 'sentiment']):
+            return False
+        if str(item['sentiment']) not in ['0', '1', '2']:
+            for match in ['bearish', 'bullish', 'neutral']:
+                if match in item['sentiment'].lower():
+                    break
+            else:
+                return False
+        if re.search(r'[a-zA-Z]+', item['headline']) is None:
+            return False
+        return True
+            
     if isinstance(parsed_output, list):
         for item in parsed_output:
-            if not isinstance(item, dict):
-                return False
-            if set(item.keys()) != set(['headline', 'sentiment']):
-                return False
-            if str(item['sentiment']) not in ['0', '1', '2']:
-                return False
-            if re.search(r'[a-zA-Z]+', item['headline']) is None:
+            if not check_dict(item):
                 return False
         return True
-    return False
+    else:
+        return check_dict(parsed_output)
 
-def clean_text_output(self, text_output: str) -> str:
+def clean_text_output(text_output: str) -> str:
         """Clean the text output"""
         # First extract content between triple backticks if present
         if "```" in text_output:
@@ -105,60 +115,59 @@ def clean_text_output(self, text_output: str) -> str:
         
         return text_output
 
+def save_parsing_stats(stats: Dict[str, Any], output_path: str):
+    """Save parsing statistics to a JSON file with timestamp.
+    
+    Args:
+        stats: Dictionary containing parsing statistics
+        output_path: Base path to save the statistics file
+    """
+    # Create stats directory if it doesn't exist
+    stats_dir = Path(output_path) / 'parsing_stats'
+    stats_dir.mkdir(parents=True, exist_ok=True)
+    
+    # Generate filename with timestamp
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    stats_file = stats_dir / f'parsing_stats_{timestamp}.json'
+    
+    # Save statistics
+    with open(stats_file, 'w') as f:
+        json.dump(stats, f, indent=2)
+    
+    print(f"Parsing statistics saved to {stats_file}")
 
-def generate_zero_shot(chain, num_examples, stock_tickers, args, resume_data=None):
+def generate_zero_shot(chain, num_examples, stock_tickers, args, resume_data=None, clean_output_text=True, stats_path=None):
     zero_shot_examples = resume_data if resume_data else []
+    success_count = 0
+    total_attempts = 0
     print(f"Generating {num_examples} zero-shot examples, using {args.model} model, prompt: {args.prompt}")
     start_bar = len(zero_shot_examples)
     with tqdm(total=num_examples, initial=start_bar) as pbar:
         while len(zero_shot_examples) < num_examples:
+            total_attempts += 1
             try:
                 output_text = chain.invoke({"stock_ticker": format_stock_tickers(stock_tickers, args.num_tickers)})
-                
                 try:
+                    if clean_output_text:
+                        output_text = clean_text_output(output_text)
                     parser = JsonOutputParser(pydantic_object=SentimentAnalysisModel)
-                    # output_text = clean_text_output(output_text)
                     out = parser.parse(output_text)
                 except Exception as parse_err:
-                    # Failure counter logic
-                    print("failed")
-                    count_file = "fail"
-                    if not os.path.exists(count_file):
-                        with open(count_file, "w") as f:
-                            f.write("1")
-                    else:
-                        with open(count_file, "r+") as f:
-                            count = int(f.read().strip())
-                            f.seek(0)
-                            f.write(str(count + 1))
-                            f.truncate()
+                    print(f"output_text:\n{output_text}\n")
+                    print(f"Parse error: {parse_err}")
+                    if args.verbose:
+                        print(f"Parse error: {parse_err}")
                     continue  # skip to next iteration if parsing fails
 
                 if check_output_format(out):
+                    success_count += 1
+                    if args.verbose:
+                        print("Output format is correct")
                     pbar.update(len(out))
                     zero_shot_examples.extend(out)
-                    # Success counter logic
-                    count_file = "suc"
-                    if not os.path.exists(count_file):
-                        with open(count_file, "w") as f:
-                            f.write("1")
-                    else:
-                        with open(count_file, "r+") as f:
-                            count = int(f.read().strip())
-                            f.seek(0)
-                            f.write(str(count + 1))
-                            f.truncate()
                 else:
-                    count_file = "fail"
-                    if not os.path.exists(count_file):
-                        with open(count_file, "w") as f:
-                            f.write("1")
-                    else:
-                        with open(count_file, "r+") as f:
-                            count = int(f.read().strip())
-                            f.seek(0)
-                            f.write(str(count + 1))
-                            f.truncate()
+                    if args.verbose:
+                        print("Output format is incorrect")
 
                 if args.api_limit:
                     time.sleep(2)
@@ -175,9 +184,34 @@ def generate_zero_shot(chain, num_examples, stock_tickers, args, resume_data=Non
                     print(f"error: {e}")
                 continue
 
+    # Calculate statistics
+    success_rate = (success_count / total_attempts) * 100 if total_attempts > 0 else 0
+    
+    # Prepare statistics dictionary
+    stats = {
+        "total_attempts": total_attempts,
+        "successful_generations": success_count,
+        "success_rate": success_rate,
+        "model": args.model,
+        "prompt": args.prompt,
+        "service": args.service,
+        "num_examples": num_examples,
+        "timestamp": datetime.now().isoformat()
+    }
+    
+    # Save statistics
+    if stats_path:
+        save_parsing_stats(stats, stats_path)
+    
+    # Display statistics
+    print(f"\nGeneration Statistics:")
+    print(f"Total attempts: {total_attempts}")
+    print(f"Successful generations: {success_count}")
+    print(f"Success rate: {success_rate:.2f}%")
+
     return zero_shot_examples
 
-def generate_few_shot(chain, num_examples, cleaned_train_real, stock_tickers, args, resume_data=None):
+def generate_few_shot(chain, num_examples, cleaned_train_real, stock_tickers, args, resume_data=None, clean_output_text=True):
     def sample_examples(cleaned_train_real, n_examples):
         examples = []
         y_labels = set()
@@ -203,7 +237,10 @@ def generate_few_shot(chain, num_examples, cleaned_train_real, stock_tickers, ar
                     "stock_ticker": format_stock_tickers(stock_tickers, args.num_tickers)
                 })
 
-                try:
+                try:    
+                    if clean_output_text:
+                        output_text = clean_text_output(output_text)
+                    parser = JsonOutputParser(pydantic_object=SentimentAnalysisModel)
                     out = parser.parse(output_text)
                     # Success counter logic
                     count_file = "suc"
@@ -219,7 +256,6 @@ def generate_few_shot(chain, num_examples, cleaned_train_real, stock_tickers, ar
                 except Exception as parse_err:
                     if args.verbose:
                         print(f"Parse error: {parse_err}")
-                    # Failure counter logic
                         count_file = "fail"
                         if not os.path.exists(count_file):
                             with open(count_file, "w") as f:
@@ -352,6 +388,7 @@ def main(args):
 
     chain = prompt | builder.model
 
+
     # get stock tickers
     train_stock_tickets, test_stock_tickets = get_stock_tickers()
     stock_tickers = None 
@@ -360,6 +397,8 @@ def main(args):
     elif 'test-time-info' in args.prompt:
         stock_tickers = test_stock_tickets   
     
+    print(f"Example prompt:\n{prompt.invoke({'stock_ticker': format_stock_tickers(stock_tickers, args.num_tickers)}).text}")
+
     # load resume data if provided
     resume_data = None
     if args.resume_path:
@@ -374,14 +413,14 @@ def main(args):
     print(f"Generating {args.num_examples} examples, using {args.model} model, prompt: {args.prompt}")
     start_time = time()
     if "zero-shot" in args.prompt:
-        examples = generate_zero_shot(chain, args.num_examples, stock_tickers, args, resume_data)
+        examples = generate_zero_shot(chain, args.num_examples, stock_tickers, args, resume_data, args.clean_output_text, args.parsing_stats_path)
         save(examples, args)
     elif "few-shot" in args.prompt:
         # load cleaned_train_real
         with open("./data/sentiment_analysis/cleaned_ds_train.json", "r") as f:
             cleaned_train_real = json.load(f)
 
-        examples = generate_few_shot(chain, args.num_examples, cleaned_train_real, stock_tickers, args, resume_data)
+        examples = generate_few_shot(chain, args.num_examples, cleaned_train_real, stock_tickers, args, resume_data, args.clean_output_text)
         save(examples, args)
     else:
         raise ValueError(f"Invalid prompt: {args.prompt}")
@@ -421,6 +460,8 @@ if __name__ == "__main__":
     parser.add_argument("--num_examples", type=int, default=1000, help="number of examples to generate")
     parser.add_argument("--num_tickers", type=int, default=1, help="number of stock tickers (e.g., $AAPL, $TSLA, etc.) to use to guide the generation")
     parser.add_argument("--deduplicate", type=bool, default=False, help="whether to deduplicate the generated examples")
+    parser.add_argument("--clean_output_text", action="store_true", default=False, help="whether to clean the output text")
+    parser.add_argument("--parsing_stats_path", type=str, default=None, help="path to save the parsing statistics")
 
     # model parameters
     parser.add_argument("--service", type=str, default="cerebras", choices=["cerebras", "ollama", "vllm", "nebius"], help="host service to use for generation")
