@@ -83,21 +83,30 @@ class SentimentAnalysisSynthesisPipeline(VLLMPipeline):
         elif 'test-time-info' in self.prompt_template_path:
             stock_tickers = self.test_stock_tickers
 
+
+        prompt_cache = {}
+
         if "zero-shot" in self.prompt_template_path:
-            inputs_list = [{"stock_ticker": self._format_stock_tickers(stock_tickers)} for _ in range(num_examples)]
-            prompts = [self.prompt_template.invoke(inputs).text for inputs in inputs_list]
-        
+            for _ in range(num_examples):
+                formatted = self._format_stock_tickers(stock_tickers)
+                key = formatted  # this is the only input
+                if key not in prompt_cache:
+                    prompt_cache[key] = sys.intern(self.prompt_template.invoke({"stock_ticker": formatted}).text)
+                prompts.append(prompt_cache[key])
+
         elif "few-shot" in self.prompt_template_path:
-            # Load training data for few-shot examples
             with open(DS_TRAIN_PATH, "r") as f:
                 train_data = json.load(f)
-            
-            inputs_list = [
-                {"examples": self._sample_few_shot_examples(train_data), 
-                 "stock_ticker": self._format_stock_tickers(stock_tickers)
-                } for _ in range(num_examples)
-            ]
-            prompts = [self.prompt_template.invoke(inputs).text for inputs in inputs_list]
+
+            for _ in range(num_examples):
+                examples = self._sample_few_shot_examples(train_data)
+                formatted = self._format_stock_tickers(stock_tickers)
+                key = json.dumps({"examples": examples, "stock_ticker": formatted}, sort_keys=True)
+                if key not in prompt_cache:
+                    prompt_cache[key] = sys.intern(
+                        self.prompt_template.invoke({"examples": examples, "stock_ticker": formatted}).text
+                    )
+                prompts.append(prompt_cache[key])
         
         else:
             raise ValueError(f"Invalid prompt template path: {self.prompt_template_path}")
