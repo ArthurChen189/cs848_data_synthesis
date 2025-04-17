@@ -1,9 +1,0 @@
-python src/generate/inference/single_inference/llmgen.py \
-    --prompt ./prompt_templates/sentiment_analysis/few-shot_bg_test-time-info_v1.txt \
-    --model llama3.1-8b \
-    --service ollama \
-    --num_examples 100 \
-    --output_path ./data/sentiment_analysis/synthetic_data \
-    --num_tickers 2 \
-    --deduplicate \
-    --verbose
