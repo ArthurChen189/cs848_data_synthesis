@@ -17,14 +17,7 @@ This repository contains code for generating synthetic sentiment analysis data u
 ```
 
 ## Setup
-
-1. Create a virtual environment (recommended):
-```bash
-python -m venv venv
-source venv/bin/activate  # On Linux/Mac
-```
-
-2. Install dependencies:
+Install (python=3.12) dependencies:
 ```bash
 pip install -r requirements.txt
 ```
@@ -151,18 +144,6 @@ The script uses a `secrets.json` file for API keys and endpoints. Make sure this
   }
 }
 ```
-
-## Dependencies
-
-The project relies on several key libraries:
-- datasets
-- sentence-transformers
-- langchain and related packages
-- vllm
-- tqdm
-- func-timeout
-
-See `requirements.txt` for the complete list of dependencies.
 
 ## Output
 
